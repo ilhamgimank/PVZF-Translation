@@ -605,6 +605,30 @@
             "name": "Gargantua Mystère",
             "introduce": "<align=justified><size=36><color=black>Le Gargantua Mystère titube avec une boîte sur la tête, peut-être pour vous laisser dans le doute, ou peut-être pour protéger ses précieux yeux rapiécés du monde. Quoi qu’il y ait dedans, c’est un mystère enveloppé dans un coup de poteau !</color>",
             "info": "<size=36>Qui sait ce qui nous attend sous ce masque en papier ?\n\n<color=black>Robustesse: </color><color=#4B0082>3000 + 1100 (Type 1)</color>\n<color=black>Spécial: </color><color=#4B0082>Écrase les plantes et se transforme en Gargantua aléatoire lorsque son masque est détruit.</color>"
+        },
+        {
+            "theZombieType": 68,
+            "name": "Zombie Jockey au Poulet",
+            "introduce": "<align=justified><size=36><color=black>Préféreriez-vous affronter 10 poulets de la taille d’un zombie ou 100 zombies de la taille d’un poulet ? Inutile d’y réfléchir : les deux arrivent désormais en même temps.</color>",
+            "info": "<size=36>Chevauche un poulet qui fonce vers l’avant pour picorer les plantes.\n\n<color=black>Résistance : </color><color=#4B0082>500</color>\n<color=black>Spécial : </color><color=#4B0082>Se déplace et attaque extrêmement rapidement. Lorsque le poulet meurt, un diablotin tombe de son dos sur le terrain.</color>"
+        },
+        {
+            "theZombieType": 69,
+            "name": "Zombie Cavalier",
+            "introduce": "<align=justified><size=36><color=black>Peter adorait lire des récits de chevalerie durant son enfance. En grandissant, il rejoignit la cavalerie du Dr Edgar, chargeant bravement à travers le champ de bataille. Rien ne pouvait l’arrêter — ni l’absence d’armure, ni la douleur, ni même le poids qu’il portait sur son dos. Oui, Peter est un Zombie Cavalier.</color>",
+            "info": "<size=36>Chevauche un cheval de guerre pour charger les plantes.\n\n<color=black>Résistance : </color><color=#4B0082>720</color>\n<color=black>Spécial : </color><color=#4B0082>Très rapide. Immunisé contre le recul. Piétine et écrase la première plante rencontrée lors d’un impact. Marque ensuite une pause d’environ 3 secondes pour récupérer avant de charger à nouveau.</color>"
+        },
+        {
+            "theZombieType": 71,
+            "name": "Zombie Hydrovolatile",
+            "introduce": "<align=justified><size=36><color=black>Difficile de croire qu’un si petit hors-bord puisse présenter de graves fuites. Que pouviez-vous attendre d’autre sans faire appel à Gfish Corps ? Mais pas d’inquiétude — le fabricant propose une excellente solution : le convertir en aéroglisseur ! La consommation de carburant est plus élevée, mais un carburant premium est également disponible.</color>",
+            "info": "<size=36>Glisse à grande vitesse sur l’eau ; percute les plantes et éjecte le pilote avant de s’autodétruire.\n\n<color=black>Résistance : </color><color=#4B0082>1350</color>\n<color=black>Spécial : </color><color=#4B0082>Extrêmement rapide. Écrase la première plante lors d’un impact, éjecte un diablotin sur la terre ferme à proximité puis s’autodétruit.</color>"
+        },
+        {
+            "theZombieType": 237,
+            "name": "Sous-marin Bombéluga",
+            "introduce": "<align=justified><size=36><color=black>Peint en rose, cet imposant navire était censé se dissimuler parmi les Requinmarins, mais toute la peinture rose fut prise pour du jus de cerveau et dévorée par les zombies. Pas une seule goutte n’est restée.</color>",
+            "info": "<size=36>Exploite les explosions de cerises alliées pour accroître sa propre puissance.\n\n<color=black>Résistance : </color><color=#4B0082>9000</color>\n<color=black>Spécial : </color><color=#4B0082>\n<color=black>•</color> Engloutit les plantes.\n<color=black>•</color> Lorsqu’une explosion de cerise côté zombies touche des plantes et inflige des dégâts de zone, chaque Sous-marin Bombéluga affecté restaure 150 PV et gagne 0.3× vitesse de déplacement, cumulable jusqu’à 8×.\n<color=black>•</color> La valeur d’enchevêtrement sur ce zombie ne dépassera pas 10.</color>"
         }
     ]
 }
