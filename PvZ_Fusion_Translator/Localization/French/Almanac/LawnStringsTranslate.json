@@ -2053,10 +2053,10 @@
         },
         {
             "seedType": 1261,
-            "name": "Noix Melon",
-            "introduce": "<align=justified><size=36><color=black>Quand les zombies viennent acheter des pastèques, le marchand Aloe Alba leur vend toujours la plus grosse — la Noix Melon. Après que les zombies se soient cassé les dents dessus, Aloe Alba les envoie bien gentiment à la clinique dentaire la plus proche… qui, bien sûr, lui appartient aussi.</color>",
-            "info": "<size=36>Fait pousser un bouclier temporaire et riposte avec une pastèque après avoir subi assez de dégâts.\n\n<color=black>Résistance : </color><color=#8B0000>8000</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Lorsqu’elle subit des dégâts, stocke 1,5× les dégâts reçus sous forme d’énergie de Riposte. Si les dégâts dépassent 100/500/1000, elle en stocke respectivement 3×/4,5×/6×.\n<color=black>•</color> La jauge de Riposte est limitée aux PV max.\n<color=black>•</color> Quand la jauge de Riposte dépasse 1000, consomme toute l’énergie accumulée pour lancer une pastèque infligeant la même quantité de dégâts et gagne un bouclier équivalent, qui se dissipe totalement en 5 s.</color>",
-            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Noix + Lance-pastèque</color>"
+            "name": "Noix Pastèque",
+            "introduce": "<align=justified><size=36><color=black>Chaque fois que des zombies viennent acheter des pastèques, le vendeur du stand, Aloe Alba, leur vend toujours la plus grosse — la Noix Pastèque. Après que les zombies se soient cassé les dents dessus, Aloe Alba les redirige vers une clinique dentaire voisine pour les faire soigner et, naturellement, cette clinique appartient également à Aloe Alba.</color>",
+            "info": "<size=36>Génère un bouclier temporaire et riposte avec une pastèque après avoir subi une certaine quantité de dégâts.\n\n<color=black>Résistance : </color><color=#8B0000>8000</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Lorsqu’elle subit des dégâts, stocke 1.5× les dégâts reçus sous forme de Charge de Riposte. Si les dégâts dépassent 100/500/1000, stocke respectivement 3/4.5/6× les dégâts à la place.\n<color=black>•</color> La Jauge de Riposte est plafonnée à ses PV max.\n<color=black>•</color> Lorsque la Jauge de Riposte dépasse 1000, consomme toutes les charges pour lancer une pastèque infligeant un montant de dégâts équivalent et gagne un bouclier de valeur identique qui se dissipe entièrement en 5s.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Noix + Lance-pastèque</color>"
         },
         {
             "seedType": 1231,
