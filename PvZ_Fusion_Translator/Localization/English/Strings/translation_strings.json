@@ -2021,6 +2021,7 @@
   "积分不足": "Insufficient Points!",
   "投资词条分为白银、黄金、棱彩三种品质\n选择黄金、棱彩品质时，敌方会出现更多的高阶僵尸": "Investment Modifiers have 3 Tiers:  <color=#C0C0C0>Silver</color> → <color=#FFD700>Gold</color> → <color=#007FFF>Diamond</color>\nMore Higher-tiered Zombies will appear if you choose <color=#FFD700>Gold</color> or <color=#007FFF>Diamond</color> Tiered Modifiers.",
   "已有词条": "Chosen Modifiers",
+  "已购买": "Purchased",
   "拥有植物任意一个词条后解锁词条羁绊，拥有另一个时激活亚种（如有）羁绊，拒绝投资词条后无法生效": "Unlock and upgrade affinities by acquiring plant modifiers. Affinities cannot be activated if Investment Modifier is skipped.",
   "蘑菇岛": "Mushroom Island",
   "极致之冰": "Frost-plant Legion",

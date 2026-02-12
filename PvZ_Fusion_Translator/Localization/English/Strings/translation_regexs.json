@@ -316,6 +316,7 @@
   "出怪等级: (\\d+)\n出怪权重: (\\d+)": "Spawn Cost: {0}\nSpawn Weight: {1}",
   "^当前积分：(\\d+)": "Current Points: {0}",
   "(\\d+)分": "${0}",
+  "^([^(]+)\\((\\d+)\\)：": "{0}:",
   "---------------- Affinity Regexes": "Affinity Regexes ----------------",
   "([^\\s]+)/([^\\s]+)：": "{0}/{1}: ",
   "^蘑菇岛([^\\s]+)$": "Mushroom Island {0}",
@@ -354,5 +355,6 @@
   "(\\d+)冻结值，(\\d+)%伤害": "{0} Cryo Points, {1}% DMG Boost",
   "(\\d+)%独立伤害增幅，(\\d+)%伤害增幅": "{0}% Independent DMG Boost, {1}% Enflamed DMG Boost",
   "---------------- Affinity Regexes End": "Affinity Regexes End ----------------",
-  "【([^\\s]+)】_IV": "[{0}]"
+  "【([^\\s]+)】_IV": "[{0}]",
+  "^([^(]+)\\((\\d+)\\)：\\n<color=>(\\d+)/(\\d+)": "{0}({1}):\n{2}/{3}"
 }
