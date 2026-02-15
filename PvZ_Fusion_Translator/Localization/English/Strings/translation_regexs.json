@@ -260,6 +260,7 @@
   "场上已经没有该植物\n总伤害：([^\\s]+)": "This plant no longer exists on the lawn!\nCumulative Total Damage: {0}\nError: Division by zero lol",
   "数量：([^\\s]+)\n总伤害：([^\\s]+)\n平均伤害：([^\\s]+)": "Current Count: {0}\nCumulative Total Damage: {1}\nStock-flow-inconsistent Average: {2}",
   "数量：([^\\s]+)\n总伤害：([^\\s]+)": "Current Count: {0}\nCumulative Total  Damage: {1}",
+  "^总伤害：([^\\s]+)": "Cumulative Total  Damage: {0}",
   "([^\\s]+)亿": "{0} *100m",
   "([^\\s]+)万": "{0} *10k",
   "错误信息：([^\\s]+)\n追踪：([^\\s]+)\n": "Error Message: {0}\nStacktrace: {1}",
