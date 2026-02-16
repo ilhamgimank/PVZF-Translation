@@ -367,7 +367,7 @@
     "Travel_sun": {
         "achievement": 1006,
         "Name": "Dépensez plus d'un million de Soleils en un seul tour du mode Odyssée.",
-        "Text": "Soleil radieux"
+        "Text": "Dépenser le Sun"
     },
     "Travel_fast": {
         "achievement": 1007,
