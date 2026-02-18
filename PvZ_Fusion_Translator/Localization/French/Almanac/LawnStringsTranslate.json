@@ -3681,6 +3681,34 @@
             "introduce": "<align=justified><size=36><color=black>La légende raconte qu’elle servit jadis le Soleil lui-même, portant en son cœur l’éclat le plus ardent de l’astre. Lorsque le danger approche, Nova-solaire Illuminée transforme cette bénédiction en sentence — chaque rayon qu’elle projette devient un décret de feu sacré.</color>",
             "info": "<size=36>Forge le soleil qu’elle produit ainsi que les projectiles alliés proches en jugements solaires qui s’abattent du ciel, provoquant des explosions de zone.\n\n<color=blue>Forme descellée de Princesse Nova-solaire</color>\n<color=#4A2900>Condition d’utilisation : Mode Récolte | Plante Odyssée Légendaire</color>\n<color=black>Production de Soleil : </color><color=#8B0000>50/3s</color>\n<color=black>Dégâts : </color><color=#8B0000>1800 (Crémateur)</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Lorsqu’elle produit du Soleil, si des zombies sont présents, celui-ci est converti en jugement solaire et tiré vers le zombie le plus proche.\n<color=black>•</color> Lorsqu’un jugement solaire est lancé, absorbe les projectiles alliés dans un rayon de 1,5 case et gagne +2% de dégâts par projectile absorbé.\n<color=black>•</color> Jugements Solaires : Tombent du ciel, infligent des dégâts de zone (rayon de 1,5 case) et génèrent 50 Soleil ; peuvent cibler les zombies volants.\n<color=black>Ultime : </color>Coûte 16000 Pièces ; tire 1 jugement solaire sur chaque zombie présent.</color>",
             "cost": "\n"
+        },
+        {
+            "seedType": 1368,
+            "name": "Champi-glace Doré",
+            "introduce": "<align=justified><size=36><color=black>Monopole incontesté de la logistique sous chaîne du froid, Champi-glace Doré peut faire vaciller la température du marché d’une simple pluie de pièces. Après des années d’activité, sa fortune et sa renommée sont incalculables, et sa vie semble accomplie… mis à part cette paralysie faciale qu’aucune richesse ne parvient à guérir.</color>",
+            "info": "<size=36>Un Champi-glace stable et plaqué or qui répand un froid extrême moyennant finance.\n\n<color=black>Spécial : </color><color=#8B0000>Déclenche une fois l’effet Champi-glace à son apparition (ne disparaît pas ensuite).</color>\n<color=black>Ultime : </color><color=#8B0000>Coûte 3000 Pièces, Recharge : 2s ; répète les effets suivants 4 fois sur les cibles dans un rayon de 2,2 cases :\n\t- Inflige 200 dégâts, applique Gel et 25 points Cryo, et réduit le plafond Cryo de la cible de 100.\n\t- Tire un éclat de glace sur chaque cible infligeant 20 dégâts. Les éclats infligent ×2 dégâts aux zombies Gelés et ×4 aux zombies Congelés.</color>",
+            "cost": "\n<size=36>Coût d’amélioration : </color><color=#8B0000>3000 Pièces</color>"
+        },
+        {
+            "seedType": 1359,
+            "name": "Assommoir à Chou",
+            "introduce": "<align=justified><size=36><color=black>Après des années à lancer des choux sans réfléchir, voir le monde d’aussi haut donne matière à réflexion. Et si ces choux avaient une vie ? Des espoirs, des rêves ? Une famille ? Des enfants ? Toutes ces questions traversent l’esprit feuillu de l’Assommoir à Chou.</color>",
+            "info": "<size=36>Fournit un soutien aérien à courte portée en larguant des choux.\n\n<color=black>Dégâts : </color><color=#8B0000>40×3/3s</color>\n<color=black>Portée d’attaque : </color><color=#8B0000>Sa case et les 2 cases adjacentes sur la même ligne</color>\n<color=black>Spécial : </color><color=#8B0000>Plante volante.</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Troufle + Lance-chou</color>"
+        },
+        {
+            "seedType": 1360,
+            "name": "Assommoir à Beurre",
+            "introduce": "<align=justified><size=36><color=black>L'Assommoir à Beurre s’est inscrit au Grand Spectacle du Jardin, rêvant d’incarner un OVNI sur scène… mais il n’a jamais été retenu. Il passait son temps à larguer du maïs et du beurre partout, suscitant l’hostilité de l’équipe technique — et provoquant même la chute spectaculaire du directeur qui le soutenait.</color>",
+            "info": "<size=36>Fournit un soutien aérien à courte portée en larguant des grains de maïs ou du beurre.\n\n<color=black>Dégâts : </color><color=#8B0000>20×3/3s</color>\n<color=black>Portée d’attaque : </color><color=#8B0000>Sa case et les 2 cases adjacentes sur la même ligne</color>\n<color=black>Spécial : </color><color=#8B0000>Plante volante. A 25% de chances de larguer du beurre, infligeant 40 dégâts.</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Troufle + Lance-maïs</color>"
+        },
+        {
+            "seedType": 1361,
+            "name": "Assommoir à Pastèque",
+            "introduce": "<align=justified><size=36><color=black>Les autres pastèques le traitent de paresseux, mais l'Assommoir à Pastèque se dit simplement efficace. \" Laisse la gravité faire le travail ! Lancer des projectiles, c’est épuisant ! \" Il semble toutefois ignorer que cette méthode réduit aussi considérablement sa portée.</color>",
+            "info": "<size=36>Fournit un soutien aérien à courte portée en larguant des pastèques.\n\n<color=black>Dégâts : </color><color=#8B0000>80×3/3s</color>\n<color=black>Portée d’attaque : </color><color=#8B0000>Sa case et les 2 cases adjacentes sur la même ligne</color>\n<color=black>Spécial : </color><color=#8B0000>Plante volante.</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Troufle + Lance-pastèque</color>"
         }
     ]
 }
