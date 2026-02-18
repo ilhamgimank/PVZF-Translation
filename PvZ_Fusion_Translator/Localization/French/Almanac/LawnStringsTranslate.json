@@ -3646,6 +3646,41 @@
             "introduce": "<align=justified><size=36><color=black>Il brûle d’un froid violet et glacial. Certaines plantes disent qu’il pleure en permanence ; Cryolina Reaper appelle simplement cela \"respirer.\"</color>",
             "info": "<size=36>Accumule de l’énergie d’âme pour sauver les plantes dans les moments de crise et libérer des déferlements de glace et de feu.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Déverrouillable</color><color=black>\nRobustesse : </color><color=#8B0000>64k</color><color=black>\nDégâts : </color><color=#8B0000>3600 (Cremator)</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Entre sur le terrain avec 1 charge d’âme. Peut en stocker jusqu’à 3 maximum. Gagne 1 charge pour chaque tranche de 500 zombies éliminés, quel que soit le camp.\n<color=black>•</color> Lorsqu’une plante subit des dégâts fatals, consomme 1 charge pour la laisser à 1 PV, puis :\n\t- Restaure 50% des PV max à toutes les plantes du terrain\n\t- Déclenche un effet de Jalapeño une fois dans chaque ligne (non affecté par la réduction des dégâts)\n\t- Déclenche un effet Champi-Gel une fois\n<color=black>•</color> À sa mort, déclenche un effet Piment Explosif une fois dans chaque ligne (non affecté par la réduction des dégâts), puis déclenche un effet Champi-glace une fois.</color>\n<color=black>Modificateurs d’Odyssée :</color>\n<color=#8B0000>1. Limite de charges d’âme augmentée à 10 ; gagne désormais 1 charge d’âme à chaque mort de Mini-boss\n2. Lorsqu’une charge d’âme est utilisée, confère également 1s d’invincibilité à toutes les plantes</color>",
             "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Jalapeño Geleur + Jalapeño Geleur</color>"
+        },
+        {
+            "seedType": 302,
+            "name": "Chou Sanguinolant",
+            "introduce": "<align=justified><size=36><color=black>Lorsque le ciel se pare d’une lumière rougeâtre, la guerre suit dans son sillage. Là où la paix ne peut subsister, elle descend. Elle est l’héraut du bain de sang, la messagère de la mort : la Déesse de la Lune de Sang.</color>",
+            "info": "<size=36>Née de la nuit, appelée au combat. Sous sa lune écarlate, des marées de zombies rouges se lèvent encore et encore.\n\n<color=blue>Forme déchaînée du Chou Sélène</color>\n<color=#4A2900>Condition d’utilisation : Mode Récolte | Plante Odyssée Légendaire ; Plante secrète (Easter Egg)</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> A 2 % de chance de remplacer le Chou Sélène lors d’une fusion en environnement nocturne (Nuit, Brouillard, Toit nocturne). Le Chou Sanguinolant conserve tous les traits de base du Chou Sélène.\n<color=black>•</color> Tant que le Chou Sanguinolant est présent sur le terrain, les Mini-Lunes des Choux Sélène deviennent des Mini-Lunes de Sang. Elles ne soignent plus, mais invoquent à la place des Zombies Hypnotisés renforcés toutes les 10 s. La première invocation a un délai de 3 s.\n<color=black>•</color> Chaque Chou Sanguinolant confère un bonus de +50 % Robustesse et Dégâts aux zombies invoqués.\n<color=black>•</color> Le nombre et la position des invocations dépendent des \" cases stériles \", définies comme des cases sans Chou Sanguinolant ni Chou Sélène sur elles ou dans leur zone 3×3.</color>",
+            "cost": "\n"
+        },
+        {
+            "seedType": 303,
+            "name": "Orge-mimic",
+            "introduce": "<align=justified><size=36><color=black>L’Orge-Mimic est un maître de l’imitation. Depuis qu’il a rejoint un concours de sosies, même les originaux qu’il copie ne parviennent plus qu’à la deuxième place.</color>",
+            "info": "<size=36>Se transforme régulièrement en plantes offensives ou défensives proches, gagnant en puissance grâce au mimétisme.\n\n<color=#4A2900>Condition d’utilisation : Mode Récolte</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Toutes les 30 s, se transforme en une plante aléatoire située dans une zone 3×3.\n<color=black>•</color> Gagne +100 % d’attaque et +50 % de PV max lors de la première transformation réussie ; chaque transformation suivante accorde un bonus supplémentaire de +30 % d’attaque et +20 % de PV max.\n<color=black>•</color> Peut se transformer en : plantes non volantes dont les dégâts ne sont pas nuls ou dont la robustesse dépasse 300, à l’exception des citrouilles, nénuphars, pots et autres plantes de type orge (ainsi que leurs formes transformées).</color>",
+            "cost": "\n"
+        },
+        {
+            "seedType": 301,
+            "name": "Sulfateuse à Grenades Suralimentée",
+            "introduce": "<align=justified><size=36><color=black>Les autres plantes ne peuvent s’empêcher d’envier sa puissance explosive. Il hausse simplement les épaules : \" Je ne suis pas un génie. Ce n’est que du travail acharné et de la sueur. \" Bien sûr, il fait allusion au fait qu’il a discrètement récupéré l’équipement de tout le monde pour se l’attacher dessus.</color>",
+            "info": "<size=36>Plus redoutable que le plus redoutable des DPS.\n\n<color=blue>Forme déchaînée de la Sulfateuse à Grenades</color>\n<color=#4A2900>Condition d’utilisation : Mode Récolte | Plante Odyssée Légendaire</color>\n<color=black>Dégâts : </color><color=#8B0000>300×6/0,5 s</color>\n<color=black>Spécial : </color><color=#8B0000>Tire des cerises explosives à une cadence terrifiante après un temps de charge de 1,5 s.</color>",
+            "cost": "\n"
+        },
+        {
+            "seedType": 234,
+            "name": "Mine en Diamant",
+            "introduce": "<align=justified><size=36><color=black>\" J’ai toujours été un faiblard en grandissant, incapable de rivaliser avec les zombies, et personne ne voulait jouer avec moi \", confie Mine en Diamant. \" Mais maintenant, enveloppé de diamant, je suis solide — et prêt à riposter. \" Il le faut bien : il a déjà accumulé une sacrée dette auprès de Souci.</color>",
+            "info": "<size=36>Une Mine-noix aussi dure et aussi rare que le diamant.\n\n<color=#4A2900>Condition d’utilisation : Odyssée : Aléatoire | Plante Easter Egg avec une probabilité d’apparition extrêmement faible</color>\n<color=black>Robustesse : </color><color=#8B0000>32000</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante basse (esquive les projectiles tirés en ligne droite).\n<color=black>•</color> Anti-écrasement, ne subit pas plus de 200 dégâts par coup.\n<color=black>•</color> Produit 500 points lors des transitions de phase de dégâts et à sa destruction.</color>",
+            "cost": "\n"
+        },
+        {
+            "seedType": 304,
+            "name": "Nova-solaire Illuminée",
+            "introduce": "<align=justified><size=36><color=black>La légende raconte qu’elle servit jadis le Soleil lui-même, portant en son cœur l’éclat le plus ardent de l’astre. Lorsque le danger approche, Nova-solaire Illuminée transforme cette bénédiction en sentence — chaque rayon qu’elle projette devient un décret de feu sacré.</color>",
+            "info": "<size=36>Forge le soleil qu’elle produit ainsi que les projectiles alliés proches en jugements solaires qui s’abattent du ciel, provoquant des explosions de zone.\n\n<color=blue>Forme descellée de Princesse Nova-solaire</color>\n<color=#4A2900>Condition d’utilisation : Mode Récolte | Plante Odyssée Légendaire</color>\n<color=black>Production de Soleil : </color><color=#8B0000>50/3s</color>\n<color=black>Dégâts : </color><color=#8B0000>1800 (Crémateur)</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Lorsqu’elle produit du Soleil, si des zombies sont présents, celui-ci est converti en jugement solaire et tiré vers le zombie le plus proche.\n<color=black>•</color> Lorsqu’un jugement solaire est lancé, absorbe les projectiles alliés dans un rayon de 1,5 case et gagne +2% de dégâts par projectile absorbé.\n<color=black>•</color> Jugements Solaires : Tombent du ciel, infligent des dégâts de zone (rayon de 1,5 case) et génèrent 50 Soleil ; peuvent cibler les zombies volants.\n<color=black>Ultime : </color>Coûte 16000 Pièces ; tire 1 jugement solaire sur chaque zombie présent.</color>",
+            "cost": "\n"
         }
     ]
 }
