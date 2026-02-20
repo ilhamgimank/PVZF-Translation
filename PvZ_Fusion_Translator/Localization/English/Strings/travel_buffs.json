@@ -36,6 +36,8 @@
         "33": "Cornveyor Weed: Now makes zombies on it to continuously slide to the right | Cornposter Pot: Butter Chance for the plant above 50% → 100%",
         "34": "Omni Pumpkin: On entry, grants all connected Magnetic Plants a Shield equal to 30 × number of Magnetic Plants | Quasar: On entry, resets and grants them an Attack buff of 0.5% × number of Magnetic Plants instead",
         "35": "Omni Pumpkin & Quasar: Now counts twice towards the number of Magnetic Plants",
+        "36": "(PLANTNAME_979): Explosion Frequency x2",
+        "37": "(PLANTNAME_979): Each zombie hit by (PLANTNAME_979)'s fire breath increases the damage of the next hit of that same attack by 1%, stacking up to 400%",
         "1000": "Gloves' cooldown is reduced by 10s (No CD for the plant Glove), and can now move Mini-bosses",
         "1001": "All Plants' recharge is halved",
         "1002": "Each Sun now gives more value | 5 → 15 → 25 → 50 → 75",
@@ -217,12 +219,13 @@
         "46": "Giga Mecha-nut: For the first 100 hits, zombies gain 0.1s of damage immunity after each hit",
         "47": "All healing and shields on Plants are reduced by 50%",
         "48": "Plants lose max HP equal to 10% of the damage received (capped at 40% and resets between rounds) when taking damage",
-        "49": "Your Points will be reset to 0"
+        "49": "Your Points will be reset to 0",
+        "50": "Millennium Dragon & Warden will appear as a Mini-boss"
     },
     "investmentBuffs": {
         "0": "Plants do 40% more damage in the first 50% of the round",
-        "1": "At the end of each round, gain 50 points for every type of plant that dealt 0 damage this round",
-        "2": "At the end of each round, gain 1k points and 5% more max HP for all your plants if none of your plants reached 0 HP in this round",
+        "1": "At the end of each round, gain 300 points for every type of plant that dealt 0 damage this round (up to 10 plant types)",
+        "2": "At the end of each round, gain 1.5k points and 5% more max HP for all your plants if none of your plants reached 0 HP in this round",
         "3": "Turn all plants on the lawn into random plants, gain 1000 points immediately and the Glove will have no CD in this round",
         "4": "Immediately gain 10 random Odyssey plants as seed packets",
         "5": "Every time a Mini-boss is defeated, all plants heal for 10% of their max HP",

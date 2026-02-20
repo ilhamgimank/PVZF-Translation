@@ -281,6 +281,13 @@
             "cost": "<size=36>Cost: <color=#8B0000>50</color>\nRecharge: <color=#8B0000>15s</color>"
         },
         {
+            "seedType": 222,
+            "name": "Bamboom",
+            "introduce": "<color=#3D1400>As the New Year approaches, Bamboom hit the streets for some holiday shopping. \"I used to be swamped every year, setting off fireworks at every house during the festival,\" he said. \"But now, with these new firecrackers made from cherry-chilli infused gunpowder, I can finally relax and enjoy my retirement.\" It must be said that the new firecrackers are remarkably effective—he plans to buy a bundle this year too.</color>",
+            "info": "Bamboom can terrify both demons and monsters, making one's body as slender as a bundle of silk and one's breath as powerful as thunder.\n\n<color=#3D1400>Unlock Conditions: </color><color=red> Complete Adventure Level 45</color>\n<color=black>Damage: </color><color=#8B0000>300</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> After being planted, waits for 1s before flying forward in his lane, knocking back zombies it encounters and causing 300 area damage each impact.\n<color=black>•</color> Deals ×15 damage to Nian zombies.</color>",
+            "cost": "Cost: <color=red>275</color>\nRecharge: <color=red>50s</color>"
+        },
+        {
             "seedType": 223,
             "name": "Hearty Apple",
             "introduce": "<align=justified><size=36><color=black>\"Peace and joy!\" Hearty Apple cheerfully greets every plant that passes by. Zombies get a special greeting instead: \"In this season of gratitude, have a happy Halloween!\", tailored based on the zombies' error-ridden calendar.</color>",
@@ -431,7 +438,7 @@
             "seedType": 244,
             "name": "Jicamagic",
             "introduce": "<align=justified><size=36><color=black>\"I'm a grand magician to rival the great Imitater,\" proclaimed Jicamagic. However, only his good friend, Imitater, knows the truth: Jicamagic and Dr. Edgar used to study life sciences in the same class.</color>",
-            "info": "<size=36>Catalyst for Titan fusions.\n\n<color=black>Special: </color><color=#8B0000>A fusion catalyst for Titan plants. Place it on the middle plant to start the fusion. Titan fusions are indicated with \"∞\". Titan plants are immune to Blizzards.<color=#8B0000></color>",
+            "info": "<size=36>Catalyst for Titan fusions.\n\n<color=#4A2900>Unlock Conditions: Beat Jicamagic Challenge</color>\n<color=black>Special: </color><color=#8B0000>A fusion catalyst for Titan plants. Place it on the middle plant to start the fusion. Titan fusions are indicated with \"∞\". Titan plants are immune to Blizzards.<color=#8B0000></color>",
             "cost": "<size=36>Cost: <color=#8B0000>50</color>\nRecharge: <color=#8B0000>30s</color>"
         },
         {
@@ -964,7 +971,7 @@
             "name": "Big Bang Cherry",
             "introduce": "<align=justified><size=36><color=black>The quarrel between two hot-tempered cherries finally ended with theoretical advancements. The brothers agreed that \"annihilation\" was the most fitting term. \"What an explosive annihilation…\" \"No, it's not supposed to be an explosion but an expansion!\" Oh well, the argument started again.</color>",
             "info": "<size=36>Unleashes a massive big bang, spawning debris that deal piercing damage and leaving behind nuclear radiation.\n\n<color=#4A2900>Usage Condition: Odyssey Mode</color>\n<color=black>Damage: </color><color=#8B0000>3600 (Cremator)</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Explodes into 36 nuclear debris of equal damage and creates a Radiation Zone of the same size as a Doom-shroom explosion.\n<color=black>•</color> Only one Radiation Zone can exist at a time. Lasts 7s, dealing (attack × remaining duration) damage every 0.5s; damage ×3 against unarmored zombies.\n<color=black>•</color> Nuclear debris pierce twice. On hit, cause Doom-shroom explosion (no crater) and Cherry Bomb explosion of equal damage.</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. Radiation Zone initial duration increased from 7s to 10s\n2. Doom Peas, Explosive Cherries, Explosive Squashes, Explosive Stars, or Ultimate Doom Shells have a 1% chance of transforming into Nuclear Debris when they hit zombies | Big Crunch Squash Subspecies Unlocked</color>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Cherry Bomb + Black Cherry</color>"
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Cherry Bomb > Black Cherry</color>"
         },
         {
             "seedType": 960,
@@ -1089,7 +1096,7 @@
             "seedType": 977,
             "name": "Cryolina Reaper",
             "introduce": "<align=justified><size=36><color=black>He burns with a violet, icy chill. Some plants say he is constantly crying; Cryolina Reaper simply calls it \"breathing.\"</color>",
-            "info": "<size=36>Accumulates soul energy to save plants in moments of crisis and unleash surges of ice and fire.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color><color=black>\nToughness: </color><color=#8B0000>64k</color><color=black>\nDamage: </color><color=#8B0000>3600 (Cremator)</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Enters the field with 1 soul charge. Can hold a max of 3 soul charges. Gains 1 charge for every 500 zombies that die on either side.\n<color=black>•</color> When a plant takes fatal damage, consumes 1 charge to leave it at 1 HP, then:\n- Restores 50% of max HP to all plants on the field\n- Triggers a Jalapeno effect once in every lane (not affected by damage reduction)\n- Triggers an Ice-shroom effect once\n<color=black>•</color> Upon death, triggers a Jalapeno effect once in every lane (not affected by damage reduction), then triggers an Ice-shroom effect once.</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. Soul charge cap increased to 10, now gains 1 soul charge whenever a Mini-boss dies\n2. When using a soul charge, also grants 1s of invincibility to all plants</color>",
+            "info": "<size=36>Accumulates soul energy to save plants in moments of crisis and unleash surges of ice and fire.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color><color=black>\nToughness: </color><color=#8B0000>64k</color><color=black>\nDamage: </color><color=#8B0000>3600 (Cremator)</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Enters the field with 1 soul charge. Can hold a max of 3 soul charges. Gains 1 charge for every 500 zombies that die on either side.\n<color=black>•</color> When a plant takes fatal damage, consumes 1 charge to leave it at 1 HP, then:\n- Restores 50% of max HP to all plants on the field\n- Triggers a Jalapeno effect once in every lane (not affected by damage reduction)\n- Triggers an Ice-shroom effect once\n<color=black>•</color> Upon death, triggers a Jalapeno effect once in every lane (not affected by damage reduction), then triggers an Ice-shroom effect once.</color>\n<color=black>•</color> The maximum number of Cryolina Reapers that can be on the lawn at once is [(number of map rows) + 2].\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. Soul charge cap increased to 10, now gains 1 soul charge whenever a Mini-boss dies\n2. When using a soul charge, also grants 1s of invincibility to all plants</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Spicicle + Spicicle</color>"
         },
         {
@@ -1098,6 +1105,13 @@
             "introduce": "<align=justified><size=36><color=black>Cornposter Pot works at the factory, coating little Squashes in layers of butter, and has saved up a full year of vacation. But when he finally set foot on the island he had long dreamed of, he found more tourists there than zombies- so many that he nearly melted like butter. Forced to abandon the trip, he chose instead to stay home and bake his favorite buttercup cake.</color>",
             "info": "<size=36>Uses a few \"slippery\" tricks to make zombies struggle to move.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable With Cornveyor Weed's Modifier</color><color=black>\nDamage: </color><color=#8B0000>300 (Squash)</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Subspecies of Cornveyor Weed. Short plant.\n<color=black>•</color> Increases the butter chance for Kernel-pult plants on it from 25% to 50%.\n<color=black>•</color> Can generate mini Butter Squashes (only one can exist at a time for each Cornposter). The mini Butter Squash leaps toward the nearest zombie up to 1.5 tiles, then lands, applying a 1-second butter stun to each zombie it crushes. It can bounce up to 6 times before disappearing.</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. Cornposter Pot's Butter stun duration ×3 | Cornposter Pot Subspecies Unlocked\n2. Butter Chance for the plant above 50% → 100%</color>",
             "cost": "\n<size=36>Conversion Formula: <color=#8B0000>Shovel <-> Flower Pot</color>"
+        },
+        {
+            "seedType": 979,
+            "name": "(PLANTNAME_979)",
+            "introduce": "<color=#3D1400>Amidst the crackling of fireworks, the old year departs, and the warm spring breeze brings new life. The Spring Festival is the happiest time for all plants. The only minor incident involved the (PLANTNAME_979); while setting off fireworks, he accidentally ignited the stage of Sunflowers that were performing \"Gong Xi Fa Cai\".</color>",
+            "info": "Breaths fire, summons dragons, and blasts zombies away in a lively spectacle.\n\n<color=#3D1400>Usage Conditions: Odyssey Mode</color>\n<color=#3D1400>Damage: </color><color=red>200</color>\n<color=#3D1400>Range: </color><color=red>5 Tiles Forward</color>\n<color=#3D1400>Special: <color=#8B0000>\n<color=black>•</color> Breathes fire every 4 seconds that covers a 5 tile range, dealing fire damage every 0.02 seconds to all zombies it hits (including air enemies) and triggering knockback and a small cherry explosion every 0.2 seconds.\n<color=black>•</color> When they stop breathing, (PLANTNAME_979) will summon a mini flying Bamboom that knocks zombies back and triggers a small cherry explosion to every zombie it hits every 0.02 seconds. Can target air enemies.</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. Explosion frequency x2\n2. Each zombie hit by (PLANTNAME_979)'s fire breath increases the damage of the next hit of that same attack by 1%, stacking up to 400%</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Bamboom + Pepper Popper</color>"
         },
         {
             "seedType": 1000,
@@ -2286,7 +2300,7 @@
             "seedType": 1169,
             "name": "Pumpkin Bunker",
             "introduce": "<align=justified><size=36><color=black>Once, a pair of pumpkins dreamed of joining a circus. But after a magnetic mishap left them stuck together, they discovered a better calling: standing their ground as an impenetrable shield. The circus can wait.</color>",
-            "info": "<size=36>Protect two tiles at once!\n\n<color=black>Toughness: </color><color=#8B0000>12000</color>\n<color=black>Special: </color><color=#8B0000>Heals when affected by Cherry and Jack-in-the-Box explosions. Can only be placed on Titan plants or other 2-tiled plants.</color></color>",
+            "info": "<size=36>Protect two tiles at once!\n\n<color=black>Toughness: </color><color=#8B0000>12000</color>\n<color=#3D1400>Special: <color=#8B0000>\n<color=black>•</color> Can only be planted on plants that occupy 2 tiles. When moving the plant inside Pumpkin Bunker, the Pumpkin Bunker moves with it.\n<color=black>•</color> Plants within the Pumpkin Bunker become immune to cherry and Jack-in-the-box explosions.\n<color=black>•</color> Restores full HP when absorbing Jack-in-the-box explosions, restores 200 HP when absorbing cherry explosions, and can consume metal objects to restore 500 HP.</color>",
             "cost": "<size=35>Fusion Formula: <color=#8B0000>Joker Pumpkin ∞ [Magnet-shroom] ∞ Cherry Pumpkin < Jicamagic (Place On Middle)"
         },
         {
@@ -2314,14 +2328,14 @@
             "seedType": 1173,
             "name": "Spicicle",
             "introduce": "<align=justified><size=36><color=black>Cold on the outside, fiery on the inside. This is how other plants describe Spicicle. \"Don't be fooled by my calm appearance, my explosive energy is beyond your imagination,\" murmurs Spicicle. Oh, by the way, he's also quite skilled at making ice-cream.</color>",
-            "info": "<size=36>Has both the properties of Ice-shroom and Jalapeno!\n\n<color=black>Damage: </color><color=#8B0000>1800</color>\n<color=black>Toughness: </color><color=#8B0000>32000</color>\n<color=black>Special: </color><color=#8B0000>Loses 20% Toughness every 3 seconds. While present, absorbs damage for all plants. Upon death, triggers Jalapeno in his row and fullscreen Ice-shroom.</color>",
+            "info": "<size=36>Has both the properties of Ice-shroom and Jalapeno!\n\n<color=black>Damage: </color><color=#8B0000>1800</color>\n<color=black>Toughness: </color><color=#8B0000>32000</color>\n<color=black>Special: </color><color=#8B0000>Loses 20% Toughness every 3 seconds. While present, absorbs damage for all plants. Upon death, triggers Jalapeno in his row (ignores damage reduction) and fullscreen Ice-shroom.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Jalapeno + Ice-shroom</color>"
         },
         {
             "seedType": 1174,
             "name": "Chomper Maw",
             "introduce": "<align=justified><size=36><color=black>Chomper Maw won the grand prix in an Gourmet king contest, finishing 10 giga garg cakes in 44 seconds — with 3 of those seconds wasted because he didn't hear the starting whistle. \"If there's another event like this, please call me. The buffet near the garden won't let me in anymore,\" said the Chomper Maw during the interview.</color>",
-            "info": "<size=36>Swallows all zombies that get too close!\n\n<color=black>Damage: </color><color=#8B0000>Insta-kill (Devour)</color>\n<color=black>Digestion Time: </color><color=#8B0000>\n<color=black>•</color> 8 + 3ln(Sum Toughness of Zombies)s</color>\n<color=black>•</color><color=#8B0000> For reference: Zombie - 24.8 Seconds | Buckethead - 29.9 Seconds | Giga Gargantuar - 34 Seconds | 10 Giga Gargantuars - 41s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Can swallow all zombies in a 1.5 tile range, including Gargantuars. Unable to swallow other zombies that have immunity to Chompers. </color>",
+            "info": "<size=36>Swallows all zombies that get too close!\n\n<color=black>Damage: </color><color=#8B0000>Insta-kill (Devour)</color>\n<color=black>Digestion Time: </color><color=#8B0000>\n<color=black>•</color> [8 + 3 × ln(Sum Toughness of Zombies)]s</color>\n<color=black>•</color><color=#8B0000> For reference: Zombie - 24.8 Seconds | Buckethead - 29.9 Seconds | Giga Gargantuar - 34 Seconds | 10 Giga Gargantuars - 41s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Can swallow all zombies in a 1.5 tile range, including Gargantuars. Unable to swallow other zombies that have immunity to Chompers. </color>",
             "cost": "<size=36>Fusion Formula: <color=#8B0000>Chomper ∞ [Chomper] ∞ Chomper < Jicamagic (Place on Middle)</color>"
         },
         {
@@ -3427,7 +3441,7 @@
             "seedType": 1332,
             "name": "Black Cherry",
             "introduce": "<align=justified><size=36><color=black>\"You can't host a party in the garden without a permit.\" Black Cherry casually tells the unregistered zombies off. \"The first time's just a warning. If they still don't leave after that, I'll take action. Well, some can't even handle the warning.\"</color>",
-            "info": "<size=36>Unleashes a Cherry Bomb blast, then uses the resulting ash to trigger an even stronger Doom-shroom explosion.\n\n<color=black>Damage: </color><color=#8B0000>1800 (Cremator)</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Triggers a Cherry Bomb explosion on fusion, and explodes like a Doom-shroom after 1.5s.\n<color=black>•</color> The Doom-shroom blast deals 1800 base Cremator damage, increasing by 20% for each zombie caught in the initial Cherry Bomb explosion.</color>",
+            "info": "<size=36>Unleashes a Cherry Bomb blast, then uses the resulting ash to trigger an even stronger Doom-shroom explosion.\n\n<color=black>Damage: </color><color=#8B0000>1800 (Cremator)</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Triggers a Cherry Bomb explosion on fusion, and explodes like a Doom-shroom after 1.5s.\n<color=black>•</color> The Doom-shroom blast deals 1800 base Cremator damage, increasing by a factor of (# of zombies hit by the initial Cherry bomb explosion) × 1/6. (For reference, if one zombie is hit by the initial cherry explosion, the cremator damage will be 7/6 times the original damage).</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Cherry Bomb + Doom-shroom</color>"
         },
         {
@@ -3469,7 +3483,7 @@
             "seedType": 1338,
             "name": "Aurora Plantern",
             "introduce": "<align=justified><size=36><color=black>Winter is the season for meditation. The cold sharpens the mind. With gnawing winds and silent nights, such a perfect time for reflection should not be wasted. For days on end, the night-watching Aurora Plantern has been pondering what he should be thinking about. Oh wait, that's it! Thinking about what to think about!</color>",
-            "info": "<size=36>Freezes zombies with a cold aura and enables lasers to gain chilling effects.\n\n<color=black>Damage: </color><color=#8B0000>20/1s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Inherits Plantern traits.\n<color=black>•</color> Once per second, deals 20 damage and applies Chill to zombies in within a 1.5-tile radius, and prolongs the Freeze duration of the zombies already frozen by 1s (cannot be reapplied to the same zombie).\n<color=black>•</color> Anti-ground Lasers from Lumos Cactus/Ray-shroom turn cyan and gain the ability to apply Chill after passing through.</color>",
+            "info": "<size=36>Freezes zombies with a cold aura and enables lasers to gain chilling effects.\n\n<color=black>Damage: </color><color=#8B0000>20/1s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Inherits Plantern traits.\n<color=black>•</color> Once per second, deals 20 damage and applies Chill to zombies in within a 1.1-tile radius, and prolongs the Freeze duration of the zombies already frozen by 1s (cannot be reapplied to the same zombie).\n<color=black>•</color> Anti-ground Lasers from Lumos Cactus/Ray-shroom turn cyan and gain the ability to apply Chill after passing through.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Ice-shroom + Plantern</color>"
         },
         {
@@ -3693,7 +3707,7 @@
             "seedType": 1370,
             "name": "Squish",
             "introduce": "<align=justified><size=36><color=black>They're just three kids pestering you for candy. The only unusual thing is that if you refuse their request, you might feel a bit of \"pressure.\"</color>",
-            "info": "<size=36>Energetic little squashes that hop around and smash enemies.\n\n<color=black>Damage: </color><color=#8B0000>300 (Squash)</color>\n<color=black>Detection Range: </color><color=#8B0000>2 tiles to the left and right</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Smashes once every 1s and does not disappear after smashing; when not targeting, jumps back to its original tile.\n<color=black>•</color> Vulnerable to zombie attack for 0.6s after each smash.\n<color=black>•</color> Immune to crush. When crushed, takes 500 damage every 0.02s. When smashed, takes damage equal to the corresponding damage a hypnotized zombie would take when smashed.</color>",
+            "info": "<size=36>Energetic little squashes that hop around and smash enemies.\n\n<color=black>Damage: </color><color=#8B0000>300 (Squash)</color>\n<color=black>Detection Range: </color><color=#8B0000>1 tile to the left and right</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant. Can be planted 3 times in one tile.\n<color=black>•</color> Smashes once every 1s and does not disappear after smashing; when not targeting, jumps back to its original tile.\n<color=black>•</color> Vulnerable to zombie attack for 0.6s after each smash.\n<color=black>•</color> Immune to crush. When crushed, takes 500 damage every 0.02s. When smashed, takes damage equal to the corresponding damage a hypnotized zombie would take when smashed.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Squash > Puff-shroom</color>"
         },
         {
@@ -3721,7 +3735,7 @@
             "seedType": 1374,
             "name": "Squash Drone",
             "introduce": "<align=justified><size=36><color=black>By harnessing gravitational potential energy, floating Squashes can unleash devastating slams with ease: making the exaggerated wind-up before attacking seem unnecessary. \"Not unnecessary at all,\" explains Squash Drone. \"I'm shooing away the ladybugs resting on my leaves, so I don't hit them by accident.\"</color>",
-            "info": "<size=36>Repeatedly slams down on zombies beneath him.\n\n<color=black>Damage: </color><color=#8B0000>100/1.35s (Squash)</color>\n<color=black>Detection Range: </color><color=#8B0000>Current tile</color>\n<color=black>Special: </color><color=#8B0000> Flying plant. When a zombie is in range, smashes the zombie below repeatedly.</color>",
+            "info": "<size=36>Repeatedly slams down on zombies beneath him.\n\n<color=black>Damage: </color><color=#8B0000>100/2s (Squash)</color>\n<color=black>Detection Range: </color><color=#8B0000>Current tile</color>\n<color=black>Special: </color><color=#8B0000> Flying plant. When a zombie is in range, smashes the zombie below repeatedly.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Squash + Blover</color>"
         },
         {
@@ -3730,6 +3744,27 @@
             "introduce": "<align=justified><size=36><color=black>\"You have no idea how terrifying that place was,\" Coldslaw says, still shaken. \"A land of extreme cold, where countless plants were frozen forever. If I hadn't risked my life to open the door back outside, we vegetables would've all died in there.\" Oh, he's talking about his adventure inside Dave's refrigerator again.</color>",
             "info": "<size=36>Lobs frozen cabbages and attacks faster when hitting frozen enemies.\n\n<color=black>Damage: </color><color=#8B0000>40/3s</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Attacks inflict Chill, add 10 Cryo points and deal ×4 damage to frozen zombies.</color>\n<color=black>Special: </color><color=#8B0000>On hitting a Frozen zombie, the projectile can bounce once, and Coldslaw's attack speed is greatly increased for 3s. This effect can only trigger again 1.5s after it ends.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Ice-shroom + Cabbage-pult</color>"
+        },
+        {
+            "seedType": 1376,
+            "name": "(PLANTNAME_1376)",
+            "introduce": "<color=#3D1400>To freeze the perfect butter, (PLANTNAME_1376) made a special trip to Siberia. Now, its butter is as smooth as marble; heavy, hard, beautiful, and makes a satisfying thud when smashed on a zombie's head.'</color>",
+            "info": "<size=36>Lobs frozen kernels and butter.\n\n<color=black>Damage: </color><color=#8B0000>20/3s</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Attacks inflict Chill, add 10 Cryo points and deal ×4 damage to frozen zombies.</color>\n<color=black>Special: </color><color=#8B0000>Has a 25% chance to throw a frozen butter stick that freezes zombies for 4 seconds.</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Ice-shroom + Kernel-pult</color>"
+        },
+        {
+            "seedType": 1377,
+            "name": "Tingle Kelp",
+            "introduce": "<color=#3D1400>Tingle Kelp is extremely vigilant. It lives alone, foraging only in shallow waters. When necessary, it even hides beneath zombies to evade predators. It sleeps with one eye open—no easy feat for a plant with only one eye.</color>",
+            "info": "<size=36>When coming in contact with a zombie, Tingle Kelp explodes and attaches itself to other zombies to multiply.\n\n<color=black>Damage: </color><color=#8B0000>20 × 30</color>\n<color=black>Special: </color><color=#8B0000>When a zombie comes into contact with Tingle Kelp, it will burst into 30 kelp projectiles that inflict 1 Tangle value before disappearing. If a zombie is killed by the kelp projectile, an extra Tingle Kelp will spawn on that tile (if possible).</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Puff-shroom > Tangle Kelp</color>"
+        },
+        {
+            "seedType": 1378,
+            "name": "Lettuce-pult",
+            "introduce": "<color=#3D1400>\"Smart robots are so handy! I customized one to my exact specifications, and it's massively boosted my throwing efficiency!\" Lettuce-pult exclaimed excitedly. \"Oh, the battle is about to begin.\" With that, he leaped into a larger version of himself. Moments later, he heard the opponent say, \"Smart robots are so handy! I customized one to...\"</color>",
+            "info": "Lettuce-pult can launch tinier versions of itself, unmasking its layers to attack more zombies.\n\n<color=black>Damage: </color><color=#8B0000>60/3s (Squash)</color>\n<color=black>Special: </color><color=#8B0000>Lobs a mini Lettuce-pult that deals AOE crushing damage upon landing, then lobs 2 smaller Lettuce-pults that deal 50% of the original damage before disappearing. The smaller Lettuce-pults lob 2 even smaller Lettuce-pults that deal 25% of the original damage and disappear immediately before disappearing itself.</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Squash + Cabbage-pult</color>"
         },
         {
             "seedType": 350,

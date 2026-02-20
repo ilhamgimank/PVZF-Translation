@@ -4,7 +4,7 @@ The only valid source of this translation is from this community: <color=#64DD17
 Stay away from other sources like <color=#8B0000>pvzfusion.net</color> or <color=#8B0000>pvzfusion.pro</color> as they redistribute our work without permission.
 Please visit our community for future updates and support.
 
-<align=center><size=130%>Plants VS. Zombies: Fusion - Update 3.4.1 Changelog</size></align>
+<align=center><size=130%>Plants VS. Zombies: Fusion - Update 3.4.2 Changelog</size></align>
 
 1. New Levels - I, Zombie Adventure
 - Accessible via the Puzzle Mode's Switch Level Group button.
@@ -32,25 +32,33 @@ Please visit our community for future updates and support.
 
 5. New Plants
 - Basic Fusions:
-  * Rebound-shroom (Fume-shroom + Cabbage-pult)
-  * Squish (Puff-shroom + Squash)
-  * Doom Pumpkin (Doom-shroom + Pumpkin)
-  * Spike Pot (Spikeweed + Flower Pot)
-  * Lumos Pea (Peashooter + Plantern)
-  * Squash Drone (Squash + Blover)
-  * Coldslaw (Ice-shroom + Cabbage-pult)
+  - Rebound-shroom (Fume-shroom + Cabbage-pult)
+  - Squish (Puff-shroom + Squash)
+  - Doom Pumpkin (Doom-shroom + Pumpkin)
+  - Spike Pot (Spikeweed + Flower Pot)
+  - Lumos Pea (Peashooter + Plantern)
+  - Squash Drone (Squash + Blover)
+  - Coldslaw (Ice-shroom + Cabbage-pult)
+  - (PLANTNAME_1376) (Ice-shroom + Kernel-pult)
+  - Tingle Kelp (Puff-shroom > Tangle Kelp)
+  - Lettuce-pult (Squash + Cabbage-pult)
 - Odyssey Fusions:
-  = Common:
-    * Boreas Umbrella (Pharos Umbrella + Ice-shroom)
-    * Quasar (Omni Pumpkin[renamed from Mechanized Pumpkin] + Starfruit)
-    * Cornposter Pot (Cornveyor Weed + Flower Pot)
-  = Epic:
-    * Cryolina Reaper
-    
+  - Common:
+    - Boreas Umbrella (Pharos Umbrella + Ice-shroom)
+    - Quasar (Omni Pumpkin [renamed from Mechanized Pumpkin] + Starfruit)
+    - Cornposter Pot (Cornveyor Weed + Flower Pot)
+    - (PLANTNAME_979) (Bamboom + Pepper Popper)
+  - Epic:
+    - Cryolina Reaper
+- Special/Misc:
+  - Bamboom
+
 6. New Zombies
 - Common:
-  * Chameleon Football Zombie
-  * Charger Football Zombie
+  - Chameleon Football Zombie
+  - Charger Football Zombie
+- Miniboss:
+  - Millennium Dragon & Warden
 - Special: Alpha Assassin Squad are now Omega Assassin Squad when appearing as Mini-boss and it now has a separate ID.
 
 7. New Skins
@@ -66,7 +74,9 @@ Please visit our community for future updates and support.
 
 10. Balance Adjustments
 - Giga Mecha-nut: now limited to healing up to 10M HP per round.
+- Cryolina Reaper: now can only be planted a maximum of [2 × (# of rows)] times.
 
 9. Bug fixes
 - Fixed an issue where some Zombotanies couldn't be stunned by butter due to being unable to find their heads.
 - Fixed various other bugs.
+
