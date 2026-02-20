@@ -3709,6 +3709,62 @@
             "introduce": "<align=justified><size=36><color=black>Les autres pastèques le traitent de paresseux, mais l'Assommoir à Pastèque se dit simplement efficace. \" Laisse la gravité faire le travail ! Lancer des projectiles, c’est épuisant ! \" Il semble toutefois ignorer que cette méthode réduit aussi considérablement sa portée.</color>",
             "info": "<size=36>Fournit un soutien aérien à courte portée en larguant des pastèques.\n\n<color=black>Dégâts : </color><color=#8B0000>80×3/3s</color>\n<color=black>Portée d’attaque : </color><color=#8B0000>Sa case et les 2 cases adjacentes sur la même ligne</color>\n<color=black>Spécial : </color><color=#8B0000>Plante volante.</color>",
             "cost": "<size=36>Formule de Fusion : <color=#8B0000>Troufle + Lance-pastèque</color>"
+        },
+        {
+            "seedType": 1373,
+            "name": "Pois Lumineux",
+            "introduce": "<align=justified><size=36><color=black>Pois Lumineux était autrefois un enfant qui adorait braquer des pointeurs laser sur tout le monde. Plus tard, l’Ombrelle de Pharos lui apprit à utiliser ce talent contre les zombies.</color>",
+            "info": "<size=36>Tire des lasers ciblés à haute fréquence ; absorbe l’énergie Lumos pour accroître sa puissance.\n\n<color=black>Dégâts : </color><color=#8B0000>10/0,2s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Après avoir verrouillé une cible, tire un laser infligeant des dégâts toutes les 0,2s.\n<color=black>•</color> Toutes les 0,5s, gagne une quantité d’énergie lumineuse égale au niveau Lumos actuel. Lorsqu’il inflige des dégâts, consomme [(énergie lumineuse actuelle/10) + 1] points d’énergie lumineuse afin d’augmenter cette instance de dégâts de ×(énergie consommée).</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Pisto-pois + Planterne</color>"
+        },
+        {
+            "seedType": 1362,
+            "name": "Champi-amidon",
+            "introduce": "<align=justified><size=36><color=black>Après avoir accepté un partenariat de marque avec la Mine Patate, Champi-amidon a quitté son emploi en boulangerie. \" Rejoindre l’industrie des explosifs est la meilleure décision que j’aie jamais prise \", affirme-t-il. \" Pulvériser de l’amidon directement par la bouche, c’est bien plus efficace que faire lever du pain ! \"</color>",
+            "info": "<size=36>Les vapeurs qu’il projette dégagent une forte odeur de pomme de terre… parfois même explosive !\n\n<color=black>Dégâts : </color><color=#8B0000>30/1,5s</color>\n<color=black>Spécial : </color><color=#8B0000>Toutes les 10 attaques, déclenche une explosion de Mine Patate infligeant 300 dégâts à l’emplacement de chaque zombie touché.</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Mine Patate + Champi-fumée</color>"
+        },
+        {
+            "seedType": 1364,
+            "name": "Petit Cratère",
+            "introduce": "<align=justified><size=36><color=black>Chef en titre d’un restaurant de frites, Petit Cratère dirige sa cuisine d’une main ferme et sans compromis. Mais derrière cette brillante carrière tuberculaire se cache un drame personnel : son tempérament explosif l’empêche désormais de préparer de délicieuses frites.</color>",
+            "info": "<size=36>Se brise dans une explosion dévastatrice, dispersant cinq Mines Patate qui s’arment instantanément à l’atterrissage.\n\n<color=black>Dégâts : </color><color=#8B0000>1800 (Crémateur)</color>\n<color=black>Spécial : </color><color=#8B0000>Plante basse. Lorsqu’il explose, déclenche également un effet Champi-mort, puis projette des éclats de patate sur 5 cases vides. Chaque éclat crée une Mine Patate armée à son atterrissage.</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Mine Patate + Champi-mort</color>"
+        },
+        {
+            "seedType": 1358,
+            "name": "Champi-rayon",
+            "introduce": "<align=justified><size=36><color=black>\" Toutes les plantes que je croise portent des lunettes de soleil \", grogne Champi-rayon. \" C’est ridicule, tellement prétentieux ! \" Finalement, il met cela sur le compte d’une mode incompréhensible, tandis que les autres plantes s’accordent à dire que fixer directement un émetteur laser ultra-puissant n’est évidemment pas recommandé pour la vue…</color>",
+            "info": "<size=36>Tire un rayon laser perforant. Les dégâts diminuent avec la distance et augmentent avec le niveau Lumos.\n\n<color=black>Dégâts : </color><color=#8B0000>10/1,5s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Tire sur toute la ligne avec perforation illimitée.\n<color=black>•</color> Chaque niveau Lumos augmente les dégâts de +0,5×.\n<color=black>•</color> Les dégâts sont multipliés par 1,6×(5 - distance en colonnes jusqu’à la cible). Au niveau Lumos 3 ou supérieur, cela devient 0,8×(10 - distance en colonnes).</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Champi-fumée + Planterne</color>"
+        },
+        {
+            "seedType": 1369,
+            "name": "Champi-rebond",
+            "introduce": "<align=justified><size=36><color=black>Le tennis de table est une passion partagée par les plantes et les zombies, et Champi-rebond est une véritable légende dans le monde zombie, ayant vaincu d’innombrables champions de cimetière. En signalant ses adversaires pour faute après avoir renvoyé la balle avec leur tête, il a remporté plus d’une douzaine de Championnats Plante-Zombie de Tennis de Table. Étrangement, ses adversaires peu perspicaces n’ont jamais remarqué qu’il commettait exactement la même faute.</color>",
+            "info": "<size=36>Traite les projectiles comme des balles de ping-pong, les renvoyant sans cesse vers la tête des zombies.\n\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Lorsqu’un projectile lobé sur la même ligne touche un zombie devant lui, il rebondit vers Champi-rebond puis continue d’alterner entre les deux.\n<color=black>•</color> Un seul projectile peut être renvoyé à la fois ; la hauteur du rebond diminue progressivement jusqu’à ce qu’il touche le sol.\n<color=black>•</color> Ne renvoie pas les projectiles capables de rebondir par eux-mêmes.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Champi-fumée + Lance-chou</color>"
+        },
+        {
+            "seedType": 1365,
+            "name": "Champi-zodiaque",
+            "introduce": "<align=justified><size=36><color=black>Champi-zodiaque s’inquiète de la petite touffe duveteuse au sommet de son chapeau, craignant qu’elle ne le fasse paraître ridicule. Cela dit, la plupart des zombies ne comprendraient jamais pourquoi cela le tracasse.</color>",
+            "info": "<size=36>Les zombies qui le mordent sont hypnotisés et se transforment en lanceurs d’étoiles mobiles.\n\n<color=black>Spécial : </color><color=#8B0000>Lorsqu’il est mordu, hypnotise le zombie puis disparaît, l’amenant à tirer des étoiles en spirale : 60 salves (300 projectiles au total).</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Champi-hypno + Carambole</color>"
+        },
+        {
+            "seedType": 1367,
+            "name": "Champi-glace Argenté",
+            "introduce": "<align=justified><size=36><color=black>Impitoyable. Froid. Voilà les étiquettes que l’on colle à Champi-glace Argenté — même les autres Champi-glace le trouvent trop glacial. Mais cela lui importe peu. Son succès repose précisément sur ce sang-froid ; dans le secteur de la logistique sous chaîne du froid, seuls les plus durs survivent.</color>",
+            "info": "<size=36>Un Champi-glace recouvert d’un givre argenté.\n\n<color=black>Spécial : </color><color=#8B0000>Gèle les ennemis 1 seconde de plus qu’un Champi-glace normal.</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Champi-glace + Souci</color>"
+        },
+        {
+            "seedType": 1375,
+            "name": "Chou Glacé",
+            "introduce": "<align=justified><size=36><color=black>\" Vous n’avez aucune idée de à quel point cet endroit était terrifiant \", raconte Chou Glacé, encore secoué. \" Une terre de froid extrême, où d’innombrables plantes furent figées pour l’éternité. Si je n’avais pas risqué ma vie pour rouvrir la porte vers l’extérieur, nous, les plantes, y serions tous restés. \" Ah… il parle encore de son aventure dans le réfrigérateur de Dave.</color>",
+            "info": "<size=36>Lance des choux gelés et attaque plus rapidement lorsqu’il touche des ennemis congelés.\n\n<color=black>Dégâts : </color><color=#8B0000>40/3s</color>\n<color=#0077b6>Système Cryo : </color><color=#8B0000>Les attaques appliquent Gel, ajoutent 10 points Cryo et infligent ×4 dégâts aux zombies gelé.</color>\n<color=black>Spécial : </color><color=#8B0000>En touchant un zombie gelé, le projectile peut rebondir une fois, et la vitesse d’attaque de Chou Glacé est fortement augmentée pendant 3s. Cet effet ne peut se réactiver que 1,5s après sa fin.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Champi-glace + Lance-chou</color>"
         }
     ]
 }
