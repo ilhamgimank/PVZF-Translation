@@ -458,15 +458,15 @@
         },
         {
             "theZombieType": 216,
-            "name": "Trident Hwacha",
-            "introduce": "<color=black></color>",
-            "info": "<size=34>Lance une salve de tridents à votre défense à chaque volée !\n\n<color=black>Résistance : </color><color=#4B0082>1350+4400</color>\n<color=black>Spécial : </color><color=#4B0082>Chaque attaque lance 14 tridents en succession rapide, puis après une brève pause, il tire 14 autres tridents, pour un total de deux volées. Les tridents ne ciblent pas directement les plantes ; au lieu de cela, ils sont lancés à un angle et à une vitesse fixes, infligeant des dégâts à toutes les plantes qu'ils touchent.</color>"
+            "name": "Hwacha Lance-trident",
+            "introduce": "<align=justified><size=36><color=black>Hwacha Lance-trident est un \"perfectionniste\" morts-vivants. Il trouve ses moyens de transport un peu minables, alors il commence à les remplir de tridents. Mais fidèle à sa nature perfectionniste, il ne s'arrêtera pas tant que chaque emplacement ne sera pas rempli.</color>",
+            "info": "<size=36>Lance une salve de tridents sur vos défenses à chaque volée!\n\n<color=black>Résistance : </color><color=#4B0082>1350 + 4400 (Type 1)</color>\n<color=black>Spécial: </color><color=#4B0082>Chaque attaque lance 4 tridents rapidement, puis après une brève pause, il tire 4 autres tridents, pour un total de deux volées. Les tridents ne ciblent pas directement les plantes ; au lieu de cela, ils sont lancés à un angle et à une vitesse fixes, infligeant des dégâts à toutes les plantes qu'ils touchent.</color>\n<color=black>Modificateur Odyssey:\n</color><color=#4B0082>1. Immunisé contre les Altérations, tire désormais 5 fois plus de tridents.\n2. Il est désormais possible de lancer des Tridents depuis l'extérieur de l'écran.</color>"
         },
         {
             "theZombieType": 217,
-            "name": "Super Dancing Zombie",
-            "introduce": "<color=black>Tous les zombies sont étonnés de voir à quel point le Super Dancing Zombie possède des compétences incroyables en saut à la perche. \"Oh, c'est juste mon talent\", dit le Super Dancing Zombie. Mais la vérité est qu'il fait deux boulots par jour, et comme on dit, \"deux fois le travail, double le saut\".</color>",
-            "info": "Peut sauter par-dessus deux tuiles.\n\n<color=black>Résistance : </color><color=#4B0082>3 000</color>Spécials : </color><color=#4B0082>Peut sauter par-dessus 2 tuiles mais peut être bloqué par les Tall-nuts</color>"
+            "name": "Super Zombie Danseur",
+            "introduce": "<align=justified><size=36><color=black>Les zombies applaudissent alors que Super Zombie Danseur défie une nouvelle fois la gravité. \"Oh, tu sais, juste du talent,\" dit-il en clignant de l'oeil. Mais derrière cette facilité apparente ? Il enchaîne deux séances d'entraînement par jour, s'entraînant jusqu'à ce que même ses jambes de mort-vivant lui fassent mal. Le secret de la grandeur ? \"Deux fois plus d'efforts, deux fois plus de temps dans les airs!\"</color>",
+            "info": "<size=36>Peut sauter par-dessus deux tuiles. Pouvant être bloqué par des plantes hautes.\n\n<color=black>Résistance : </color><color=#4B0082>3000</color>\n<color=black>Spécial: </color><color=#4B0082>Hérite de tous les autres traits de Michael Zombie.</color>"
         },
         {
             "theZombieType": 218,
@@ -713,6 +713,18 @@
             "name": "Vaisseau-Mère Kirov",
             "introduce": "<align=justified><size=36><color=black>Le Vaisseau-mère Kirov est un des produits phare de Gfishtus Corps, et l'entreprise affirme qu'il utilise une techologie de drone avant gardiste. Mais, si vous examinez les débris de ses larbins attentivement, Vous allez souvent trouver \"Recyclé\" peint en rouge.</color>",
             "info": "<size=36>Un Vaisseau-mère aérien qui déploie des Drones Kirovs .\n\n<color=black> Robustesse : </color><color=#4B0082>6000</color>\n<color=black> Spécial : </color><color=#4B0082>\n<color=black>•</color> Zombie évolué Catégorie 2.\n<color=black>•</color> toutes les 3 secondes, Déploie un Drone Kirov avec 0.1× sa propre robustesse.\n<color=black>•</color> S'écrase après avoir pris 30 coups d'une Carambole Magnétique.</color>"
+        },
+        {
+            "theZombieType": 329,
+            "name": "Vaisseau Amiral Kirov",
+            "introduce": "<align=justified><size=36><color=black> Infiltration en haute altitude ! Reconnaissance et assaut intégrée ! Puissance de feu total ! Entièrement digitalisé et sans membre d'équipage ! Gfishtus Corps Vous présente fièrement le Kirov 2.0! C'est la bête ultime, à l'exception de sa ridiculement courte portée de vol qui le relocalise à être un vaisseau fille sous un plus gros vaisseau mère. Le vaisseau mère, bien sûr, est vendu séparément.</color>",
+            "info": "<size=36>Une suprématie aérienne qui déploie rapidement un appui aérien rapproché.\n\n<color=black>Dégâts: </color><color=#4B0082>300/1.5s</color>\n<color=black>Robustesse: </color><color=#4B0082>12000</color>\n<color=black>Spécial: </color><color=#4B0082>\n<color=black>•</color> Zombie évolué de Catégorie 3.\n<color=black>•</color> Toutes les 3 secondes, fait apparaître 2 Bombardiers Supersonique pour rapidement décimer la ligne.\n<color=black>•</color> s'écrase après avoir pris 40 coups d'une Carambole Magnétique.</color>"
+        },
+        {
+            "theZombieType": 313,
+            "name": "Boomer Requin-marine",
+            "introduce": "<align=justified><size=36><color=black>Véritable maître des champs de bataille, ce sous-marin est le fruit de l'imagination d'Edgar et de Gfishtus Corps. Après avoir résolu le problème des missiles qui s'enfonçaient dans l'eau, il est désormais parfait, à l'exception des algues qui viennent parfois bloquer l'hélice.</color>",
+            "info": "<size=36>S'élève pour bombarder la ligne arrière avec des missiles de croisière.\n\n<color=black>Robustesse: </color><color=#4B0082>12000</color>\n<color=black>Spécial: </color><color=#4B0082>\n<color=black>•</color>Zombie évolué de Catégorie 3.\n<color=black>•</color> Entrez dans le champ submergé. Remonte à la surface lorsqu'il y a des plantes dans sa voie et cesse de bouger.\n<color=black>•</color> Lorsqu'il fait surface, il tire 2 missiles toutes les 1,5 secondes en direction de la dernière colonne. Le missile explose comme un Diable à ressort, mais peut être abattu s'il subit 1 000 points de dégâts en plein vol ou être repoussé par des Troufles.</color>"
         },
         {
             "theZombieType": 314,
