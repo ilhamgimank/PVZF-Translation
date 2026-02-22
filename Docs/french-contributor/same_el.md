@@ -22,13 +22,31 @@ Ce document retrace l’ensemble des contributions effectuées par **Same-ael** 
 > Statistiques cumulées sur l’ensemble de la période.
 
 * Nouvelles traductions : **23**
-* Traductions ajustées : **101**
+* Traductions ajustées : **104**
 
 ---
 
 ## 🗓️ Historique des contributions
 
 > Les contributions sont regroupées par semaine civile (ISO).
+
+---
+
+### 📅 Semaine — `16/02/26 → 22/02/26`
+> [PR#99](https://github.com/Teyliu/PVZF-Translation/pull/99) 
+
+**Résumé de la semaine**
+
+* Traductions ajustées : **3**
+
+---
+
+#### Détail
+
+## 🛠️ **Modified Zombies**
+* **Zomboni Michael** (`theZombieType: 201`)
+* **Giga-noix à Trident** (`theZombieType: 202`)
+* **Zombie-cerise-sulfateuse à Journal** (`theZombieType: 203`)
 
 ---
 

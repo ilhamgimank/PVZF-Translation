@@ -17,9 +17,9 @@ Ce document a pour objectif de reconnaître et valoriser les personnes impliqué
 
 **Récapitulatif des contributions**
 
-* Nouvelles traductions : **212**
-* Traductions ajustées : **117**
-* Reviews effectuées : **312**
+* Nouvelles traductions : **234**
+* Traductions ajustées : **122**
+* Reviews effectuées : **335**
 
 **Réseaux & contacts**
 
@@ -36,8 +36,8 @@ Ce document a pour objectif de reconnaître et valoriser les personnes impliqué
 
 **Statistiques de contribution**
 
-* Nouvelles traductions : **24**
-* Traductions ajustées : **101**
+* Nouvelles traductions : **23**
+* Traductions ajustées : **104**
 
 **Réseaux & contacts**
 
@@ -49,7 +49,7 @@ Ce document a pour objectif de reconnaître et valoriser les personnes impliqué
 
 **Statistiques de contribution**
 
-* Nouvelles traductions : **40**
+* Nouvelles traductions : **46**
 * Traductions ajustées : **43**
 
 **Réseaux & contacts**
@@ -62,26 +62,13 @@ Ce document a pour objectif de reconnaître et valoriser les personnes impliqué
 
 **Statistiques de contribution**
 
-* Nouvelles traductions : **11**
-* Traductions ajustées : **44**
+* Nouvelles traductions : **13**
+* Traductions ajustées : **49**
 
 **Réseaux & contacts**
 
 * **GitHub** : [Oarlina](https://github.com/Oarlina) 
 * **LinkedIn** : [Rachel Marquant](https://www.linkedin.com/in/rachel-marquant-98bb4536a/)
-
----
-
-### [Shrimpnos Prime](./french-contributor/dead130000.md)
-
-**Statistiques de contribution**
-
-* Nouvelles traductions : **0**
-* Traductions ajustées : **1**
-
-**Réseaux & contacts**
-
-* **Discord** : *dead130000*
 
 ---
 
@@ -98,6 +85,31 @@ Ce document a pour objectif de reconnaître et valoriser les personnes impliqué
 
 ---
 
+### [Kurodaten Shi](./french-contributor/kurodaten_shi.md)
+
+**Statistiques de contribution**
+
+* Nouvelles traductions : **3**
+* Traductions ajustées : **1**
+
+**Réseaux & contacts**
+
+* **Discord** : *kurodaten_shi*
+
+---
+
+### [Chombi Pr.A.A.L](./french-contributor/chombi_pr.a.a.l.md)
+
+**Statistiques de contribution**
+
+* Traduction testé : **3**
+
+**Réseaux & contacts**
+
+* **GitHub** : [Chombi Pr.A.A.L](https://github.com/ChmobiPraal)
+
+---
+
 ## Contributeur Innactif
 
 * Erwandawa123
@@ -108,7 +120,20 @@ Ce document a pour objectif de reconnaître et valoriser les personnes impliqué
 
 ---
 
-### [Lyolia](./french-contributor/lyolia.md)
+### [Shrimpnos Prime](./french-contributor/old/dead130000.md)
+
+**Statistiques de contribution**
+
+* Nouvelles traductions : **0**
+* Traductions ajustées : **1**
+
+**Réseaux & contacts**
+
+* **Discord** : *dead130000*
+
+---
+
+### [Lyolia](./french-contributor/old/lyolia.md)
 
 **Statistiques de contribution**
 
@@ -121,7 +146,7 @@ Ce document a pour objectif de reconnaître et valoriser les personnes impliqué
 
 ---
 
-### [ItGourmand](./french-contributor/itgroumand.md)
+### [ItGourmand](./french-contributor/old/itgroumand.md)
 
 **Statistiques de contribution**
 
@@ -134,7 +159,7 @@ Ce document a pour objectif de reconnaître et valoriser les personnes impliqué
 
 ---
 
-### [Ink Stolas](./french-contributor/ink-stolas.md)
+### [Ink Stolas](./french-contributor/old/ink-stolas.md)
 
 **Statistiques de contribution**
 

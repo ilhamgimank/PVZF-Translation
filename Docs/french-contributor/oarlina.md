@@ -22,14 +22,42 @@ Ce document retrace l’ensemble des contributions effectuées par **Oarlina** a
 
 > Statistiques cumulées sur l’ensemble de la période.
 
-* Nouvelles traductions : **11**
-* Traductions ajustées : **44**
+* Nouvelles traductions : **13**
+* Traductions ajustées : **49**
 
 ---
 
 ## 🗓️ Historique des contributions
 
 > Les contributions sont regroupées par semaine civile (ISO).
+
+
+---
+
+### 📅 Semaine — `16/02/26 → 22/02/26`
+> [PR#99](https://github.com/Teyliu/PVZF-Translation/pull/99) 
+
+**Résumé de la semaine**
+
+* Nouvelles traductions : **2**
+* Traductions ajustées : **5**
+
+---
+
+#### Détail
+
+## 🧟‍♂️ **Newly Added Zombie Translations**
+* **Boomer Requin-marine** (`theZombieType: 313`)
+* **Narval Marin** (`theZombieType: 314`)
+
+## 🛠️ **Modified Zombies**
+* **Super Zombie Danseur** (`theZombieType: 217`)
+* **Hwacha Lance-trident** (`theZombieType: 216`)
+
+## 🔧 **Modified Achievements**
+* **Puissance absolue** (`achievement: 1009`)
+* **Voici le soleil.** (`achievement: 62`)
+* **Découvrez Mordzilla** (`achievement: 58`)
 
 ---
 

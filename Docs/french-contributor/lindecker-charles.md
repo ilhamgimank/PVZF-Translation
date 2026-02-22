@@ -28,9 +28,108 @@ Ce document retrace l’ensemble des contributions effectuées par **Charles LIN
 
 > Statistiques cumulées sur l’ensemble de la période.
 
-* Nouvelles traductions : **212**
-* Traductions ajustées : **117**
-* Reviews effectuées : **312**
+* Nouvelles traductions : **234**
+* Traductions ajustées : **122**
+* Reviews effectuées : **335**
+
+---
+
+### 📅 Semaine — `16/02/26 → 22/02/26`
+> [PR#99](https://github.com/Teyliu/PVZF-Translation/pull/99) 
+
+**Résumé de la semaine**
+
+* Nouvelles traductions : **22**
+* Traductions ajustées : **5**
+* Reviews effectuées : **23**
+
+---
+
+#### Détail
+
+## 🌱 **Newly Added Plants**
+* **Spore de Mort** (`seedType: 1249`)
+* **Chou Sanguinolant** (`seedType: 302`)
+* **Orge-mimic** (`seedType: 303`)
+* **Sulfateuse à Grenades Suralimentée** (`seedType: 301`)
+* **Mine en Diamant** (`seedType: 234`)
+* **Nova-solaire Illuminée** (`seedType: 304`)
+* **Champi-glace Doré** (`seedType: 1368`)
+* **Assommoir à Chou** (`seedType: 1359`)
+* **Assommoir à Beurre** (`seedType: 1360`)
+* **Assommoir à Pastèque** (`seedType: 1361`)
+* **Pois Lumineux** (`seedType: 1373`)
+* **Champi-amidon** (`seedType: 1362`)
+* **Petit Cratère** (`seedType: 1364`)
+* **Champi-rayon** (`seedType: 1358`)
+* **Champi-rebond** (`seedType: 1369`)
+* **Champi-zodiaque** (`seedType: 1365`)
+* **Champi-glace Argenté** (`seedType: 1367`)
+* **Chou Glacé** (`seedType: 1375`)
+* **Écraseur-hypno** (`seedType: 1229`)
+* **Citrouille Maudite** (`seedType: 1371`)
+* **Pot Piquant** (`seedType: 1372`)
+* **Lapin-tonnerre** (`seedType: 973`)
+
+## 🧩 **Modified Plants**
+* **Sulfateuse Champi-stalactite** (`seedType: 908`)
+* **Sulfateuse Champi-rayon-solaire** (`seedType: 929`)
+* **Ortie d'Obsidienne** (`seedType: 906`)
+* **Noix Piquante d'Obsidienne** (`seedType: 931`)
+* **Aristochat** (`seedType: 926`)
+
+## 🌿 **Reviews**
+
+### 🌱 **Newly Added Plants**
+
+[Hubtech](./hubtech.md) :
+* **Pot Cornposteur** (`seedType: 978`)
+* **Cryolina Reaper** (`seedType: 977`)
+
+### 🧟‍♂️ **Newly Added Zombie Translations**
+
+[Oarlina](./oarlina.md) :
+* **Boomer Requin-marine** (`theZombieType: 313`)
+* **Narval Marin** (`theZombieType: 314`)
+
+[Hubtech](./hubtech.md) :
+* **Gargantua Élémentaire** (`theZombieType: 223`)
+* **Zombie Diplômé Sulfateuse à Cerises** (`theZombieType: 301`)
+* **Zombie Docteur Sulfateuse à Cerises** (`theZombieType: 302`)
+* **Zombie Érudit Sulfateuse à Cerises** (`theZombieType: 302`)
+
+[Kurodaten Shi](./kurodaten_shi.md) :
+* **Bombardier Kirov** (`theZombieType: 327`)
+* **Vaisseau-Mère Kirov** (`theZombieType: 328`)
+* **Vaisseau Amiral Kirov** (`theZombieType: 329`)
+
+### 🛠️ **Modified Zombies**
+
+[Oarlina](./oarlina.md) :
+* **Super Zombie Danseur** (`theZombieType: 217`)
+* **Hwacha Lance-trident** (`theZombieType: 216`)
+
+[Same-ael](./same_el.md) :
+* **Zomboni Michael** (`theZombieType: 201`)
+* **Giga-noix à Trident** (`theZombieType: 202`)
+* **Zombie-cerise-sulfateuse à Journal** (`theZombieType: 203`)
+
+### 🔧 **Modified Achievements**
+[Oarlina](./oarlina.md) :
+* **Puissance absolue** (`achievement: 1009`)
+* **Voici le soleil.** (`achievement: 62`)
+* **Découvrez Mordzilla** (`achievement: 58`)
+
+[Kurodaten Shi](./kurodaten_shi.md) :
+* **Grosse promo sur les cerises !** (`achievement: 9`)
+
+### 🌱 **Plant Check**
+
+[Chombi Pr.A.A.L](./chombi_pr.a.a.l.md) :
+* **Tournesol** (`seedType: 1`)
+* **Cadeau Florale** (`seedType: 256`)
+* **Endoflamme** (`seedType: 254`)
+
 
 ---
 
@@ -57,7 +156,7 @@ Ce document retrace l’ensemble des contributions effectuées par **Charles LIN
 
 ## 🌿 **Reviews**
 
-## 🧩 **Modified Plants**
+### 🧩 **Modified Plants**
 
 [Hubtech](./hubtech.md) :
 * **Noix Pastèque** (`seedType: 1261`)
@@ -237,7 +336,7 @@ Ce document retrace l’ensemble des contributions effectuées par **Charles LIN
 * **Zombie Noix Glacée** (`theZombieType: 111`)
 * **Zombie Lance-grenade** (`theZombieType: 112`)
 
-[Shrimpnos Prime](./dead130000.md) : 
+[Shrimpnos Prime](./old/dead130000.md) : 
 * **Requin-marine** (`theZombieType: 200`)
 
 ### 🔧 **Modified Achievements**
@@ -548,7 +647,7 @@ Ce document retrace l’ensemble des contributions effectuées par **Charles LIN
 * **Four Aloès** (`seedType: 1226`)
 * **Four Lotus** (`seedType: 1225`)
 
-[Lyolia](./lyolia.md) :
+[Lyolia](./old/lyolia.md) :
 * **Baie Hivernale** (`seedType: 237`)
 * **Poirmafrost** (`seedType: 236`)
 * **Sachrisanthème** (`seedType: 238`)
@@ -579,7 +678,7 @@ Ce document retrace l’ensemble des contributions effectuées par **Charles LIN
 [Oarlina](./oarlina.md) :
 * **Lave Épineuse** (`seedType: 1075`)
 
-[ITGourmand](./itgroumand.md) :
+[ITGourmand](./old/itgroumand.md) :
 * **Écraseur** (`seedType: 13`)
 * **Triple Pisto-écraseur** (`seedType: 1047`)
 * **Algue Étrangleuse** (`seedType: 1050`)
@@ -682,7 +781,7 @@ Ce document retrace l’ensemble des contributions effectuées par **Charles LIN
 * **Glace Épineuse** (`seedType: 1074`)
 * **Ortie Glacée** (`seedType: 1180`)
 
-[Ink Stolas](./ink-stolas.md) :
+[Ink Stolas](./old/ink-stolas.md) :
 * **Troufle** (`seedType: 22`)
 * **Nénu-chat** (`seedType: 1067`)
 

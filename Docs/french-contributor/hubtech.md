@@ -21,7 +21,7 @@ Ce document retrace l’ensemble des contributions effectuées par **Hubtech** a
 
 > Statistiques cumulées sur l’ensemble de la période.
 
-* Nouvelles traductions : **40**
+* Nouvelles traductions : **46**
 * Traductions ajustées : **43**
 
 
@@ -30,6 +30,29 @@ Ce document retrace l’ensemble des contributions effectuées par **Hubtech** a
 ## 🗓️ Historique des contributions
 
 > Les contributions sont regroupées par semaine civile (ISO).
+
+---
+
+### 📅 Semaine — `16/02/26 → 22/02/26`
+> [PR#99](https://github.com/Teyliu/PVZF-Translation/pull/99) 
+
+**Résumé de la semaine**
+
+* Nouvelles traductions : **6**
+
+---
+
+#### Détail
+
+## 🌱 **Newly Added Plants**
+* **Pot Cornposteur** (`seedType: 978`)
+* **Cryolina Reaper** (`seedType: 977`)
+
+## 🧟‍♂️ **Newly Added Zombie Translations**
+* **Gargantua Élémentaire** (`theZombieType: 223`)
+* **Zombie Diplômé Sulfateuse à Cerises** (`theZombieType: 301`)
+* **Zombie Docteur Sulfateuse à Cerises** (`theZombieType: 302`)
+* **Zombie Érudit Sulfateuse à Cerises** (`theZombieType: 302`)
 
 ---
 
