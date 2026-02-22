@@ -1108,9 +1108,9 @@
         },
         {
             "seedType": 979,
-            "name": "(PLANTNAME_979)",
-            "introduce": "<color=#3D1400>Amidst the crackling of fireworks, the old year departs, and the warm spring breeze brings new life. The Spring Festival is the happiest time for all plants. The only minor incident involved the (PLANTNAME_979); while setting off fireworks, he accidentally ignited the stage of Sunflowers that were performing \"Gong Xi Fa Cai\".</color>",
-            "info": "Breaths fire, summons dragons, and blasts zombies away in a lively spectacle.\n\n<color=#3D1400>Usage Conditions: Odyssey Mode</color>\n<color=#3D1400>Damage: </color><color=red>200</color>\n<color=#3D1400>Range: </color><color=red>5 Tiles Forward</color>\n<color=#3D1400>Special: <color=#8B0000>\n<color=black>•</color> Breathes fire every 4 seconds that covers a 5 tile range, dealing fire damage every 0.02 seconds to all zombies it hits (including air enemies) and triggering knockback and a small cherry explosion every 0.2 seconds.\n<color=black>•</color> When they stop breathing, (PLANTNAME_979) will summon a mini flying Bamboom that knocks zombies back and triggers a small cherry explosion to every zombie it hits every 0.02 seconds. Can target air enemies.</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. Explosion frequency x2\n2. Each zombie hit by (PLANTNAME_979)'s fire breath increases the damage of the next hit of that same attack by 1%, stacking up to 400%</color>",
+            "name": "Dragonbreath Peppper",
+            "introduce": "<color=#3D1400>Amidst the crackling of fireworks, the old year departs, and the warm spring breeze brings new life. The Spring Festival is the happiest time for all plants. The only minor incident involved the Dragonbreath Peppper; while setting off fireworks, he accidentally ignited the stage of Sunflowers that were performing \"Gong Xi Fa Cai\".</color>",
+            "info": "Breaths fire, summons dragons, and blasts zombies away in a lively spectacle.\n\n<color=#3D1400>Usage Conditions: Odyssey Mode</color>\n<color=#3D1400>Damage: </color><color=red>200</color>\n<color=#3D1400>Range: </color><color=red>5 Tiles Forward</color>\n<color=#3D1400>Special: <color=#8B0000>\n<color=black>•</color> Breathes fire every 4 seconds that covers a 5 tile range, dealing fire damage every 0.02 seconds to all zombies it hits (including air enemies) and triggering knockback and a small cherry explosion every 0.2 seconds.\n<color=black>•</color> When they stop breathing, Dragonbreath Peppper will summon a mini flying Bamboom that knocks zombies back and triggers a small cherry explosion to every zombie it hits every 0.02 seconds. Can target air enemies.</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. Explosion frequency x2\n2. Each zombie hit by Dragonbreath Peppper's fire breath increases the damage of the next hit of that same attack by 1%, stacking up to 400%</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Bamboom + Pepper Popper</color>"
         },
         {
@@ -3747,8 +3747,8 @@
         },
         {
             "seedType": 1376,
-            "name": "(PLANTNAME_1376)",
-            "introduce": "<color=#3D1400>To freeze the perfect butter, (PLANTNAME_1376) made a special trip to Siberia. Now, its butter is as smooth as marble; heavy, hard, beautiful, and makes a satisfying thud when smashed on a zombie's head.'</color>",
+            "name": "Cobsicle",
+            "introduce": "<color=#3D1400>To freeze the perfect butter, Cobsicle made a special trip to Siberia. Now, its butter is as smooth as marble; heavy, hard, beautiful, and makes a satisfying thud when smashed on a zombie's head.'</color>",
             "info": "<size=36>Lobs frozen kernels and butter.\n\n<color=black>Damage: </color><color=#8B0000>20/3s</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Attacks inflict Chill, add 10 Cryo points and deal ×4 damage to frozen zombies.</color>\n<color=black>Special: </color><color=#8B0000>Has a 25% chance to throw a frozen butter stick that freezes zombies for 4 seconds.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Ice-shroom + Kernel-pult</color>"
         },

@@ -39,7 +39,7 @@ Please visit our community for future updates and support.
   - Lumos Pea (Peashooter + Plantern)
   - Squash Drone (Squash + Blover)
   - Coldslaw (Ice-shroom + Cabbage-pult)
-  - (PLANTNAME_1376) (Ice-shroom + Kernel-pult)
+  - Cobsicle (Ice-shroom + Kernel-pult)
   - Tingle Kelp (Puff-shroom > Tangle Kelp)
   - Lettuce-pult (Squash + Cabbage-pult)
 - Odyssey Fusions:
@@ -47,7 +47,7 @@ Please visit our community for future updates and support.
     - Boreas Umbrella (Pharos Umbrella + Ice-shroom)
     - Quasar (Omni Pumpkin [renamed from Mechanized Pumpkin] + Starfruit)
     - Cornposter Pot (Cornveyor Weed + Flower Pot)
-    - (PLANTNAME_979) (Bamboom + Pepper Popper)
+    - Dragonbreath Peppper (Bamboom + Pepper Popper)
   - Epic:
     - Cryolina Reaper
 - Special/Misc:
