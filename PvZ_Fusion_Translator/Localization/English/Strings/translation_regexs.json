@@ -368,5 +368,6 @@
   "属性倒计时：([^\\s]+)秒": "Ability CD: {0}s",
   "生产间隔：([^\\s]+)秒": "Production CD: {0}s",
   "([^\\s]+)路线:": "<size=70%>{0} Route:",
-  "已经选择路线：([^\\s]+)路线": "Upgrade Path Selected: {0} Route"
+  "已经选择路线：([^\\s]+)路线": "Upgrade Path Selected: {0} Route",
+  "玩家\n(\\d+)/10\n\n\n\n\n电脑\n(\\d+)/10": "Player\n{0}/10\n\n\n\n\nAI\n{1}/10"
 }
