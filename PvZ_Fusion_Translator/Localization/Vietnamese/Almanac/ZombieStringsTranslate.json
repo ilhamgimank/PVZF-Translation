@@ -896,9 +896,15 @@
         },
         {
             "theZombieType": 243,
-            "name": "Tiểu Đoàn Đặc Nhiệm Alpha",
+            "name": "<u>Tiểu Đoàn Đặc Nhiệm Alpha<u>",
             "introduce": "<size=36><color=black>Lưỡi dao của họ có thể xuyên thủng mọi thứ, họ có thể thâm nhập mọi tuyến phòng thủ. Sự phối hợp và ăn ý giữa họ đã đạt đến đỉnh cao. Khi xuất quân, họ trở thành 1 địch vạn người, không cây nào có thể ngăn cản bọn họ tiến công, trừ xe cắt cỏ.</color>",
             "info": "<size=36>Đi theo nhóm 5 người, tinh anh của cả quân đoàn Z!\n\n<color=black>Sát Thương:</color><color=#4B0082> 500x2</color>\n<color=black>Máu: </color><color=#4B0082>30000+30000 (Giáp cấp 2)</color>\n<color=black>Kĩ Năng:</color><color=#4B0082> \n<color=black>•</color> Miễn nhiễm với thôi miên và nuốt chửng. \n<color=black>•</color> Đi theo nhóm 5 người \n<color=black>•</color> Khi nhận sát thương chí mạng sẽ rơi vào trạng thái hấp hối (bất động và không bị chỉ định tấn công lẫn có thể chặn đạn). \n<color=black>•</color> Sau trạng thái hấp hối 10 giây thì sẽ hồi phục đầy máu, lướt tới trước 2.5 ô gây 500 sát thương cho những cây mà nó đi qua và đặt một quả bom, sau đó quả bom này sẽ phát nổ như bom hề.</color></size>"
+        },
+        {
+            "theZombieType": 244,
+            "name": "<u>Thánh Long Vạn Niên<u>",
+            "introduce": "<size=36><color=black>Vào một mùa thu yên bình, có một con rồng giáng thế xuống trần gian. Thân nó kết từ dây leo, lấy xác làm thị giả, dựng kiếm làm quan quách. Thấy cỏ cây xanh tốt lạ thường, nó phán: “Vạn năm trước khi ta đắc đạo, chưa từng thấy dị tượng này.” Lật tức vung tay, toàn bộ khu vực xung quanh đều bị phá hủy. Người đời chẳng rõ nó là cây hay Zom, chỉ gọi nó là: Thánh Long Vạn Niên.",
+            "info": "<size=36>Người bảo hộ vùng đất hàng vạn năm.\n\n<color=black>Máu: </color><color=#4B0082>15000*4</color>\n<color=black>Đặc Điểm: </color><color=#4B0082>\n<color=black>•</color> Miễn nhiễm với mọi hiệu ứng bất lợi.\n<color=black>•</color> Chỉ nhận tối đa 5000 sát thương từ hành quyết.\n<color=black>•</color> Zombie thôi miên khi lại gần sẽ bị tiêu diệt ngay lập tức bằng vụ nổ hề trong bán kính 5x3 ô.\n<color=black>•</color> Có 4 dạng, mỗi dạng sẽ có 15000 máu. Khi máu xuống 0, chuyển đổi sang dạng tiếp theo.\n<color=black>Dạng 1:</color> Đánh cắp búa của người chơi. Tấn công toàn bộ cây trên sân, gây 1000 sát thương. (100 nếu không phải chế độ Du Lịch) Sau đó sẽ chỉ tấn công lên cây có lượng máu cao nhất trên sân.\n<color=black>Dạng 2:</color> Đánh cắp găng tay của người chơi. Mỗi 4 giây sẽ di chuyển Zombie không phải Zombie bay và miniboss gần nhà nhất thêm 2 ô mỗi hàng.\n<color=black>Dạng 3:</color> Đánh cắp xẻng của người chơi. Mỗi 5 giây sẽ xẻng cây có giá trị mặt trời thấp nhất trên sân.\n<color=black>Dạng 4:</color> Có toàn bộ khả năng của 3 dạng trước. Khi bị tiêu diệt sẽ rớt ra toàn bộ thẻ cây mà nó đã xẻng.</color></size>"
         },
         {
             "theZombieType": 300,
