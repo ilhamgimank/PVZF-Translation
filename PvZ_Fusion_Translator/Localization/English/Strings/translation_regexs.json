@@ -370,5 +370,7 @@
   "([^\\s]+)路线:": "<size=70%>{0} Route:",
   "已经选择路线：([^\\s]+)路线": "Upgrade Path Selected: {0} Route",
   "玩家\n(\\d+)/10\n\n\n\n\n电脑\n(\\d+)/10": "Player\n{0}/10\n\n\n\n\nAI\n{1}/10",
-  "种植了：([^\\s]+)": "{0} planted!"
+  "种植了：([^\\s]+)": "{0} planted!",
+  "升级成功：([^\\s]+) -> ([^\\s]+)": "{0} successfully upgraded to {1}!",
+  "场上已经有一个([^\\s]+)了": "{0} already exists on the lawn!"
 }
