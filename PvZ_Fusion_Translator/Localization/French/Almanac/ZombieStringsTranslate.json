@@ -351,20 +351,20 @@
         {
             "theZombieType": 204,
             "name": "Zombie QB Giga-noix",
-            "introduce": "<size=32><color=black>Sortant de l'ombre, le Zombie Giga Rugby-nut rayonne de puissance, de froideur et une ambiance sinistre. Il garde catégoriquement pour lui le secret de sa force, affirmant que seules les ténèbres les plus sombres peuvent créer un être aussi redoutable que lui. \"Où est ma peinture ?\" » a demandé le Dr Edgar, l'air perplexe dans son laboratoire.</color>",
-            "info": "<size=32>Un vieil ami ? Peut-être, peut-être que nous l'avons déjà rencontré.\n\n<color=black>Dégâts : </color><color=#4B0082>100</color>\n<color=black>Robustesse : </color><color=#4B0082>3000+12000</color>"
+            "introduce": "<align=justified><size=36><color=black>Sortant de l'ombre, le Zombie QB Giga-noix rayonne de puissance, de froideur et d'une ambiance sinistre. Il garde catégoriquement pour lui le secret de sa force, affirmant que seules les ténèbres les plus sombres peuvent créer un être aussi redoutable que lui. \"Où est ma peinture ?\" ce demande le Dr Edgar, l'air perplexe dans son laboratoire.</color>",
+            "info": "<size=36>Un vieil ami ? Peut-être, peut-être que nous l'avons déjà rencontré.\n\n<color=black>Dégâts : </color><color=#4B0082>100</color>\n<color=black>Robustesse : </color><color=#4B0082>3000 + 12000 (Type 1)</color>\n<color=black>Modificateurs d’Odyssée:\n</color><color=#4B0082>1. Les plantes mordues par le Zombie QB Giga-noix et le Giga Rugby Attaquant ne peuvent pas régénérer de la Robustesse pendant 1 seconde\n2. Les plantes mordues par le Zombie QB Giga-noix et le Giga Rugby Attaquant subissent des dégâts triplés pendant 1 seconde</color>"
         },
         {
             "theZombieType": 205,
             "name": "Zomppelin Kirov",
-            "introduce": "<size=28><color=black>Était-ce un énorme objet volant ? Non, il s’agissait en fait d’un gigantesque dirigeable, doté d’une coque robuste et capable de larguer un escadron de chasseurs. Même une fois détruit, le dirigeable pourrait toujours faire des ravages sur les créatures environnantes, obligeant les autres zombies à garder leurs distances, craignant qu'un crash ne les envoie à leur disparition.</color>",
-            "info": "<size=32>Rapport Kirov !\n\n<color=black>Robustesse : </color><color=#4B0082>3000</color>\n<color=black>Spécial : </color><color=#4B0082>Invoque un drone Kirov en action toutes les secondes. S'écrase à sa mort, infligeant d'immenses dégâts aux plantes à l'impact.</color>"
+            "introduce": "<align=justified><size=36><color=black>C’est un oiseau ? Non, c’est un avion ! Non… c’est un Zomppelin — mais version Kirov ! Certains zombies se sont posé la question : mais au fond, qu’est-ce qu’un Kirov ? Dr. Edgar répond sans hésiter : \"C’est un Zomppelin classique, mais piloté à distance avec une télécommande… ET IL LARGUE DES DRONES QUI LARGUENT DES EXPLOSIFS !\" Doté d’une coque exceptionnellement robuste et capable de déployer tout un escadron de drones, le Kirov est une véritable forteresse volante. Même une fois détruit, le dirigeable continue de semer le chaos : ses drones encore actifs poursuivent l’assaut, et sa détonation lors du crash provoque une explosion dévastatrice. À tel point que même les autres zombies gardent leurs distances, redoutant qu’un crash mal placé ne les renvoie d’où ils viennent.</color>",
+            "info": "<size=36>Un Zomppelin pas comme les autres..\n\n<color=black>Robustesse : </color><color=#4B0082>3000</color>\n<color=black>Spécial : </color><color=#4B0082>Invoque un Drone Kirov au combat toutes les 3 s. S'écrase à sa mort, infligeant d'immenses dégâts aux plantes à l'impact.</color><color=black>Modificateurs d’Odyssée : </color><color=#4B0082>1. Les Zomppelins et les Zomppelins Kirov voient désormais leur vitesse de déplacement multipliée par 5 et deviennent immunisés aux Troufles\n2. La Robustesse de chaque Drone Kirov est augmentée à 25K.</color>"
         },
         {
             "theZombieType": 206,
             "name": "Drone Kirov",
-            "introduce": "<size=35><color=black>Ce n'est pas un avion ordinaire ; c'est un avion spécial qui a été comprimé par la pression de l'eau. Même si la méthode exacte de compression reste un mystère, sa puissance sur le champ de bataille rivalise avec celle des bombardiers conventionnels.</color>",
-            "info": "<size=35>Les drones Kirov volent plus vite, lâchant des bombes au-dessus des plantes qu'ils survolent.\n\n<color=black>Bombe Dégâts : </color><color=#4B0082>1000</color>\n<color=black>Robustesse : </color><color=#4B0082>200</color>"
+            "introduce": "<size=36><color=black>Ce n'est pas un drone ordinaire ; c'est un drone spécial qui a été comprimé par la pression de l'eau. Même si la méthode exacte de compression reste un mystère, sa puissance sur le champ de bataille rivalise avec celle des bombardiers conventionnels.</color>",
+            "info": "<size=36>Les drones Kirov volent plus vite que le Zomppelin et lâchant des bombes au-dessus des plantes qu'ils survolent.\n\n<color=black>Dégâts : </color><color=#4B0082>500</color>\n<color=black>Robustesse : </color><color=#4B0082>500</color>\n<color=black>Spécial: </color><color=#4B0082>Immunisé a l'Altération Cryo et aux Troufles. Largue des bombes sur les plantes situées en dessous toutes les 3 s.</color>"
         },
         {
             "theZombieType": 207,
@@ -482,9 +482,9 @@
         },
         {
             "theZombieType": 220,
-            "name": "Giga Rugby Striker",
-            "introduce": "<color=black></color>",
-            "info": "<size=24>Giga Rugby Striker peut détruire votre défense en toute simplicité !\n\n<color=black>Dégâts : </color><color=#4B0082>200</color>\n<color=black>Résistance : </color><color=#4B0082>8000+24000</color>\n<color=black>Spécials : </color><color=#4B0082>Immunisé contre les renversements, les Hypnos et les Mordeurs, et ne subit pas plus de 5 000 dégâts à chaque coup. Tant qu'elles sont présentes, toutes les plantes sont incapables de guérir, et toute tentative de guérison infligera 0,1 fois le montant de la guérison sous forme de dégâts au Giga Rugby Striker. Lorsqu'il mord des plantes non défensives, il les tue instantanément et les transforme en zombies Giga Rugby-nut ordinaires. Toutes les 3 secondes, le Giga Rugby Striker gagne les capacités suivantes (empilables) : \n1. Double la puissance d’attaque. \n2. Restaure 6000 points de vie à son armure. \n3. Augmente la vitesse de 0,3 (jusqu'à un maximum de 3). (Plage de vitesse des zombies à l'apparition : 0,9 - 1,8)</color>"
+            "name": "<u>Giga Rugby Attaquant</u>",
+            "introduce": "<align=justified><size=36><color=black>Il est impossible de lui échapper. Giga Rugby Attaquant se déplace avec une précision surnaturelle, ses yeux sans cligner scrutant sa prochaine victime. Il n’était pas seulement un destructeur — il était un moissonneur, un cauchemar qui prenait plus que la vie. Chaque plante qu’il touchait devenait une partie de lui, tordue et corrompue. Et tandis qu’il avançait, sa présence murmurait la même vérité terrifiante: \"Tu peux courir, Tu peux te cacher. Mais tu ne peux pas t'enfuir, peut importe ou tu es je te retrouverais !\"</color>",
+            "info": "<size=36>Giga Rugby Attaquant peut détruire votre défense en toute simplicité !\n\n<color=black>Dégâts : </color><color=#4B0082>200</color>\n<color=black>Robustesse : </color><color=#4B0082>8000 + 24000 (Type 1)</color>\n<color=black>Spécial : </color><color=#4B0082>Mini-boss. Immunisé contre le recul, les Altérations Hypno et les Mordeurs, et ne subit pas plus de 5 000 dégâts à chaque coup.\n<color=black>•</color> Désactive la guérison des plantes, la convertissant en 0,1× dégâts contre lui-même, plafonnés à 1 % de ses PV max.\n<color=black>•</color> Lorsqu'il mord des plantes non défensives, il les tue instantanément et les transforme en Zombie QB Giga-noix.\n<color=black>•</color> Toutes les 3 s, dégâts ×2 (cumulable, max 1M), restaure 6 000 Robustesse d’armure et augmente la vitesse de 30 % (jusqu’à 3 fois la vitesse d’origine).</color>"
         },
         {
             "theZombieType": 221,
@@ -731,6 +731,12 @@
             "name": "Narval Marin",
             "introduce": "<align=justified><size=36><color=black>L'innovation dont Edgar est le plus fier, conçue pour une accélération maximale. Tous les membres d'équipage doivent passer des tests de centrifugation brutaux pour résister à la force G. \"C'est comme si dix Gargantua c'était assis sur toi,\" dit un survivant.</color>",
             "info": "<size=36>La lance d'acier des voies navigables.\n\n<color=black>Robustesse: </color><color=#4B0082>12000</color>\n<color=black>Spécial: </color><color=#4B0082>\n<color=black>•</color> Zombie évolué de Catégorie 3.\n<color=black>•</color> Charge à une vitesse extrême, coupant à travers les plantes aquatiques.\n<color=black>•</color> Une fois par unité, 0,3 seconde après son apparition, double la vitesse de déplacement de tous les zombies dans une zone de 3×3 (cumulable jusqu'à 2 fois).</color>"
+        },
+        {
+            "theZombieType": 124,
+            "name": "Gargantua Lanceur-de-nain",
+            "introduce": "<align=justified><size=36><color=black>Gargantua Lanceur-de-nain est un descendant du Gargantua Australien. Ceux qui l’ont précédé ont lancé différentes choses, allant de Zombie Diable à ressort à d’autres Gargantuas. Il a pensé qu’il devrait revenir aux sources et lancer davantage des nains ou plus exactement des diablotins, 5 pour être exact, un véritable témoignage de son héritage.</color>",
+            "info": "<size=36>Gargantua avec d'avantage de diablotins cachés sur son dos.\n\n<color=black>Robustesse: </color><color=#4B0082>3000</color>\n<color=black>Spécial: </color><color=#4B0082>Lance 5 diablotins d'un coup.</color>"
         }
     ]
 }
