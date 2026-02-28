@@ -430,16 +430,16 @@
         {
             "seedType": 918,
             "name": "Triple Pisto-pois Cendré",
-            "introduce": "<size=36><color=black>Les flammes consument son corps brisé, chaque souffle est un tourment, mais le Ashen Triple Pisto-pois se tient debout. Il croit que le feu intérieur atteindra la gloire éternelle dans une dernière et grande explosion.</color>",
-            "info": "<size=36>Ashen Triple Pistopois attend sa renaissance.\n\n<color=black>Spécial : </color><color=#8B0000>Perd ses capacités d'attaque après avoir été complètement brûlé.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Triple Pisto-pois Scorched + Jalapeño</color>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>Les flammes consument son corps brisé, chaque souffle est un supplice, et pourtant le Triple Pisto-pois Cendré demeure droit. Il croit que le feu qui l’habite atteindra une gloire éternelle dans une ultime et grandiose explosion.</color>",
+            "info": "<size=36>Le Triple Pisto-pois Cendré attend sa renaissance.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Sélection initiale</color>\n<color=black>Spécial : </color><color=#8B0000>Perd toute capacité d’attaque après avoir été entièrement consumé par les flammes.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Triple Pisto-pois Brûlé + Jalapeño</color>"
         },
         {
             "seedType": 919,
             "name": "Triple Pisto-pois Phénix",
-            "introduce": "<size=36><color=black>Personne ne sait si le feu fait réellement renaître les plantes : ce n'est qu'une légende. Ceux qui l'ont poursuivi se sont transformés en cendres, jusqu'à ce qu'il devienne une nouvelle légende. Je ne sais pas combien de fois je dois endurer les flammes pour réussir, mais pour elles, je dois le faire.</color>",
-            "info": "<size=36>Du feu renaît !\n\n<color=black>Dégâts : </color><color=#8B0000>160x3/1.5 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Incendie toute la pelouse à l'entrée, les projectiles infligent le debuff Enflammé, transpercent trois fois avec des dégâts doublés après passage d'Écras-torche Infernale.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Ashen Triple Pisto-pois + Jalapeño</color>\n<color=black>Buffs d'Odyssée :\n<color=#8B0000>1. Multiplicateur de dégâts enflammés → 150 %, et les pois enflammés peuvent désormais infliger le debuff\n2. Les balles peuvent désormais percer à l'infini</color>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>Nul ne sait si le feu offre réellement une renaissance aux plantes — ce n’est qu’une légende. Ceux qui l’ont poursuivie sont devenus cendres… jusqu’à ce qu’il devienne la nouvelle légende. \" Je ne sais pas combien de fois je devrai endurer les flammes pour réussir, mais pour eux, je le dois. \"</color>",
+            "info": "<size=36>Renaît des flammes !\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Sélection initiale</color>\n<color=black>Dégâts : </color><color=#8B0000>160×3/1,5s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Enflamme toute la pelouse lors de son entrée en jeu.\n<color=black>•</color> Les projectiles appliquent l’Altération Enflammé et perforent 2 fois.\n<color=black>•</color> Ses dégâts sont doublés après avoir traversé un Écraseur Infernal.</color>\n<color=black>Modificateurs Odyssée :</color>\n<color=#8B0000>1. Bonus de dégâts contre les cibles Enflammées 50% → 150%, et les projectiles enflammés standards peuvent désormais appliquer l’altération\n2. Les Pois Phénix perforent désormais à l’infini et provoquent des explosions Enflammées | Sous-espèce Drone Phénix débloquée</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Triple Pisto-pois Cendré + Jalapeño</color>"
         },
         {
             "seedType": 920,
@@ -877,7 +877,7 @@
         },
         {
             "seedType": 1058,
-            "name": "Triple Pisto-brûlé",
+            "name": "Triple Pisto-pois Brûlé",
             "introduce": "<align=justified><size=36><color=black>\"Pourquoi Jalapeño reçoit toujours tout le mérite?\" s'exclame Triple Pisto-brûlé, de la fumée s'échappant de sa bouche. \"S'ils savaient seulement qu'en fusionnant avec Jalapeño, cela brûle mes pois.\" Il se tourne vers Torche avec un air sérieux. \"Crois-moi, Tu ne voudras pas croquer des pois carbonisés !\"</color></size>",
             "info": "<size=36>Un Triple Pisto-pois qui ne peut pas fusionner parce qu'il est brûlé.\n\n<color=black>Dégâts: </color><color=#8B0000>40×3/1.5 s</color>\n<color=black>Spécial: </color><color=#8B0000>Lors de la fusion avec Jalapeño il produit une ligne de flammes infligeant 1800 (Crémateur) de dégâts sur trois rangées.</color></size>",
             "cost": "\n<size=36>Formule de fusion: <color=#8B0000>Triple Pisto-pois + Jalapeño</color></size>"
@@ -1871,7 +1871,7 @@
         },
         {
             "seedType": 1274,
-            "name": "Champi-Explosion",
+            "name": "Champi-explosion",
             "introduce": "<align=justified><size=36><color=black>La plus douce des cerises de la famille : pas de crises, pas de hurlements, tout le monde l’adore. \"J’ai… un peu envie de me lâcher, parfois\" , avoue-t-il. \"Mais… j’ai peur qu’on me crie dessus.\"</color>",
             "info": "<size=36>Facilement effrayé, mais provoque une explosion quand cela arrive.\n\n<color=black>Dégâts : </color><color=#8B0000>40/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Lorsqu’il prend peur, il se cache et explose comme une Cerise Explosive, infligeant 600 dégâts sur une zone 3X3.</color>",
             "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Champi-peureux + Cerise Explosive</color>"
@@ -3835,6 +3835,27 @@
             "introduce": "<align=justified><size=36><color=black>\" On lui avait dit de ne pas l’ouvrir. Évidemment, il l’a ouverte. \" Le Champi-avare fit glisser un doigt le long du couvercle orné, doré et vibrant d’une tentation sourde. Des murmures s’en échappaient — faim, envie, ambition — tous suppliant d’être libérés. Avec un sourire trop assuré pour être innocent, il brisa le sceau. Ce qui en sortit n’était pas l’espoir. C’était le profit. \" Bienvenue, petit monstre \", murmura-t-il, tandis que l’abîme s’éveillait et qu’une nouvelle fortune se  frayait son chemin vers la surface.</color>",
             "info": "<size=36>Peut invoquer des zombies Mini-boss !\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Déverrouillable avec un Modificateur de la Champi-calamité</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Sous-espèce de la Champi-calamité.\n<color=black>•</color> Invoque un Zombie Mini-boss selon le terrain :\nJour : Professeur Cherryz | Nuit : Frappeur Giga Quarterback | Piscine : Jackson Worldwide | Brouillard : Mécha-Planeur Céleste | Toit Jour : Pozéidon | Toit Crépuscule : Clown Jill-surprise | Toit Nuit : Ultra Mécha-noix\n<color=black>•</color> Invoque simultanément sa variante Odyssée ordinaire sur toutes les lignes.\n<color=black>•</color> Vaincre le Zombie Mini-boss rapporte une grande quantité de Soleil, de Pièces et de points.\n<color=black>•</color> Vaincre une variante Odyssée ordinaire confère 1 Cadeau Florale.\n<color=black>•</color> Ne peut être invoquée qu’une seule fois par manche. Cette plante ne peut pas apparaître via un Cadeau Florale.</color>\n<color=black>Modificateurs Odyssée :</color>\n<color=#8B0000>1. Sous-espèce Champi-avare débloquée</color>",
             "cost": "\n<size=36>Formule de Conversion : <color=#8B0000>Champi-mort <-> Souci</color>"
+        },
+        {
+            "seedType": 962,
+            "name": "Drone Phénix",
+            "introduce": "<align=justified><size=36><color=black>\" Il est temps d’être à la hauteur de mon nom \", déclara le Drone Phénix. Pendant des années, il est resté cloué au sol, mais il peut enfin s’élever comme un véritable phénix. Même s’il est légèrement frustré que le Drone à Grenades l’ait devancé dans les airs, conquérir le ciel reste une immense joie.\n\n</color>",
+            "info": "<size=36>Déploie ses ailes comme un véritable phénix.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Déverrouillable avec un Modificateur du Triple Pisto-pois Phénix</color>\n<color=black>Dégâts : </color><color=#8B0000>160×3/3s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Sous-espèce du Triple Pisto-pois Phénix.\n<color=black>•</color> Plante volante. Les projectiles appliquent l’Altération Enflammé et perforent 2 fois.\n<color=black>•</color> À sa mort, déclenche l’effet Jalapeño sur sa ligne et les 2 lignes adjacentes.</color>\n<color=black>Modificateurs Odyssée :</color>\n<color=#8B0000>1. Bonus de dégâts contre les cibles Enflammées 50% → 150%, et les projectiles enflammés standards peuvent désormais appliquer l’Altération Enflammé\n2. Les pois Phénix perforent désormais à l’infini et provoquent des explosions Enflammées | Sous-espèce Drone Phénix débloquée</color>",
+            "cost": "\n<size=36>Formule de Conversion : <color=#8B0000>Pelle <-> Troufle</color>"
+        },
+        {
+            "seedType": 223,
+            "name": "Pomme Copieuse",
+            "introduce": "<align=justified><size=36><color=black>\" Paix et joie ! \" lance joyeusement la Pomme Copieuse à chaque plante qui passe. Les zombies, eux, reçoivent un message spécial : \" En cette saison de gratitude, joyeux Halloween ! \", soigneusement adapté à leur calendrier truffé d’erreurs.</color>",
+            "info": "<size=36>Écarte les catastrophes et garde vos \" pommes \" en sécurité.\n\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Commence avec 0 énergie. Énergie maximale limitée à 4000. Régénère 1 énergie toutes les 0,02s. Lorsqu’elle subit des dégâts ou que de l’énergie est consommée, la régénération est interrompue pendant 1s. Lorsque l’énergie est totalement épuisée, la régénération est interrompue pendant 5s.\n<color=black>•</color> Consomme une quantité d’énergie équivalente aux dégâts reçus pour bloquer les dégâts des plantes dans une zone de 3×3 cases.</color>",
+            "cost": "<size=36>Coût : <color=#8B0000>150</color>\nRecharge : <color=#8B0000>50s</color>"
+        },
+        {
+            "seedType": 305,
+            "name": "Champi-suprématie",
+            "introduce": "<align=justified><size=36><color=black>La Champi-suprématie vient des abysses les plus profonds et les plus densément peuplés, et commande les paysages oniriques les plus insaisissables. En lui, l’équilibre du yin et du yang s’accomplit parfaitement, et même les monstres les plus redoutables ont été domptés par sa main. En privé, il est aussi un collectionneur chevronné de figurines zombies.</color>",
+            "info": "<size=36>Invoque un Zombie Mini-boss hypnotisé pour combattre à vos côtés.\n\n<color=#4A2900>Condition d’utilisation : Mode Récolte | Plante Odyssée Légendaire</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> 1,5s après son apparition, invoque aléatoirement un Zombie Mini-boss hypnotisé parmi les suivants. Le Mini-boss invoqué ne peut pas être repoussé par les Hypno Troufle ni capturé par la Citrouille de Capture.\n<color=black>•</color> Gargantua Abyssal : confère également une Réduction des dégâts subis de 90% à toutes les plantes tant qu’il est présent.\n<color=black>•</color> Frappeur Giga Quarterback : soigne toutes les plantes d’un montant égal à 0,2× leurs PV max toutes les 3s tant qu’il est présent.\n<color=black>•</color> Professeur Cherryz : immobile. Tire une cerise explosive toutes les 0,1s. Perd son journal à l’apparition et convertit jusqu’à 30 zombies non Mini-boss et non Gargantuars présents sur le terrain (des deux côtés) en Zombies Journal Sulfateuse Cerise hypnotisés et enragés.</color>",
+            "cost": "\n" 
         }
     ]
 }

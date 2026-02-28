@@ -3,7 +3,7 @@
 
 # Plants vs Zombies: Fusion | Downloads, Resources, etc. 
 ***
-The download links for the Multi-language Mod and the translation files of the Multi-language Mod for PvZ: Fusion, as well as mirrors to the Chinese versions. Current supported base game version: **3.4.1**.
+The download links for the Multi-language Mod and the translation files of the Multi-language Mod for PvZ: Fusion, as well as mirrors to the Chinese versions. Current supported base game version: **3.4.2**.
 
 > **Discord Server**:
 >
@@ -16,7 +16,7 @@ The download links for the Multi-language Mod and the translation files of the M
  PvZ Fusion Version  |  Platform  |  Download Links 
 ------ | ------ | ------
 **\_Redist (Install these if you have problems launching the game)** | PC | [MEGA](https://mega.nz/file/gzU2QTIY#R71lWGYvXCxG4WBtzLyCRkkHV-WGqKB84rXXR4ikOSg)
-**Multi-Language 3.4.1 Beta** | PC | [Github Release](https://github.com/Teyliu/PVZF-Translation/releases/tag/3.4.1_beta)
+**Multi-Language 3.4.2 Beta** | PC | [Github Release](https://github.com/Teyliu/PVZF-Translation/releases/tag/3.4.2_beta)
 **English 3.4.1 Beta by Joseph Franci** | Android | [MEGA](https://mega.nz/file/sRFV2YbL#eSAadL1QY2nePWhEg42tWxGOsjQdlK-xrhdzYmK7dME) [Google Drive](https://drive.google.com/file/d/1CQfbEakrvw6aS-G-CMPlkTCVZ7Z9ZEcQ/view?usp=sharing) [Mediafire](https://www.mediafire.com/file/fzrepi026vnima2/PvZFusion3.4.1-Translation-Beta1.5.apk/file)
 **Chinese 3.4.1** | PC | [MEGA](https://mega.nz/file/FmMjiRCa#hh6uSjknqOuWT0JHWS3O3xNLzvGcrA0hwtbLZqAq7P0) [Google Drive](https://drive.google.com/file/d/1NOfhZYhG_h29Bcnet_vKPb6jtDa3EC5P/view?usp=sharing)
 **Chinese 3.4.1** | Android | [MEGA](https://mega.nz/file/2cZkRYYZ#QdyzemCsjMvVxvykCaC2cnL4LKkBeAQOoqpJtsk0Oys) [Google Drive](https://drive.google.com/file/d/1Z5d3WzpwwgMVKq_Feubs2iCDEbaWeYJx/view?usp=sharing)
@@ -32,11 +32,10 @@ The download links for the Multi-language Mod and the translation files of the M
 
 The Multi-Language version supports the following languages: **English**, **French**, **Italian**, **German**, **Spanish**, **Portuguese**, **Vietnamese**, **Javanese**, **Indonesian**, **Russian**, **Japanese**, **Ukrainian**, **Romanian** and **Korean**. Other contained languages are empty for the moment.
 
-	Up-to-date 3.3.1 - English, Vietnamese
-	Up-to-date partially 3.4.1 - Ukrainian
+	Up-to-date 3.4.2 - English, Vietnamese, Ukrainian
+	Gradually updating - French, Japanese
 	Last Updated 3.3.1 - Korean, Romanian
 	Last Updated 3.2.1 - Spanish
-	Gradually updating - French, Japanese
 	Last Updated 2.6.1 - Indonesian, Russian 
 	Last Updated 2.5.1 - Portuguese, Javanese
 	Last Updated 2.1.6 - German, Italian

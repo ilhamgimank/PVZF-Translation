@@ -184,7 +184,7 @@
             "theZombieType": 30,
             "name": "광대왕 좀비",
             "introduce": "<align=justified><size=36><color=black>모든 광대 좀비에게 자폭은 최고의 예술이며, 그중에서도 광대왕 좀비가 으뜸입니다. \"광대왕 좀비는 절대 가면을 벗지도, 손에 든 선물 상자를 내려놓지도 않을 것이다!\"</color>",
-            "info": "<size=36>광대왕 좀비는 죽은 후에도 폭발할 수 있습니다!\n\n<color=black>체력: </color><color=#4B0082>720 + 370 (제1 방어구)</color>\n<color=black>특수 능력: </color><color=#4B0082>폭발 후 더욱 난폭해져 이동 속도가  200% 빨라집니다. 사망 할 때는 폭발과 함께 깜짝 상자 좀비로 변할 가능성이 있으며, 필드에 머무는 시간이 길수록 그 확률이 높아집니다.\n자석 버섯에 의해 깜짝 상자를 뺏을 수 있습니다.</color>"
+            "info": "<size=36>광대왕 좀비는 죽은 후에도 폭발할 수 있습니다!\n\n<color=black>체력: </color><color=#4B0082>720 + 370 (제1 방어구)</color>\n<color=black>특수 능력: </color><color=#4B0082>폭발 후 더욱 난폭해져 이동 속도가  200% 빨라집니다. 사망 할 때는 폭발과 함께 깜짝 상자 좀비로 변할 가능성이 있으며, 맵에 머무는 시간이 길수록 그 확률이 높아집니다.\n자석 버섯에 의해 깜짝 상자를 뺏을 수 있습니다.</color>"
         },
         {
             "theZombieType": 31,
@@ -226,7 +226,7 @@
             "theZombieType": 37,
             "name": "임프",
             "introduce": "<align=justified><size=36><color=black>임프는 좁은 공간을 몰래 빠져나가는 것을 즐기며, 종종 장난을 치기도 합니다. 갑자기 튀어나와 뛰어다녀도 놀라지 마세요!</color>",
-            "info": "<size=36>작고 교활한 임프는 좁은 공간으로 쏙 들어가는 것을 좋아해 민첩하며, 공격하기 어렵습니다.\n\n<color=black>체력: </color><color=#4B0082>270</color>\n<color=black>특수 능력: </color><color=#4B0082>공중에 있는 동안, 우산잎류 식물의 긍극기로 인해 필드 밖으로 날려보낼 수 있습니다.</color>"
+            "info": "<size=36>작고 교활한 임프는 좁은 공간으로 쏙 들어가는 것을 좋아해 민첩하며, 공격하기 어렵습니다.\n\n<color=black>체력: </color><color=#4B0082>270</color>\n<color=black>특수 능력: </color><color=#4B0082>공중에 있는 동안, 우산잎류 식물의 긍극기로 인해 맵 밖으로 날려보낼 수 있습니다.</color>"
         },
         {
             "theZombieType": 38,
@@ -268,7 +268,7 @@
             "theZombieType": 44,
             "name": "<u><i>닥터 좀보스 & 좀봇<u><i>",
             "introduce": "<align=justified><size=36><color=black>에드거 조지 좀보스는 단 2년 만에 사망학 박사 학위를 취득했습니다. 이후 빠르게 사망학 기술을 터득해 좀봇을 만들고 자신의 구역의 절대적인 지배권을 확립하기 시작했습니다.</color>",
-            "info": "<size=36>닥터 좀보스는 모든 것을 지배합니다.\n\n<color=black>체력: </color><color=#4B0082>60000</color>\n<color=black>특수 능력: </color><color=#4B0082>쓰러지면 트로피를 떨어뜨립니다. 대미지 감소 계산 전, 받는 최대 대미지는 5000으로 제한됩니다. 빙결, 화염을 제외한 대부분의 상태 이상에 면역입니다. 여러 공격 모드를 가지고 있습니다:\n<color=black>•</color> 매번 각 열 왼쪽에 랜덤한 좀비를 소환합니다.\n<color=black>•</color> 가장 오른쪽 4개 열의 식물을 밟습니다.\n<color=black>•</color> 라인에 따라 필드 끝까지 굴러가는 거대한 얼음과 화염구을 발사하여 식물을 누릅니다.\n<color=black>•</color> 필드 왼쪽 절반에 번지 좀비 3마리를 떨어뜨립니다. \n<color=black>•</color> 체력이 절반이 되면 캠핑카를 던지기 시작하며, 2x3 범위의 모든 식물을 누릅니다.</color>"
+            "info": "<size=36>닥터 좀보스는 모든 것을 지배합니다.\n\n<color=black>체력: </color><color=#4B0082>60000</color>\n<color=black>특수 능력: </color><color=#4B0082>쓰러지면 트로피를 떨어뜨립니다. 대미지 감소 계산 전, 받는 최대 대미지는 5000으로 제한됩니다. 빙결, 화염을 제외한 대부분의 상태 이상에 면역입니다. 여러 공격 모드를 가지고 있습니다:\n<color=black>•</color> 매번 각 열 왼쪽에 랜덤한 좀비를 소환합니다.\n<color=black>•</color> 가장 오른쪽 4개 열의 식물을 밟습니다.\n<color=black>•</color> 라인에 따라 맵 끝까지 굴러가는 거대한 얼음공과 화염구을 발사하여 식물을 누릅니다.\n<color=black>•</color> 맵 왼쪽 절반에 번지 좀비 3마리를 떨어뜨립니다. \n<color=black>•</color> 체력이 절반이 되면 캠핑카를 던지기 시작하며, 2x3 범위의 모든 식물을 누릅니다.</color>"
         },
         {
             "theZombieType": 45,
@@ -290,9 +290,9 @@
         },
         {
             "theZombieType": 48,
-            "name": "니엔 좀비",
-            "introduce": "<align=justified><size=36><color=black>새해를 기념하기 위해, 좀비 파티는 축제 정신의 화신인 니엔 좀비를 내보냅니다. \n\n\"내 새 옷 좀 봐요! 마치 사자춤 추는 사람처럼 안 보이나요? 꽤 멋지죠? 자, 이제 식물들에게 새해 인사를 전할 시간이에요!\"\n\n안타깝게도 식물들은 너무 공손했습니다. 즐거운 ”감사합니다”” 인사 세례가 끝나자, 니옌 좀비는 좋아하든 말든 금세 쓸려가 버렸습니다.",
-            "info": "<size=36>니옌 좀비는 매우 강력한 방어구를 가지고 있습니다.\n\n<color=black>체력: </color><color=#4B0082>8888 + 8888 (제1 방어구)</color>\n<color=black>약점: </color><color=#4B0082>체리붐은 니옌 좀비에게 150% 대미지를 줍니다.</color>"
+            "name": "사자탈 좀비",
+            "introduce": "<align=justified><size=36><color=black>새해를 기념하기 위해, 좀비 파티는 축제 정신의 화신인 사자탈 좀비를 내보냅니다. \n\n\"내 새 옷 좀 봐요! 마치 사자춤 추는 사람처럼 안 보이나요? 꽤 멋지죠? 자, 이제 식물들에게 새해 인사를 전할 시간이에요!\"\n\n안타깝게도 식물들은 너무 공손했습니다. 즐거운 \"감사합니다.\" 인사 세례가 끝나자, 사자탈 좀비는 좋아하든 말든 금세 쓸려가 버렸습니다.",
+            "info": "<size=36>사자탈 좀비는 매우 강력한 방어구를 가지고 있습니다.\n\n<color=black>체력: </color><color=#4B0082>8888 + 8888 (제1 방어구)</color>\n<color=black>약점: </color><color=#4B0082>밤붐과 체리붐은 사자탈 좀비에게 1500% 대미지를 줍니다.</color>"
         },
         {
             "theZombieType": 49,
@@ -369,7 +369,7 @@
         {
             "theZombieType": 61,
             "name": "미식축구 돌고래 좀비",
-            "introduce": "<align=justified><size=36><color=black>이 친구는 마치 물속의 물고기처럼 미식축구 필드를 누빕니다. …잠깐! 그건 비유였다고! 누가 잔디밭에 물을 채우래!?</color>",
+            "introduce": "<align=justified><size=36><color=black>이 친구는 마치 물속의 물고기처럼 미식축구 맵를 누빕니다. …잠깐! 그건 비유였다고! 누가 잔디밭에 물을 채우래!?</color>",
             "info": "<size=36>멋진 헬멧을 자랑하듯 날렵한 걸음으로 잔디밭을 가로지릅니다.\n\n<color=black>체력: </color><color=#4B0082>720 + 1400 (제1 방어구)</color>\n<color=black>특수 능력: </color><color=#4B0082>헬멧을 쓰고 있는 동안에는 식물을 무시하고 지나칩니다, 끝 타일에 도달할 시 헬멧을 포함해 모든 체력을 회복하고 반대 방향으로 이동합니다.</color>"
         },
         {
@@ -442,7 +442,7 @@
             "theZombieType": 73,
             "name": "좀비 연불꽃",
             "introduce": "<align=justified><size=36><color=black>그녀가 어째서 언데드들 사이에 나타나는지, 어떻게 끝없는 좀비의 파도를 불러오는지는 아무도 모릅니다. 어떤 이는 그녀를 연불꽃의 묘비라 부르고, 또 어떤 이는 식물들 사이의 배신자라 부릅니다. 진실이 무엇이든, 좀비연불꽃은 그것을</color>",
-            "info": "<size=36>좀비를 소환하고 묘비처럼 식물을 대체할 수 있는 사악한 꽃입니다.\n\n<color=black>체력: </color><color=#4B0082>300</color>\n<color=black>특수 능력: </color><color=#4B0082>\n<color=black>•</color> 필드내 가장 오른쪽 다섯 열에만 등장합니다. 빈 칸을 우선하며, 없을 경우 랜덤 식물을 대체합니다.\n<color=black>•</color> 삽으로 퍼내거나 장갑으로 옮길 수 없습니다. 좀비를 무시합니다.\n<color=black>•</color> 식물의 투사체를 막으며 30 대미지를 입습니다.\n<color=black>•</color> 등장 후 10초 후에 랜덤으로 좀보타니 1마리 소환하며, 그 후 15초마다 랜덤으로 좀보타니를 소환하고, 죽을 때마다 한 번 더 소환합니다.\n<color=black>•</color> 비료를 사용하면 즉시 사라지고 식물 상자 시드패킷을 드랍합니다.</color>"
+            "info": "<size=36>좀비를 소환하고 묘비처럼 식물을 대체할 수 있는 사악한 꽃입니다.\n\n<color=black>체력: </color><color=#4B0082>300</color>\n<color=black>특수 능력: </color><color=#4B0082>\n<color=black>•</color> 맵 내 가장 오른쪽 다섯 열에만 등장합니다. 빈 칸을 우선하며, 없을 경우 랜덤 식물을 대체합니다.\n<color=black>•</color> 삽으로 퍼내거나 장갑으로 옮길 수 없습니다. 좀비를 무시합니다.\n<color=black>•</color> 식물의 투사체를 막으며 30 대미지를 입습니다.\n<color=black>•</color> 등장 후 10초 후에 랜덤으로 좀보타니 1마리 소환하며, 그 후 15초마다 랜덤으로 좀보타니를 소환하고, 죽을 때마다 한 번 더 소환합니다.\n<color=black>•</color> 비료를 사용하면 즉시 사라지고 식물 상자 시드패킷을 드랍합니다.</color>"
         },
         {
             "theZombieType": 74,
@@ -526,7 +526,7 @@
             "theZombieType": 107,
             "name": "체리 호두 좀비",
             "introduce": "<align=justified><size=36><color=black>체리 호두 좀비는 진정한 남자답게 폭발을 뒤돌아보지 않습니다. 그는 종종 얼굴로 폭탄을 받아내며 그 말에 딱 맞는 좀비입니다.</color>",
-            "info": "<size=36>폭발성 공격에 대해 약간의 저항력을 가집니다.\n\n<color=black>체력: </color><color=#4B0082>270 + 1100 (제1 방어구)</color>\n<color=black>특수 능력: </color><color=#4B0082>폭발 공격에 최대 150의 대미지만 받으며 체리 투사체에는 절반의 대미지만 받습니다. 얼린 체리의 파괴 시 빙결 효과는 무효화입니다.</color>"
+            "info": "<size=36>폭발성 공격에 대해 약간의 저항력을 가집니다.\n\n<color=black>체력: </color><color=#4B0082>270 + 1100 (제1 방어구)</color>\n<color=black>특수 능력: </color><color=#4B0082>폭발 공격에 최대 150의 대미지만 받으며 체리 투사체에는 절반의 대미지만 받습니다. 얼린 체리의 파괴 시 빙결 효과에 면역입니다.</color>"
         },
         {
             "theZombieType": 108,
@@ -646,7 +646,7 @@
             "theZombieType": 127,
             "name": "흑요석 키다리 호두 좀비",
             "introduce": "<align=justified><size=36><color=black>서리와 화염으로 단련된 흑요석 키다리 호두 좀비의 머리는 거의 파괴 불가능할 정도로 단단해졌습니다!… 물론, 온도가 너무 급격하게 변하지만 않는다면 말이죠.</color>",
-            "info": "<size=36>얼음과 불꽃에 의해 극도로 단단해졌지만, 할라피뇨와 얼음 버섯은 여전히 ​​그의 약점이죠.\n\n<color=black>체력: </color><color=#4B0082>1500 + 4500 (제1 방어구)</color>\n<color=black>대미지: </color><color=#4B0082>200</color>\n<color=black>특수 능력: </color><color=#4B0082>둔화, 빙결, 화염 디버프에 면역입니다. 상시 대미지 90% 감소 효과를 보유합니다. 얼음 버섯이나 할라페뇨의 효과를 받으면 최대 체력의 33%에 해당하는 고정 대미지를 입습니다. 얼음 키다리 호두 좀비와 불꽃 키다리 호두 좀비가 같은 타일에 있게 되면, 흑요석 키다리 호두 좀비로 합체합니다.</color>"
+            "info": "<size=36>얼음과 불꽃에 의해 극도로 단단해졌지만, 할라피뇨와 얼음 버섯은 여전히 ​​그의 약점이죠.\n\n<color=black>체력: </color><color=#4B0082>1500 + 4500 (제1 방어구)</color>\n<color=black>대미지: </color><color=#4B0082>200</color>\n<color=black>특수 능력: </color><color=#4B0082>둔화, 빙결, 화염 디버프에 면역입니다. 9 방어 포인트를 보유합니다. 얼음 버섯이나 할라페뇨의 효과를 받으면 최대 체력의 33%에 해당하는 고정 대미지를 입습니다. 얼음 키다리 호두 좀비와 불꽃 키다리 호두 좀비가 같은 타일에 있게 되면, 흑요석 키다리 호두 좀비로 합체합니다.</color>"
         },
         {
             "theZombieType": 128,
@@ -736,19 +736,19 @@
             "theZombieType": 212,
             "name": "<color=#4B0082><u>심연의 가르강튀아</u>",
             "introduce": "<align=justified><size=36><color=black>고대 문헌에는 심연의 흑요석 갑주는 쓴 서리와 타는 불길의 시련을 견뎌낸 몸만이 착용할 수 있다고 기록되어 있습니다. 좀비들의 일족이 극도의 위험에 처할 때, 그의 모습은 공포의 전장 한가운데 나타날 수 있습니다. \"큰 소란을 피우지 말라, 땅속에 잠들어 있는 거인을 깨우지 않도록 하라.\" 식물들에게 보내는 경고입니다.</color>",
-            "info": "<size=36>고대부터 존재해온, 섬뜩하고 교활한 위협.\n\n<color=black>체력: </color><color=#4B0082>32000 + 32000 (제1 방어구)</color>\n<color=black>특수 능력: </color><color=#4B0082>연옥 보스 좀비. 필드에 존재할 시 모든 좀비들은 받는 대미지량이 90%(오디세이: 진화에선 80%) 감소시킵니다, 땅을 내려칠 때 심연의 임프를 소환하며, 중무장 가르강튀아의 다른 특성도 계승되었습니다.</color>\n<page><color=#8B0000><u>연옥 보스 좀비: </color></u><color=#4B0082>최대로 5000 대미지만 받습니다.\n최면, 삼키기, 익사, 폭발, 변환, 축소, 시간 분열,\n순간이동에 면역입니다.\n우산잎류 식물에 의한 넉백 효과를 50%만 받습니다.\n모든 좀비에게 대미지 20% 감소 (최대 90%까지 중첩 가능)를 부여합니다. (별도로 명시된 경우 제외)\n플래그가 3개 이상 있는 일부 레벨에서 빅 웨이브부터 등장합니다.\n오디세이: 진화에서는 체력이 200%가 되며, 대미지 감소 70%를 제공합니다.</color>\n<page><color=black>오디세이 버프:\n</color><color=#4B0082>1. 사망 시 닥터 좀보스가 등장합니다.\n2. 오디세이 버프에서 선택한 연옥 보스 좀비랑 함께 등장합니다.</color>"
+            "info": "<size=36>고대부터 존재해온, 섬뜩하고 교활한 위협.\n\n<color=black>체력: </color><color=#4B0082>32000 + 32000 (제1 방어구)</color>\n<color=black>특수 능력: </color><color=#4B0082>연옥 보스 좀비. 맵에 존재할 시 모든 좀비들에게 9 방어 포인트를 제공합니니다, 땅을 내려칠 때 심연의 임프를 소환하며, 중무장 가르강튀아의 다른 특성도 계승되었습니다.</color>\n<page><color=#8B0000><u>연옥 보스 좀비: </color></u><color=#4B0082>최대로 5000 대미지만 받습니다.\n최면, 삼키기, 익사, 폭발, 변환, 축소, 시간 분열,\n순간이동에 면역입니다.\n우산잎류 식물에 의한 넉백 효과를 50%만 받습니다.\n모든 좀비에게 1 방어 포인트를 부여합니다. (별도로 명시된 경우 제외)\n플래그가 3개 이상 있는 일부 레벨에서 빅 웨이브부터 등장합니다.\n오디세이: 진화에서는 체력이 200%가 되며, 대미지 감소 70%를 제공합니다.</color>\n<page><color=black>오디세이 버프:\n</color><color=#4B0082>1. 사망 시 닥터 좀보스가 등장합니다.\n2. 오디세이 버프에서 선택한 연옥 보스 좀비랑 함께 등장합니다.</color>"
         },
         {
             "theZombieType": 213,
             "name": "심연의 임프",
             "introduce": "<align=justified><size=36><color=black>칼날이 빙글빙글 돌고, 날개가 펄럭이며, 심연 임프는 성묘의 차기 대작 쥬라기 좀비에서 튀어나온 듯한 아슬아슬한 공중 묘기를 선보였습니다. 평론가들은 이를 \"공중 안무의 걸작\"이라 칭했죠. 하지만 진실은? 그는 실수로 날려졌을 뿐이고, 그냥 몸을 굴리며 상황에 적응하고 있었던 겁니다. 말 그대로요.</color>",
-            "info": "<size=36>심연의 임프는 방어선을 손쉽게 뚫고 들어올 수 있습니다.\n\n<color=black>대미지: </color><color=#4B0082>200</color>\n<color=black>체력: </color><color=#4B0082>1500</color>\n<color=black>특수 능력: </color><color=#4B0082>등장 시 2.7칸 앞으로 돌진하며, 돌진 중에는 공격 대상이 될 수 없습니다. 다만, 우산잎 관련 식물의 긍극기로 인해 필드 밖으로 날려보낼 수 있습니다.</color>"
+            "info": "<size=36>심연의 임프는 방어선을 손쉽게 뚫고 들어올 수 있습니다.\n\n<color=black>대미지: </color><color=#4B0082>200</color>\n<color=black>체력: </color><color=#4B0082>1500</color>\n<color=black>특수 능력: </color><color=#4B0082>등장 시 2.7칸 앞으로 돌진하며, 돌진 중에는 공격 대상이 될 수 없습니다. 다만, 우산잎 관련 식물의 긍극기로 인해 맵 밖으로 날려보낼 수 있습니다.</color>"
         },
         {
             "theZombieType": 214,
             "name": "체리 개틀링-라이더 좀비",
             "introduce": "<align=justified><size=36><color=black>체리 개틀링-라이더 좀비는 언제나 끔찍한 기분으로 깨어납니다. 특히 고래를 탄 동료가 그를 억지로 일터로 끌고 갈 때는 더더욱 그렇죠. 분노로 가득 찬 그는, 잠깐 낮잠을 자기 전 경로상의 모든 식물을 날려버릴 준비가 되어 있습니다.</color>",
-            "info": "<size=36>방어선 뒤로 뛰어들어 폭발성 체리를 발사하며 파괴합니다!\n\n<color=black>체력: </color><color=#4B0082>1500</color>\n<color=black>대미지: </color><color=#4B0082>1000</color>\n<color=black>특수 능력: </color><color=#4B0082>필드에 등장한 지 3초 후, 1.5초마다 폭발성 체리 4개를 발사하기 시작합니다.</color>"
+            "info": "<size=36>방어선 뒤로 뛰어들어 폭발성 체리를 발사하며 파괴합니다!\n\n<color=black>체력: </color><color=#4B0082>1500</color>\n<color=black>대미지: </color><color=#4B0082>1000</color>\n<color=black>특수 능력: </color><color=#4B0082>맵에 등장한 지 3초 후, 1.5초마다 폭발성 체리 4개를 발사하기 시작합니다.</color>"
         },
         {
             "theZombieType": 215,
@@ -772,7 +772,7 @@
             "theZombieType": 218,
             "name": "<color=#4B0082><u>포제이돈</u>",
             "introduce": "<align=justified><size=36><color=black>바다가 갈라지며 포세이돈이 솟아오르고, 그의 거대한 몸에서 물보라가 쏟아집니다. 깊은 바다의 분노로 번쩍이는 삼지창이 이미 공격 준비를 마쳤습니다. \"조수는 내가 다스린다!\" 그는 포효하며, 그 목소리가 울부짖는 바람을 가릅니다. 순식간에 삼지창이 날아가며 적진을 쓰나미처럼 덮칩니다. \"도망가고 싶다면 가거라—하지만 바다를 이길 자는 없다.\"</color>",
-            "info": "<size=36>익사자의 왕.\n\n<color=black>체력: </color><color=#4B0082>24000 + 24000 (제1 방어구)</color>\n<color=black>특수 능력: </color><color=#4B0082>\n<color=black>•</color> 연옥 보스 좀비. 경직에 면역입니다.\n<color=black>•</color> 등장 시 전 1라인에 기가 삼지창 호두 좀비를 1마리씩 소환합니다.\n<color=black>•</color> 필드에 존재할 시 모든 기가 삼지창 호두 좀비는 지속적으로 삼지창을 투척할 수 있으며, 삼치창의 대미지량이 500% 증가합니다.\n<page><color=black>•</color> 초대형 삼지창은 일정한 각도로 던져지며, 맞는 식물이 즉사 저항을 가지고 있지 않을 시 즉사시킵니다.\n<color=black>•</color> 삼지창은 착지 후 30초가 지나면 폭발하여 주변 모든 식물을 제거합니다.</color>"
+            "info": "<size=36>익사자의 왕.\n\n<color=black>체력: </color><color=#4B0082>24000 + 24000 (제1 방어구)</color>\n<color=black>특수 능력: </color><color=#4B0082>\n<color=black>•</color> 연옥 보스 좀비. 경직에 면역입니다.\n<color=black>•</color> 등장 시 전 1라인에 기가 삼지창 호두 좀비를 1마리씩 소환합니다.\n<color=black>•</color> 맵에 존재할 시 모든 기가 삼지창 호두 좀비는 지속적으로 삼지창을 투척할 수 있으며, 삼치창의 대미지량이 500% 증가합니다.\n<page><color=black>•</color> 초대형 삼지창은 일정한 각도로 던져지며, 맞는 식물이 즉사 저항을 가지고 있지 않을 시 즉사시킵니다.\n<color=black>•</color> 삼지창은 착지 후 30초가 지나면 폭발하여 주변 모든 식물을 제거합니다.</color>"
         },
         {
             "theZombieType": 219,
@@ -790,31 +790,31 @@
             "theZombieType": 221,
             "name": "<color=#4B0082><u>하늘의 파수꾼</u>",
             "introduce": "<align=justified><size=36><color=black>하늘의 파수꾼이 전장에 모습을 드러내자 땅이 흔들렸고, 거대한 기계는 희미한 빛 속에서 섬뜩하게 빛났습니다. \"지상 공격 개시.\" 외침과 함께 식물들은 나뭇가지처럼 부서져 나갔습니다. 그러나 진짜 공포는 메카가 하늘로 치솟을 때 시작되었습니다. \"제공권 확보.\" 무시무시한 선언과 함께 키로프 좀플린이 쏟아지고 정밀한 폭격이 이어졌습니다. \"너희의 방어는 이제 무용지물이다.\"</color>",
-            "info": "<size=36>이륙! 이륙이 시작되었습니다!\n\n<color=black>체력: </color><color=#4B0082>15000</color>\n<color=black>특수 능력: </color><color=#4B0082>\n<color=black>•</color> 연옥 보스 좀비. 넉백과 특정 식물의 격추 능력을 무효화합니다.\n<color=black>•</color> 지상에서 매우 빠르게 음직이면서 식물을 짓밟습니다.\n<color=black>•</color> 체력 2/3이 되면 잠시 무적 상태가 된 뒤 이륙하여, 3초마다 1 라인에 키로프 좀플린 1마리씩 소환하고 깜짝 상자 폭탄을 투하합니다.</color>"
+            "info": "<size=36>이륙! 이륙이 시작되었습니다!\n\n<color=black>체력: </color><color=#4B0082>15000</color>\n<color=black>특수 능력: </color><color=#4B0082>\n<color=black>•</color> 연옥 보스 좀비. 넉백과 특정 식물의 격추 능력에 면역합니다.\n<color=black>•</color> 지상에서 매우 빠르게 음직이면서 식물을 짓밟습니다.\n<color=black>•</color> 체력 2/3이 되면 잠시 무적 상태가 된 뒤 이륙하여, 3초마다 1 라인에 키로프 좀플린 1마리씩 소환하고 깜짝 상자 폭탄을 투하합니다.</color>"
         },
         {
             "theZombieType": 222,
             "name": "<color=#4B0082><u>잭슨 월드와이드</u>",
             "introduce": "<align=justified><size=36><color=black>스포트라이트가 깜빡이자 잭슨 월드와이드가 앞으로 나섭니다. 날카로운 미소와 낮은 목소리로 말합니다. \"이게 게임이라고 생각합니까?\" 손가락을 튕기자 슈퍼스타 좀비들이 나타나고, 악기가 날카롭게 울립니다. \"이 정원은 이제 내 무대야. 얼마나 버틸 수 있는지 한 번 보자.\"",
-            "info": "<size=36>잭슨 월드와이드는 평생을 무대 공연과 투어에 대한 열정에 바쳐 왔습니다.\n\n<color=black>체력: </color><color=#4B0082>48000</color>\n<color=black>특수 능력: </color><color=#4B0082>\n<color=black>•</color> 연옥 보스 좀비. 모든 디버프를 무효화합니다\n<color=black>•</color> 식물을 짓밟습니다.\n<color=black>•</color> 스파이크위드류 공격을 받을 때, 입는 대미지가 최대 480으로 제한됩니다.\n<color=black>•</color> 주변 좀비들에게 빙결 면역을 부여하며, 매 10번씩 춤추때마다 슈퍼스타 좀비 4마리와 슈퍼 장대 좀비 4마리를 소환합니다.\n<color=black>•</color>사망 시 자리에 2마리의 마이클 좀보니와 슈퍼스타 좀비 1마리를 소환합니다.</color>"
+            "info": "<size=36>잭슨 월드와이드는 평생을 무대 공연과 투어에 대한 열정에 바쳐 왔습니다.\n\n<color=black>체력: </color><color=#4B0082>48000</color>\n<color=black>특수 능력: </color><color=#4B0082>\n<color=black>•</color> 연옥 보스 좀비. 모든 디버프 면역입니다\n<color=black>•</color> 식물을 짓밟습니다.\n<color=black>•</color> 스파이크위드류 공격을 받을 때, 입는 대미지가 최대 480으로 제한됩니다.\n<color=black>•</color> 주변 좀비들에게 빙결 면역을 부여하며, 매 10번씩 춤추때마다 슈퍼스타 좀비 4마리와 슈퍼 장대 좀비 4마리를 소환합니다.\n<color=black>•</color>사망 시 자리에 2마리의 마이클 좀보니와 슈퍼스타 좀비 1마리를 소환합니다.</color>"
         },
         {
             "theZombieType": 223,
             "name": "<color=#4B0082><u>체리 개틀링 교수</u>",
             "introduce": "<align=justified><size=36><color=black>닥터 에드거의 멘토인 존경받는 체리 개틀링 교수는 말투에서 세련된 침착함과 우아함을 풍깁니다. 하지만 그는 과학적 유물, 특히 폭발물 연구에 집착합니다. 소문에 따르면 체리질라도 원래 그의 작품이었다고 합니다…</color>",
-            "info": "<size=36>연구에 집착하는 학자로, 이제 시선이 당신에게 향합니다.\n\n<color=black>체력: </color><color=#4B0082>6000 + 15000 (제1 방어구) + 3000 (제2 방어구)</color>\n<color=black>대미지: </color><color=#4B0082>1000</color>\n<color=black>특수 능력: </color><color=#4B0082>\n<color=black>•</color> 연옥 보스 좀비. 넉백을 무효화합니다.\n<color=black>•</color> 신문지가 파괴되기 전 까지 무적입니다. 신문을 잃으면 잠시 동안 무적이 되며, 최대 30마리의 좀비를 분노한 신문지 체리 개틀링 좀비로 바꿉니다. 이후 매우 빠르게 음직이며, 박격포로 체리를 곡사 형태로 지속적 날리면서 체리를 미친듯이 흩뿌립니다.\n<color=black>•</color>  스파이크위드류 식물에 의해서 타이어가 터질 시 신문지가 파괴되며 분노하게 되지만 움직이지 않습니다.</color>"
+            "info": "<size=36>연구에 집착하는 학자로, 이제 시선이 당신에게 향합니다.\n\n<color=black>체력: </color><color=#4B0082>6000 + 15000 (제1 방어구) + 3000 (제2 방어구)</color>\n<color=black>대미지: </color><color=#4B0082>1000</color>\n<color=black>특수 능력: </color><color=#4B0082>\n<color=black>•</color> 연옥 보스 좀비. 넉백에 면역입니다.\n<color=black>•</color> 신문지가 파괴되기 전 까지 무적입니다. 신문을 잃으면 잠시 동안 무적이 되며, 최대 30마리의 좀비를 분노한 신문지 체리 개틀링 좀비로 바꿉니다. 이후 매우 빠르게 음직이며, 박격포로 체리를 곡사 형태로 지속적 날리면서 체리를 미친듯이 흩뿌립니다.\n<color=black>•</color>  스파이크위드류 식물에 의해서 타이어가 터질 시 신문지가 파괴되며 분노하게 되지만 움직이지 않습니다.</color>"
         },
         {
             "theZombieType": 224,
             "name": "<color=#4B0082><u>광대 여왕</u>",
             "introduce": "<align=justified><size=36><color=black>여왕의 시선만으로도 그녀의 하인들은 떨게 됩니다. 감히 누구도 그녀에게 도전하지 못합니다. 하지만 권력만이 그녀의 즐거움은 아닙니다—그녀는 주는 것을 사랑합니다. 화려하게 장식된 그녀의 선물 상자 안에는 어린 손길을 기다리는 장난감과 장신구들이 있습니다… 그리고 놀라움을 선사할 폭탄들도 함께 들어 있습니다. 아, 그녀가 얼마나 놀라움을 사랑하는지요.</color>",
-            "info": "<size=36>광대 여왕은 \"폭발적인 장면\"을 만드는 데 매우 열정적입니다.\n\n<color=black>체력: </color><color=#4B0082>48000</color>\n<color=black>특수 능력: </color><color=#4B0082>\n<color=black>•</color> 연옥 보스 좀비. 최면 및 삼키기를 무효화합니다.\n<color=black>•</color> 식물을 짓밟습니다.\n<color=black>•</color> 사망 시 폭발를 일으킵니다.\n<color=black>•</color> 정기적으로 상자에서 튀어나오며, 다음 효과 중 하나를 랜덤으로 발생시킵니다:\n<page>1. 다섯 번째 열과 그 오른쪽 모든 열의 타일마다 광대왕 좀비를 소환합니다.\n2. 스카이콩콩 광대 좀비 (수중 타일에는 수상스키 광대 좀비)를 소환하기도 합니다.\n3. 자신이 있는 행에다 폭발을 일으킵니다.</color>"
+            "info": "<size=36>광대 여왕은 \"폭발적인 장면\"을 만드는 데 매우 열정적입니다.\n\n<color=black>체력: </color><color=#4B0082>48000</color>\n<color=black>특수 능력: </color><color=#4B0082>\n<color=black>•</color> 연옥 보스 좀비. 매혹 및 삼키기에 면역입니다.\n<color=black>•</color> 식물을 짓밟습니다.\n<color=black>•</color> 사망 시 폭발를 일으킵니다.\n<color=black>•</color> 정기적으로 상자에서 튀어나오며, 다음 효과 중 하나를 랜덤으로 발생시킵니다:\n<page>1. 다섯 번째 열과 그 오른쪽 모든 열의 타일마다 광대왕 좀비를 소환합니다.\n2. 스카이콩콩 광대 좀비 (수중 타일에는 수상스키 광대 좀비)를 소환하기도 합니다.\n3. 자신이 있는 행에다 폭발을 일으킵니다.</color>"
         },
         {
             "theZombieType": 225,
             "name": "기가 양동이 특전사",
             "introduce": "<align=justified><size=36><color=black>기가 양동이 특전사는 철로 만들어진 전사입니다. 철 같은 몸, 철 같은 의지, 철 같은 탄환, 그리고 동료들의 불평에 대한 아이러니한 태도를 가지고 있습니다. 그는 자신의 총알에 맞아 밀려나는 좀비들이 자신이 받은 철 단련 훈련이 부족할 뿐이라고 굳게 믿습니다.</color>",
-            "info": "<size=36>멈출 수 없는 전사. 두려움 없고, 비할 데 없는 콩입니다.\n\n<color=black>체력: </color><color=#4B0082>3000 + 3000 (제1 방어구)</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#4B0082>80 | 0.1초</color>\n<color=black>특수 능력: </color><color=#4B0082>넉백을 무효화합니다. 믿을 수 없을 정도의 속도로 방어선를 향해 철 콩을 발사하며, 이 콩은 매혹된 좀비들을 밀어낼 수 있습니다. </color>"
+            "info": "<size=36>멈출 수 없는 전사. 두려움 없고, 비할 데 없는 콩입니다.\n\n<color=black>체력: </color><color=#4B0082>3000 + 3000 (제1 방어구)</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#4B0082>80 | 0.1초</color>\n<color=black>특수 능력: </color><color=#4B0082>넉백에 면역입니다. 믿을 수 없을 정도의 속도로 방어선를 향해 철 콩을 발사하며, 이 콩은 매혹된 좀비들을 밀어낼 수 있습니다. </color>"
         },
         {
             "theZombieType": 226,
@@ -832,13 +832,13 @@
             "theZombieType": 228,
             "name": "<color=#4B0082><u>설원의 여왕</u>",
             "introduce": "<align=justified><size=36><color=black>얼음의 검과 눈보라 망토를 두른 그녀는 산산이 부서진 육체로부터 조각상을 새기고, 굴하지 않는 의지로 신성을 빚어냅니다. 인공 신이자 툰드라의 유령. 지옥에서 우리가 다시 만날 때, 그녀는 이 슬픔의 땅을 기억할까요?</color>",
-            "info": "<size=36>얼어붙은 툰드라의 군주입니다.\n\n<color=black>체력: </color><color=#4B0082>64000</color>\n<color=black>대미지: </color><color=#4B0082>1000</color>\n<color=black>특수 능력: </color><color=#4B0082>\n<color=black>•</color> 연옥 보스 좀비. 경직, 넉백, 빙결을 무효화합니다.\n<color=black>•</color> 식물을 짓밟습니다. 공격 시 식물을 5초간 동결 시킵니다. \n<color=black>•</color> 등장할 때 앞에 있는 모든 식물에 대미지를 주는 참격 공격을 수행하며(호박으로 막을 수 있음), 그 다음 자신의 라인 주변에 5개의 눈덩이를 발사하여 각각 3×3 영역에 대미지를 줍니다.\n<color=black>•</color> 이후 3초마다 참격 공격이나 일반 공격을 수행하며, 체력이 낮을수록 베기 공격이 나올 확률이 높아집니다.\n<color=black>•</color> 일반 공격은 앞으로 4개의 얼음 검을 발사합니다.\n<color=black>•</color> 혹한 스테이지에서 등장할 시 서리 폭풍을 발동시킬 수 있습니다.</color>"
+            "info": "<size=36>얼어붙은 툰드라의 군주입니다.\n\n<color=black>체력: </color><color=#4B0082>64000</color>\n<color=black>대미지: </color><color=#4B0082>1000</color>\n<color=black>특수 능력: </color><color=#4B0082>\n<color=black>•</color> 연옥 보스 좀비. 경직, 넉백, 빙결에 면역입니다.\n<color=black>•</color> 식물을 짓밟습니다. 공격 시 식물을 5초간 동결 시킵니다. \n<color=black>•</color> 등장할 때 앞에 있는 모든 식물에 대미지를 주는 참격 공격을 수행하며(호박으로 막을 수 있음), 그 다음 자신의 라인 주변에 5개의 눈덩이를 발사하여 각각 3×3 영역에 대미지를 줍니다.\n<color=black>•</color> 이후 3초마다 참격 공격이나 일반 공격을 수행하며, 체력이 낮을수록 베기 공격이 나올 확률이 높아집니다.\n<color=black>•</color> 일반 공격은 앞으로 4개의 얼음 검을 발사합니다.\n<color=black>•</color> 혹한 스테이지에서 등장할 시 서리 폭풍을 발동시킬 수 있습니다.</color>"
         },
         {
             "theZombieType": 229,
             "name": "<color=#4B0082><u>기가 해골군마 사령관</u>",
             "introduce": "<align=justified><size=36><color=black><page>영원의 침묵에서 깨어난 기가 해골군마 사령관은 날마다 돌격하고, 싸우고, 정복하며, 공포의 승리를 쌓아갑니다. 그의 아래에는 코사크 전마가 달리고, 박사에게서 직접 하사받은 갑옷은 그의 명예의 증표입니다. 그에게 맞서는 자는 세상 전체를 적으로 돌리는 셈입니다. 바람에 휘날리는 지휘의 깃발 뒤로는 전장이 따릅니다. 그는 어둠의 인사를 전하며, 그의 검이 닿는 곳마다 밤이 내려앉고, 막이 드리워지며, 새로운 질서가 태어납니다. 마치 모든 식물에게 선언하듯 말입니다. 이것이 그에게 도전한 대가입니다.</color>",
-            "info": "<size=36>\"야! 감히 말을 타고 나한테 도전할 셈이냐?\"\n\n<color=black>체력: </color><color=#4B0082>36000</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#4B0082>80 | 0.1초</color>\n<color=black>특수 능력: </color><color=#4B0082>\n<color=black>•</color> 연옥 보스 좀비. 경직, 넉백, 빙결을 무효화합니다.\n<color=black>•</color> 0.1초마다 체력을 200 회복합니다.\n<color=black>•</color> 식물을 짓밟습니다.\n<color=black>•</color> 식물을 무시하고 오른쪽에서 5 열까지 나타난 다음 식물을 짓밟는 군마를 타고 돌진할 수 있습니다.\n<page><color=black>•</color> 저주는 충전 때마다 약 1.5초간 준비 후, 10초마다 한 번씩 모을수 있습니다.\n<color=black>•</color> 저주는 충돌 시 3×3 영역 내의 식물에 5초간 적용하여, 그가 받는 모든 최종 대미지를 저주받은 식물로 전달합니다.(공유된 대미지량 최대 5,000)\n<color=black>•</color> 체력이 처음으로 2/3 이하로 떨어지면 각 라인에 기가 양동이 특전사를 1마리씩 생성됩니다. 체력이 0이 되면 말에서 내려 '몰락한 기가 양동이 사령관'로 변신합니다.</color>"
+            "info": "<size=36>\"야! 감히 말을 타고 나한테 도전할 셈이냐?\"\n\n<color=black>체력: </color><color=#4B0082>36000</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#4B0082>80 | 0.1초</color>\n<color=black>특수 능력: </color><color=#4B0082>\n<color=black>•</color> 연옥 보스 좀비. 경직, 넉백, 빙결에 면역입니다.\n<color=black>•</color> 0.1초마다 체력을 200 회복합니다.\n<color=black>•</color> 식물을 짓밟습니다.\n<color=black>•</color> 식물을 무시하고 오른쪽에서 5 열까지 나타난 다음 식물을 짓밟는 군마를 타고 돌진할 수 있습니다.\n<page><color=black>•</color> 저주는 충전 때마다 약 1.5초간 준비 후, 10초마다 한 번씩 모을수 있습니다.\n<color=black>•</color> 저주는 충돌 시 3×3 영역 내의 식물에 5초간 적용하여, 그가 받는 모든 최종 대미지를 저주받은 식물로 전달합니다.(공유된 대미지량 최대 5,000)\n<color=black>•</color> 체력이 처음으로 2/3 이하로 떨어지면 각 라인에 기가 양동이 특전사를 1마리씩 생성됩니다. 체력이 0이 되면 말에서 내려 '몰락한 기가 양동이 사령관'로 변신합니다.</color>"
         },
         {
             "theZombieType": 230,
@@ -862,19 +862,19 @@
             "theZombieType": 233,
             "name": "특무장 가르강튀아",
             "introduce": "<align=justified><size=36><color=black>오래전, 좀보스 박사는 더욱 다재다능한 병사를 만들기 위해 자신의 가르강튀아들에게 불, 물, 바람, 대지의 네 원소의 힘을 주입하려 했습니다. 그 실험은 대부분 성공적이었습니다. 불로 단련된 가르강튀아, 바람을 머금은 가르강튀아, 대지에 속한 가르강튀아들은 새로 얻은 힘을 통해 빠르게 유대감을 쌓았습니다. 그러나 물의 힘을 지닌 파도에 단련된 가르강튀아는 혼자 외톨이가 되고 말았습니다.\" 우리 셋이면 이미 완벽한 신호색 세트잖아. \" 다른 셋이 투덜댔습니다. \"빨강, 노랑, 초록, 넌 그냥… 쓸데없이 파란색일 뿐이야.\"</color>",
-            "info": "<size=36>눈의 색으로 속성을 구분할 수 있는 완전무장한 가르강튀아입니다.\n\n<color=black>체력: </color><color=#4B0082>16000 + 16000 (제1 방어구)</color>\n<color=black>특수 능력: </color><color=#4B0082></color>\n<color=black>•</color><color=#4B0082> 임프를 던지지 않습니다. 내려찍기 공격은 매혹된 좀비에게 3600의 대미지를 줍니다. 등장 시 네 가지 외형(눈 색상) 중 하나를 가지며, 각각 고유한 원소 속성을 지닙니다:\n<color=red>• 빨간 눈:</color> 화염 디버프에 면역이며 모든 대미지를 2/3만큼 받습니다\n<color=blue>• 파란 눈:</color> 빙결에 면역이며 식물에게 500%의 대미지를 입힙니다.\n<color=yellow>•노란 눈:</color> 경직에 면역이며 내려찍을 때 앞으로 점프하면서 한 번 더 내려찍습니다.\n<color=green>• 초록 눈:</color> 중독에 면역이며 공격마다 최대 체력을 10% 회복합니다.\n<color=black>오디세이 버프:\n</color><color=#4B0082>1. 외형은 더 이상 중요하지 않으며, 네 가지 능력을 동시에 지닙니다.\n2. 외형은 더 이상 중요하지 않으며, 네 가지 가르강튀아 모두 동일한 면역을 동시에 지닙니다.</color>"
+            "info": "<size=36>눈의 색으로 속성을 구분할 수 있는 완전무장한 가르강튀아입니다.\n\n<color=black>체력: </color><color=#4B0082>16000 + 16000 (제1 방어구)</color>\n<color=black>특수 능력: </color><color=#4B0082></color>\n<color=black>•</color><color=#4B0082> 임프를 던지지 않습니다. 내려찍기 공격은 매혹된 좀비에게 3600의 대미지를 줍니다. 등장 시 네 가지 외형(눈 색상) 중 하나를 가지며, 각각 고유한 원소 속성을 지닙니다:\n<color=red>• 빨간 눈:</color> 화염 디버프에 면역이며 기본적으로 2 방어 포인트를 보유하고 있습니다.\n<color=blue>• 파란 눈:</color> 빙결에 면역이며 식물에게 500%의 대미지를 입힙니다.\n<color=yellow>•노란 눈:</color> 경직에 면역이며 내려찍을 때 앞으로 점프하면서 한 번 더 내려찍습니다.\n<color=green>• 초록 눈:</color> 중독에 면역이며 공격마다 최대 체력을 10% 회복합니다.\n<color=black>오디세이 버프:\n</color><color=#4B0082>1. 외형은 더 이상 중요하지 않으며, 네 가지 능력을 동시에 지닙니다.\n2. 외형은 더 이상 중요하지 않으며, 네 가지 가르강튀아 모두 동일한 면역을 동시에 지닙니다.</color>"
         },
         {
             "theZombieType": 234,
             "name": "<color=#4B0082><u>임프 제왕선</u>",
             "introduce": "<align=justified><size=36><color=black>모든 임프들의 보스로서, 그는 그들의 세계에서 절대적인 지위를 누립니다. 학자 좀비처럼 박식할 필요도, 마이클 좀비처럼 우아할 필요도 없습니다. 그저 자신이 즐기는 일을 할 뿐이죠 — ‘치킨 제왕선’이라 불리는 사랑하는 황금 스피드보트를 타고 귀찮은 식물들에게 큰 소동을 일으키는 것. 설명 따위는 필요 없습니다. 자, 돛을 올리고 모험을 맞이합시다!</color>",
-            "info": "<size=36>당신의 오디세이 마지막에 맞서게 될 최종 임프입니다. 호화로운 ‘치킨 제왕선‘을 조종하며 언데드\n함대를 이끕니다.\n\n<color=black>체력: </color><color=#4B0082>48000</color>\n<color=black>특수 능력: </color><color=#4B0082>\n<color=black>•</color> 연옥 보스 좀비. 덩쿨과 경직에 면역입니다.\n<color=black>•</color> 식물들은 빠르게 짓밟습니다.\n<color=black>•</color> 필드에 존재할 시 모든 좀비들은 받는 대미지량이 90% 감소합니다.\n<color=black>•</color> 이 효과가 나타나면 모든 좀비의 이동 속도가 20% 증가하고, 20% 확률로 받는 대미지를 1로 줄입니다.\n<color=black>•</color> 사망 시 배가 폭발하면서 임프 제왕이 날아갑니다.</color>"
+            "info": "<size=36>당신의 오디세이 마지막에 맞서게 될 최종 임프입니다. 호화로운 ‘치킨 제왕선‘을 조종하며 언데드\n함대를 이끕니다.\n\n<color=black>체력: </color><color=#4B0082>48000</color>\n<color=black>특수 능력: </color><color=#4B0082>\n<color=black>•</color> 연옥 보스 좀비. 덩쿨과 경직에 면역입니다.\n<color=black>•</color> 식물들은 빠르게 짓밟습니다.\n<color=black>•</color> 맵에 존재할 시 모든 좀비들은 4 방어 포인트를 부여합니다.\n<color=black>•</color> 이 효과가 나타나면 모든 좀비의 이동 속도가 20% 증가하고, 33% 확률로 받는 대미지를 1로 줄입니다.\n<color=black>•</color> 사망 시 배가 폭발하면서 임프 제왕이 날아갑니다.</color>"
         },
         {
             "theZombieType": 235,
             "name": "<color=#4B0082>임프 제왕",
             "introduce": "<align=justified><size=36><color=black>격렬한 전투 한가운데서도, 임프 제왕은 여전히 한가로운 시간을 꿈꿉니다. 쫓아야 할 뇌도, 싸워야 할 식물도 없이 조용히 산책하며 할로윈에 신하들에게 어떤 장난을 칠지 고민하는 시간 말이죠. 하지만 왕족으로서의 의무가 그를 항상 왕좌로 돌아오게 합니다. 다음 공격을 지휘할 준비가 되어 있는 채로 말입니다.</color>",
-            "info": "<size=36>제왕은 후퇴 중이지만, 일단 탈출하면 반드시 돌아올 것입니다.\n\n<color=black>체력: </color><color=#4B0082>18000</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#4B0082>80 | 0.1초\n100 (물기)</color>\n<color=black>특수 능력: </color><color=#4B0082>\n<color=black>•</color> 연옥 보스 좀비. 경직과 넉백에 면역이지만, 대미지 감소 버프를 잃었습니다.\n<color=black>•</color> 주변에 연옥 보스 좀비가 한 명 있을 때마다, 받는 대미지가 20% 감소합니다.\n<color=black>•</color> 착지 시, 돌아서서 후퇴하며 식물은 무시합니다.\n<color=black>•</color> 필드를 벗어날 시 새로운 치킨 제왕선에 다시 탑승합니다.</color>"
+            "info": "<size=36>제왕은 후퇴 중이지만, 일단 탈출하면 반드시 돌아올 것입니다.\n\n<color=black>체력: </color><color=#4B0082>18000</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#4B0082>80 | 0.1초\n100 (물기)</color>\n<color=black>특수 능력: </color><color=#4B0082>\n<color=black>•</color> 연옥 보스 좀비. 경직과 넉백에 면역이지만, 대미지 감소 버프를 잃었습니다.\n<color=black>•</color> 주변에 연옥 보스 좀비가 한 명 있을 때마다, 받는 대미지가 20% 감소합니다.\n<color=black>•</color> 착지 시, 돌아서서 후퇴하며 식물은 무시합니다.\n<color=black>•</color> 맵를 벗어날 시 새로운 치킨 제왕선에 다시 탑승합니다.</color>"
         },
         {
             "theZombieType": 236,
@@ -910,7 +910,7 @@
             "theZombieType": 241,
             "name": "황금 특무장 가르강튀아",
             "introduce": "<align=justified><size=36><color=black>과거 좀보스 마스터가 원소 가르강튀아들을 개량했을 때, 그는 그들의 훈련이 불완전하다고 믿었습니다. 그들의 힘 이면에 자신이 온전히 파악하지 못한 보이지 않는 무언가가 있다고 느꼈기 때문입니다. 그 보이지 않는 매개체는 바로 잊힌 기록 속에서 속삭여지던 제5원소, '에테르'였습니다. 이는 힘을 전달하고 물질을 결합하며 그 사이의 공간을 채우는 물질입니다. 닥터 좀보스는 이 원소를 가르강튀아의 몸에 고정함으로써, 단순히 원소를 휘두르는 것을 넘어 마치 세상 자체가 길을 비켜주어야만 하는 것처럼 원소 사이를 거니는 거인을 창조해냈습니다.</color>",
-            "info": "<size=36>치명적인 부상을 입으면 모든 디버프에 면역 상태가 되며, 분신들을 소환하고 그들의 엄호 아래 하늘을 무너뜨릴 듯한 위력을 얻습니다.\n\n<color=black>체력: </color><color=#4B0082>18000 +18000 (제1 방어구)</color>\n<color=black>대미지: </color><color=#4B0082>4800 (짓밟기)</color>\n<color=black>특수 능력: </color><color=#4B0082>\n<color=black>•</color> 최면에 면역, 본체의 체력이 처음으로 최대치의 50% 미만으로 떨어지면 화염, 잿불, 독, 둔화, 빙결 디버프가 제거됩니다. 제거된 디버프 하나당 체력의 10%만큼 체력을 회복하며, 이후 이 다섯 가지 상태이상과 경직에 면역이 됩니다. 동시에 본체가 위치한 열의 모든 줄에 특무장 가르강튀아 분신을 하나씩 소환하며, 각 분신은 본체 체력의 1/3을 가집니다. 분신이 하나라도 존재하는 동안 본체는 대미지에 면역이 됩니다. 15초 후에도 분신이 남아있다면, 황금 특무장 가르강튀아는 이를 모두 흡수하여 체력과 대미지가 200% 증가하는 거대화 상태에 진입하며, 이후 각 공격마다 맵의 모든 식물에게 (대미지의 20% × [흡수된 분신 수])만큼의 추가 대미지를 입힙니다.\n<color=black>•</color> 본체의 체력이 처음으로 최대치의 1% 미만으로 떨어지면 체력의 10%만큼 체력을 회복합니다.</color>"
+            "info": "<size=36>치명적인 부상을 입으면 모든 디버프에 면역 상태가 되며, 분신들을 소환하고 그들의 엄호 아래 하늘을 무너뜨릴 듯한 위력을 얻습니다.\n\n<color=black>체력: </color><color=#4B0082>18000 +18000 (제1 방어구)</color>\n<color=black>대미지: </color><color=#4B0082>4800 (짓밟기)</color>\n<color=black>특수 능력: </color><color=#4B0082>\n<color=black>•</color> 최면과 넉백에 면역, 본체의 체력이 처음으로 최대치의 50% 미만으로 떨어지면 화염, 잿불, 독, 둔화, 빙결 디버프가 제거됩니다. 제거된 디버프 하나당 체력의 10%만큼 체력을 회복하며, 이후 이 다섯 가지 상태이상과 경직에 면역이 됩니다. 동시에 본체가 위치한 열의 모든 줄에 특무장 가르강튀아 분신을 하나씩 소환하며, 각 분신은 본체 체력의 1/3을 가집니다. 분신이 하나라도 존재하는 동안 본체는 대미지에 면역이 됩니다. 15초 후에도 분신이 남아있다면, 황금 특무장 가르강튀아는 이를 모두 흡수하여 체력과 대미지가 200% 증가하는 거대화 상태에 진입하며, 이후 각 공격마다 맵의 모든 식물에게 (대미지의 20% × [흡수된 분신 수])만큼의 추가 대미지를 입힙니다.\n<color=black>•</color> 본체의 체력이 처음으로 최대치의 1% 미만으로 떨어지면 체력의 5%만큼 체력을 회복합니다.</color>"
         },
         {
             "theZombieType": 242,
@@ -923,6 +923,12 @@
             "name": "<color=#4B0082><u>오메가 어쌔신 스쿼드</u>",
             "introduce": "<align=justified><size=36><color=black>오메가 어쌔신 스쿼드의 칼날은 무엇이든 벨 수 있습니다. 그들은 어떤 방어선이든 침투할 수 있으며, 그들의 협력과 팀워크는 이미 오래전에 완벽에 도달했습니다. 그들이 움직이기 시작하면 모든 장애물을 쓸어버리는 군단이 되어, 정원의 소위 \"난공불락\"이라 불리는 방어막들을 완전히 무의미하게 만듭니다.</color>",
             "info": "<size=36>조직적인 부대로 배치되는 정예 암살자 좀비들.\n\n<color=black>체력: </color><color=#4B0082>30000 +30000 (제2 방어구)</color>\n<color=black>대미지: </color><color=#4B0082>500 (물기 아님)\n<color=black>공격 횟수: </color><color=#4B0082>2번</color>\n<color=black>특수 능력: </color><color=#4B0082>\n<color=black>•</color> 각 라인마다 5마리가 한 부대로 등장합니다.\n<color=black>•</color> 즉사 공격 면역이 없으며, 집단 중 한 명이 죽을 정도의 대미지를 입을 시 나머지는 스텔스에 돌입하며 (최대 2회), 같은 부대 내에 스텔스 상태가 아닌 다른 부대원이 있다면 사망하는 대신 체력 1인 상태로 남으며 스텔스 상태에 돌입합니다.\n<color=black>•</color> 스텔스 상태 동안에는 (처음 공격에 한해) 피해와 넉백에 면역이 되며, 투사체를 막지만 식물의 공격 대상이 되지 않습니다.\n<color=black>•</color> 스텔스 상태가 된후, 10초가 지나면 모든 체력을 회복하며 부활합니다. 그 후 2.5 타일만큼 전방으로 돌진하여 충돌하는 모든 식물에 500 피해를 입히고, 깜짝 상자 폭발을 일으킵니다.</color>"
+        },
+        {
+            "theZombieType": 244,
+            "name": "영원의 불화골 & 용",
+            "introduce": "<color=#3D1400>옛날 옛적, 평화로운 어느 가을날 검을 품은 용 한 마리가 하늘을 갈랐습니다. 그 몸은 덩굴 줄기로 이루어져 있었고, 한구의 시체가 시종처럼 결속되어 있었으며, 세워진 검은 그 자체로 관의 형상을 하고 있었습니다. 무성한 초목을 바라보며 용이 선언하기를, \"만 년 전 내가 처음 깨달음을 얻었을 때도, 이토록 기이한 경이로움은 본 적이 없노라\"라 하였습니다. 용이 덩굴 끝으로 가리키자 순식간에 풍경이 산산조각 났고, 용은 그대로 떠나가 버렸습니다. 오늘날까지도 사람들은 그것이 시체였는지, 식물이었는지, 혹은 용이었는지 확신하지 못한 채, 그저 영원의 불화골이라 부르고 있습니다.</color>",
+            "info": "\"육신을 묶고 영혼을 해방하노니, 명하노라. 너희에게 천 년의 불멸을 부여하노라.\"\n\n<color=black>체력: </color><color=#4B0082>15000 × 4</color>\n<color=black>특수 능력: </color><color=#4B0082>\n<color=black>•</color> 넉백, 빙결, 독, 경직, 라인 전환 및 내려찍기에 면역입니다.\n<color=black>•</color> 처음에는 영원의 불화골이 수호하는 봉인된 형태로 나타납니다. 매혹된 좀비는 이 관에 접촉할 경우 즉시 사망합니다.\n<color=black>•</color> 총 4 단계가 존재하며, 각 단계는 15000의 총 체력을 가집니다. 체력이 0에 도달하면 다음 단계로 전환되며, 이때 일시적으로 무적 상태가 되고 체력을 모두 회복합니다. 각 단꼐는 다음과 같은 별도의 능력을 보유합니다:\n<color=black>  • </color><color=#8a4700>1단계 (망치): 플레이어의 망치를 훔칩니다. 맵의 모든 식물을 공격하여 1000의 피해를 입힙니다(오디세이 이외의 모든 모드에서는 100 대미지). 그 후 3초마다 각 열에서 체력이 가장 높은 식물을 공격합니다.\n<color=black>  • </color><color=#0e6900>2단계 (장갑): 플레이어의 장갑을 훔칩니다. 4초마다 각 행에서 좀비 중 가장 오른쪽에 있는 공중, 연옥 보스 좀비 제외한 좀비를 2 타일 앞으로 이동시킵니다.\n<color=black>  • </color><color=#ab8e74>3단계 (삽): 플레이어의 삽을 훔칩니다. 5초마다 맵내 필요 태양량 가장 낮은 식물을 파헤쳐 제거합니다.\n<color=black>  • </color><color=#ff0000>4단계 (용): 5초마다 이전 모든 단계의 공격을 동시에 사용합니다. 처치 시, 이전에 삽으로 파헤쳐 제거했던 모든 식물의 시드패킷을 드랍합니다.</color>"
         },
         {
             "theZombieType": 300,
@@ -958,13 +964,13 @@
             "theZombieType": 305,
             "name": "기가 미식축구 호두 대장 좀비",
             "introduce": "<align=justified><size=36><color=black>스트라이커의 오른팔인 기가 미식축구 호두 대장 좀비는 부하들의 존경을 받고 지휘부의 신뢰를 받습니다. 그는 충성스럽고 능숙하지만, 칭찬이 신선한 뇌로 주어지지 않는 이유로 혼란스러워합니다.</color>",
-            "info": "<size=36>무자비한 힘으로 전선 최전방을 돌파합니다.\n\n<color=black>체력: </color><color=#4B0082>24000 + 24000 (제1 방어구)</color>\n<color=black>대미지: </color><color=#4B0082>200 (물기)</color>\n<color=black>특수 능력: </color><color=#4B0082>\n<color=black>•</color> 3 티어 에불루션 좀비.\n<color=black>•</color> 이전 티어 좀비의 특성이 계승되었습니다.\n<color=black>•</color> 넉백, 빙결, 버터를 무효화합니다.\n<color=black>•</color> 섭취 시 식물은 1초 간 체력을 회복할 수 없으며 대미지를 300%로 받게됩니다.</color>"
+            "info": "<size=36>무자비한 힘으로 전선 최전방을 돌파합니다.\n\n<color=black>체력: </color><color=#4B0082>24000 + 24000 (제1 방어구)</color>\n<color=black>대미지: </color><color=#4B0082>200 (물기)</color>\n<color=black>특수 능력: </color><color=#4B0082>\n<color=black>•</color> 3 티어 에불루션 좀비.\n<color=black>•</color> 이전 티어 좀비의 특성이 계승되었습니다.\n<color=black>•</color> 넉백, 빙결, 버터에 면역입니다.\n<color=black>•</color> 섭취 시 식물은 1초 간 체력을 회복할 수 없으며 대미지를 300%로 받게됩니다.</color>"
         },
         {
             "theZombieType": 306,
             "name": "기가 양동이 특전사 대장 좀비",
             "introduce": "<align=justified><size=36><color=black>전장에서는 두려움을, 전장 밖에서는 사랑을 받는 기가 양동이 특전사 대장 좀비는 특유의 기술로 부하들을 놀라게 합니다: 그의 깃발 안에 탄환을 숨기는 것입니다.</color>",
-            "info": "<size=36>멈추지 않는 제압 사격입니다.\n\n<color=black>체력: </color><color=#4B0082>24000 + 24000 (제1 방어구)</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#4B0082>80 (철 콩) | 0.1초\n<color=black>물기 대미지: </color>200</color>\n<color=black>특수 능력: </color><color=#4B0082>\n<color=black>•</color> 3 티어 에불루션 좀비.\n<color=black>•</color> 넉백, 빙결, 버터를 무효화합니다.</color>"
+            "info": "<size=36>멈추지 않는 제압 사격입니다.\n\n<color=black>체력: </color><color=#4B0082>24000 + 24000 (제1 방어구)</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#4B0082>80 (철 콩) | 0.1초\n<color=black>물기 대미지: </color>200</color>\n<color=black>특수 능력: </color><color=#4B0082>\n<color=black>•</color> 3 티어 에불루션 좀비.\n<color=black>•</color> 넉백, 빙결, 버터에 면역입니다.</color>"
         },
         {
             "theZombieType": 307,
@@ -1053,20 +1059,20 @@
         {
             "theZombieType": 321,
             "name": "도금된 마이클 좀보니",
-            "introduce": "<align=justified><size=36><color=black>돌진하고, 다시 돌진하며, 모든 것을 짓밟아라! 좀보니는 멈출 수 없는 힘으로 필드를 쟁기질했지만, 잔디밭 한가운데 있는 연못을 만나고 말았습니다.</color>",
-            "info": "<size=36>강화된 차량을 몰고 다니는 디스코 좀비입니다.\n\n<color=black>체력: </color><color=#4B0082>6000</color>\n<color=black>특수 능력: </color><color=#4B0082>\n<color=black>•</color> 1 티어 에불루션 좀비.\n<color=black>•</color> 식물을 짓밟습니다. 받는 대미지가 50% 감소합니다.\n<color=black>•</color> 사망 시 자리에 마이클 좀비를 소환합니다.</color>"
+            "introduce": "<align=justified><size=36><color=black>돌진하고, 다시 돌진하며, 모든 것을 짓밟아라! 좀보니는 멈출 수 없는 힘으로 맵를 쟁기질했지만, 잔디밭 한가운데 있는 연못을 만나고 말았습니다.</color>",
+            "info": "<size=36>강화된 차량을 몰고 다니는 디스코 좀비입니다.\n\n<color=black>체력: </color><color=#4B0082>6000</color>\n<color=black>특수 능력: </color><color=#4B0082>\n<color=black>•</color> 1 티어 에불루션 좀비.\n<color=black>•</color> 식물을 짓밟습니다. 1 방어 포인트를 보유합니다.\n<color=black>•</color> 사망 시 자리에 마이클 좀비를 소환합니다.</color>"
         },
         {
             "theZombieType": 322,
             "name": "무장된 마이클 좀보니",
             "introduce": "<align=justified><size=36><color=black>\"전면 장갑을 더 강화했습니다!\" 새로 단장한 차량은 이제 마이클 좀비의 자랑거리입니다. 다만 장갑 사이 간격이 여전히 백업 댄서를 더 넣기에는 좁다는 점은 아쉽게 생각합니다.</color>",
-            "info": "<size=36>마이클 좀비의 차량에는 이제 한 겹의 경장갑이 추가되었습니다.\n\n<color=black>체력: </color><color=#4B0082>12000</color>\n<color=black>특수 능력: </color><color=#4B0082>\n<color=black>•</color> 2 티어 에불루션 좀비.\n<color=black>•</color> 식물을 짓밟습니다. 받는 대미지가 66% 감소합니다.\n<color=black>•</color> 사망 시 자리에 도금된 마이클 좀보니를 소환합니다.</color>"
+            "info": "<size=36>마이클 좀비의 차량에는 이제 한 겹의 경장갑이 추가되었습니다.\n\n<color=black>체력: </color><color=#4B0082>12000</color>\n<color=black>특수 능력: </color><color=#4B0082>\n<color=black>•</color> 2 티어 에불루션 좀비.\n<color=black>•</color> 식물을 짓밟습니다. 2 방어 포인트를 보유합니다.\n<color=black>•</color> 사망 시 자리에 도금된 마이클 좀보니를 소환합니다.</color>"
         },
         {
             "theZombieType": 323,
             "name": "콜로설 마이클 좀보니",
             "introduce": "<align=justified><size=36><color=black>이 차량의 매우 두꺼운 장갑 덕분에 \"육상 전함\"이라는 별명을 얻었습니다. 최근 마이클 좀비는 또 한 번 대담한 새 설계를 내놓았는데, 차체를 무한궤도로 바꾸고 다층 포탑을 설치한 뒤, 장포신 포를 장착하는 아이디어입니다. 그는 이것이 진정한 독창적 발명이라 믿고 있습니다.</color>",
-            "info": "<size=36>마이클 좀비의 차량에는 이제 두 겹의 강철 중장갑이 추가되었습니다.\n\n<color=black>체력: </color><color=#4B0082>24000</color>\n<color=black>특수 능력: </color><color=#4B0082>\n<color=black>•</color> 3 티어 에불루션 좀비.\n<color=black>•</color> 식물을 짓밟습니다. 받는 대미지가 75% 감소합니다.\n<color=black>•</color> 사망 시 자리에 무장된 마이클 좀보니를 소환합니다.</color>"
+            "info": "<size=36>마이클 좀비의 차량에는 이제 두 겹의 강철 중장갑이 추가되었습니다.\n\n<color=black>체력: </color><color=#4B0082>24000</color>\n<color=black>특수 능력: </color><color=#4B0082>\n<color=black>•</color> 3 티어 에불루션 좀비.\n<color=black>•</color> 식물을 짓밟습니다. 3 방어 포인트를 보유합니다.\n<color=black>•</color> 사망 시 자리에 무장된 마이클 좀보니를 소환합니다.</color>"
         },
         {
             "theZombieType": 324,

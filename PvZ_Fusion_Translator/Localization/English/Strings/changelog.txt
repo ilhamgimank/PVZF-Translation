@@ -47,7 +47,7 @@ Please visit our community for future updates and support.
     - Boreas Umbrella (Pharos Umbrella + Ice-shroom)
     - Quasar (Omni Pumpkin [renamed from Mechanized Pumpkin] + Starfruit)
     - Cornposter Pot (Cornveyor Weed + Flower Pot)
-    - Dragonbreath Peppper (Bamboom + Pepper Popper)
+    - Dragonbreath Pepper (Bamboom + Pepper Popper)
   - Epic:
     - Cryolina Reaper
 - Special/Misc:

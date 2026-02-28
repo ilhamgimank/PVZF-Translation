@@ -46,8 +46,8 @@
     },
     "SunBomb": {
         "achievement": 8,
-        "Name": "Utilisez Sun Bomb pour faire exploser 10 zombies à la fois.",
-        "Text": "Une lumière par jour"
+        "Name": "Utilisez Bombe Solaire pour faire exploser 10 zombies à la fois.",
+        "Text": "Un flash, un jour"
     },
     "BigWallNut2": {
         "achievement": 10,
@@ -296,8 +296,8 @@
     },
     "UltimateChomper": {
         "achievement": 59,
-        "Name": "Découvrez Cherryzilla",
-        "Text": "Bête écarlate"
+        "Name": "Découvrez Cerizilla",
+        "Text": "Dieu de la guerre"
     },
     "UltimateTallNut": {
         "achievement": 60,
@@ -307,7 +307,7 @@
     "SuperMachineNut": {
         "achievement": 61,
         "Name": "Soignez Méga Mecha-noix jusqu'à ce que sa santé dépasse 1 million.",
-        "Text": "C'est une boulette de poisson ?"
+        "Text": "Méga ex Machina"
     },
     "SuperSunNut": {
         "achievement": 62,
@@ -326,8 +326,8 @@
     },
     "IronNut": {
         "achievement": 65,
-        "Name": "Découvrez Buck-nut",
-        "Text": "Vas-y, amène-toi."
+        "Name": "Découvrez Noix Renforcée",
+        "Text": "Equipement Acquis"
     },
     "Sub": {
         "achievement": 999,
