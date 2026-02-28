@@ -75,7 +75,7 @@ Please visit our community for future updates and support.
 
 10. Balance Adjustments
 - Giga Mecha-nut: now limited to healing up to 10M HP per round.
-- Cryolina Reaper: now can only be planted a maximum of [2 × (# of rows)] times.
+- Cryolina Reaper: now can only be planted a maximum of [(number of map rows) + 2] times.
 
 9. Bug fixes
 - Fixed an issue where some Zombotanies couldn't be stunned by butter due to being unable to find their heads.
