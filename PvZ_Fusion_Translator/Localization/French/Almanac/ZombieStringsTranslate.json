@@ -737,6 +737,18 @@
             "name": "Gargantua Lanceur-de-nain",
             "introduce": "<align=justified><size=36><color=black>Gargantua Lanceur-de-nain est un descendant du Gargantua Australien. Ceux qui l’ont précédé ont lancé différentes choses, allant de Zombie Diable à ressort à d’autres Gargantuas. Il a pensé qu’il devrait revenir aux sources et lancer davantage des nains ou plus exactement des diablotins, 5 pour être exact, un véritable témoignage de son héritage.</color>",
             "info": "<size=36>Gargantua avec d'avantage de diablotins cachés sur son dos.\n\n<color=black>Robustesse: </color><color=#4B0082>3000</color>\n<color=black>Spécial: </color><color=#4B0082>Lance 5 diablotins d'un coup.</color>"
+        },
+        {
+            "theZombieType": 310,
+            "name": "Requin-marin-X",
+            "introduce": "<align=justified><size=36><color=black>Une contrefaçon développée par un concurrent de Gfishtus Corps. Elle serait identique à l'original en termes de performances, mais Gfishtus affirme que ce modèle présente des défauts.</color>",
+            "info": "<size=36>La dernière génération de sous-marins fabriqués en série d'Edgar.\n\n<color=black>Robustesse: </color><color=#4B0082>3000</color>\n<color=black>Spécial: </color><color=#4B0082>\n<color=black>•</color> Zombie évolué de Catégorie 1.\n<color=black>•</color> Se déplace rapidement dans l'eau, écrasant toutes les plantes sur son passage et infligeant 500 points de dégâts aux plantes résistantes à l'écrasement.</color>"
+        },
+        {
+            "theZombieType": 311,
+            "name": "Destroyeur Requin-marin",
+            "introduce": "<align=justified><size=36><color=black>\"Sans défaut\" les armes sont surestimées. La véritable victoire réside dans les tirs de missiles qui pleuvent du ciel. Ce sous-marin minier améliorer sert de lance-missiles mobile sous l'eau, il est à l'origine de cet incendie.</color>",
+            "info": "<size=36>Lance un bombe en continue sur la ligne de front.\n\n<color=black>Robustesse: </color><color=#4B0082>6000</color>\n<color=black>Spécial: </color><color=#4B0082>\n<color=black>•</color> Zombie évolué de Catégorie 2.\n<color=black>•</color> Tire une bombe toutes les 1.5 secondes en visant 2 cases devant lui. La bombe explose comme un Diable à ressort mais peut être détruite si elle subit 1 000 de dégats en plein vol.</color>"
         }
     ]
 }
