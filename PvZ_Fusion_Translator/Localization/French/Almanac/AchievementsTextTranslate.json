@@ -31,7 +31,7 @@
     },
     "BigWallNut": {
         "achievement": 6,
-        "Name": "Placez un Noix sur un autre Noix.",
+        "Name": "Placez une Noix sur une autre Noix.",
         "Text": "Comment s'est-il enfui ?"
     },
     "CherryPaper95": {
@@ -51,12 +51,12 @@
     },
     "BigWallNut2": {
         "achievement": 10,
-        "Name": "Utilisez une Noix pour écraser 10 zombies à la fois.",
+        "Name": "Utilisez une Noix Géante pour écraser 10 zombies à la fois.",
         "Text": "Boule de destruction"
     },
     "BigWallNut3": {
         "achievement": 11,
-        "Name": "Utilisez une Noix pour infliger 20 000 dégâts au même zombie.",
+        "Name": "Utilisez une Noix Géante pour infliger 20 000 dégâts au même zombie.",
         "Text": "Noix roulante"
     },
     "HypnoShroom": {
@@ -206,7 +206,7 @@
     },
     "UltimateGatling": {
         "achievement": 41,
-        "Name": "Découvrez Gatling Cherrybomber.",
+        "Name": "Découvrez la Sulfateuse à Grenades.",
         "Text": "Bombardier de pelouse"
     },
     "HypnoEmperor": {
@@ -286,8 +286,8 @@
     },
     "WallNut": {
         "achievement": 57,
-        "Name": "Utilisez Noix pour vous défendre contre les zombies.",
-        "Text": "Accrocheur"
+        "Name": "Utilisez une Noix pour vous défendre contre les zombies.",
+        "Text": "VOUS NE PASSEREZ PAS !"
     },
     "SuperChomper": {
         "achievement": 58,
