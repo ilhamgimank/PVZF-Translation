@@ -22,8 +22,8 @@ Ce document retrace l’ensemble des contributions effectuées par **Oarlina** a
 
 > Statistiques cumulées sur l’ensemble de la période.
 
-* Nouvelles traductions : **13**
-* Traductions ajustées : **49**
+* Nouvelles traductions : **15**
+* Traductions ajustées : **54**
 
 ---
 
@@ -31,6 +31,30 @@ Ce document retrace l’ensemble des contributions effectuées par **Oarlina** a
 
 > Les contributions sont regroupées par semaine civile (ISO).
 
+---
+
+### 📅 Semaine — `23/02/26 → 01/03/26`
+> [PR#101](https://github.com/Teyliu/PVZF-Translation/pull/101)
+
+**Résumé de la semaine**
+
+* Nouvelles traductions : **2**
+* Traductions ajustées : **5**
+
+---
+
+#### Détail
+
+## 🧟‍♂️ **Newly Added Zombie Translations**
+* **Requin-marin-X** (`theZombieType: 310`)
+* **Destroyeur Requin-marin** (`theZombieType: 311`)
+
+## 🔧 **Modified Achievements**
+* **Découvrez Cerizilla** (`achievement: 59`)
+* **Equipement Acquis** (`achievement: 65`)
+* **Méga ex Machina** (`achievement: 61`)
+* **Un flash, un jour** (`achievement: 8`)
+* **Ice Bucket Challenge** (`achievement: 60`)
 
 ---
 

@@ -13,7 +13,7 @@ Ce document retrace l’ensemble des contributions effectuées par **Kurodaten S
 
 **Réseaux & contacts**
 
-* **Discord** : kurodaten_shi
+* **GitHub** : [Kurodatenshi](https://github.com/Kurodatenshi)
 
 ---
 
@@ -22,13 +22,33 @@ Ce document retrace l’ensemble des contributions effectuées par **Kurodaten S
 > Statistiques cumulées sur l’ensemble de la période.
 
 * Nouvelles traductions : **3**
-* Traductions ajustées : **1**
+* Traductions ajustées : **6**
 
 ---
 
 ## 🗓️ Historique des contributions
 
 > Les contributions sont regroupées par semaine civile (ISO).
+
+---
+
+### 📅 Semaine — `23/02/26 → 01/03/26`
+> [PR#101](https://github.com/Teyliu/PVZF-Translation/pull/101)
+
+**Résumé de la semaine**
+
+* Traductions ajustées : **5**
+
+---
+
+#### Détail
+
+## 🔧 **Modified Achievements**
+* **Bombardier de pelouse** (`achievement: 41`)
+* **VOUS NE PASSEREZ PAS !** (`achievement: 57`)
+* **Comment s'est-il enfui ?** (`achievement: 6`)
+* **Boule de destruction** (`achievement: 10`)
+* **Noix roulante** (`achievement: 11`)
 
 ---
 

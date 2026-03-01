@@ -17,9 +17,9 @@ Ce document a pour objectif de reconnaître et valoriser les personnes impliqué
 
 **Récapitulatif des contributions**
 
-* Nouvelles traductions : **234**
-* Traductions ajustées : **122**
-* Reviews effectuées : **335**
+* Nouvelles traductions : **243**
+* Traductions ajustées : **132**
+* Reviews effectuées : **352**
 
 **Réseaux & contacts**
 
@@ -36,8 +36,8 @@ Ce document a pour objectif de reconnaître et valoriser les personnes impliqué
 
 **Statistiques de contribution**
 
-* Nouvelles traductions : **23**
-* Traductions ajustées : **104**
+* Nouvelles traductions : **24**
+* Traductions ajustées : **108**
 
 **Réseaux & contacts**
 
@@ -62,8 +62,8 @@ Ce document a pour objectif de reconnaître et valoriser les personnes impliqué
 
 **Statistiques de contribution**
 
-* Nouvelles traductions : **13**
-* Traductions ajustées : **49**
+* Nouvelles traductions : **15**
+* Traductions ajustées : **54**
 
 **Réseaux & contacts**
 
@@ -90,10 +90,11 @@ Ce document a pour objectif de reconnaître et valoriser les personnes impliqué
 **Statistiques de contribution**
 
 * Nouvelles traductions : **3**
-* Traductions ajustées : **1**
+* Traductions ajustées : **6**
 
 **Réseaux & contacts**
 
+* **GitHub** : [Kurodatenshi](https://github.com/Kurodatenshi)
 * **Discord** : *kurodaten_shi*
 
 ---
@@ -102,7 +103,7 @@ Ce document a pour objectif de reconnaître et valoriser les personnes impliqué
 
 **Statistiques de contribution**
 
-* Traduction testé : **3**
+* Traduction testé : **41**
 
 **Réseaux & contacts**
 

@@ -21,13 +21,66 @@ Ce document retrace l’ensemble des contributions effectuées par **Chombi Pr.A
 
 > Statistiques cumulées sur l’ensemble de la période.
 
-* Traduction testé : **3**
+* Traduction testé : **41**
 
 ---
 
 ## 🗓️ Historique des contributions
 
 > Les contributions sont regroupées par semaine civile (ISO).
+
+---
+
+### 📅 Semaine — `23/02/26 → 01/03/26`
+> [PR#101](https://github.com/Teyliu/PVZF-Translation/pull/101)
+
+**Résumé de la semaine**
+
+* Traduction testé : **38**
+
+---
+
+#### Détail
+
+## 🌱 **Plant Check**
+* **Dévoreur de Tombe** (`seedType: 239`)
+* **Cadeau Zombie** (`seedType: 250`)
+* **Orge** (`seedType: 253`)
+* **Bombe Solaire** (`seedType: 1002`)
+* **Noix Solaire** (`seedType: 1003`)
+* **Mine Solaire** (`seedType: 1009`)
+* **Mordeur Solaire** (`seedType: 1014`)
+* **Champi-aube** (`seedType: 1245`)
+* **Champi-comète** (`seedType: 1326`)
+* **Champi-soleil** (`seedType: 1246`)
+* **Champi-sundae** (`seedType: 1325`)
+* **Tournesol-maudit** (`seedType: 1248`)
+* **Jalapeno Solaire** (`seedType: 1308`)
+* **Tournesol Torche** (`seedType: 1304`)
+* **Champi-soleil Marin** (`seedType: 1077`)
+* **Carambole Solaire** (`seedType: 1307`)
+* **Citrouille Ensoleillée** (`seedType: 1324`)
+* **Aimant Solaire** (`seedType: 1154`)
+* **Lance-soleil** (`seedType: 1111`)
+* **Pot-Tournesol** (`seedType: 1184`)
+* **Tournesol d'Argent** (`seedType: 1187`)
+* **Troufle Solaire** (`seedType: 1348`)
+* **Cerise Explosive** (`seedType: 2`)
+* **Noix Explosive** (`seedType: 1003`)
+* **Mine Suralimentée** (`seedType: 1162`)
+* **Mordeur Explosif** (`seedType: 1016`)
+* **Champi-catalyseur** (`seedType: 1333`)
+* **Champi-Explosion** (`seedType: 1274`)
+* **Cerise Gelée** (`seedType: 1212`)
+* **Cerise Noire** (`seedType: 1332`)
+* **Triple Pisto-pois Explosif** (`seedType: 1330`)
+* **Piment d'Espelette** (`seedType: 1179`)
+* **Torche des Enfers** (`seedType: 1178`)
+* **Drone Cerise** (`seedType: 1244`)
+* **Citrouille Piégée** (`seedType: 1164`)
+* **Aimant Piégé** (`seedType: 1166`)
+* **Pot Piégé** (`seedType: 1243`)
+* **Bombrelle** (`seedType: 1207`)
 
 ---
 

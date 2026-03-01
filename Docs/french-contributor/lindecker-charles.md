@@ -28,9 +28,87 @@ Ce document retrace l’ensemble des contributions effectuées par **Charles LIN
 
 > Statistiques cumulées sur l’ensemble de la période.
 
-* Nouvelles traductions : **234**
-* Traductions ajustées : **122**
-* Reviews effectuées : **335**
+* Nouvelles traductions : **243**
+* Traductions ajustées : **132**
+* Reviews effectuées : **352**
+
+---
+
+## 🗓️ Historique des contributions
+
+> Les contributions sont regroupées par semaine civile (ISO).
+
+---
+
+### 📅 Semaine — `23/02/26 → 01/03/26`
+> [PR#101](https://github.com/Teyliu/PVZF-Translation/pull/101)
+
+**Résumé de la semaine**
+
+* Nouvelles traductions : **9**
+* Traductions ajustées : **10**
+* Reviews effectuées : **17**
+
+---
+
+#### Détail
+
+## 🌱 **Newly Added Plants**
+* **Ombrelle Boréale** (`seedType: 975`)
+* **Citrouille Mécanique** (`seedType: 935`)
+* **Quasar** (`seedType: 976`)
+* **Escouade de Champi-seau** (`seedType: 942`)
+* **Escadron d’As-seau** (`seedType: 961`)
+* **Champi-avare** (`seedType: 938`)
+* **Drone Phénix** (`seedType: 962`)
+* **Pomme Copieuse** (`seedType: 223`)
+* **Champi-suprématie** (`seedType: 305`)
+
+## 🧩 **Modified Plants**
+* **Impécratrice-champi** (`seedType: 900`)
+* **Enchanteresse-champi** (`seedType: 917`)
+* **Champi-calamité** (`seedType: 928`)
+* **Ombrelle de Midas** (`seedType: 916`)
+* **Ombrelle Égide** (`seedType: 923`)
+* **Triple Pisto-pois Brûlé** (`seedType: 1058`)
+* **Triple Pisto-pois Cendré** (`seedType: 918`)
+* **Triple Pisto-pois Phénix** (`seedType: 919`)
+* **Champi-explosion** (`seedType: 1274`)
+* **Triple Pisto-pois Explosif** (`seedType: 1330`)
+
+## 🌿 **Reviews**
+
+### 🧟‍♂️ **Newly Added Zombie Translations**
+
+[Oarlina](./oarlina.md) :
+* **Requin-marin-X** (`theZombieType: 310`)
+* **Destroyeur Requin-marin** (`theZombieType: 311`)
+
+[Same-ael](./same_el.md) :
+* **Gargantua Lanceur-de-nain** (`theZombieType: 124`)
+
+### 🛠️ **Modified Zombies**
+
+[Same-ael](./same_el.md) :
+* **Zombie QB Giga-noix** (`theZombieType: 204`)
+* **Zomppelin Kirov** (`theZombieType: 205`)
+* **Drone Kirov** (`theZombieType: 206`)
+* **<u>Giga Rugby Attaquant</u>** (`theZombieType: 220`)
+
+### 🔧 **Modified Achievements**
+[Oarlina](./oarlina.md) :
+* **Découvrez Cerizilla** (`achievement: 59`)
+* **Equipement Acquis** (`achievement: 65`)
+* **Méga ex Machina** (`achievement: 61`)
+* **Un flash, un jour** (`achievement: 8`)
+* **Ice Bucket Challenge** (`achievement: 60`)
+
+[Kurodaten Shi](./kurodaten_shi.md) :
+* **Bombardier de pelouse** (`achievement: 41`)
+* **VOUS NE PASSEREZ PAS !** (`achievement: 57`)
+* **Comment s'est-il enfui ?** (`achievement: 6`)
+* **Boule de destruction** (`achievement: 10`)
+* **Noix roulante** (`achievement: 11`)
 
 ---
 
@@ -195,12 +273,6 @@ Ce document retrace l’ensemble des contributions effectuées par **Charles LIN
 * **Speedrunner** (`achievement: 1007`)
 * **Juste pourquoi** (`achievement: 1008`)
 * **Puissance absolue** (`achievement: 1009`)
-
----
-
-## 🗓️ Historique des contributions
-
-> Les contributions sont regroupées par semaine civile (ISO).
 
 ---
 
@@ -1283,7 +1355,7 @@ Ce document retrace l’ensemble des contributions effectuées par **Charles LIN
 ## 🌿 **Reviews**
 
 ### 🧩 **Modified Plants**
-[Lyolia](./lyolia.md) : 
+[Lyolia](./old/lyolia.md) : 
 * **Dévoreur de Tombe** (`seedType: 239`)
 * **Tournesol** (`seedType: 1`)
 * **Bombe Solaire** (`seedType: 1002`)

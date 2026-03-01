@@ -21,14 +21,37 @@ Ce document retrace l’ensemble des contributions effectuées par **Same-ael** 
 
 > Statistiques cumulées sur l’ensemble de la période.
 
-* Nouvelles traductions : **23**
-* Traductions ajustées : **104**
+* Nouvelles traductions : **24**
+* Traductions ajustées : **108**
 
 ---
 
 ## 🗓️ Historique des contributions
 
 > Les contributions sont regroupées par semaine civile (ISO).
+
+---
+
+### 📅 Semaine — `23/02/26 → 01/03/26`
+> [PR#101](https://github.com/Teyliu/PVZF-Translation/pull/101)
+
+**Résumé de la semaine**
+
+* Nouvelles traductions : **1**
+* Traductions ajustées : **4**
+
+---
+
+#### Détail
+
+## 🧟‍♂️ **Newly Added Zombie Translations**
+* **Gargantua Lanceur-de-nain** (`theZombieType: 124`)
+
+## 🛠️ **Modified Zombies**
+* **Zombie QB Giga-noix** (`theZombieType: 204`)
+* **Zomppelin Kirov** (`theZombieType: 205`)
+* **Drone Kirov** (`theZombieType: 206`)
+* **<u>Giga Rugby Attaquant</u>** (`theZombieType: 220`)
 
 ---
 
