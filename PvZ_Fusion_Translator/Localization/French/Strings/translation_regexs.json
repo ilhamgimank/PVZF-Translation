@@ -96,5 +96,8 @@
   "^坚果台球(\\d+)": "Wall-nut Billiards {0}",
   "^旅行冒险：第(\\d+)关": "Odyssey Adventure: Level {0}",
   "^剩余积分：(\\d+)点": "Remaining Points: {0}",
-  "-------Outdated Regex Below": "You Can Safely Ignore or Delete-------"
+  "-------Outdated Regex Below": "You Can Safely Ignore or Delete-------",
+  "(\\d+)%生命值上限提高": "{0}% : Augmentation de la Robustesse MAX",
+  "(\\d+)%减伤穿透": "{0}% : Réduction des dégâts pénétrants",
+  "(\\d+)%伤害减免": "{0}% : Réduction des dégâts"
 }
