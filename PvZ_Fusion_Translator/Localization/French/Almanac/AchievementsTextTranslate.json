@@ -86,7 +86,7 @@
     },
     "ThreePeater": {
         "achievement": 17,
-        "Name": "Plantez un Triple Pisto-pois en bordure des allées en lui faisant tirer 2 pois par rang dans son allée.",
+        "Name": "Plantez un Triple Pisto-pois sur les bandes latérales, lui permettant de tirer 2 pois dans sa ligne par attaque.",
         "Text": "La trajectoire penche vers la gauche."
     },
     "SquashKelp": {
@@ -152,7 +152,7 @@
     "DarkThreePeater": {
         "achievement": 30,
         "Name": "Essayez d'allumer un Triple Pisto-pois.",
-        "Text": "Danse avec le feu"
+        "Text": "Danser avec le feu"
     },
     "AshThreePeater": {
         "achievement": 31,
@@ -201,8 +201,8 @@
     },
     "SuperCherryShooter": {
         "achievement": 40,
-        "Name": "Découvrez Explod-o-shooter.",
-        "Text": "A-t-il lancé une bombe cerise ?"
+        "Name": "Découvrez Pisto-grenade.",
+        "Text": "Repose en pièces"
     },
     "UltimateGatling": {
         "achievement": 41,
@@ -276,13 +276,13 @@
     },
     "CattailGirl": {
         "achievement": 55,
-        "Name": "Découvrez Cattail Girl.",
-        "Text": "Cette plante est une fille ?"
+        "Name": "Découvrez Nénu-chan.",
+        "Text": "Il y a une petite fille sur ta pelouse"
     },
     "Cattailour": {
         "achievement": 56,
         "Name": "Découvrez Aristochat.",
-        "Text": "C'est une cat-astrophe !"
+        "Text": "C'est une chat-astrophe !"
     },
     "WallNut": {
         "achievement": 57,
