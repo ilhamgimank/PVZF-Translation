@@ -91,13 +91,13 @@
     },
     "SquashKelp": {
         "achievement": 18,
-        "Name": "Découvrez le Kelp Mangle",
+        "Name": "Découvrez Algue Étrangleuse",
         "Text": "Créature des profondeurs"
     },
     "ThreeSpike": {
         "achievement": 19,
-        "Name": "Utilisez un épandeur de mauvaises herbes pour faire éclater les pneus.",
-        "Text": "Pourquoi avons-nous encore besoin de Pic-roche ?"
+        "Name": "Utilisez Triple Ortie pour faire éclater des pneus.",
+        "Text": "Chute de pneu"
     },
     "SunSeaShroom": {
         "achievement": 20,
@@ -146,8 +146,8 @@
     },
     "Superkelp": {
         "achievement": 29,
-        "Name": "Découvrez Algue Cerbère.",
-        "Text": "Écraseur s'est renforcé"
+        "Name": "Découvrez Algue Hydre.",
+        "Text": "Horreur venue des profondeurs"
     },
     "DarkThreePeater": {
         "achievement": 30,
@@ -156,13 +156,13 @@
     },
     "AshThreePeater": {
         "achievement": 31,
-        "Name": "Allumez un autre feu sur Scorched Triple Pisto-pois.",
-        "Text": "Bâton ardent"
+        "Name": "Fusinner un Jalapeño avec un Triple Pisto-pois Brûlé.",
+        "Text": "Terre brûler"
     },
     "SuperThreePeater": {
         "achievement": 32,
-        "Name": "Laissez Triple Pisto-pois renaître de ses cendres.",
-        "Text": "Renaissance des flammes"
+        "Name": "Laissez Triple Pisto-pois renaitre de ses cendres.",
+        "Text": "Renaissance dans les flammes"
     },
     "MagnetCactus": {
         "achievement": 33,
