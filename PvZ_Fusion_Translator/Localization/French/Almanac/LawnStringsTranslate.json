@@ -3856,6 +3856,13 @@
             "introduce": "<align=justified><size=36><color=black>\"Dois-je bondir pour écraser les zombies, ou simplement devenir un tireur comme les autres ?\" Cette question a hanté Écraseur Pois pendant toute son adolescence. Finalement, il a choisi le mode de vie plus traditionnel des Écraseurs. Mais chaque fois qu'il frappe le sol, ces petites bosses vertes sur son corps tirent instinctivement des pois malgré lui.</color>",
             "info": "<size=36>Déclenche une tempête de pois lorsqu'il s'écrase au sol.\n\n<color=black>Dégâts : </color><color=#8B0000>1800 (Écraseur)</color>\n<color=black>Portée de détection : </color><color=#8B0000>0.5 case à gauche ; 1 case à droite</color>\n<color=black>Spécial : </color><color=#8B0000>À l'atterrissage, libère 3 anneaux de projectiles de pois (108 pois au total).</color>",
             "cost": "<size=36>Formule de Fusion : <color=#8B0000>Pisto-pois + Écraseur</color>"
+        },
+        {
+            "seedType": 1374,
+            "name": "Drone Écraseur",
+            "introduce": "<align=justified><size=36><color=black>En exploitant l'énergie potentielle gravitationnelle, les Drones Écraseur peuvent déclencher de puissants écrasements avec facilité : rendant la grande préparation avant l'attaque apparemment inutile. \"Pas inutile du tout,\" explique Drone Écraseur. \"Je chasse les coccinelles posées sur mes feuilles pour éviter de les écraser par accident.\"</color>",
+            "info": "<size=36>Écrase à répétition les zombies en dessous de lui.\n\n<color=black>Dégâts : </color><color=#8B0000>100/1.35s (Écraseur)</color>\n<color=black>Portée de détection : </color><color=#8B0000>Case actuelle</color>\n<color=black>Spécial : </color><color=#8B0000>Plante volante. Lorsqu'un zombie est à portée, écrase à répétition le zombie en dessous.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Écraseur + Troufle</color>"
         }
     ]
 }
