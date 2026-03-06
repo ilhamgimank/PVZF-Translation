@@ -3863,6 +3863,34 @@
             "introduce": "<align=justified><size=36><color=black>En exploitant l'énergie potentielle gravitationnelle, les Drones Écraseur peuvent déclencher de puissants écrasements avec facilité : rendant la grande préparation avant l'attaque apparemment inutile. \"Pas inutile du tout,\" explique Drone Écraseur. \"Je chasse les coccinelles posées sur mes feuilles pour éviter de les écraser par accident.\"</color>",
             "info": "<size=36>Écrase à répétition les zombies en dessous de lui.\n\n<color=black>Dégâts : </color><color=#8B0000>100/1.35s (Écraseur)</color>\n<color=black>Portée de détection : </color><color=#8B0000>Case actuelle</color>\n<color=black>Spécial : </color><color=#8B0000>Plante volante. Lorsqu'un zombie est à portée, écrase à répétition le zombie en dessous.</color>",
             "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Écraseur + Troufle</color>"
+        },
+        {
+            "seedType": 956,
+            "name": "Arbitre Sinistre",
+            "introduce": "<align=justified><size=36><color=black>L’Arbitre Sinistre se tient en juge à la fin de toute chose. Dans ses mâchoires, chaque offrande est pesée : les indignes sont anéantis, les purs reçoivent une nouvelle forme, et l’équilibre est maintenu sans la moindre pitié. De sa gueule tombe un verdict auquel aucune âme ne peut échapper.</color>",
+            "info": "<size=36>Cliquez pour transformer la destruction en renaissance pour les plantes devant lui, tout en renvoyant les malédictions à leurs lanceurs.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée</color>\n<color=black>Dégâts : </color><color=#8B0000>1800×2/30s (Cremator)</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Ne cible pas les zombies.\n<color=black>•</color> Activation manuelle. Déclenche une explosion de Jalapeño et une explosion de Champi-mort sans cratère sur la case directement devant lui.\n<color=black>•</color> S’il y a une plante (hors pots et drones) sur la case devant lui, elle est détruite avec 50% de chance de laisser tomber son paquet de graines. Si la plante est maudite, la chute est garantie et le lanceur de la malédiction perd 15% de ses PV max.</color>\n<color=black>Modificateurs Odyssée :</color>\n<color=#8B0000>1. La chute de paquet de graines est désormais garantie\n2. Lorsqu’il détruit des plantes Odyssée non instantanées possédant un effet à la mort, cet effet est déclenché 4 fois supplémentaires</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Mordeur Maudit + Piment Méchant</color>"
+        },
+        {
+            "seedType": 1378,
+            "name": "Lance-laitue",
+            "introduce": "<color=#3D1400>\" Les robots intelligents sont tellement pratiques ! J’en ai personnalisé un exactement selon mes besoins, et mon efficacité à lancer ! \" s’exclama le Lance-laitue avec enthousiasme. \" Oh, la bataille va commencer. \" Sur ces mots, il bondit à l’intérieur d’une version plus grande de lui-même. Quelques instants plus tard, il entendit son adversaire dire : \" Les robots intelligents sont tellement pratiques ! J’en ai personnalisé un pour… \"</color>",
+            "info": "Le Lance-laitue peut projeter de minuscules versions de lui-même, révélant ses couches pour attaquer davantage de zombies.\n\n<color=black>Dégâts : </color><color=#8B0000>60/3s (Écrasement)</color>\n<color=black>Spécial : </color><color=#8B0000>Lance un mini Lance-laitue qui inflige des dégâts de zone par écrasement à l’impact, puis projette 2 Lance-laitues plus petits infligeant 50% des dégâts initiaux avant de disparaître. Ces derniers projettent à leur tour 2 Lance-laitues encore plus petits infligeant 25% des dégâts initiaux et disparaissant immédiatement.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Écraseur + Lance-chou</color>"
+        },
+        {
+            "seedType": 1376,
+            "name": "Maïs Glacé",
+            "introduce": "<color=#3D1400>Pour obtenir un beurre parfaitement gelé, Maïs-glacé a fait un voyage spécial jusqu’en Sibérie. Désormais, son beurre est lisse comme du marbre : lourd, dur, magnifique… et produit un bruit très satisfaisant lorsqu’il s’écrase sur la tête d’un zombie.</color>",
+            "info": "<size=36>Lance des grains de maïs gelés et des morceaux de beurre.\n\n<color=black>Dégâts : </color><color=#8B0000>20/3s</color>\n<color=#0077b6>Système Cryo : </color><color=#8B0000>Les attaques appliquent Gel, ajoutent 10 points Cryo et infligent ×4 dégâts aux zombies gelés.</color>\n<color=black>Spécial : </color><color=#8B0000>25% de chance de lancer une motte de beurre glacée qui gèle les zombies pendant 4 secondes.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Champi-glace + Lance-maïs</color>"
+        },
+        {
+            "seedType": 1370,
+            "name": "Mini-écraseur",
+            "introduce": "<align=justified><size=36><color=black>Ce ne sont que trois gamins venus réclamer des bonbons. La seule chose inhabituelle, c’est que si vous refusez leur demande… vous pourriez ressentir un peu de \" pression \".</color>",
+            "info": "<size=36>De petits Écraseurs pleins d’énergie qui bondissent et écrasent leurs ennemis.\n\n<color=black>Dégâts : </color><color=#8B0000>300 (Écrasement)</color>\n<color=black>Portée de détection : </color><color=#8B0000>2 cases à gauche et à droite</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Écrase une fois toutes les 1s et ne disparaît pas après l’impact ; lorsqu’il ne cible aucun zombie, il saute pour revenir sur sa case d’origine.\n<color=black>•</color> Vulnérable aux attaques des zombies pendant 0,6s après chaque écrasement.\n<color=black>•</color> Immunisé contre l’écrasement. Lorsqu’il est écrasé, il subit 500 dégâts toutes les 0,02s. Lorsqu’il écrase, il subit des dégâts équivalents à ceux qu’un zombie hypnotisé subirait dans la même situation.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Écraseur > Champi-gnon</color>"
         }
     ]
 }
