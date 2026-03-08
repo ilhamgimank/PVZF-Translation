@@ -3898,6 +3898,13 @@
             "introduce": "<color=#3D1400>Algue-piquante est très vigilante. Elle vit seule, se nourrissant uniquement dans les eaux peu profondes. Si nécessaire, elle se cache même sous les zombies pour échapper aux prédateurs. Elle dort d'un oeil ouvert, ce qui n'est pas simple pour une plante avec un seul oeil.</color>",
             "info": "<size=36>Quand elle entre en contact avec un zombie, Algue-piquante explose et s'attache à d'autres zombies pour se multiplier.\n\n<color=black>Dégâts: </color><color=#8B0000>20 × 30</color>\n<color=black>Spécial: </color><color=#8B0000>Quand un zombie entre en contact ave Algue-piquante, elle éclatera en 30 projectiles d'algues qui infligent 1 point d'Entrave avant de disparaître. Si un zombie est tué par un projectile d'algues, une Algue-piquante supplémentaire apparaîtra sur cette tuile (si possible).</color>",
             "cost": "\n<size=36>Formule de fusion: <color=#8B0000>Champi-gnon > Algue</color>"
+        },
+        {
+            "seedType": 1363,
+            "name": "Lance-butternut",
+            "introduce": "<align=justified><size=36><color=black>Lance-butternut n'a jamais été très doué en biologie. Il a toujours pensé que l'idée de \"dominance apicale\" était fausse, mais il a appris à garder cette opinion pour lui. Non pas parce qu'il a honte de ses notes, mais parce qu'il ne veut pas que quelqu'un réalise qu'il est un maïs avec une pointe sous-développée.</color>",
+            "info": "<size=36>Les projectiles lancés écrasent les zombies comme un Écraseur, avec une chance de beurrer ceux qui se font écraser.\n\n<color=black>Dégâts : </color><color=#8B0000>60/3s (Écraseur)</color>\n<color=black>Spécial : </color><color=#8B0000>Les projectiles infligent des dégâts de zone de type Écraseur lorsqu'ils atterrissent. A 25% de chances de lancer un Écraseur Beurre, infligeant 60 dégâts et appliquant un étourdissement Beurre de 4s à jusqu'à 3 cibles déjà touchées.</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Écraseur + Lance-maïs</color>"
         }
     ]
 }
