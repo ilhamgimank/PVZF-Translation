@@ -28,15 +28,102 @@ Ce document retrace l’ensemble des contributions effectuées par **Charles LIN
 
 > Statistiques cumulées sur l’ensemble de la période.
 
-* Nouvelles traductions : **243**
+* Nouvelles traductions : **249**
 * Traductions ajustées : **132**
-* Reviews effectuées : **352**
+* Reviews effectuées : **390**
 
 ---
 
 ## 🗓️ Historique des contributions
 
 > Les contributions sont regroupées par semaine civile (ISO).
+
+---
+
+### 📅 Semaine — `02/03/26 → 08/03/26`
+> [PR#106](https://github.com/Teyliu/PVZF-Translation/pull/106)
+
+**Résumé de la semaine**
+
+* Nouvelles traductions : **6**
+* Traductions ajustées : **0**
+* Reviews effectuées : **38**
+
+---
+
+#### Détail
+
+## 🌱 **Newly Added Plants**
+* **Bamboom** (`seedType: 222`)
+* **Piment Souffle-du-Dragon** (`seedType: 979`)
+* **Arbitre Sinistre** (`seedType: 956`)
+* **Lance-laitue** (`seedType: 1378`)
+* **Maïs Glacé** (`seedType: 1376`)
+* **Mini-écraseur** (`seedType: 1370`)
+
+## 🌿 **Reviews**
+
+### 🌱 **Newly Added Plants**
+
+[Oarlina](./oarlina.md) :
+* **Algue-piquante** (`seedType: 1377`)
+
+[Hubtech](./hubtech.md) :
+* **Écraseur Pois** (`seedType: 1366`)
+* **Drone Écraseur** (`seedType: 1374`)
+* **Lance-butternut** (`seedType: 1363`)
+
+### 🔧 **Modified Achievements**
+[Oarlina](./oarlina.md) :
+* **Repose en pièces** (`achievement: 40`)
+* **Il y a une petite fille sur ta pelouse** (`achievement: 55`)
+* **C'est une chat-astrophe !** (`achievement: 56`)
+* **La trajectoire penche vers la gauche.** (`achievement: 17`)
+* **Danser avec le feu** (`achievement: 30`)
+* **Terre brûler** (`achievement: 31`)
+* **Renaissance dans les flammes** (`achievement: 32`)
+* **Chute de pneu** (`achievement: 19`)
+* **Horreur venue des profondeurs** (`achievement: 29`)
+* **Créature des profondeurs** (`achievement: 18`)
+
+### 🧵 **New String Entries Added**
+[Barbie917](./barbie917.md) :
+* **缠绕水草** (2112)
+* **玩偶南瓜** (2111)
+* **卷心菜投手** (2110)
+* **忧郁菇** (2109)
+* **小喷菇** (2107)
+* **坚果** (2106)
+* **坚果墙** (2105)
+* **磁力菇王** (2104)
+* **玉米投手** (2103)
+* **西瓜投手** (2102)
+* **海蘑菇** (2101)
+* **水草** (2100)
+
+### ♻️ **Modified String Entries**
+
+[Oarlina](./oarlina.md) :
+* **-------UI - Main Menu** (1)
+* **UI - Paramètres-------** (6)
+
+[Hubtech](./hubtech.md) :
+* **UI - Sélection de Plante-------** (38)
+* **重选上次卡牌** (41)
+* **"-------UI - Playing"** (42)
+
+[Barbie917](./barbie917.md) :
+* **开启斗蛐蛐** (62)
+* **保存为自定义阵容** (65)
+
+### 🧪 **New Regex Patterns Added**
+
+[Barbie917](./barbie917.md) :
+* **(\\d+)%生命值上限提高** (352)
+* **(\\d+)%减伤穿透** (353)
+* **(\\d+)%伤害减免** (354)
+* **(\\d+)(%基础伤害)$** (350)
+* **(\\d+)上限，(\\d+)%效率** (351)
 
 ---
 

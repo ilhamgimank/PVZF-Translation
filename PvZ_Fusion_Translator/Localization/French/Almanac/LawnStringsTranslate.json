@@ -3835,6 +3835,76 @@
             "introduce": "<align=justified><size=36><color=black>La Champi-suprématie vient des abysses les plus profonds et les plus densément peuplés, et commande les paysages oniriques les plus insaisissables. En lui, l’équilibre du yin et du yang s’accomplit parfaitement, et même les monstres les plus redoutables ont été domptés par sa main. En privé, il est aussi un collectionneur chevronné de figurines zombies.</color>",
             "info": "<size=36>Invoque un Zombie Mini-boss hypnotisé pour combattre à vos côtés.\n\n<color=#4A2900>Condition d’utilisation : Mode Récolte | Plante Odyssée Légendaire</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> 1,5s après son apparition, invoque aléatoirement un Zombie Mini-boss hypnotisé parmi les suivants. Le Mini-boss invoqué ne peut pas être repoussé par les Hypno Troufle ni capturé par la Citrouille de Capture.\n<color=black>•</color> Gargantua Abyssal : confère également une Réduction des dégâts subis de 90% à toutes les plantes tant qu’il est présent.\n<color=black>•</color> Frappeur Giga Quarterback : soigne toutes les plantes d’un montant égal à 0,2× leurs PV max toutes les 3s tant qu’il est présent.\n<color=black>•</color> Professeur Cherryz : immobile. Tire une cerise explosive toutes les 0,1s. Perd son journal à l’apparition et convertit jusqu’à 30 zombies non Mini-boss et non Gargantuars présents sur le terrain (des deux côtés) en Zombies Journal Sulfateuse Cerise hypnotisés et enragés.</color>",
             "cost": "\n" 
+        },
+        {
+            "seedType": 222,
+            "name": "Bamboom",
+            "introduce": "<color=#3D1400>À l’approche du Nouvel An, Bamboom est descendu en ville pour faire ses emplettes festives. \" Chaque année, j’étais débordé, déclenchant des feux d’artifice devant chaque maison pendant les festivités \", raconte-t-il. \" Mais maintenant, grâce à ces nouveaux pétards fabriqués avec une poudre cerise-piment, je peux enfin me détendre et profiter de ma retraite. \" Il faut reconnaître que ces nouveaux pétards sont remarquablement efficaces — il compte bien en acheter un lot cette année encore.</color>",
+            "info": "Bamboom peut effrayer démons et monstres, rendre le corps aussi fin qu’un faisceau de soie et le souffle aussi puissant que le tonnerre.\n\n<color=#3D1400>Conditions de déverrouillage : </color><color=red>Terminer le Niveau Aventure 45</color>\n<color=black>Dégâts : </color><color=#8B0000>300</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Après avoir été planté, attend 1s avant de s’élancer dans sa ligne, repoussant les zombies rencontrés et infligeant 300 dégâts de zone à chaque impact.\n<color=black>•</color> Inflige ×15 dégâts aux zombies Yéti Huo-Long.</color>",
+            "cost": "Coût : <color=red>275</color>\nRecharge : <color=red>50s</color>"
+        },
+        {
+            "seedType": 979,
+            "name": "Piment Souffle-du-Dragon",
+            "introduce": "<color=#3D1400>Au milieu des crépitements des feux d’artifice, l’année s’achève et la douce brise du printemps apporte un nouveau souffle de vie. La Fête du Printemps est le moment le plus joyeux pour toutes les plantes. Le seul petit incident concerna le Piment Souffle-du-Dragon : en allumant des feux d’artifice, il mit accidentellement le feu à la scène où les Tournesols interprétaient \" Gong Xi Fa Cai \".</color>",
+            "info": "Crache des flammes, invoque des dragons et repousse les zombies dans un spectacle enflammé.\n\n<color=#3D1400>Condition d’utilisation : Mode Odyssée</color>\n<color=#3D1400>Dégâts : </color><color=red>200</color>\n<color=#3D1400>Portée : </color><color=red>5 cases vers l’avant</color>\n<color=#3D1400>Spécial : <color=#8B0000>\n<color=black>•</color> Toutes les 4s, crache un souffle de feu couvrant 5 cases, infligeant des dégâts de feu toutes les 0,02s à tous les zombies touchés (y compris les unités aériennes) et déclenchant un recul ainsi qu’une petite explosion de Cerise toutes les 0,2s.\n<color=black>•</color> Lorsqu’il cesse de cracher du feu, le Piment Souffle-du-Dragon invoque un mini Bamboom volant qui repousse les zombies et déclenche une petite explosion de Cerise sur chaque zombie touché toutes les 0,02s. Peut cibler les unités aériennes.</color>\n<color=black>Modificateurs Odyssée :</color>\n<color=#8B0000>1. Fréquence des explosions ×2\n2. Chaque zombie touché par le souffle augmente les dégâts du coup suivant de cette même attaque de 1%, cumulable jusqu’à 400%</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Bamboom + Piment d'Espelette</color>"
+        },
+        {
+            "seedType": 1366,
+            "name": "Écraseur Pois",
+            "introduce": "<align=justified><size=36><color=black>\"Dois-je bondir pour écraser les zombies, ou simplement devenir un tireur comme les autres ?\" Cette question a hanté Écraseur Pois pendant toute son adolescence. Finalement, il a choisi le mode de vie plus traditionnel des Écraseurs. Mais chaque fois qu'il frappe le sol, ces petites bosses vertes sur son corps tirent instinctivement des pois malgré lui.</color>",
+            "info": "<size=36>Déclenche une tempête de pois lorsqu'il s'écrase au sol.\n\n<color=black>Dégâts : </color><color=#8B0000>1800 (Écraseur)</color>\n<color=black>Portée de détection : </color><color=#8B0000>0.5 case à gauche ; 1 case à droite</color>\n<color=black>Spécial : </color><color=#8B0000>À l'atterrissage, libère 3 anneaux de projectiles de pois (108 pois au total).</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Pisto-pois + Écraseur</color>"
+        },
+        {
+            "seedType": 1374,
+            "name": "Drone Écraseur",
+            "introduce": "<align=justified><size=36><color=black>En exploitant l'énergie potentielle gravitationnelle, les Drones Écraseur peuvent déclencher de puissants écrasements avec facilité : rendant la grande préparation avant l'attaque apparemment inutile. \"Pas inutile du tout,\" explique Drone Écraseur. \"Je chasse les coccinelles posées sur mes feuilles pour éviter de les écraser par accident.\"</color>",
+            "info": "<size=36>Écrase à répétition les zombies en dessous de lui.\n\n<color=black>Dégâts : </color><color=#8B0000>100/1.35s (Écraseur)</color>\n<color=black>Portée de détection : </color><color=#8B0000>Case actuelle</color>\n<color=black>Spécial : </color><color=#8B0000>Plante volante. Lorsqu'un zombie est à portée, écrase à répétition le zombie en dessous.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Écraseur + Troufle</color>"
+        },
+        {
+            "seedType": 956,
+            "name": "Arbitre Sinistre",
+            "introduce": "<align=justified><size=36><color=black>L’Arbitre Sinistre se tient en juge à la fin de toute chose. Dans ses mâchoires, chaque offrande est pesée : les indignes sont anéantis, les purs reçoivent une nouvelle forme, et l’équilibre est maintenu sans la moindre pitié. De sa gueule tombe un verdict auquel aucune âme ne peut échapper.</color>",
+            "info": "<size=36>Cliquez pour transformer la destruction en renaissance pour les plantes devant lui, tout en renvoyant les malédictions à leurs lanceurs.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée</color>\n<color=black>Dégâts : </color><color=#8B0000>1800×2/30s (Cremator)</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Ne cible pas les zombies.\n<color=black>•</color> Activation manuelle. Déclenche une explosion de Jalapeño et une explosion de Champi-mort sans cratère sur la case directement devant lui.\n<color=black>•</color> S’il y a une plante (hors pots et drones) sur la case devant lui, elle est détruite avec 50% de chance de laisser tomber son paquet de graines. Si la plante est maudite, la chute est garantie et le lanceur de la malédiction perd 15% de ses PV max.</color>\n<color=black>Modificateurs Odyssée :</color>\n<color=#8B0000>1. La chute de paquet de graines est désormais garantie\n2. Lorsqu’il détruit des plantes Odyssée non instantanées possédant un effet à la mort, cet effet est déclenché 4 fois supplémentaires</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Mordeur Maudit + Piment Méchant</color>"
+        },
+        {
+            "seedType": 1378,
+            "name": "Lance-laitue",
+            "introduce": "<color=#3D1400>\" Les robots intelligents sont tellement pratiques ! J’en ai personnalisé un exactement selon mes besoins, et mon efficacité à lancer ! \" s’exclama le Lance-laitue avec enthousiasme. \" Oh, la bataille va commencer. \" Sur ces mots, il bondit à l’intérieur d’une version plus grande de lui-même. Quelques instants plus tard, il entendit son adversaire dire : \" Les robots intelligents sont tellement pratiques ! J’en ai personnalisé un pour… \"</color>",
+            "info": "Le Lance-laitue peut projeter de minuscules versions de lui-même, révélant ses couches pour attaquer davantage de zombies.\n\n<color=black>Dégâts : </color><color=#8B0000>60/3s (Écrasement)</color>\n<color=black>Spécial : </color><color=#8B0000>Lance un mini Lance-laitue qui inflige des dégâts de zone par écrasement à l’impact, puis projette 2 Lance-laitues plus petits infligeant 50% des dégâts initiaux avant de disparaître. Ces derniers projettent à leur tour 2 Lance-laitues encore plus petits infligeant 25% des dégâts initiaux et disparaissant immédiatement.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Écraseur + Lance-chou</color>"
+        },
+        {
+            "seedType": 1376,
+            "name": "Maïs Glacé",
+            "introduce": "<color=#3D1400>Pour obtenir un beurre parfaitement gelé, Maïs-glacé a fait un voyage spécial jusqu’en Sibérie. Désormais, son beurre est lisse comme du marbre : lourd, dur, magnifique… et produit un bruit très satisfaisant lorsqu’il s’écrase sur la tête d’un zombie.</color>",
+            "info": "<size=36>Lance des grains de maïs gelés et des morceaux de beurre.\n\n<color=black>Dégâts : </color><color=#8B0000>20/3s</color>\n<color=#0077b6>Système Cryo : </color><color=#8B0000>Les attaques appliquent Gel, ajoutent 10 points Cryo et infligent ×4 dégâts aux zombies gelés.</color>\n<color=black>Spécial : </color><color=#8B0000>25% de chance de lancer une motte de beurre glacée qui gèle les zombies pendant 4 secondes.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Champi-glace + Lance-maïs</color>"
+        },
+        {
+            "seedType": 1370,
+            "name": "Mini-écraseur",
+            "introduce": "<align=justified><size=36><color=black>Ce ne sont que trois gamins venus réclamer des bonbons. La seule chose inhabituelle, c’est que si vous refusez leur demande… vous pourriez ressentir un peu de \" pression \".</color>",
+            "info": "<size=36>De petits Écraseurs pleins d’énergie qui bondissent et écrasent leurs ennemis.\n\n<color=black>Dégâts : </color><color=#8B0000>300 (Écrasement)</color>\n<color=black>Portée de détection : </color><color=#8B0000>2 cases à gauche et à droite</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Écrase une fois toutes les 1s et ne disparaît pas après l’impact ; lorsqu’il ne cible aucun zombie, il saute pour revenir sur sa case d’origine.\n<color=black>•</color> Vulnérable aux attaques des zombies pendant 0,6s après chaque écrasement.\n<color=black>•</color> Immunisé contre l’écrasement. Lorsqu’il est écrasé, il subit 500 dégâts toutes les 0,02s. Lorsqu’il écrase, il subit des dégâts équivalents à ceux qu’un zombie hypnotisé subirait dans la même situation.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Écraseur > Champi-gnon</color>"
+        },
+        {
+            "seedType": 1377,
+            "name": "Algue-piquante",
+            "introduce": "<color=#3D1400>Algue-piquante est très vigilante. Elle vit seule, se nourrissant uniquement dans les eaux peu profondes. Si nécessaire, elle se cache même sous les zombies pour échapper aux prédateurs. Elle dort d'un oeil ouvert, ce qui n'est pas simple pour une plante avec un seul oeil.</color>",
+            "info": "<size=36>Quand elle entre en contact avec un zombie, Algue-piquante explose et s'attache à d'autres zombies pour se multiplier.\n\n<color=black>Dégâts: </color><color=#8B0000>20 × 30</color>\n<color=black>Spécial: </color><color=#8B0000>Quand un zombie entre en contact ave Algue-piquante, elle éclatera en 30 projectiles d'algues qui infligent 1 point d'Entrave avant de disparaître. Si un zombie est tué par un projectile d'algues, une Algue-piquante supplémentaire apparaîtra sur cette tuile (si possible).</color>",
+            "cost": "\n<size=36>Formule de fusion: <color=#8B0000>Champi-gnon > Algue</color>"
+        },
+        {
+            "seedType": 1363,
+            "name": "Lance-butternut",
+            "introduce": "<align=justified><size=36><color=black>Lance-butternut n'a jamais été très doué en biologie. Il a toujours pensé que l'idée de \"dominance apicale\" était fausse, mais il a appris à garder cette opinion pour lui. Non pas parce qu'il a honte de ses notes, mais parce qu'il ne veut pas que quelqu'un réalise qu'il est un maïs avec une pointe sous-développée.</color>",
+            "info": "<size=36>Les projectiles lancés écrasent les zombies comme un Écraseur, avec une chance de beurrer ceux qui se font écraser.\n\n<color=black>Dégâts : </color><color=#8B0000>60/3s (Écraseur)</color>\n<color=black>Spécial : </color><color=#8B0000>Les projectiles infligent des dégâts de zone de type Écraseur lorsqu'ils atterrissent. A 25% de chances de lancer un Écraseur Beurre, infligeant 60 dégâts et appliquant un étourdissement Beurre de 4s à jusqu'à 3 cibles déjà touchées.</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Écraseur + Lance-maïs</color>"
         }
     ]
 }

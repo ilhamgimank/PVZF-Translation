@@ -21,15 +21,40 @@ Ce document retrace l’ensemble des contributions effectuées par **Hubtech** a
 
 > Statistiques cumulées sur l’ensemble de la période.
 
-* Nouvelles traductions : **46**
-* Traductions ajustées : **43**
-
+* Nouvelles traductions : **49**
+* Traductions ajustées : **46**
 
 ---
 
 ## 🗓️ Historique des contributions
 
 > Les contributions sont regroupées par semaine civile (ISO).
+
+---
+
+### 📅 Semaine — `02/03/26 → 08/03/26`
+> [PR#106](https://github.com/Teyliu/PVZF-Translation/pull/106)
+
+**Résumé de la semaine**
+
+* Traductions ajustées : **3**
+* Nouvelles traductions : **3**
+
+---
+
+#### Détail
+
+## 🌱 **Newly Added Plants**
+
+* **Écraseur Pois** (`seedType: 1366`)
+* **Drone Écraseur** (`seedType: 1374`)
+* **Lance-butternut** (`seedType: 1363`)
+
+## ♻️ **Modified String Entries**
+
+* **UI - Sélection de Plante-------** (38)
+* **重选上次卡牌** (41)
+* **"-------UI - Playing"** (42)
 
 ---
 

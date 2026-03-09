@@ -21,13 +21,40 @@ Ce document retrace l’ensemble des contributions effectuées par **Chombi Pr.A
 
 > Statistiques cumulées sur l’ensemble de la période.
 
-* Traduction testé : **41**
+* Traduction testé : **51**
 
 ---
 
 ## 🗓️ Historique des contributions
 
 > Les contributions sont regroupées par semaine civile (ISO).
+
+---
+
+### 📅 Semaine — `02/03/26 → 08/03/26`
+> [PR#106](https://github.com/Teyliu/PVZF-Translation/pull/106)
+
+**Résumé de la semaine**
+
+* Traduction testé : **10**
+
+---
+
+#### Détail
+
+## 🌱 **Plant Check**
+
+@ChmobiPraal :
+* **Pisto-pois** (`seedType: 0`)
+* **Double-pois** (`seedType: 1030`)
+* **Tripe-pois** (`seedType: 1090`)
+* **Sulfateuse à pois** (`seedType: 1032`)
+* **Pisto-Tournesol** (`seedType: 1000`)
+* **Pisto-cerise** (`seedType: 1001`)
+* **Double-cerise** (`seedType: 1008`)
+* **Triple-cerise** (`seedType: 1108`)
+* **Sulfateuse à cerise** (`seedType: 1017`)
+* **Pois-noix** (`seedType: 1004`)
 
 ---
 

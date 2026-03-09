@@ -17,9 +17,9 @@ Ce document a pour objectif de reconnaître et valoriser les personnes impliqué
 
 **Récapitulatif des contributions**
 
-* Nouvelles traductions : **243**
+* Nouvelles traductions : **249**
 * Traductions ajustées : **132**
-* Reviews effectuées : **352**
+* Reviews effectuées : **390**
 
 **Réseaux & contacts**
 
@@ -49,8 +49,8 @@ Ce document a pour objectif de reconnaître et valoriser les personnes impliqué
 
 **Statistiques de contribution**
 
-* Nouvelles traductions : **46**
-* Traductions ajustées : **43**
+* Nouvelles traductions : **49**
+* Traductions ajustées : **46**
 
 **Réseaux & contacts**
 
@@ -62,13 +62,27 @@ Ce document a pour objectif de reconnaître et valoriser les personnes impliqué
 
 **Statistiques de contribution**
 
-* Nouvelles traductions : **15**
-* Traductions ajustées : **54**
+* Nouvelles traductions : **17**
+* Traductions ajustées : **66**
 
 **Réseaux & contacts**
 
 * **GitHub** : [Oarlina](https://github.com/Oarlina) 
 * **LinkedIn** : [Rachel Marquant](https://www.linkedin.com/in/rachel-marquant-98bb4536a/)
+
+---
+
+### [Barbie917](./french-contributor/barbie917.md)
+
+**Statistiques de contribution**
+
+* Traductions ajustées : **2**
+* Nouvelles traductions : **17**
+
+**Réseaux & contacts**
+
+* **Discord** : *kipy54*
+* **GitHub** : [Barbie917](https://github.com/Barbie917)
 
 ---
 
@@ -103,7 +117,7 @@ Ce document a pour objectif de reconnaître et valoriser les personnes impliqué
 
 **Statistiques de contribution**
 
-* Traduction testé : **41**
+* Traduction testé : **51**
 
 **Réseaux & contacts**
 

@@ -22,14 +22,50 @@ Ce document retrace l’ensemble des contributions effectuées par **Oarlina** a
 
 > Statistiques cumulées sur l’ensemble de la période.
 
-* Nouvelles traductions : **15**
-* Traductions ajustées : **54**
+* Nouvelles traductions : **17**
+* Traductions ajustées : **66**
 
 ---
 
 ## 🗓️ Historique des contributions
 
 > Les contributions sont regroupées par semaine civile (ISO).
+
+---
+
+### 📅 Semaine — `02/03/26 → 08/03/26`
+> [PR#106](https://github.com/Teyliu/PVZF-Translation/pull/106)
+
+**Résumé de la semaine**
+
+* Traductions ajustées : **2**
+* Nouvelles traductions : **12**
+
+---
+
+#### Détail
+
+## 🌱 **Newly Added Plants**
+
+* **Algue-piquante** (`seedType: 1377`)
+
+## 🔧 **Modified Achievements**
+
+* **Repose en pièces** (`achievement: 40`)
+* **Il y a une petite fille sur ta pelouse** (`achievement: 55`)
+* **C'est une chat-astrophe !** (`achievement: 56`)
+* **La trajectoire penche vers la gauche.** (`achievement: 17`)
+* **Danser avec le feu** (`achievement: 30`)
+* **Terre brûler** (`achievement: 31`)
+* **Renaissance dans les flammes** (`achievement: 32`)
+* **Chute de pneu** (`achievement: 19`)
+* **Horreur venue des profondeurs** (`achievement: 29`)
+* **Créature des profondeurs** (`achievement: 18`)
+
+## ♻️ **Modified String Entries**
+
+* **-------UI - Main Menu** (1)
+* **UI - Paramètres-------** (6)
 
 ---
 
