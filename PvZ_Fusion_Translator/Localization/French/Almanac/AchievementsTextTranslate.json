@@ -67,7 +67,7 @@
     "JacksonZombie": {
         "achievement": 13,
         "Name": "Rencontrez Michael Zombie",
-        "Text": "Michael est là aussi"
+        "Text": "Thriller"
     },
     "ScaredyHypno": {
         "achievement": 14,
@@ -211,8 +211,8 @@
     },
     "HypnoEmperor": {
         "achievement": 42,
-        "Name": "Découvrez Impératrice-Champignon.",
-        "Text": "Impératrice magique"
+        "Name": "Découvrez l'Impécratrice-champi.",
+        "Text": "C'est une sorte de magie."
     },
     "CobCannon": {
         "achievement": 43,
@@ -256,8 +256,8 @@
     },
     "SuperFume": {
         "achievement": 51,
-        "Name": "Découvrez Champi-glacier",
-        "Text": "Champignon sombre"
+        "Name": "Découvrez le Champi-glace maudit",
+        "Text": "Champignon Sombre"
     },
     "UltimateFume": {
         "achievement": 52,
@@ -266,8 +266,8 @@
     },
     "UltimteGloom": {
         "achievement": 53,
-        "Name": "Découvrez le champignon Oblivion",
-        "Text": "Un champignon, cinq lignes"
+        "Name": "Découvrez le Champi-mageddon",
+        "Text": "Radioactive"
     },
     "CattailPlant": {
         "achievement": 54,
