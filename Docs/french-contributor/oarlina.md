@@ -22,8 +22,8 @@ Ce document retrace l’ensemble des contributions effectuées par **Oarlina** a
 
 > Statistiques cumulées sur l’ensemble de la période.
 
-* Nouvelles traductions : **17**
-* Traductions ajustées : **66**
+* Nouvelles traductions : **16**
+* Traductions ajustées : **82**
 
 ---
 
@@ -33,13 +33,46 @@ Ce document retrace l’ensemble des contributions effectuées par **Oarlina** a
 
 ---
 
+### 📅 Semaine — `09/03/26 → 15/03/26`
+> [PR#107](https://github.com/Teyliu/PVZF-Translation/pull/107)
+
+**Résumé de la semaine**
+
+* Traductions ajustées : **16**
+
+---
+
+#### Détail
+
+## 🔧 **Modified Achievements**
+
+* **C'est chaud** (`achievement: 27`)
+* **Cuisine de l'enfer** (`achievement: 28`)
+* **Soleil dans la piscine** (`achievement: 20`)
+* **Lance-Taco c'est ton mensonge** (`achievement: 23`)
+* **Jongleuse** (`achievement: 25`)
+* **Transmutation** (`achievement: 47`)
+* **Viens et frappe moi !** (`achievement: 48`)
+* **Retour à l'expediteur** (`achievement: 49`)
+*  **Ciel et Terre** (`achievement: 64`)
+*  **Plus affûté que jamais** (`achievement: 43`)
+* **Gelé** (`achievement: 44`)
+* **Regarde le monde brûlé** (`achievement: 45`)
+* **Je suis devenu la mort** (`achievement: 46`)
+* **Une pluie de pastèques** (`achievement: 26`)
+* **Brillamment éclairé.** (`achievement: 50`)
+* **Manoeuvre gravitationnelle** (`achievement: 21`)
+
+---
+
 ### 📅 Semaine — `02/03/26 → 08/03/26`
 > [PR#106](https://github.com/Teyliu/PVZF-Translation/pull/106)
 
 **Résumé de la semaine**
 
-* Traductions ajustées : **2**
-* Nouvelles traductions : **12**
+* Nouvelles traductions : **1**
+* Traductions ajustées : **12**
+
 
 ---
 

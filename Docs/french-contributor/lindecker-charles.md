@@ -29,14 +29,91 @@ Ce document retrace l’ensemble des contributions effectuées par **Charles LIN
 > Statistiques cumulées sur l’ensemble de la période.
 
 * Nouvelles traductions : **249**
-* Traductions ajustées : **132**
-* Reviews effectuées : **390**
+* Traductions ajustées : **133**
+* Reviews effectuées : **433**
 
 ---
 
 ## 🗓️ Historique des contributions
 
 > Les contributions sont regroupées par semaine civile (ISO).
+
+---
+
+### 📅 Semaine — `09/03/26 → 15/03/26`
+> [PR#107](https://github.com/Teyliu/PVZF-Translation/pull/107)
+
+**Résumé de la semaine**
+
+* Nouvelles traductions : **0**
+* Traductions ajustées : **1**
+* Reviews effectuées : **43**
+
+---
+
+#### Détail
+
+## 🔧 **Modified Achievements**
+
+* **Algorithme de parcours en largeur** (`achievement: 22`)
+
+## 🌿 **Reviews**
+
+### 🔧 **Modified Achievements**
+
+[Oarlina](./oarlina.md) :
+* **C'est chaud** (`achievement: 27`)
+* **Cuisine de l'enfer** (`achievement: 28`)
+* **Soleil dans la piscine** (`achievement: 20`)
+* **Lance-Taco c'est ton mensonge** (`achievement: 23`)
+* **Jongleuse** (`achievement: 25`)
+* **Transmutation** (`achievement: 47`)
+* **Viens et frappe moi !** (`achievement: 48`)
+* **Retour à l'expediteur** (`achievement: 49`)
+*  **Ciel et Terre** (`achievement: 64`)
+*  **Plus affûté que jamais** (`achievement: 43`)
+* **Gelé** (`achievement: 44`)
+* **Regarde le monde brûlé** (`achievement: 45`)
+* **Je suis devenu la mort** (`achievement: 46`)
+* **Une pluie de pastèques** (`achievement: 26`)
+* **Brillamment éclairé.** (`achievement: 50`)
+* **Manoeuvre gravitationnelle** (`achievement: 21`)
+
+[Kurodaten Shi](./kurodaten_shi.md) :
+* **C'est une sorte de magie.** (`achievement: 42`)
+* **Champignon Sombre** (`achievement: 51`)
+* **Radioactive** (`achievement: 53`)
+* **Thriller** (`achievement: 13`)
+
+### 🧵 **New String Entries Added**
+[Barbie917](./barbie917.md) :
+* **超级伞** (2098)
+* **高坚果** (2108)
+* **超级投手** (2097)
+* **超级杨桃** (2096)
+* **超级南瓜** (2095)
+* **超级窝草** (2094)
+* **超级火炬** (2093)
+* **超级大喷菇** (2092)
+* **超级魅惑菇** (2091)
+* **超级大嘴花** (2090)
+* **超级大嘴花** (2090)
+* **debug模式关闭** (2087)
+* **debug模式开启** (2086)
+* **名称与植物不一致** (2084)
+* **场地上不能有僵尸** (2083)
+* **场上植物过多** (2082)
+* **文件加载错误\n** (2081)
+* **文件内容为空或格式错误\n** (2081)
+* **文件中level键值重复\n** (2079)
+* **中没有文件** (2078)
+* **在 Resources/** (2077)
+
+### 🧪 **New Regex Patterns Added**
+
+[Barbie917](./barbie917.md) :
+* **^([^(]+)\((\d+)\)：\n<color=>(\d+)/(\d+)** (359)
+* **【([^\s]+)】_IV** (358)
 
 ---
 

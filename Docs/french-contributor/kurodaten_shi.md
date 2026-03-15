@@ -22,13 +22,33 @@ Ce document retrace l’ensemble des contributions effectuées par **Kurodaten S
 > Statistiques cumulées sur l’ensemble de la période.
 
 * Nouvelles traductions : **3**
-* Traductions ajustées : **6**
+* Traductions ajustées : **10**
 
 ---
 
 ## 🗓️ Historique des contributions
 
 > Les contributions sont regroupées par semaine civile (ISO).
+
+---
+
+### 📅 Semaine — `09/03/26 → 15/03/26`
+> [PR#107](https://github.com/Teyliu/PVZF-Translation/pull/107)
+
+**Résumé de la semaine**
+
+* Traductions ajustées : **4**
+
+---
+
+#### Détail
+
+## 🔧 **Modified Achievements**
+
+* **C'est une sorte de magie.** (`achievement: 42`)
+* **Champignon Sombre** (`achievement: 51`)
+* **Radioactive** (`achievement: 53`)
+* **Thriller** (`achievement: 13`)
 
 ---
 
