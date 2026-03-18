@@ -166,33 +166,33 @@
     },
     "MagnetCactus": {
         "achievement": 33,
-        "Name": "Utilisez Cactus Magnétique pour écraser des dirigeables.",
-        "Text": "Croiseur Aegis"
+        "Name": "Utilisez Cactus Magnétique pour faire s'écraser des dirigeables.",
+        "Text": "Utilise la Force"
     },
     "SuperStar": {
         "achievement": 34,
-        "Name": "Regardez un météore tomber du ciel.",
-        "Text": "Quand le ciel bouge, tout suit"
+        "Name": "Regardez une étoile filante tomber du ciel.",
+        "Text": "Laisse tombé le ciel"
     },
     "UltimateStar": {
         "achievement": 35,
-        "Name": "Découvrez Magnétar.",
+        "Name": "Découvrez Étoile polaire.",
         "Text": "Niveau 1436"
     },
     "MagnetShroom2": {
         "achievement": 36,
         "Name": "Connectez 50 plantes dans un système magnétique.",
-        "Text": "Magnéto"
+        "Text": "Magnétosphère"
     },
     "UltimateStar2": {
         "achievement": 37,
-        "Name": "Les dégâts de l'étoile de Magnetar dépassent plus de 1 800.",
-        "Text": "Enfant des étoiles"
+        "Name": "Faire dépasser les dégâts de l'Étoile Polaire au dessus de 1 800.",
+        "Text": "Construction d'étoiles"
     },
     "HypnoMagnet": {
         "achievement": 38,
-        "Name": "Invoquez un Mecha Gargantuar à partir d’un aimant hypnotique.",
-        "Text": "Flot d'acier"
+        "Name": "Invoquez un Gargantua Mecha à partir d’un Aimant Charment.",
+        "Text": "Torrent d'acier"
     },
     "SunMagnet": {
         "achievement": 39,
@@ -316,8 +316,8 @@
     },
     "UltimatePumpkin": {
         "achievement": 63,
-        "Name": "Utilisez Laser Pumpkin pour vous défendre contre les zombies aéroportés.",
-        "Text": "Citrouille puissante"
+        "Name": "Utilisez Citrouille-laser pour vous défendre contre les zombies aériens.",
+        "Text": "Je ne rate jamais"
     },
     "MelonJump": {
         "achievement": 64,
