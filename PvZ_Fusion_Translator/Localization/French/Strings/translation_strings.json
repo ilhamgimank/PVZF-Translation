@@ -780,5 +780,10 @@
   "中没有文件": "Il n'y a pas de fichier",
   "在 Resources/": "Dans les Ressources",
   "超级樱桃射手": "Piso-grenade",
-  "僵尸种类异常，取消出怪限制": "Erreur de type de zombie !Restrictions des apparitions de zombies retirées"
+  "僵尸种类异常，取消出怪限制": "Erreur de type de zombie !Restrictions des apparitions de zombies retirées",
+  "超级云杉射手": "Epicéa Tireur d’exception",
+  "皮肤挑战关卡": "Niveau Skin Challenge",
+  "向左": "Vers la gauche",
+  "-------Strings - No Idea": "Strings - Aucune idée------- ",
+  "开启领袖专属血条": "Activer les bars de PV \n uniques des Mini-boss"
 }

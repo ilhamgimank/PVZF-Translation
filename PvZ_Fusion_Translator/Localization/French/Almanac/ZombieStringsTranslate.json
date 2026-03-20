@@ -176,9 +176,9 @@
         },
         {
             "theZombieType": 30,
-            "name": "Roi Zombie Clown-Dans-la-Boîte",
-            "introduce": "<size=31><color=black>Pour chaque clown zombie, l'autodestruction est la forme d'art la plus élevée, et King Clown excelle par-dessus tout. \"Le Roi Clown n'enlèvera jamais son masque ni ne lâchera le coffret cadeau qu'il tient à la main !\"</color>",
-            "info": "<size=31>King Clown peut également exploser après sa mort !\n\n<color=black>Robustesse : </color><color=#4B0082>720+370</color>\n<color=black>Spécial : </color><color=#4B0082>Devient violent après avoir explosé, doublant sa vitesse. A également une chance de s'autodétruire et de se transformer en zombie Jack-in-the-Box. Plus il explose vite, plus il risque de mourir.</color>"
+            "name": "Zombie Clown-dans-la-boite",
+            "introduce": "<size=31><color=black>Pour chaque clown zombie, l'autodestruction est la forme d'art la plus élevée, et le Clown excelle par-dessus tout. \"Le Clown n'enlèvera jamais son masque ni ne lâchera le coffret cadeau qu'il tient à la main !\"</color>",
+            "info": "<size=31>Le Clown peut également exploser après sa mort !\n\n<color=black>Robustesse : </color><color=#4B0082>720+370</color>\n<color=black>Spécial : </color><color=#4B0082>Devient violent après avoir explosé, doublant sa vitesse. A également une chance de s'autodétruire et de se transformer en Zombie Diable à ressort. Plus longtemps il reste sur la pelouse, plus le risque est élevé.</color>"
         },
         {
             "theZombieType": 31,
