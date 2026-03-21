@@ -30,13 +30,59 @@ Ce document retrace l’ensemble des contributions effectuées par **Charles LIN
 
 * Nouvelles traductions : **249**
 * Traductions ajustées : **133**
-* Reviews effectuées : **433**
+* Reviews effectuées : **453**
 
 ---
 
 ## 🗓️ Historique des contributions
 
 > Les contributions sont regroupées par semaine civile (ISO).
+
+---
+
+### 📅 Semaine — `16/03/26 → 21/03/26`
+> [PR#109](https://github.com/Teyliu/PVZF-Translation/pull/109)
+
+**Résumé de la semaine**
+
+* Nouvelles traductions : **0**
+* Traductions ajustées : **0**
+* * Reviews effectuées : **20**
+
+---
+
+#### Détail
+
+## 🌿 **Reviews**
+
+## 🧟‍♂️ **Newly Added Zombie Translations**
+* **Lanceur de Trident de la Légion** (`theZombieType: 51`)
+* **Zombie Mineur-en-or** (`theZombieType: 58`)
+* **Zombie Footballeur-dauphin** (`theZombieType: 61`)
+* **Zombie Porteur-chrono** (`theZombieType: 52`)
+* **Chargeur Requin-marin** (`theZombieType: 312`)
+* **Zombie Clown-dans-la-boite** (`theZombieType: 30`)
+
+### 🔧 **Modified Achievements**
+
+[Oarlina](./oarlina.md) :
+* **Magnétosphère** (`achievement: 36`)
+* **Construction d'étoiles** (`achievement: 37`)
+* **Niveau 1436** (`achievement: 35`)
+* **Utilise la Force** (`achievement: 33`)
+* **Je ne rate jamais** (`achievement: 63`)
+* **Laisse tombé le ciel** (`achievement: 34`)
+* **Torrent d'acier** (`achievement: 38`)
+
+### 🧵 **New String Entries Added**
+[Barbie917](./barbie917.md) :
+* **超级樱桃射手** (2089)
+* **僵尸种类异常，取消出怪限制** (2085)
+* **超级云杉射手** (2099)
+* **皮肤挑战关卡** (2076)
+* **向左** (2075)
+* **-------Strings - No Idea** (2071)
+* **开启领袖专属血条** (2069)
 
 ---
 

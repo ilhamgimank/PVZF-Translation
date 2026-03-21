@@ -22,7 +22,7 @@ Ce document retrace l’ensemble des contributions effectuées par **Barbie917**
 
 > Statistiques cumulées sur l’ensemble de la période.
 
-* Nouvelles traductions : **40**
+* Nouvelles traductions : **47**
 * Traductions ajustées : **2**
 
 
@@ -31,6 +31,29 @@ Ce document retrace l’ensemble des contributions effectuées par **Barbie917**
 ## 🗓️ Historique des contributions
 
 > Les contributions sont regroupées par semaine civile (ISO).
+
+---
+
+### 📅 Semaine — `16/03/26 → 21/03/26`
+> [PR#109](https://github.com/Teyliu/PVZF-Translation/pull/109)
+
+**Résumé de la semaine**
+
+* Nouvelles traductions : **7**
+
+---
+
+#### Détail
+
+## 🧵 **New String Entries Added**
+
+* **超级樱桃射手** (2089)
+* **僵尸种类异常，取消出怪限制** (2085)
+* **超级云杉射手** (2099)
+* **皮肤挑战关卡** (2076)
+* **向左** (2075)
+* **-------Strings - No Idea** (2071)
+* **开启领袖专属血条** (2069)
 
 ---
 

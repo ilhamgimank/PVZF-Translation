@@ -22,14 +22,47 @@ Ce document retrace l’ensemble des contributions effectuées par **Oarlina** a
 
 > Statistiques cumulées sur l’ensemble de la période.
 
-* Nouvelles traductions : **16**
-* Traductions ajustées : **82**
+* Nouvelles traductions : **22**
+* Traductions ajustées : **89**
 
 ---
 
 ## 🗓️ Historique des contributions
 
 > Les contributions sont regroupées par semaine civile (ISO).
+
+---
+
+### 📅 Semaine — `16/03/26 → 21/03/26`
+> [PR#109](https://github.com/Teyliu/PVZF-Translation/pull/109)
+
+**Résumé de la semaine**
+
+* Nouvelles traductions : **6**
+* Traductions ajustées : **7**
+
+---
+
+#### Détail
+
+## 🧟‍♂️ **Newly Added Zombie Translations**
+
+* **Lanceur de Trident de la Légion** (`theZombieType: 51`)
+* **Zombie Mineur-en-or** (`theZombieType: 58`)
+* **Zombie Footballeur-dauphin** (`theZombieType: 61`)
+* **Zombie Porteur-chrono** (`theZombieType: 52`)
+* **Chargeur Requin-marin** (`theZombieType: 312`)
+* **Zombie Clown-dans-la-boite** (`theZombieType: 30`)
+
+## 🔧 **Modified Achievements**
+
+* **Magnétosphère** (`achievement: 36`)
+* **Construction d'étoiles** (`achievement: 37`)
+* **Niveau 1436** (`achievement: 35`)
+* **Utilise la Force** (`achievement: 33`)
+* **Je ne rate jamais** (`achievement: 63`)
+* **Laisse tombé le ciel** (`achievement: 34`)
+* **Torrent d'acier** (`achievement: 38`)
 
 ---
 
