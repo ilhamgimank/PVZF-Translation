@@ -67,7 +67,7 @@
     "JacksonZombie": {
         "achievement": 13,
         "Name": "Rencontrez Michael Zombie",
-        "Text": "Michael est là aussi"
+        "Text": "Thriller"
     },
     "ScaredyHypno": {
         "achievement": 14,
@@ -101,23 +101,23 @@
     },
     "SunSeaShroom": {
         "achievement": 20,
-        "Name": "Découvrez le champignon du soleil marin",
-        "Text": "Ce n'est pas un Soleil-Pousse ?"
+        "Name": "Découvrez Champi-soleil Marin ",
+        "Text": "Soleil dans la piscine"
     },
     "StarBlover": {
         "achievement": 21,
-        "Name": "Utilisez Starblover pour attirer les projectiles étoiles.",
-        "Text": "Attracteur d'étoiles"
+        "Name": "Utilisez Troufle d'Étoiles pour attirer les projectiles étoiles.",
+        "Text": "Manoeuvre gravitationnelle"
     },
     "MagnetShroom": {
         "achievement": 22,
         "Name": "Utilisez le système magnétique.",
-        "Text": "Recherche en largeur"
+        "Text": "Algorithme de parcours en largeur"
     },
     "CornCabbage": {
         "achievement": 23,
-        "Name": "Découvrez Taco-pult.",
-        "Text": "Le Taco-pulte est un mensonge"
+        "Name": "Découvrez Lance-taco.",
+        "Text": "Lance-Taco c'est ton mensonge"
     },
     "GarlicCorn": {
         "achievement": 24,
@@ -126,23 +126,23 @@
     },
     "CabbageUmbrella": {
         "achievement": 25,
-        "Name": "Utilisez Umbrella Kale pour faire rebondir les projectiles de la catapulte.",
-        "Text": "Rebond amusant"
+        "Name": "Utilisez Ombrelle Chou pour faire rebondir les projectiles d'une catapulte.",
+        "Text": "Jongleuse"
     },
     "GoldMelon": {
         "achievement": 26,
-        "Name": "Qu'une pluie de melon doré tombe du ciel.",
+        "Name": "Laisse une pluie de pastèques dorés tomber du ciel.",
         "Text": "Une pluie de pastèques"
     },
     "SquashTorch": {
         "achievement": 27,
         "Name": "Utilisez Écras-torche pour fabriquer un Écraseur.",
-        "Text": "Écraseur flamboyant"
+        "Text": "C'est chaud"
     },
     "UltimateTorch": {
         "achievement": 28,
-        "Name": "Découvrez Écraseur Calcifer.",
-        "Text": "Cet Écraseur épicé est brûlant"
+        "Name": "Découvrez Écraseur Infernal.",
+        "Text": "Cuisine de l'enfer"
     },
     "Superkelp": {
         "achievement": 29,
@@ -211,53 +211,53 @@
     },
     "HypnoEmperor": {
         "achievement": 42,
-        "Name": "Découvrez Impératrice-Champignon.",
-        "Text": "Impératrice magique"
+        "Name": "Découvrez l'Impécratrice-champi.",
+        "Text": "C'est une sorte de magie."
     },
     "CobCannon": {
         "achievement": 43,
-        "Name": "Découvrez Cob Cannon",
-        "Text": "Le calme de l'ancienne génération"
+        "Name": "Découvrez Canon à Epi",
+        "Text": "Plus affûté que jamais"
     },
     "IceCannon": {
         "achievement": 44,
-        "Name": "Utilisez Cryo Cannon pour fusionner des plantes.",
+        "Name": "Utilisez Cannon Arctique pour fusionner des plantes.",
         "Text": "Gelé"
     },
     "FireCannon": {
         "achievement": 45,
-        "Name": "Utilisez Pyro Cannon pour fusionner des plantes.",
-        "Text": "Brûlé"
+        "Name": "Utilisez Canon Volcanique pour fusionner des plantes.",
+        "Text": "Regarde le monde brûlé"
     },
     "UltimateCannon": {
         "achievement": 46,
-        "Name": "Découvrez Cata-fléau.",
-        "Text": "Frappe nucléaire"
+        "Name": "Découvrez Canon Apocalyptique.",
+        "Text": "Je suis devenu la mort"
     },
     "SuperUmbrella": {
         "achievement": 47,
-        "Name": "Gagnez de l'argent avec Parapluie de Diamant.",
+        "Name": "Gagnez de l'argent avec Ombrelle Alchimiste.",
         "Text": "Transmutation"
     },
     "EmeraldUmbrella": {
         "achievement": 48,
-        "Name": "Utilisez Midas Umbrella pour vous moquer du trident.",
-        "Text": "Viens me frapper !"
+        "Name": "Utilisez Ombrelle de Midas pour provoquer Zombie Trident.",
+        "Text": "Viens et frappe moi !"
     },
     "RedEmeraldUmbrella": {
         "achievement": 49,
-        "Name": "Utilisez Aegis Umbrella pour refléter les projectiles de zombies.",
-        "Text": "Désolé ! Ça ne marche pas tous les jours !"
+        "Name": "Utilisez Ombrelle Égide pour renvoyer les projectiles de zombies.",
+        "Text": "Retour à l'expediteur"
     },
     "Plantern": {
         "achievement": 50,
-        "Name": "Rendre le niveau de lumos d'une plante supérieur à 10.",
+        "Name": "Augmenter le niveau d'une plante Lumos à plus de 10.",
         "Text": "Brillamment éclairé."
     },
     "SuperFume": {
         "achievement": 51,
-        "Name": "Découvrez Champi-glacier",
-        "Text": "Champignon sombre"
+        "Name": "Découvrez le Champi-glace maudit",
+        "Text": "Champignon Sombre"
     },
     "UltimateFume": {
         "achievement": 52,
@@ -266,8 +266,8 @@
     },
     "UltimteGloom": {
         "achievement": 53,
-        "Name": "Découvrez le champignon Oblivion",
-        "Text": "Un champignon, cinq lignes"
+        "Name": "Découvrez le Champi-mageddon",
+        "Text": "Radioactive"
     },
     "CattailPlant": {
         "achievement": 54,
@@ -321,7 +321,7 @@
     },
     "MelonJump": {
         "achievement": 64,
-        "Name": "Utilisez une plante parapluie pour faire rebondir un zombie Pogo Melon vers le sol.",
+        "Name": "Utilisez une plante Ombrelle pour faire rebondir un Zombie Pogo Pastèque vers le sol.",
         "Text": "Ciel et Terre"
     },
     "IronNut": {

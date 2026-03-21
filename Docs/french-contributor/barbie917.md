@@ -22,8 +22,9 @@ Ce document retrace l’ensemble des contributions effectuées par **Barbie917**
 
 > Statistiques cumulées sur l’ensemble de la période.
 
+* Nouvelles traductions : **47**
 * Traductions ajustées : **2**
-* Nouvelles traductions : **17**
+
 
 ---
 
@@ -33,13 +34,78 @@ Ce document retrace l’ensemble des contributions effectuées par **Barbie917**
 
 ---
 
+### 📅 Semaine — `16/03/26 → 21/03/26`
+> [PR#109](https://github.com/Teyliu/PVZF-Translation/pull/109)
+
+**Résumé de la semaine**
+
+* Nouvelles traductions : **7**
+
+---
+
+#### Détail
+
+## 🧵 **New String Entries Added**
+
+* **超级樱桃射手** (2089)
+* **僵尸种类异常，取消出怪限制** (2085)
+* **超级云杉射手** (2099)
+* **皮肤挑战关卡** (2076)
+* **向左** (2075)
+* **-------Strings - No Idea** (2071)
+* **开启领袖专属血条** (2069)
+
+---
+
+### 📅 Semaine — `09/03/26 → 15/03/26`
+> [PR#107](https://github.com/Teyliu/PVZF-Translation/pull/107)
+
+**Résumé de la semaine**
+
+* Nouvelles traductions : **23**
+
+---
+
+#### Détail
+
+## 🧵 **New String Entries Added**
+
+* **超级伞** (2098)
+* **高坚果** (2108)
+* **超级投手** (2097)
+* **超级杨桃** (2096)
+* **超级南瓜** (2095)
+* **超级窝草** (2094)
+* **超级火炬** (2093)
+* **超级大喷菇** (2092)
+* **超级魅惑菇** (2091)
+* **超级大嘴花** (2090)
+* **超级大嘴花** (2090)
+* **debug模式关闭** (2087)
+* **debug模式开启** (2086)
+* **名称与植物不一致** (2084)
+* **场地上不能有僵尸** (2083)
+* **场上植物过多** (2082)
+* **文件加载错误\n** (2081)
+* **文件内容为空或格式错误\n** (2081)
+* **文件中level键值重复\n** (2079)
+* **中没有文件** (2078)
+* **在 Resources/** (2077)
+
+## 🧪 **New Regex Patterns Added**
+* **^([^(]+)\((\d+)\)：\n<color=>(\d+)/(\d+)** (359)
+* **【([^\s]+)】_IV** (358)
+
+
+---
+
 ### 📅 Semaine — `02/03/26 → 08/03/26`
 > [PR#106](https://github.com/Teyliu/PVZF-Translation/pull/106)
 
 **Résumé de la semaine**
 
-* Traductions ajustées : **2**
 * Nouvelles traductions : **17**
+* Traductions ajustées : **2**
 
 ---
 

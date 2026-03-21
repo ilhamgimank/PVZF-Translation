@@ -101,5 +101,7 @@
   "(\\d+)%减伤穿透": "{0}% Réduction des dégâts pénétrants",
   "(\\d+)%伤害减免": "{0}% Réduction des dégâts",
   "(\\d+)(%基础伤害)$": "{0}% Dégâts de base",
-  "(\\d+)上限，(\\d+)%效率": "{0} Augmentation des capacités, {1}% Amélioration de la production"
+  "(\\d+)上限，(\\d+)%效率": "{0} Augmentation des capacités, {1}% Amélioration de la production",
+  "^([^(]+)\\((\\d+)\\)：\\n<color=>(\\d+)/(\\d+)": "{0}({1}):\n{2}/{3}",
+  "【([^\\s]+)】_IV": "[{0}]"
 }

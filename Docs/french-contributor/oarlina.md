@@ -22,8 +22,8 @@ Ce document retrace l’ensemble des contributions effectuées par **Oarlina** a
 
 > Statistiques cumulées sur l’ensemble de la période.
 
-* Nouvelles traductions : **17**
-* Traductions ajustées : **66**
+* Nouvelles traductions : **22**
+* Traductions ajustées : **89**
 
 ---
 
@@ -33,13 +33,79 @@ Ce document retrace l’ensemble des contributions effectuées par **Oarlina** a
 
 ---
 
+### 📅 Semaine — `16/03/26 → 21/03/26`
+> [PR#109](https://github.com/Teyliu/PVZF-Translation/pull/109)
+
+**Résumé de la semaine**
+
+* Nouvelles traductions : **6**
+* Traductions ajustées : **7**
+
+---
+
+#### Détail
+
+## 🧟‍♂️ **Newly Added Zombie Translations**
+
+* **Lanceur de Trident de la Légion** (`theZombieType: 51`)
+* **Zombie Mineur-en-or** (`theZombieType: 58`)
+* **Zombie Footballeur-dauphin** (`theZombieType: 61`)
+* **Zombie Porteur-chrono** (`theZombieType: 52`)
+* **Chargeur Requin-marin** (`theZombieType: 312`)
+* **Zombie Clown-dans-la-boite** (`theZombieType: 30`)
+
+## 🔧 **Modified Achievements**
+
+* **Magnétosphère** (`achievement: 36`)
+* **Construction d'étoiles** (`achievement: 37`)
+* **Niveau 1436** (`achievement: 35`)
+* **Utilise la Force** (`achievement: 33`)
+* **Je ne rate jamais** (`achievement: 63`)
+* **Laisse tombé le ciel** (`achievement: 34`)
+* **Torrent d'acier** (`achievement: 38`)
+
+---
+
+### 📅 Semaine — `09/03/26 → 15/03/26`
+> [PR#107](https://github.com/Teyliu/PVZF-Translation/pull/107)
+
+**Résumé de la semaine**
+
+* Traductions ajustées : **16**
+
+---
+
+#### Détail
+
+## 🔧 **Modified Achievements**
+
+* **C'est chaud** (`achievement: 27`)
+* **Cuisine de l'enfer** (`achievement: 28`)
+* **Soleil dans la piscine** (`achievement: 20`)
+* **Lance-Taco c'est ton mensonge** (`achievement: 23`)
+* **Jongleuse** (`achievement: 25`)
+* **Transmutation** (`achievement: 47`)
+* **Viens et frappe moi !** (`achievement: 48`)
+* **Retour à l'expediteur** (`achievement: 49`)
+*  **Ciel et Terre** (`achievement: 64`)
+*  **Plus affûté que jamais** (`achievement: 43`)
+* **Gelé** (`achievement: 44`)
+* **Regarde le monde brûlé** (`achievement: 45`)
+* **Je suis devenu la mort** (`achievement: 46`)
+* **Une pluie de pastèques** (`achievement: 26`)
+* **Brillamment éclairé.** (`achievement: 50`)
+* **Manoeuvre gravitationnelle** (`achievement: 21`)
+
+---
+
 ### 📅 Semaine — `02/03/26 → 08/03/26`
 > [PR#106](https://github.com/Teyliu/PVZF-Translation/pull/106)
 
 **Résumé de la semaine**
 
-* Traductions ajustées : **2**
-* Nouvelles traductions : **12**
+* Nouvelles traductions : **1**
+* Traductions ajustées : **12**
+
 
 ---
 
