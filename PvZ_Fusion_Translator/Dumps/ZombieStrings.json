@@ -21,7 +21,7 @@
         {
             "theZombieType": 3,
             "name": "撑杆僵尸",
-            "introduce": "<color=#3D1400>撑杆僵尸曾是他们镇上最好的跳高运动员，直到有一天他忘记往跳高架后面放垫子。</color>",
+            "introduce": "<color=#3D1400>一些僵尸渴望更进一步、追求更多，这促使着他们跨越普通、成就非凡。那边那个撑杆僵尸就是如此。</color>",
             "info": "借助撑杆和助跑，越过遇到的首个植物。\n\n<color=#3D1400>韧性：</color><color=red>720</color>\n<color=#3D1400>移速：</color><color=red>中等，跳跃后变为极慢</color>\n<color=#3D1400>特点：</color><color=red>越过遇到的首个植物（会被高大植物阻挡），然后失去撑杆</color>"
         },
         {
@@ -481,6 +481,12 @@
             "info": "以精巧的步伐避开植物前进。\n\n<color=#3D1400>韧性：</color><color=red>270+1400（一类）</color>\n<color=#3D1400>移速：</color><color=red>中等偏快</color>\n<color=#3D1400>特点：</color><color=red>无视植物阻挡</color>\n<color=#3D1400>弱点：</color><color=red>磁力菇类植物（橄榄帽会被其吸取）</color>"
         },
         {
+            "theZombieType": 80,
+            "name": "超时空撑杆僵尸",
+            "introduce": "<color=#3D1400>依靠自己独有的传送能力，超时空坚果撑杆僵尸可以轻易挑战任何高度的撑杆跳，并且能百分百越过横杆。现在唯一令他头大的问题是，他经常落在观众席上。</color>",
+            "info": "用撑杆打开时空乱流，翻越到意想不到的地方。\n\n<color=#3D1400>韧性：</color><color=red>720+1100（一类）</color>\n<color=#3D1400>移速：</color><color=red>中等</color>\n<color=#3D1400>特点：</color><color=red>翻越植物时随机向上下左右某个方向传送一格。被击杀时，掉落时空碎片</color>"
+        },
+        {
             "theZombieType": 100,
             "name": "豌豆射手僵尸",
             "introduce": "<color=#3D1400>豌豆射手僵尸远处的作战能力经常让植物闻风丧胆，但僵尸那边却人心惶惶，仅仅是以为在他前面作战的僵尸总是会以为他会在后面打到自己。</color>",
@@ -496,7 +502,7 @@
             "theZombieType": 102,
             "name": "超级樱桃射手僵尸",
             "introduce": "<color=#3D1400>超级樱桃射手僵尸刚刚听了The Runaways的歌曲《Cherry Bomb》，这或许就是他如此激情澎湃的原因吧。只是没人知道他是怎么学会用嘴来放烟花的。</color>",
-            "info": "发射爆炸樱桃攻击你的植物。\n\n<color=#3D1400>子弹伤害：</color><color=red>1000</color>\n<color=#3D1400>韧性：</color><color=red>500</color>\n<color=#3D1400>特点：</color><color=red>每10秒发射一颗爆炸樱桃。被魅惑时，每6秒发射一颗爆炸樱桃</color>\n<color=#3D1400>僵尸爆炸樱桃子弹：</color><color=red>对植物伤害1000，十字形无衰减溅射，坚果类（难度4及以下）和南瓜类可以防止产生溅射。对魅惑僵尸效果同植物的爆炸樱桃子弹</color>"
+            "info": "发射爆炸樱桃攻击你的植物。\n\n<color=#3D1400>子弹伤害：</color><color=red>1000</color>\n<color=#3D1400>韧性：</color><color=red>720</color>\n<color=#3D1400>特点：</color><color=red>每10秒发射一颗爆炸樱桃。被魅惑时，每6秒发射一颗爆炸樱桃</color>\n<color=#3D1400>僵尸爆炸樱桃子弹：</color><color=red>对植物伤害1000，十字形无衰减溅射，坚果类（难度4及以下）和南瓜类可以防止产生溅射。对魅惑僵尸效果同植物的爆炸樱桃子弹</color>"
         },
         {
             "theZombieType": 103,
@@ -598,7 +604,7 @@
             "theZombieType": 119,
             "name": "铁豌豆气球僵尸",
             "introduce": "<color=#3D1400>面对僵尸们的质疑，铁桶豌豆气球僵尸企图用僵尸集体照来证明自己的元老身份。“可是”，众僵尸说，“你在哪儿呢？”他拿着黑白胶片，也疑惑着。</color>",
-            "info": "装备了铁气球装置的铁豌豆射手僵尸。\n\n<color=#3D1400>子弹伤害：</color><color=red>80</color>\n<color=#3D1400>韧性：</color><color=red>1350+500（一类）</color>\n<color=#3D1400>特点：</color><color=red>拥有气球僵尸的特点，但免疫三叶草效果。每1.5秒发射一颗铁豌豆，可击退魅惑僵尸。死亡时掉落铁桶"
+            "info": "装备了铁气球装置的铁豌豆射手僵尸。\n\n<color=#3D1400>子弹伤害：</color><color=red>80</color>\n<color=#3D1400>韧性：</color><color=red>1350+500（一类）</color>\n<color=#3D1400>特点：</color><color=red>拥有气球僵尸的特点，但免疫三叶草效果。每1.5秒发射一颗铁豌豆，可击退魅惑僵尸。死亡时掉落铁桶</color>"
         },
         {
             "theZombieType": 120,
@@ -646,7 +652,7 @@
             "theZombieType": 127,
             "name": "黑曜石高坚果僵尸",
             "introduce": "<color=#3D1400>经过冰霜与火焰的淬炼，黑曜石高坚果僵尸的头变得坚不可摧！\n……当然，前提是温度变化不要太快。</color>",
-            "info": "冰火交融使其坚硬无比，但辣椒和寒冰菇仍是其弱点。\n\n<color=#3D1400>韧性：</color><color=red>1500+4500（一类）</color>\n<color=#3D1400>移速：</color><color=red>慢</color>\n<color=#3D1400>啃咬伤害：</color><color=red>200</color>\n<color=#3D1400>特点：</color><color=red>免疫红温、寒冷、冻结。拥有9点护甲系数。受到的寒冰菇效果和火爆辣椒效果会转化为1/3倍韧性的真实伤害</color>\n<color=#3D1400>融合要素及场景：</color><color=red>寒冰高坚果僵尸+火焰高坚果僵尸。两者位于同一格时会产生融合</color>"
+            "info": "冰火交融使其坚硬无比，但辣椒和寒冰菇仍是其弱点。\n\n<color=#3D1400>韧性：</color><color=red>1500+4500（一类）</color>\n<color=#3D1400>移速：</color><color=red>慢</color>\n<color=#3D1400>啃咬伤害：</color><color=red>200</color>\n<color=#3D1400>特点：</color><color=red>免疫红温、寒冷、冻结。拥有900点护甲系数。受到的寒冰菇效果和火爆辣椒效果会转化为1/3倍韧性的真实伤害</color>\n<color=#3D1400>融合要素及场景：</color><color=red>寒冰高坚果僵尸+火焰高坚果僵尸。两者位于同一格时会产生融合</color>"
         },
         {
             "theZombieType": 128,
@@ -736,7 +742,7 @@
             "theZombieType": 212,
             "name": "究极黑曜石巨人",
             "introduce": "<color=#3D1400>曾有僵尸言道：根据古老文献记载，那身暗紫铠甲，只有经历了极寒与炽热双重考验的身躯才能承受，每当僵尸一族处于水深火热之中，在最惨烈的战场中心就有可能出现他的身影。“动静太大了，小心把沉睡在大地中的巨人吵醒。”这是对植物们的忠告。</color>",
-            "info": "旅行尽头的巨人。\n\n<color=#3D1400>锤击伤害：</color><color=red>7200</color>\n<color=#3D1400>韧性：</color><color=red>32000+32000（一类）</color>\n<color=#3D1400>特点：</color><color=red>领袖僵尸。拥有武装巨人僵尸的特点，但锤击时生成黑曜石小鬼僵尸。锤击范围2.5格。使全场僵尸护甲系数+9</color>\n<color=#3D1400>领袖僵尸：</color><color=red>对秒杀伤害限伤5000。免疫魅惑、吞食、溺死、灰烬斩杀、伞类转化、体型缩小、传送。受到伞类大招击退减半。拥有1点护甲系数。仅在部分3旗以上关卡的旗帜波出场。进化模式中，韧性×2</color>\n<color=#3D1400>护甲系数：</color><color=red>受到的伤害降低至1/（1+护甲系数）倍</color>\n<color=#3D1400>词条：</color><color=red>死亡时召唤僵王博士</color>"
+            "info": "旅行尽头的巨人。\n\n<color=#3D1400>锤击伤害：</color><color=red>7200</color>\n<color=#3D1400>韧性：</color><color=red>32000+32000（一类）</color>\n<color=#3D1400>特点：</color><color=red>领袖僵尸。拥有武装巨人僵尸的特点，但锤击时生成黑曜石小鬼僵尸。锤击范围2.5格。使全场僵尸护甲系数+900</color>\n<color=#3D1400>领袖僵尸：</color><color=red>对秒杀伤害限伤5000。免疫魅惑、吞食、溺死、灰烬斩杀、伞类转化、体型缩小、传送。受到伞类大招击退减半。拥有100点护甲系数。仅在部分3旗以上关卡的旗帜波出场。进化模式中，韧性×2</color>\n<color=#3D1400>护甲系数：</color><color=red>受到的伤害降低至100/（100+护甲系数）倍</color>\n<color=#3D1400>词条：</color><color=red>死亡时召唤僵王博士</color>"
         },
         {
             "theZombieType": 213,
@@ -784,7 +790,7 @@
             "theZombieType": 220,
             "name": "究极黑橄榄将军",
             "introduce": "<color=#3D1400>他是经历尸山血海的将军，是僵尸一族的战神。他曾于败军之际率残部殊死抵抗，突出重围。身后的旗帜记录着那一战被消灭的敌军的姓名，也禁锢着他们的灵魂。</color>",
-            "info": "你那高墙和锐器不过是虚无缥缈的泡影。\n\n<color=#3D1400>啃咬伤害：</color><color=red>200</color>\n<color=#3D1400>韧性：</color><color=red>24000+24000（一类）</color>\n<color=#3D1400>特点：</color><color=red>领袖僵尸，免疫击退，移速较快。受到植物方回血量0.1倍且至多为1%韧性的伤害，并阻止植物回血。啃咬会将特定植物转化为黑橄榄高坚果僵尸。每3秒使攻击力x2（最高100万），防具回血6000，速度增加0.3倍（最高3倍）</color>\n<color=#3D1400>不能转化池：</color><color=red>坚果类、南瓜类、大蒜类、魅惑菇类、冬笋路障类植物，汉堡王</color>"
+            "info": "你那高墙和锐器不过是虚无缥缈的泡影。\n\n<color=#3D1400>啃咬伤害：</color><color=red>200</color>\n<color=#3D1400>韧性：</color><color=red>24000+24000（一类）</color>\n<color=#3D1400>移速：</color><color=red>快</color>\n<color=#3D1400>特点：</color><color=red>领袖僵尸。免疫击退。受到植物方回血量0.1倍且至多为1%韧性的伤害，并阻止植物回血。通过啃咬，可以将植物变为黑橄榄高坚果僵尸。每行动3秒，攻击力x2（最高100万），防具回血6000，速度增加0.3倍（最高3倍）</color>\n<color=#3D1400>不会被其啃咬转变的植物：</color>\n<color=#3D1400>①</color><color=red>坚实植物</color>\n<color=#3D1400>②</color><color=red>大蒜类植物，魅惑菇类植物</color>"
         },
         {
             "theZombieType": 221,
@@ -856,19 +862,19 @@
             "theZombieType": 232,
             "name": "幽魂骑士",
             "introduce": "<color=#3D1400>大帅回来了！僵尸们敬畏地列队欢迎。大帅回来了！植物们惊恐地聚集防御。只有埃德加博士满意地摆弄着自己的实体投影仪，他相信这项技术一定会在僵尸的复仇战中大放异彩。</color>",
-            "info": "如同无声无息的幽灵，快速贯穿你的防线。\n\n<color=#3D1400>韧性：</color><color=red>15000</color>\n<color=#3D1400>特点：</color><color=red>免疫冻结、定身、击退。无视植物，从右向左冲锋，对经过的植物造成1000伤害，秒杀经过的魅惑僵尸。到达最左侧时不会使游戏结束</color>"
+            "info": "如同无声无息的幽灵，快速贯穿你的防线。\n\n<color=#3D1400>韧性：</color><color=red>15000</color>\n<color=#3D1400>特点：</color><color=red>免疫冻结、定身、击退。无视植物，从右向左冲锋，对经过的植物造成1000伤害，秒杀接触的魅惑僵尸。到达最左侧时不会使游戏结束</color>"
         },
         {
             "theZombieType": 233,
             "name": "特种武装巨人",
             "introduce": "<color=#3D1400>特种武装巨人们总表示他们的交谊坚不可摧，但蓝眼总受到他们的排斥。“我们刚好可以组成信号灯，他来就多余了！”绿眼这么说。</color>",
-            "info": "全副武装的巨人僵尸，不同的眼睛颜色标示不同的抗性与能力。\n\n<color=#3D1400>韧性：</color><color=red>16000+16000（一类）</color>\n<color=#3D1400>特点：</color><color=red>不会扔出小鬼僵尸。锤击对僵尸伤害为3600。出场时随机获得一种外表，拥有外表对应的能力和抗性</color>\n<color=#3D1400>红眼：</color><color=red>免疫红温。护甲系数+2</color>\n<color=#3D1400>蓝眼：</color><color=red>免疫寒冷、冻结、击退。自身速度×2。每次锤击会对植物造成5次伤害判定</color>\n<color=#3D1400>黄眼：</color><color=red>免疫定身。锤击后，向前跳跃小段距离，并额外锤击一次</color>\n<color=#3D1400>绿眼：</color><color=red>免疫蒜毒。锤击后回复10%韧性的血量</color>\n<color=#3D1400>词条1：</color><color=red>整合四种外表对应的特殊能力</color>\n<color=#3D1400>词条2：</color><color=red>整合四种外表对应的对异常状态的免疫能力</color>"
+            "info": "全副武装的巨人僵尸，不同的眼睛颜色标示不同的抗性与能力。\n\n<color=#3D1400>韧性：</color><color=red>16000+16000（一类）</color>\n<color=#3D1400>特点：</color><color=red>不会扔出小鬼僵尸。锤击对僵尸伤害为3600。出场时随机获得一种外表，拥有外表对应的能力和抗性</color>\n<color=#3D1400>红眼：</color><color=red>免疫红温。护甲系数+200</color>\n<color=#3D1400>蓝眼：</color><color=red>免疫寒冷、冻结、击退。自身速度×2。每次锤击会对植物造成5次伤害判定</color>\n<color=#3D1400>黄眼：</color><color=red>免疫定身。锤击后，向前跳跃小段距离，并额外锤击一次</color>\n<color=#3D1400>绿眼：</color><color=red>免疫蒜毒。锤击后回复10%韧性的血量</color>\n<color=#3D1400>词条1：</color><color=red>整合四种外表对应的特殊能力</color>\n<color=#3D1400>词条2：</color><color=red>整合四种外表对应的对异常状态的免疫能力</color>"
         },
         {
             "theZombieType": 234,
             "name": "究极小鬼国王",
             "introduce": "<color=#3D1400>作为孩子们的老大，在小鬼头的世界里，他就是王。不必如学者僵尸一样知识渊博，无需像舞王僵尸一般风度翩翩，只要做让自己开心的事就好了：骑上心爱的快艇，给讨厌的植物们制造点大麻烦。那么，无需多言：出发，掌握你的冒险！</color>",
-            "info": "航路尽头的小鬼。乘坐金鸡豪艇，为大军保驾护航。\n\n<color=#3D1400>韧性：</color><color=red>48000</color>\n<color=#3D1400>特点：</color><color=red>领袖僵尸。免疫定身、水草值。快速碾压植物。在场时，所有僵尸护甲系数+4，速度增加20%，且有33%概率使受伤降为1。死亡时，将小鬼国王僵尸弹射至附近地面</color>"
+            "info": "航路尽头的小鬼。乘坐金鸡豪艇，为大军保驾护航。\n\n<color=#3D1400>韧性：</color><color=red>48000</color>\n<color=#3D1400>特点：</color><color=red>领袖僵尸。免疫定身、水草值。快速碾压植物。使全场僵尸护甲系数+400，速度增加20%，且有33%概率使受伤降为1。死亡时，将小鬼国王僵尸弹射至附近地面</color>"
         },
         {
             "theZombieType": 235,
@@ -928,7 +934,19 @@
             "theZombieType": 244,
             "name": "究极万年不化骨",
             "introduce": "<color=#3D1400>是岁秋，有龙携剑分天，藤须为身，锁尸为侍，竖剑为标。见草木繁茂，曰：“吾万年前初得道时，不曾见此怪异。”以须指之，霎时见破，飘然去。今人不知其或尸或植或龙，只称万年不化骨。</color>",
-            "info": "拘器遣灵，敕令万万年不死长生。\n\n<color=#3D1400>韧性：</color><color=red>15000×4</color>\n<color=#3D1400>移速：</color><color=red>不会移动</color>\n<color=#3D1400>特点：</color><color=red>领袖僵尸。免疫击退、冻结、蒜毒、定身、换行、压扁。以被封印在剑匣中的形态出场，降临在地图右侧中央，由护剑人守护。剑匣会秒杀接触的魅惑僵尸。共有四个阶段，血量归零时，转换阶段，暂时免疫伤害并回满血量，在原地释放多次玩偶匣爆炸。在每个阶段，会夺取玩家的不同道具，并使用对应的能力。使用道具的频率会受寒冷减速幅度影响</color>\n<color=#3D1400>阶段一：</color><color=red>夺取锤子，攻击全场所有植物，伤害1000（非旅行模式为100）。此后每3秒一次，攻击每行血量最高的1株植物</color>\n<color=#3D1400>阶段二：</color><color=red>夺取手套，每4秒一次，将每行最右侧的1个非领袖非飞行僵尸向前挪动2格</color>\n<color=#3D1400>阶段三：</color><color=red>夺取铲子，每5秒一次，铲除卡牌阳光价值最低的1株植物</color>\n<color=#3D1400>阶段四：</color><color=red>破封而出，同时夺取上述三种道具，每5秒使用一次</color>\n<color=red>死亡时，以卡牌的形式解放所有被其铲除的植物</color>"
+            "info": "拘器遣灵，敕令万万年不死长生。\n\n<color=#3D1400>韧性：</color><color=red>15000</color>\n<color=#3D1400>移速：</color><color=red>不会移动</color>\n<color=#3D1400>特点：</color><color=red>领袖僵尸。免疫击退、冻结、蒜毒、定身、换行、压扁。以被封印在剑匣中的形态出场，降临在地图右侧中央，由护剑人守护。剑匣会秒杀接触的魅惑僵尸。共有四个阶段，血量归零时，转换阶段，暂时免疫伤害并回满血量，在原地释放多次玩偶匣爆炸。在每个阶段，会夺取玩家的不同道具，并使用对应的能力。使用道具的频率会受寒冷减速幅度影响</color>\n<color=#3D1400>阶段一：</color><color=red>夺取锤子，攻击全场所有植物，伤害1000。此后每3秒一次，攻击每行血量最高的1株植物</color>\n<color=#3D1400>阶段二：</color><color=red>夺取手套，每4秒一次，将每行最右侧的1个非领袖非飞行僵尸向前挪动2格</color>\n<color=#3D1400>阶段三：</color><color=red>夺取铲子，每5秒一次，铲除卡牌阳光价值最低的1株植物</color>\n<color=#3D1400>阶段四：</color><color=red>破封而出，同时夺取上述三种道具，每5秒使用一次</color>\n<color=red>死亡时，以卡牌的形式解放所有被其铲除的植物</color>"
+        },
+        {
+            "theZombieType": 245,
+            "name": "特种机械飞碟",
+            "introduce": "<color=#3D1400>经过改装后的特种机械飞碟，无论硬度、威力、续航时间、环保评分，都有了明显的提升，被埃德加博士称为自己上个星期最伟大的科技进步。“我剔除掉了老型号所有的缺陷，”他说道，“包括那个驾驶员。”</color>",
+            "info": "散布磁场来屏蔽植物的承伤援助，并强化僵尸体质。\n\n<color=#3D1400>韧性：</color><color=red>4500</color>\n<color=#3D1400>移速：</color><color=red>中等</color>\n<color=#3D1400>特点：</color><color=red>位于其下方的植物1秒内无法被承伤，曾位于其下方的僵尸护甲系数+100（不可叠加）</color>"
+        },
+        {
+            "theZombieType": 246,
+            "name": "阿尔法狙击手",
+            "introduce": "<color=#3D1400>他是僵尸特种部队的阴影猎手。他蛰伏于最暗的角落，他瞄准于最静的瞬间，他决心成为究极阿尔法小队的爪牙。他倾听战歌，在迷雾的尽头为之接续余音，熟悉的旋律一直传唱到临终的刹那。</color>",
+            "info": "在远处盯梢后方植物，单独行动，六响毙命。\n\n<color=#3D1400>韧性：</color><color=red>3000+3000（一类）</color>\n<color=#3D1400>远程伤害：</color><color=red>500</color>\n<color=#3D1400>移速：</color><color=red>慢</color>\n<color=#3D1400>特点：</color><color=red>免疫魅惑、击退。移动到地图最右侧一列后开始攻击，每约2秒狙击本行最左侧的非载体植物（受南瓜保护和寒冷减速影响）。每第6次狙击造成强制击杀，受到换行效果时重置计数</color>"
         },
         {
             "theZombieType": 300,
@@ -1060,19 +1078,19 @@
             "theZombieType": 321,
             "name": "舞装战车僵尸",
             "introduce": "<color=#3D1400>冲锋，再冲锋，碾压一切！舞装战车僵尸所向披靡，无人能挡，直到他遇到了草坪中间的大河。</color>",
-            "info": "驾驶坚固战车的舞王僵尸。\n\n<color=#3D1400>韧性：</color><color=red>6000</color>\n<color=#3D1400>特点：</color><color=red>1级僵尸。碾压植物。拥有1点护甲系数。死亡时始终生成一个舞王僵尸</color>"
+            "info": "驾驶坚固战车的舞王僵尸。\n\n<color=#3D1400>韧性：</color><color=red>6000</color>\n<color=#3D1400>特点：</color><color=red>1级僵尸。碾压植物。拥有100点护甲系数。死亡时始终生成一个舞王僵尸</color>"
         },
         {
             "theZombieType": 322,
             "name": "轻甲舞装战车僵尸",
             "introduce": "<color=#3D1400>“我们给车头配上了更多的分层！”新改装车让舞王僵尸爱不释手，唯一可惜的是每一层的夹缝不足以塞下更多的伴舞。</color>",
-            "info": "驾驶的舞装战车嵌套了一层备用轻胄外壳。\n\n<color=#3D1400>韧性：</color><color=red>12000</color>\n<color=#3D1400>特点：</color><color=red>2级僵尸。碾压植物。拥有2点护甲系数。死亡时始终生成一个舞装战车僵尸</color>"
+            "info": "驾驶的舞装战车嵌套了一层备用轻胄外壳。\n\n<color=#3D1400>韧性：</color><color=red>12000</color>\n<color=#3D1400>特点：</color><color=red>2级僵尸。碾压植物。拥有200点护甲系数。死亡时始终生成一个舞装战车僵尸</color>"
         },
         {
             "theZombieType": 323,
             "name": "重甲舞装战车僵尸",
             "introduce": "<color=#3D1400>这辆车极为厚重的装甲为它赢得了“陆地战列舰”的美称。最近，舞王僵尸又诞生了一个改装构想：把底盘换成传动履带，在车上安装上层炮塔与长管火炮——他认为这将是伟大的新发明。</color>",
-            "info": "驾驶的舞装战车嵌套了两层备用重甲钢板。\n\n<color=#3D1400>韧性：</color><color=red>24000</color>\n<color=#3D1400>特点：</color><color=red>3级僵尸。碾压植物。拥有3点护甲系数。死亡时始终生成一个轻甲舞装战车僵尸</color>"
+            "info": "驾驶的舞装战车嵌套了两层备用重甲钢板。\n\n<color=#3D1400>韧性：</color><color=red>24000</color>\n<color=#3D1400>特点：</color><color=red>3级僵尸。碾压植物。拥有300点护甲系数。死亡时始终生成一个轻甲舞装战车僵尸</color>"
         },
         {
             "theZombieType": 324,
@@ -1126,7 +1144,7 @@
             "theZombieType": 332,
             "name": "万年尸皇",
             "introduce": "<color=#3D1400>史望者，酆都人也。幼时语人：“吾能见彼处玉玺，乃吾家之宝。”闻者皆笑。年二十四，岁大饥，史望揭竿而起，定酆都，自王。受玺，相玺脱手，绝面。彼岁又大饥，已而复为义军所逐，幸得亡走。其舌为玉玺所伤，人问名姓，讷讷言“尸皇”而已。</color>",
-            "info": "穿雷掠影，尸皇现而鬼将避。\n\n<color=#3D1400>伤害：</color><color=red>1000（非啃咬）</color>\n<color=#3D1400>韧性：</color><color=red>12000</color>\n<color=#3D1400>特点：</color><color=red>3级僵尸。在右半场时每4~8秒，可以无视至多4格植物以尽可能穿梭至本行植物最后方，且对沿途造成伤害，若没有可无视的植物则穿梭1格。在左半场尝试穿梭时会封印此技能。因受伤而死亡时，对3×3范围造成500伤害</color>"
+            "info": "穿雷掠影，伏尸现而鬼将避。\n\n<color=#3D1400>伤害：</color><color=red>1000（非啃咬）</color>\n<color=#3D1400>韧性：</color><color=red>12000</color>\n<color=#3D1400>特点：</color><color=red>3级僵尸。在右半场时每4~8秒，可以无视至多4格植物以尽可能穿梭至本行植物最后方，且对沿途造成伤害，若没有可无视的植物则穿梭1格。在左半场尝试穿梭时会封印此技能。因受伤而死亡时，对3×3范围造成500伤害</color>"
         },
         {
             "theZombieType": 333,
