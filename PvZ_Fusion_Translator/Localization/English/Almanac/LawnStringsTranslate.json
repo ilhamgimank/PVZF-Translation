@@ -1215,7 +1215,7 @@
             "seedType": 1007,
             "name": "Peatato Mine",
             "introduce": "<align=justified><size=36><color=black>Peatato Mine may not have eyes, but he has his own special way of sensing zombies. \"I feel it…\" he murmured, \"The zombies are getting closer… closer… closer…\" Peatato Mine's heartbeat quickened, and so did his firing speed. Faster, faster… until, with a \"bang,\" Peatato Mine exploded into a burst of potato-flavored fireworks.</color></size>",
-            "info": "<size=36>Peatato Mine can attack before unearthing.\n\n<color=black>Damage: </color><color=#8B0000>30/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant (evades straight-firing projectiles).\n<color=black>•</color> Fusion returns 50 Sun.\n<color=black>•</color> Attacks faster as zombies get closer, with a minimum attack interval of 0.5 seconds. Upon exploding, deals 1800 damage to zombies in a small radius and releases 36 projectiles in all directions.</color></size>",
+            "info": "<size=36>Peatato Mine can attack before unearthing.\n\n<color=black>Damage: </color><color=#8B0000>30/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant (evades straight-firing projectiles).\n<color=black>•</color> Fusion returns 50 Sun.\n<color=black>•</color> Attacks faster as zombies get closer, with a minimum attack interval of 0.5s. Upon exploding, deals 1800 damage to zombies in a small radius and releases 36 projectiles in all directions.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Peashooter + Potato Mine</color>"
         },
         {
@@ -1271,7 +1271,7 @@
             "seedType": 1015,
             "name": "Chomp-mine",
             "introduce": "<align=justified><size=36><color=black>Delicious and enticing, Potato Mines taste just like self-heating mashed potatoes, earning rave reviews from zombies. Among them, fries take the top spot in popularity. As zombies flock to the tantalizing aroma of French fries, they have no idea they're also indulging in tasty potato chips. \"Just wait and see,\" Chomp-mine said with a mouthful, \"Their nutrients will soon become new mines.\"</color></size>",
-            "info": "<size=36>After swallowing a zombie, the Chomp-mine will grow Potato Mines in front.\n\n<color=black>Damage: </color><color=#8B0000>Insta-kill (Devour)</color>\n<color=black>Digestion Time: </color><color=#8B0000>20s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant (evades straight-firing projectiles).\n<color=black>•</color> Fusion returns 75 Sun.\n<color=black>•</color> Plants a fully armed Potato Mine in front of it upon finishing digesting a zombie.</color></size>",
+            "info": "<size=36>After swallowing a zombie, the Chomp-mine will grow Potato Mines in front.\n\n<color=black>Damage: </color><color=#8B0000>Insta-kill (Devour)</color>\n<color=black>Digestion Time: </color><color=#8B0000>20s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant (evades straight-firing projectiles).\n<color=black>•</color> Fusion returns 75 Sun.\n<color=black>•</color> Plants a fully armed Potato Mine in front of it upon finishing digesting a zombie. Also explodes like a Potato Mine on death.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Potato Mine + Chomper</color>"
         },
         {
@@ -2300,14 +2300,14 @@
             "seedType": 1162,
             "name": "Explode-o-tato Mine",
             "introduce": "<align=justified><size=36><color=black>Explode-o-tato Mine is a top chef, and his \"hash cherries\" and \"potato jam\" are highly praised in the plant world. If he runs out of ingredients, he will cheerfully say: \"I'll go buy some.\"</color>",
-            "info": "<size=36>Splits into 8 Potato Mines in surrounding tiles.\n\n<color=black>Damage: </color><color=#8B0000>1800</color>\n<color=black>Special: </color><color=#8B0000>Spawns Potato Mines that only need 5s to arm themselves in a 3×3 range upon defeat.</color>",
+            "info": "<size=36>Splits into 8 Potato Mines in surrounding tiles.\n\n<color=black>Damage: </color><color=#8B0000>1800</color>\n<color=black>Special: </color><color=#8B0000>Short plant. Explodes like a Potato Mine and spawns Potato Mines that only need 5s to arm themselves in a 3×3 range upon defeat.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Potato Mine + Cherry Bomb</color>"
         },
         {
             "seedType": 1163,
             "name": "Chip Mine",
             "introduce": "<align=justified><size=36><color=black>Chip Mine is a capable assistant to Explode-o-tato Mine, but most of her dishes are given low ratings by customers. \"What's going on—\" Chip Mine feels really guilty but doesn't know why. The truth is, she is not sensitive to spicy flavors and always adds too much chili.</color>",
-            "info": "<size=36>Splits into 7 Potato Mines in her lane. \n\n<color=black>Damage: </color><color=#8B0000>1800</color>\n<color=black>Special: </color><color=#8B0000>Spawns up to 7 Potato Mines that only need 5s to arm themselves in her lane upon defeat.</color>",
+            "info": "<size=36>Splits into 7 Potato Mines in her lane. \n\n<color=black>Damage: </color><color=#8B0000>1800</color>\n<color=black>Special: </color><color=#8B0000>Short plant. Explodes like a Potato Mine and spawns up to 7 Potato Mines that only need 5s to arm themselves in her lane upon defeat.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Potato Mine + Jalapeno</color>"
         },
         {
@@ -3238,7 +3238,7 @@
             "seedType": 1296,
             "name": "Marigold Mine",
             "introduce": "<align=justified><size=36><color=black>Beneath the ground lie treasures… and zombies? \"So my treasure-hunting garden is actually a graveyard?!\" Marigold Mine only wants to dig for treasures, but Dave buried zombies to make the hunt more exciting, which complicates things.</color>",
-            "info": "<size=36>Always busy digging for treasures.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant. Digs up a treasure every 30s: 1% chance for a random zombie, 10% for a random seed packet, otherwise produces 25 Sun and 100 Coins.\n<color=black>•</color> On Beach maps, Marigold Mines placed on Treasure Spots gain 50% faster production; seed packet chance rises to 33% while zombie chance drops to 0%.\n<color=black>•</color> Disappears after finding 3 seed packets.\n<color=black>•</color> On death, triggers a Potato Mine explosion with 1800 damage.</color>",
+            "info": "<size=36>Always busy digging for treasures.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant. Digs up a treasure every 30s: 1% chance for a random zombie, 10% for a random seed packet, otherwise produces 25 Sun and 100 Coins.\n<color=black>•</color> On Beach maps, Marigold Mines placed on Treasure Spots gain 50% faster production; seed packet chance rises to 33% while zombie chance drops to 0%.\n<color=black>•</color> Disappears after finding 3 seed packets.\n<color=black>•</color> On death or disappearance, triggers a Potato Mine explosion with 1800 damage.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Marigold + Potato Mine</color>"
         },
         {
@@ -3462,7 +3462,7 @@
             "seedType": 1328,
             "name": "Stench-spreader",
             "introduce": "<align=justified><size=36><color=black>\"Ugh, your taste stinks! I hate you two!\" cries the third head. Zombies think he's crying from his fellows' smell, but actually, it's just because of their terrible taste in music. \"We don't even have noses,\" the first head explains.\n\n-Written by silver fool</color>",
-            "info": "<size=36>Shoots Poison peas; makes poisoned zombies release toxic clouds on hit.\n\n<color=black>Damage: </color><color=#8B0000>30×3/1.5s</color>\n<color=#5E1675>Poison System: </color><color=#8B0000>\n<color=black>•</color> Projectiles add 1 Poison value to zombies on hit.\n<color=black>•</color> If the zombie hit is already in a Poisoned state, creates a Toxic Cloud at the zombie's feet that lasts for 6s, applying 1 Poison value per second to all zombies caught within. There can be up to 1 active Toxic Cloud per lane.</color>",
+            "info": "<size=36>Shoots Poison peas; makes poisoned zombies release toxic clouds on hit.\n\n<color=black>Damage: </color><color=#8B0000>30×3/1.5s</color>\n<color=#5E1675>Poison System: </color><color=#8B0000>\n<color=black>•</color> Projectiles add 1 Poison value to zombies on hit.\n<color=black>•</color> If the zombie hit is already in a Poisoned state, creates a Toxic Cloud at the zombie's feet that lasts for 6s, applying 1 Poison value and dealing damage equal to 20× the total projectiles fired in one volley by all Poison-system straight-shooting plants in this lane per second to all zombies caught within. There can be up to 1 active Toxic Cloud per lane.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Threepeater + Garlic</color>"
         },
         {
@@ -3777,7 +3777,7 @@
             "seedType": 1373,
             "name": "Beamshooter",
             "introduce": "<align=justified><size=36><color=black>Lumos Pea started out as a kid who loved shining laser pointers at people. Later, Pharos Umbrella taught him how to use that trick on zombies instead.</color>",
-            "info": "<size=36>Fires high-frequency targeted lasers; absorbs Lumos energy to increase power.\n\n<color=black>Damage: </color><color=#8B0000>10/0.2s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> After locking onto a target, fires a laser that deals damage once every 0.2s.\n<color=black>•</color> Every 0.5s, gains Lumos energy equal to the current Lumos level. When dealing damage, consumes [(current Lumos energy/10) + 1] Lumos energy to increase that instance of damage by ×(energy consumed).</color>",
+            "info": "<size=36>Fires high-frequency targeted lasers; absorbs Lumos energy to increase power.\n\n<color=black>Damage: </color><color=#8B0000>10/0.2s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Gains Lumos energy equal to Lumos level every 0.5s, up to 1000. Each laser beam consumes (1 + current energy × 10%) energy when attacking or transferring.\n<color=black>•</color> Can lock onto a Split Beam in front in the same lane (not directly adjacent). Transfers energy every 0.1s, restoring energy equal to 10% of its attack. Each point of energy spent doubles the amount transferred.\n<color=black>•</color> Consumes energy every 0.2s to attack, increasing damage by the amount of energy spent.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Peashooter + Plantern</color>"
         },
         {
@@ -3814,6 +3814,90 @@
             "introduce": "<color=#3D1400>\"Smart robots are so handy! I customized one to my exact specifications, and it's massively boosted my throwing efficiency!\" Lettuce-pult exclaimed excitedly. \"Oh, the battle is about to begin.\" With that, he leaped into a larger version of himself. Moments later, he heard the opponent say, \"Smart robots are so handy! I customized one to...\"</color>",
             "info": "Lettuce-pult can launch tinier versions of itself, unmasking its layers to attack more zombies.\n\n<color=black>Damage: </color><color=#8B0000>60/3s (Squash)</color>\n<color=black>Special: </color><color=#8B0000>Lobs a mini Lettuce-pult that deals AOE crushing damage upon landing, then lobs 2 smaller Lettuce-pults that deal 50% of the original damage before disappearing. The smaller Lettuce-pults lob 2 even smaller Lettuce-pults that deal 25% of the original damage and disappear immediately before disappearing itself.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Squash + Cabbage-pult</color>"
+        },
+        {
+            "seedType": 1379,
+            "name": "Triplantern",
+            "introduce": "<color=#3D1400>Triplantern's favorite number is three. Triple the light, triple the vision, even triple the salary. With savings that generous, he can afford triple the snacks, neatly stored in his triple lamp cases. The triple things that he hates are triple the zombies, triple the waves and triple the gacha levels.</color>",
+            "info": "Provides triple the Lumos of a normal Plantern and splits lasers into three.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Provides 3 Lumos levels in a 3×3 area.\n<color=black>•</color> Lumos Cactus and Ray-shroom anti-ground lasers that pass through will create two additional lasers in the same lane, each dealing 30 damage</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Threepeater + Plantern</color>"
+        },
+        {
+            "seedType": 1380,
+            "name": "Hypno Pot",
+            "introduce": "<color=#3D1400>Hypno Pot is well-liked by everyone. Plants, zombies, even mischievous little beetles are all her friends. She works at a mushroom nursery, and in her free time she's a proud member of the Zombuddies Club, often sharing her handmade rainbow clay during holidays.</color>",
+            "info": "The charm within the pot nurtures hypnotized zombies.\n\n<color=black>Special: </color><color=#8B0000>Grants hypnotized zombies on its tile 33% Damage Reduction and heals 1 HP every 0.04s. When bitten, hypnotizes the attacker and reverts back to a Flower Pot.</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Hypno-shroom > Flower Pot</color>"
+        },
+        {
+            "seedType": 1381,
+            "name": "Rebeamer",
+            "introduce": "<align=justified><size=36><color=black>The weekly Pool Light Festival is an important social event for Rebeamer. Before heading out, it carefully adjusts its lamp hat, the leaves under the brim not only make it look stylish, but also give its firefly friends a place to rest after the party.</color>",
+            "info": "<size=36>Fires two high-frequency lasers.\n\n<color=black>Damage: </color><color=#8B0000>10×2/0.2s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Gains Lumos energy equal to Lumos level every 0.5s, up to 1000. Each laser beam consumes (1 + current energy × 10%) energy when attacking or transferring.\n<color=black>•</color> Can lock onto a Split Beam in front in the same lane (not directly adjacent). Transfers energy every 0.1s, restoring energy equal to 20% of its attack. Each point of energy spent doubles the amount transferred.\n<color=black>•</color> Consumes energy every 0.2s to attack 2 zombies at once, increasing damage by the amount of energy spent.</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Peashooter + Beamshooter</color>"
+        },
+        {
+            "seedType": 1382,
+            "name": "Split Beam",
+            "introduce": "<align=justified><size=36><color=black>\"It's my turn to wear the hat.\" \"But the strap is under my chin.\"The two heads of the Lumen Relay Shooter argue constantly. Even the Pool Light Festival can't distract them - the only thing that stops the argument is when they start fighting over the eyebrows instead.</color>",
+            "info": "<size=36>Receives laser energy from the left and fires high-frequency lasers.\n\n<color=black>Damage: </color><color=#8B0000>10/0.2s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> The right head functions like a Beamshooter.\n<color=black>•</color> The left head can receive Lumos energy from beamshooter-family plants in the same lane (not in directly adjacent tile).</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Peashooter + Rebeamer</color>"
+        },
+        {
+            "seedType": 1383,
+            "name": "Gatling Beam",
+            "introduce": "<align=justified><size=36><color=black>Gatling Beam shines brilliantly on the battlefield, often earning four times the credit. Though its glow makes it an easy target, it never backs down. Wounds within the light are a warrior's badge of honor.</color>",
+            "info": "<size=36>Fires four high-frequency lasers.\n\n<color=black>Damage: </color><color=#8B0000>10×4/0.2s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Gains Lumos energy equal to Lumos level every 0.5s, up to 1000. Each laser beam consumes (1 + current energy × 10%) energy when attacking or transferring.\n<color=black>•</color> Can lock onto a Split Beam in front in the same lane (not directly adjacent). Transfers energy every 0.1s, restoring energy equal to 40% of its attack. Each point of energy spent doubles the amount transferred.\n<color=black>•</color> Consumes energy every 0.2s to attack 4 zombies at once, increasing damage by the amount of energy spent.</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Peashooter + Split Beam</color>"
+        },
+        {
+            "seedType": 1384,
+            "name": "Bell Pepper",
+            "introduce": "<align=justified><size=36><color=black>Each little Bell Pepper may be small and insignificant on its own, but together they pack serious heat. That's why they like to stick in groups. Other plants even rate them by size: mild, medium, and extra hot.</color>",
+            "info": "<size=36>Small body, fiery temper.\n\n<color=black>Damage: </color><color=#8B0000>600 (Cremator)</color>\n<color=black>Special: </color><color=#8B0000>Short plant. Explodes when zombies get close, triggering a Jalapeno effect with less damage.</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Jalapeno > Puff-shroom</color>"
+        },
+        {
+            "seedType": 1385,
+            "name": "Poison Pea",
+            "introduce": "<align=justified><size=36><color=black>Despite the name, Poison Pea is a chef with a strong signature style. He insists every customer try its specialty, fried peas with garlic powder. The smell alone brings zombies flooding with memories: childhood, family, home… and plenty of tears.</color>",
+            "info": "<size=36>Fires garlic peas that cause poisoned zombies to release toxins, forming a toxic cloud.\n\n<color=black>Damage: </color><color=#8B0000>30/1.5s</color>\n<color=#5E1675>Poison System: </color><color=#8B0000>\n<color=black>•</color> Projectiles add 1 Poison value to zombies on hit.\n<color=black>•</color> If the zombie hit is already in a Poisoned state, creates a Toxic Cloud at the zombie's feet that lasts for 6s, applying 1 Poison value and dealing damage equal to 20× the total projectiles fired in one volley by all Poison-system straight-shooting plants in this lane per second to all zombies caught within. There can be up to 1 active Toxic Cloud per lane.</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Peashooter + Garlic</color>"
+        },
+        {
+            "seedType": 1386,
+            "name": "Poison Repeater",
+            "introduce": "<align=justified><size=36><color=black>\"Fight! Fight! Attack! Attack!\" Poison Repeater lives with passion and poison. Nothing distracts it, not zombies, not vampires, not even pushy salesmen.</color>",
+            "info": "<size=36>Fires two garlic peas at once.\n\n<color=black>Damage: </color><color=#8B0000>30×2/1.5s</color>\n<color=#5E1675>Poison System: </color><color=#8B0000>\n<color=black>•</color> Projectiles add 1 Poison value to zombies on hit.\n<color=black>•</color> If the zombie hit is already in a Poisoned state, creates a Toxic Cloud at the zombie's feet.</color>\n<color=black>Special: </color><color=#8B0000> Tap to auto-fuse with a free Peashooter 15s after planting.",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Peashooter + Poison Pea</color>"
+        },
+        {
+            "seedType": 1387,
+            "name": "Split Poison",
+            "introduce": "<align=justified><size=36><color=black>Bouncing shots are a must-have skill for modern Split Peas, but Split Poison did not bother to learn it. Nor does he had to. He can simply fire garlic peas into the house behind it, and sooner or later someone will throw them right back.</color>",
+            "info": "<size=36>Fires garlic peas both forwards and backwards.\n\n<color=black>Damage: </color><color=#8B0000>30×3/1.5s</color>\n<color=#5E1675>Poison System: </color><color=#8B0000>\n<color=black>•</color> Projectiles add 1 Poison value to zombies on hit.\n<color=black>•</color> If the zombie hit is already in a Poisoned state, creates a Toxic Cloud at the zombie's feet.</color>\n<color=black>Special: </color><color=#8B0000> Tap to auto-fuse with a free Peashooter 15s after planting.",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Peashooter + Poison Repeater</color>"
+        },
+        {
+            "seedType": 1388,
+            "name": "Gatling Poison",
+            "introduce": "<align=justified><size=36><color=black>At the neighborhood potluck, renowned linguist Gatling Poison proudly served a \"traditional recipe\" of 'pois' and 'poisson'. It tasted excellent, except everybody got food poisoning afterwards. To this day he still insists the 'poison' was part of the 'Gift'.</color>",
+            "info": "<size=36>Fires four garlic peas at once.\n\n<color=black>Damage: </color><color=#8B0000>30×4/1.5s</color>\n<color=#5E1675>Poison System: </color><color=#8B0000>\n<color=black>•</color> Projectiles add 1 Poison value to zombies on hit.\n<color=black>•</color> If the zombie hit is already in a Poisoned state, creates a Toxic Cloud at the zombie's feet.</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Peashooter + Split Poison</color>"
+        },
+        {
+            "seedType": 1389,
+            "name": "Blowtorch-shroom",
+            "introduce": "<align=justified><size=36><color=black>Blowtorch-shroom made a name for himself by quickly cooking peas into rich pea paste and turning them into \"pea tarts.\" His skills are famous, but so is his terrible business sense. His business goes bankrupt at the rate of one restaurant per year, mostly because he burns through far too many peas just to maintain his hairstyle.</color>",
+            "info": "<size=36>Burns incoming peas, compressing them into a burst of flame.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Does not attack on its own.\n<color=black>•</color> Absorbs passing peas. Every 1s, exhales a piercing flame 4 tiles forward. Damage equals the total damage of absorbed peas, up to 300.\n<color=black>•</color> Melts Snow Peas into normal peas.</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Fume-shroom + Torchwood</color>"
+        },
+        {
+            "seedType": 1390,
+            "name": "Uglie",
+            "introduce": "<align=justified><size=36><color=black>\"So hungry, so hungry, so hungry! I'm starving!\" Uglie shouts as he lunges at zombies ahead. No matter how much he eats, it's never enough. Oh look - a Gargantuar! Finally, a proper meal… Wait, that might've been too much.</color>",
+            "info": "<size=36>Gluttonous Squash that keeps squashing when fed.\n\n<color=black>Damage: </color><color=#8B0000>1800 (Squash)</color>\n<color=black>Detection Range: </color><color=#8B0000>1 tile to the right</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> On landing, attempts to devour one zombie caught underneath. Still deals damage to zombies that are not eaten.\n<color=black>•</color> On a successful devour, returns to the field on the same tile, otherwise he disappears.</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Chomper + Squash</color>"
         },
         {
             "seedType": 350,
