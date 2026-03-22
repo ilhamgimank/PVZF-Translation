@@ -4,80 +4,78 @@ The only valid source of this translation is from this community: <color=#64DD17
 Stay away from other sources like <color=#8B0000>pvzfusion.net</color> or <color=#8B0000>pvzfusion.pro</color> as they redistribute our work without permission.
 Please visit our community for future updates and support.
 
-<align=center><size=130%>Plants VS. Zombies: Fusion - Update 3.4.2 Changelog</size></align>
+<align=center><size=130%>Plants VS. Zombies: Fusion - Update 3.5 Changelog</size></align>
 
-1. New Levels - I, Zombie Adventure
-- Accessible via the Puzzle Mode's Switch Level Group button.
-- Includes 3 chapters of rich levels and tutorials to guide you step by step.
+1. New Custom Levels & Upgraded Level Editor
+- The all-new Upgraded Level Editor allows for a wide range of level customization; players can create levels to share locally as well as explore high-quality online levels curated by the Fusion development team.
+ - Basic Settings: Customize level scenes, names, wave counts, preset plants, and more in advance.
+ - Gamemode Settings: Enable certain gamemode types like Conveyor Belt, I, Zombie, and Vasebreaker; and customize wave intervals, glove cooldowns, and starting tips.
+ - Card Settings: Set the amount of card slots, pre-selected plants, and card prices/cooldowns.
+ - Victory Conditions: Set different objectives for winning a level such as defeating certain zombies or eating enough brains.
+ - The Gods Settings: Design your own upgrade paths for custom The Gods levels and adjust their various attributes.
+ - Advanced Spawn Settings: Precisely adjust the factors that affect zombie spawns per wave.
+ - Gacha Settings: Customize the fluctuation ranges for random factors like Zombie speed and size.
 
-2. New Odyssey Mode - Odyssey: Investment
-- Based on Odyssey: Purgatory. Wave-spawned zombies no longer grant points, and free plant modifier draws are removed. Instead:
-- You start with a large amount of points and earn more points after each round and can open the Odyssey Shop every round.
-- Epic Odyssey Modifiers are sold at discounted prices. Collect enough to unlock Affinities with extra bonuses.
-- New Investment Modifiers: Selectable once per Map. Choosing Gold or Diamond-tier Investment Modifiers increases the base damage of Affinities, but raises high-tier zombie spawn rates and grants zombies extra damage reduction.
-
-3. Odyssey Mode Overhaul
-- Odyssey Shop now refresh with 4 Epic Odyssey Unlocks + 4 random Modifiers.
-- Post-round random Modifier selection improved: if a particular type of Common Odyssey plant is on the lawn, its Modifiers appear more often (shop chances unchanged).
-- Removed the requirement to pick 10 Common Odyssey Plants at the start; all are unlocked by default
-- Cursed Purgatory and River Route now use separate entrances and save slots.
-- Optimized Odyssey save file format (Modifier data from old saves no longer compatible).
-- Added exclusive HP bars for all Mini-boss Zombies (toggleable on the main menu).
-- Improved Common Odyssey Modifier sorting order.
-
-4. New Gacha Mode Options
-- Accessible from the Main Menu
-- Epic Odyssey Zombies, Mini-bosses, and Evolved Zombies are now toggleable.
-- If all three are enabled, Odyssey Plants have a 10% chance to become their Stellar variants.
-
-5. New Plants
+2. New Plants
 - Basic Fusions:
-  - Rebound-shroom (Fume-shroom + Cabbage-pult)
-  - Squish (Puff-shroom + Squash)
-  - Doom Pumpkin (Doom-shroom + Pumpkin)
-  - Spike Pot (Spikeweed + Flower Pot)
-  - Lumos Pea (Peashooter + Plantern)
-  - Squash Drone (Squash + Blover)
-  - Coldslaw (Ice-shroom + Cabbage-pult)
-  - Cobsicle (Ice-shroom + Kernel-pult)
-  - Tingle Kelp (Puff-shroom > Tangle Kelp)
-  - Lettuce-pult (Squash + Cabbage-pult)
+  - Triplantern (Threepeater + Plantern)
+  - Hypno Pot (Hypno-shroom + Flower Pot)
+  - Lumos Repeater (Repeater + Plantern)
+  - Split Lumos (Split Pea + Plantern)
+  - Gatling Lumos (Gatling Pea + Plantern)
+  - Bell Pepper (Jalapeno > Puff-shroom)
+  - PLANTNAME_1385 (Peashooter + Garlic)
+  - PLANTNAME_1386 (Repeater + Garlic)
+  - PLANTNAME_1387 (Split Pea + Garlic)
+  - PLANTNAME_1388 (Gatling Pea + Garlic)
+  - PLANTNAME_1389 (Fume-shroom + Torchwood)
+  - PLANTNAME_1390 (Chomper + Squash)
 - Odyssey Fusions:
   - Common:
-    - Boreas Umbrella (Pharos Umbrella + Ice-shroom)
-    - Quasar (Omni Pumpkin [renamed from Mechanized Pumpkin] + Starfruit)
-    - Cornposter Pot (Cornveyor Weed + Flower Pot)
-    - Dragonbreath Pepper (Bamboom + Pepper Popper)
+    - Mammon Plantern (Tycoonwood + Plantern)
+    - Wicked Undertaker (Grim Arbiter + Potato Mine)
   - Epic:
-    - Cryolina Reaper
+    - Soulshatterer Bamboo (Lifereaver Spruce + Bamblock)
+    - Fungularity (Maelonstrom + Doom-shroom)
+    - Photon Splitter (Split Lumos + Chrono Pea)
 - Special/Misc:
-  - Bamboom
+  - Golden Recycling Vase
 
-6. New Zombies
+3. New Zombies
 - Common:
-  - Chameleon Football Zombie
-  - Charger Football Zombie
-- Miniboss:
-  - Millennium Dragon & Warden
-- Special: Alpha Assassin Squad are now Omega Assassin Squad when appearing as Mini-boss and it now has a separate ID.
+  - Chronovaulter Zombie
+- Strong Odyssey:
+  - D.A.M.P. Disc
+  - Alpha Assassin Hitman
 
-7. New Skins
-- Bloomaggedon skin for Shroomaggedon
+4. New Skins
+- Thunder Bunnyon > Halloween Thunder Bunnyon
 
-8. New Chibi Boss
-- Purchase a new modifier to unlock Baby Jill and have her fight alongside you in your Odyssey runs!
+5. New Levels
+- 3 new Vasebreaker levels, including new Obsidian and Charm vases; completing all 3 will unlock the Golden Recycling Vase
+- New Minigame: Nutsweeper (number of mines increases with in-game difficulty)
+- 3 new Gacha levels: The Destiny Series
+- New I, Zombie Adventure levels
+- New Fusion Showcase levels
+- New Pool: Endless Mode: Leisure (Enemy spawns are similar to the original Survival: Endless from PvZ 1)
 
-9. New QoL
-- Added "Skip Plant Selection" option in Endless modes.
-- Added hotkey B to open/close the Plant Selection screen (if applicable).
-- Added hotkey H to query the stats of a plant at the cursor's position.
-- Optimized underlying code to reduce lag, especially when zombie HP overlay are disabled.
+6. New Synergy
+- Photon Splitter can now lock onto any Atomheart Plantern in front of it (click on Photon Splitter to choose a target) and supercharge it. When the Atomheart Plantern's charge exceeds 10,000, its brightness will increase dramatically, dealing massive amounts of damage and slowing down zombies in its radius. When its charge reaches 100,000, it will collapse into a singularity before exploding; devastating the lawn and all zombies on screen. (WARNING: These effects may affect photosensitive players.)
 
-10. Balance Adjustments
-- Giga Mecha-nut: now limited to healing up to 10M HP per round.
-- Cryolina Reaper: now can only be planted a maximum of [(number of map rows) + 2] times.
+7. Gacha Modifiers
+- Gacha levels now have various exclusive modifiers that can be earned from random events.
 
-9. Bug fixes
-- Fixed an issue where some Zombotanies couldn't be stunned by butter due to being unable to find their heads.
-- Fixed various other bugs.
+8. Odyssey Balance Adjustments
+- Apeacalypse Railgun: No longer automatically targets Atomheart Planterns in its range, instead you must now manually click on it to target either an Atomheart or Mammon Plantern for their effects. When Railgun's laser passes through an Atomheart Plantern, it now slows zombies down and deals small Doom explosions to zombies it hits.
+- Grim Arbiter: Now generates a Phantom Clone of the zombie with the highest health in the tile in front of it, which shares the damage it takes with all zombies of the same type on the lawn.
+  - Grim Arbiter's second modifier, related to repeating on-death effects, has been replaced with unlocking its subspecies (Wicked Undertaker) and doubling the damage effect of the Phantom Clone it spawns.
+- Thunder Bunnyon: Thunder Bunnyon's lightning now deals damage to any zombie that comes in contact with it and can reduce their Damage Reduction value.
+
+9. Save File Menu
+- The Achievements menu has been replaced with a menu that allows you to create new save file slots.
+
+10. New "True Endless" Setting
+- Enabling this mode will skip the cutscenes between rounds while playing Endless modes and grant a short period of time to adjust the plants you have currently selected in between rounds.
+
+9. Miscellaneous bug fixes and optimizations.
 
