@@ -3690,13 +3690,6 @@
             "cost": "<size=36>Formule de Fusion : <color=#8B0000>Troufle + Lance-pastèque</color>"
         },
         {
-            "seedType": 1373,
-            "name": "Pois Lumineux",
-            "introduce": "<align=justified><size=36><color=black>Pois Lumineux était autrefois un enfant qui adorait braquer des pointeurs laser sur tout le monde. Plus tard, l’Ombrelle de Pharos lui apprit à utiliser ce talent contre les zombies.</color>",
-            "info": "<size=36>Tire des lasers ciblés à haute fréquence ; absorbe l’énergie Lumos pour accroître sa puissance.\n\n<color=black>Dégâts : </color><color=#8B0000>10/0,2s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Après avoir verrouillé une cible, tire un laser infligeant des dégâts toutes les 0,2s.\n<color=black>•</color> Toutes les 0,5s, gagne une quantité d’énergie lumineuse égale au niveau Lumos actuel. Lorsqu’il inflige des dégâts, consomme [(énergie lumineuse actuelle/10) + 1] points d’énergie lumineuse afin d’augmenter cette instance de dégâts de ×(énergie consommée).</color>",
-            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Pisto-pois + Planterne</color>"
-        },
-        {
             "seedType": 1362,
             "name": "Champi-amidon",
             "introduce": "<align=justified><size=36><color=black>Après avoir accepté un partenariat de marque avec la Mine Patate, Champi-amidon a quitté son emploi en boulangerie. \" Rejoindre l’industrie des explosifs est la meilleure décision que j’aie jamais prise \", affirme-t-il. \" Pulvériser de l’amidon directement par la bouche, c’est bien plus efficace que faire lever du pain ! \"</color>",
@@ -3912,6 +3905,55 @@
             "introduce": "<align=justified><size=36><color=black>Malgré son nom, le Pois empoisonné est un chef au style bien affirmé. Il insiste pour que chaque client goûte à sa spécialité : des pois frits à la poudre d’ail. Rien que l’odeur fait affluer chez les zombies des souvenirs d’enfance, de famille, de foyer… et beaucoup de larmes.</color>",
             "info": "<size=36>Tire des pois à l’ail qui poussent les zombies empoisonnés à libérer des toxines, formant un nuage toxique.\n\n<color=black>Dégâts : </color><color=#8B0000>30/1,5s</color>\n<color=#5E1675>Système Poison : </color><color=#8B0000>\n<color=black>•</color> Les projectiles ajoutent 1 point de Poison aux zombies touchés.\n<color=black>•</color> Si le zombie touché est déjà empoisonné, crée un Nuage toxique à ses pieds pendant 6s, appliquant 1 point de Poison et infligeant des dégâts égaux à 20 × le nombre total de projectiles tirés en une salve par toutes les plantes à tir direct du système Poison sur cette ligne, par seconde, à tous les zombies présents dans la zone. Un seul Nuage toxique peut être actif par ligne.</color>",
             "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Pisto-pois + Ail</color>"
+        },
+        {
+            "seedType": 1386,
+            "name": "Double-poison",
+            "introduce": "<align=justified><size=36><color=black>\" Combat ! Combat ! Attaque ! Attaque ! \" Le Double-poison vit avec passion… et avec poison. Rien ne peut le distraire : ni les zombies, ni les vampires, ni même les vendeurs trop insistants.</color>",
+            "info": "<size=36>Tire deux pois à l’ail simultanément.\n\n<color=black>Dégâts : </color><color=#8B0000>30×2/1,5s</color>\n<color=#5E1675>Système Poison : </color><color=#8B0000>\n<color=black>•</color> Les projectiles ajoutent 1 point de Poison aux zombies touchés.\n<color=black>•</color> Si le zombie touché est déjà empoisonné, crée un Nuage toxique à ses pieds.</color>\n<color=black>Spécial : </color><color=#8B0000>Appuyer pour fusionner automatiquement avec un Pisto-pois gratuit 15s après avoir été planté.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Pisto-pois + Pois Empoisonné</color>"
+        },
+        {
+            "seedType": 1387,
+            "name": "Triple-poison",
+            "introduce": "<align=justified><size=36><color=black>Les tirs rebondissants sont une compétence essentielle pour les Triple-pois modernes, mais le Triple-poison n’a jamais pris la peine de l’apprendre. Et il n’en a pas besoin. Il lui suffit de tirer ses pois à l’ail dans la maison derrière lui… tôt ou tard, quelqu’un les renverra.</color>",
+            "info": "<size=36>Tire des pois à l’ail vers l’avant et vers l’arrière.\n\n<color=black>Dégâts : </color><color=#8B0000>30×3/1,5s</color>\n<color=#5E1675>Système Poison : </color><color=#8B0000>\n<color=black>•</color> Les projectiles ajoutent 1 point de Poison aux zombies touchés.\n<color=black>•</color> Si le zombie touché est déjà empoisonné, crée un Nuage toxique à ses pieds.</color>\n<color=black>Spécial : </color><color=#8B0000>Appuyer pour fusionner automatiquement avec un Pisto-pois gratuit 15s après avoir été planté.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Pisto-pois + Double-poison</color>"
+        },
+        {
+            "seedType": 1388,
+            "name": "Sulfateuse Empoisonnée",
+            "introduce": "<align=justified><size=36><color=black>Lors du repas de quartier, la célèbre linguiste Sulfateuse Empoisonnée servit fièrement une \" recette traditionnelle \" mêlant 'pois' et 'poisson'. Le goût était excellent… sauf que tout le monde a fini avec une intoxication. À ce jour, il affirme toujours que le 'poison' faisait partie du \" cadeau \".</color>",
+            "info": "<size=36>Tire quatre pois à l’ail simultanément.\n\n<color=black>Dégâts : </color><color=#8B0000>30×4/1,5s</color>\n<color=#5E1675>Système Poison : </color><color=#8B0000>\n<color=black>•</color> Les projectiles ajoutent 1 point de Poison aux zombies touchés.\n<color=black>•</color> Si le zombie touché est déjà empoisonné, crée un Nuage toxique à ses pieds.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Pisto-pois + Triple-poison</color>"
+        },
+        {
+            "seedType": 1373,
+            "name": "Pois-lumière",
+            "introduce": "<align=justified><size=36><color=black>Le Pois-lumière était autrefois un enfant qui adorait pointer des lasers sur les gens. Plus tard, l’Ombrelle de Pharos lui apprit à utiliser cette technique contre les zombies.</color>",
+            "info": "<size=36>Tire des lasers ciblés à haute fréquence ; absorbe l’énergie Lumos pour augmenter sa puissance.\n\n<color=black>Dégâts : </color><color=#8B0000>10/0,2s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Gagne une quantité d’énergie Lumos égale au niveau Lumos toutes les 0,5s, jusqu’à un maximum de 1000. Chaque rayon consomme (1 + énergie actuelle × 10%) d’énergie lors d’une attaque ou d’un transfert.\n<color=black>•</color> Peut se verrouiller sur un Rayon scindé devant lui sur la même ligne (non adjacent). Transfère de l’énergie toutes les 0,1s, restaurant une quantité équivalente à 10% de son attaque. Chaque point d’énergie dépensé double la quantité transférée.\n<color=black>•</color> Consomme de l’énergie toutes les 0,2s pour attaquer, augmentant ses dégâts du montant d’énergie dépensé.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Pisto-pois + Planterne</color>"
+        },
+        {
+            "seedType": 1381,
+            "name": "Double-lumière",
+            "introduce": "<align=justified><size=36><color=black>Le Festival des Lumières hebdomadaire de la piscine est un événement social incontournable pour le Double-lumière. Avant de partir, il ajuste soigneusement son chapeau-lampe ; les feuilles sous son bord ne lui donnent pas seulement du style, elles offrent aussi un endroit où ses amis lucioles peuvent se reposer après la fête.</color>",
+            "info": "<size=36>Tire deux lasers à haute fréquence.\n\n<color=black>Dégâts : </color><color=#8B0000>10×2/0,2s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Gagne une quantité d’énergie Lumos égale au niveau Lumos toutes les 0,5s, jusqu’à un maximum de 1000. Chaque rayon consomme (1 + énergie actuelle × 10%) d’énergie lors d’une attaque ou d’un transfert.\n<color=black>•</color> Peut se verrouiller sur un Rayon scindé devant lui sur la même ligne (non adjacent). Transfère de l’énergie toutes les 0,1s, restaurant une quantité équivalente à 20% de son attaque. Chaque point d’énergie dépensé double la quantité transférée.\n<color=black>•</color> Consomme de l’énergie toutes les 0,2s pour attaquer 2 zombies simultanément, augmentant les dégâts du montant d’énergie dépensé.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Pisto-pois + Pois-lumière</color>"
+        },
+        {
+            "seedType": 1382,
+            "name": "Triple-lumière",
+            "introduce": "<align=justified><size=36><color=black>\" C’est à mon tour de porter le chapeau. \" \" Mais la sangle est sous mon menton. \" Les deux têtes du Triple-lumière se disputent sans cesse. Même le Festival des Lumières de la piscine ne parvient pas à les distraire — la seule chose qui met fin à leurs disputes, c’est lorsqu’ils commencent à se battre pour les sourcils.</color>",
+            "info": "<size=36>Reçoit de l’énergie laser depuis la gauche et tire des lasers à haute fréquence.\n\n<color=black>Dégâts : </color><color=#8B0000>10/0,2s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> La tête droite fonctionne comme un Pois-lumière.\n<color=black>•</color> La tête gauche peut recevoir de l’énergie Lumos provenant des plantes de la famille des Pois-lumière sur la même ligne (hors case directement adjacente).</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Pisto-pois + Double-lumière</color>"
+        },
+        {
+            "seedType": 1383,
+            "name": "Sulfateuse de Lumière",
+            "introduce": "<align=justified><size=36><color=black>La Sulfateuse de lumière brille intensément sur le champ de bataille, s’attirant souvent quatre fois plus de mérite. Bien que son éclat en fasse une cible facile, elle ne recule jamais. Les blessures subies dans la lumière sont des marques d’honneur pour un guerrier.</color>",
+            "info": "<size=36>Tire quatre lasers à haute fréquence.\n\n<color=black>Dégâts : </color><color=#8B0000>10×4/0,2s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Gagne une quantité d’énergie Lumos égale au niveau Lumos toutes les 0,5s, jusqu’à un maximum de 1000. Chaque rayon consomme (1 + énergie actuelle × 10%) d’énergie lors d’une attaque ou d’un transfert.\n<color=black>•</color> Peut se verrouiller sur un Rayon scindé devant elle sur la même ligne (non adjacent). Transfère de l’énergie toutes les 0,1s, restaurant une quantité équivalente à 40% de son attaque. Chaque point d’énergie dépensé double la quantité transférée.\n<color=black>•</color> Consomme de l’énergie toutes les 0,2s pour attaquer 4 zombies simultanément, augmentant les dégâts du montant d’énergie dépensé.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Pisto-pois + Triple-lumière</color>"
         }
     ]
 }
