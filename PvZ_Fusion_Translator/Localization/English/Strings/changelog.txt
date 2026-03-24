@@ -21,9 +21,9 @@ Please visit our community for future updates and support.
 - Basic Fusions:
   - Triplantern (Threepeater + Plantern)
   - Hypno Pot (Hypno-shroom + Flower Pot)
-  - Lumos Repeater (Repeater + Plantern)
-  - Split Lumos (Split Pea + Plantern)
-  - Gatling Lumos (Gatling Pea + Plantern)
+  - Rebeamer (Repeater + Plantern)
+  - Split Beam (Split Pea + Plantern)
+  - Gatling Beam (Gatling Pea + Plantern)
   - Bell Pepper (Jalapeno > Puff-shroom)
   - Poison Pea (Peashooter + Garlic)
   - Poison Repeater (Repeater + Garlic)
@@ -38,7 +38,7 @@ Please visit our community for future updates and support.
   - Epic:
     - Soulrender Bamboo (Lifereaver Spruce + Bamblock)
     - Fungularity (Maelonstrom + Doom-shroom)
-    - Photon Splitter (Split Lumos + Chrono Pea)
+    - Photon Splitter (Split Beam + Chrono Pea)
 - Special/Misc:
   - Golden Recycling Vase
 
