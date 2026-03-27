@@ -3954,6 +3954,20 @@
             "introduce": "<align=justified><size=36><color=black>La Sulfateuse de lumière brille intensément sur le champ de bataille, s’attirant souvent quatre fois plus de mérite. Bien que son éclat en fasse une cible facile, elle ne recule jamais. Les blessures subies dans la lumière sont des marques d’honneur pour un guerrier.</color>",
             "info": "<size=36>Tire quatre lasers à haute fréquence.\n\n<color=black>Dégâts : </color><color=#8B0000>10×4/0,2s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Gagne une quantité d’énergie Lumos égale au niveau Lumos toutes les 0,5s, jusqu’à un maximum de 1000. Chaque rayon consomme (1 + énergie actuelle × 10%) d’énergie lors d’une attaque ou d’un transfert.\n<color=black>•</color> Peut se verrouiller sur un Rayon scindé devant elle sur la même ligne (non adjacent). Transfère de l’énergie toutes les 0,1s, restaurant une quantité équivalente à 40% de son attaque. Chaque point d’énergie dépensé double la quantité transférée.\n<color=black>•</color> Consomme de l’énergie toutes les 0,2s pour attaquer 4 zombies simultanément, augmentant les dégâts du montant d’énergie dépensé.</color>",
             "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Pisto-pois + Triple-lumière</color>"
+        },
+        {
+            "seedType": 1384,
+            "name": "Poivron",
+            "introduce": "<align=justified><size=36><color=black>Chaque petit Poivron peut sembler insignifiant seul, mais ensemble, ils dégagent une chaleur redoutable. C'est pour ça qu'ils préfèrent rester groupés. Les autres plantes les classent même selon leur intensité : doux, moyen et extra fort.</color>",
+            "info": "<size=36>Petit corps, tempérament explosif.\n\n<color=black>Dégâts : </color><color=#8B0000>600 (Incendiaires)</color>\n<color=black>Spécial : </color><color=#8B0000>Petite plante. Explose lorsque des zombies s'approchent, déclenchant un effet de Jalapeno avec des dégâts réduits.</color>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Jalapeno > Champi-gnon</color>"
+        },
+        {
+            "seedType": 1380,
+            "name": "Pot-hypno",
+            "introduce": "<color=#3D1400>Pot-hypno est très appréciée de tous. Les plantes, les zombies, et même les petits coléoptères espiègles sont tous ses amis. Elle travaille dans une pépinière de champignons et pendant son temps libre elle est fière d'appartenir au club des Zombies Gentils, où elle partage souvent son argile arc-en-ciel faite maison pendant les vacances.</color>",
+            "info": "Le charme contenu dans le pot alimente des zombies hypnotisés.\n\n<color=black>Spécial: </color><color=#8B0000>Confère aux zombies hypnotisés présents sur sa case une réduction des dégâts de 33 % et soigne 1 PV toutes les 0,04 s. Lorsqu'il est mordu, il hypnotise l'attaquant et reprend sa forme initiale de Pot de Fleur.</color>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Champi-hypno > Pot de Fleur</color>"
         }
     ]
 }
