@@ -381,7 +381,7 @@
   "种植了：([^\\s]+)": "{0} planted!",
   "升级成功：([^\\s]+) -> ([^\\s]+)": "{0} successfully upgraded to {1}!",
   "场上已经有一个([^\\s]+)了": "{0} already exists on the lawn!",
-  "当前全部基础植物：([^\\s]+)": "All current base plant(s): {0}",
+  "当前全部基础植物：(.*)": "All current base plant(s): {0}",
   "第(\\d+)波": "Wave {0}",
   "在线关卡\nid：([^\\s]+)": "Online Level\nID: {0}",
   "存档 ([^\\s]+) 创建成功": "Profile for {0} successfully created!",
@@ -390,5 +390,7 @@
   "已生成关卡文件: ([^\\s]+)": "Level file created: {0}",
   "已移除路线：([^\\s]+)": "Upgrade Path removed for {0}",
   "保存成功！已更新 (\\d+) 个阶段的数据": "Save successfully! Updated data for {0} Stage(s).",
-  "警告：面板数量((\\d+))与阶段数量((\\d+))不匹配": "Warning: Displayed Number ({0}) does not match Stage Number ({1})!"
+  "警告：面板数量((\\d+))与阶段数量((\\d+))不匹配": "Warning: Displayed Number ({0}) does not match Stage Number ({1})!",
+  "在<color=red>([^\\s]+)</color>秒内击杀进家僵尸！": "Kill the leaking zombie in {0} seconds!!!",
+  "挑战开始，坚持到第((\\d+))波以获取奖励": "Challenge begin! Survive until Wave {0} for the reward."
 }
