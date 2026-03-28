@@ -281,22 +281,6 @@
             "cost": "<size=39>Costo: <color=red>50</color>\nRecarga: <color=red>15 Segundos</color></size>"
         },
         {
-            "seedType": 220,
-            "name": "220"
-        },
-        {
-            "seedType": 221,
-            "name": "221"
-        },
-        {
-            "seedType": 222,
-            "name": "222"
-        },
-        {
-            "seedType": 223,
-            "name": "223"
-        },
-        {
             "seedType": 224,
             "name": "Cubo",
             "introduce": "<size=39><color=#3D1400>Desde que se fabricó el primer cubo de hierro, este ha sido desarrollado para muchos usos curiosos, como armadura, material y basura reciclable. Pero a pesar de tener tantos usos, el cubo de hierro nunca ha sido utilizado realmente como un cubo.</color></size>",
@@ -1184,62 +1168,6 @@
             "introduce": "<size=39><color=#3D1400>La Ralentizahierba trabaja en una gran fábrica de procesamiento de mantequilla. El trabajo pesado y monótono lo deja exhausto cada día. Tras salir del trabajo solo quiere descansar en casa, pero los zombis llegan sin parar como moscas, obligándolo a seguir luchando en una batalla tan tediosa como su empleo: la línea de producción de mantequilla.</color></size>",
             "info": "<size=39>Un maestro en la ralentización; empuja a zombis y les hecha mantequilla encima.\n\n<color=#3D1400>Daño:</color> <color=red>40 cada 1,5s\n\n<color=#3D1400>Especial:</color> <color=red>\n- Al ser aplastada, solo recibe 10 de daño. Los vehículos lo ignoran y viceversa.\n- Sus ataques empujan a enemigos y no pincha ruedas.\n- Cada 3 impactos acumulados, aplica 1 segundo de aturdimiento a un zombi.\n\n<color=purple>Mejoras de Odisea:</color>\n</color></color></color>- Duración de aturdimiento x3</color>\n- Los zombis que lo pisen se deslizarán constantemente hacia la derecha</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Apinchonaflor + Mantecahierba</color></size>",
             "cost": "<size=33>Costo: <color=red>350</color>   Recarga: <color=red>52,5 Segundos</color>\nPlantas Requeridas: <color=red>4\n<color=purple>Condición de Uso: Modo Odisea - Selección Inicial</color></size>"
-        },
-        {
-            "seedType": 971,
-            "name": "971"
-        },
-        {
-            "seedType": 972,
-            "name": "972"
-        },
-        {
-            "seedType": 973,
-            "name": "973"
-        },
-        {
-            "seedType": 974,
-            "name": "974"
-        },
-        {
-            "seedType": 975,
-            "name": "975"
-        },
-        {
-            "seedType": 976,
-            "name": "976"
-        },
-        {
-            "seedType": 977,
-            "name": "977"
-        },
-        {
-            "seedType": 978,
-            "name": "978"
-        },
-        {
-            "seedType": 979,
-            "name": "979"
-        },
-        {
-            "seedType": 980,
-            "name": "980"
-        },
-        {
-            "seedType": 981,
-            "name": "981"
-        },
-        {
-            "seedType": 982,
-            "name": "982"
-        },
-        {
-            "seedType": 983,
-            "name": "983"
-        },
-        {
-            "seedType": 984,
-            "name": "984"
         },
         {
             "seedType": 1000,
@@ -3977,6 +3905,132 @@
             "introduce": "<align=justified><size=36><color=black>\"So hungry, so hungry, so hungry! I'm starving!\" Uglie shouts as he lunges at zombies ahead. No matter how much he eats, it's never enough. Oh look - a Gargantuar! Finally, a proper meal… Wait, that might've been too much.</color>",
             "info": "<size=36>Gluttonous Squash that keeps squashing when fed.\n\n<color=black>Damage: </color><color=#8B0000>1800 (Squash)</color>\n<color=black>Detection Range: </color><color=#8B0000>1 tile to the right</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> On landing, attempts to devour one zombie caught underneath. Still deals damage to zombies that are not eaten.\n<color=black>•</color> On a successful devour, returns to the field on the same tile, otherwise he disappears.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Chomper + Squash</color>"
+        },
+        {
+            "seedType": 220,
+            "name": "Golden Recycling Vase",
+            "introduce": "<color=#3D1400>Golden Recycling is the largest barter platform among plants. As the founder, Golden Recycling Vase helps plants trade unused secondhand items, and also offers those looking for a random trip a chance, and a way, to get there.</color>",
+            "info": "Recycle unwanted plants and turn them into surprises.\n\n<color=#3D1400>Unlock Conditions: </color><color=red> Complete Vasebreaker: The Vase Less Travelled by, De-vase-tating! and Potluck</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> When charge is below 3, you can use the Glove to move plants inside and for it to gain charge. Base plants/simple fusions/advanced fusions grant 1/2/3 charges respectively\n<color=black>•</color> Tap to break the pot. Drops a plant seed packet based on stored charge:\n-1 charge: Base plant\n-2 charge: Simple fusion\n-3 or more: Advanced fusion\n\n<color=black>•</color> If an Odyssey plant was ever stored, it will always drop an Odyssey plant.</color>",
+            "cost": "Cost: <color=red>200</color>\nRecharge: <color=red>30s</color>"
+        },
+        {
+            "seedType": 221,
+            "name": "Fusion Animation",
+            "introduce": "<color=#3D1400></color>",
+            "info": "Not a plant. It's an animation of base plants fusing into an Odyssey plant. You must have the setting \"Easier Odyssey\" enabled.",
+            "cost": ""
+        },
+        {
+            "seedType": 222,
+            "name": "Bamboom",
+            "introduce": "<color=#3D1400>As the New Year approaches, Bamboom hit the streets for some holiday shopping. \"I used to be swamped every year, setting off fireworks at every house during the festival,\" he said. \"But now, with these new firecrackers made from cherry-chilli infused gunpowder, I can finally relax and enjoy my retirement.\" It must be said that the new firecrackers are remarkably effective—he plans to buy a bundle this year too.</color>",
+            "info": "Bamboom can scare off both zombies and demons, with a body as slender as a bundle of silk but breath as powerful as thunder.\n\n<color=#3D1400>Unlock Conditions: </color><color=red> Complete Adventure Level 45</color>\n<color=black>Damage: </color><color=#8B0000>300</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> After being planted, waits for 1s before flying forward in his lane, knocking back zombies it encounters and causing 300 area damage each impact.\n<color=black>•</color> Deals ×15 damage to Nian zombies.</color>",
+            "cost": "Cost: <color=red>275</color>\nRecharge: <color=red>50s</color>"
+        },
+        {
+            "seedType": 223,
+            "name": "Hearty Apple",
+            "introduce": "<align=justified><size=36><color=black>\"Peace and joy!\" Hearty Apple cheerfully greets every plant that passes by. Zombies get a special greeting instead: \"In this season of gratitude, have a happy Halloween!\", tailored based on the zombies' error-ridden calendar.</color>",
+            "info": "<size=36>Wards off disaster and keeps you \"apples\" safe.\n\n<color=#3D1400>Unlock Conditions: </color><color=red> Complete Adventure Level 45</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Starts with 0 energy. Max energy is capped at 4k. Regenerates 1 energy every 0.02s. When damaged or when energy is consumed, energy regen is paused for 1s. When energy is depleted, energy regen is paused for 5s.\n<color=black>•</color> Consumes the amount of energy equal to the damage to block damage for plants in a 3×3 area.</color>",
+            "cost": "<size=36>Cost: <color=#8B0000>150</color>\nRecharge: <color=#8B0000>50s</color>"
+        },
+        {
+            "seedType": 971,
+            "name": "SP Gatling Doom",
+            "introduce": "<align=justified><size=36><color=black>Silence. Deep, cold silence. The ashes of what was once thriving crackle faintly. Nothing remains; only lifeless cinders as far as the eye can see. A light breeze brushes across the barren field. This land is scorched now. This is the end.</color>",
+            "info": "<size=36>Fires Irradiated Shells that inflict extra effects based on status debuffs.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Auto-Unlocked After Obtaining Doom Gatling's 2 Modifiers</color>\n<color=black>Damage: </color><color=#8B0000>300×4/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Promotion of Doom Gatling, inherits its other traits.\n<color=black>•</color> Fires Irradiated Shells that ignore Type 2 armor in rounds of 4 and applies Irradiated debuff. Fires an Ultimate Irradiated Shell that deals 1800 damage once every 4 rounds of bullets and then rests for 4.5s after the Ultimate Irradiated Shell is shot. Ultimate Irradiated Shells deal splash damage over a large area twice.\n<color=black>•</color> Depending on the target's debuffs, gains the following effects:\n- Chilled: Freezes the target for 1s and multiplies the damage of this hit by 4.\n- Enflamed: Triggers an Enflamed explosion dealing the same damage as this hit.\n - Poisoned: Deals extra damage equal to (hit damage × 0.5 × [Poison value]).\n<color=black>•</color> Only Ultimate Irradiated Shell's second explosion triggers the effects above. See Doomwood's entry for extra interactions between Irradiated and other debuffs.</color>\n<color=black>Odyssey Modifiers:\n</color><color=#8B0000>1. No more rest after firing an Ultimate Doom Shell | Gatling Frenzy-shroom Subspecies Unlocked | Effects also apply to SP variants\n2. Now fires an Ultimate Doom Shell every round instead of every 4th round | Effects also apply to SP variants</color>",
+            "cost": "\n<size=36>Promotion Formula: <color=#8B0000>Doom-shroom > Gatling Doom</color>"
+        },
+        {
+            "seedType": 972,
+            "name": "SP Gatling Frenzy-shroom",
+            "introduce": "<align=justified><size=36><color=black>SP Gatling Frenzy-shroom has been growing her hair out for a while now. A lot of people ask how the crack in her helmet got there. She always answers, \"Oh, that was on purpose. It lets my hair show.\"</color>",
+            "info": "<size=36>Fires special Irradiated Shells that enhance Irradiated's combo with other status debuffs.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Auto-Unlocked After Obtaining Doom Gatling's 2 Modifiers</color>\n<color=black>Toughness: </color><color=#8B0000>300/1.5s (0.25 Minimum)</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Promotion of Gatling Frenzy-shroom, inherits its other traits; Subspecies of SP Gatling Doom.\n<color=black>•</color> Fires Irradiated Shells. Fires an Ultimate Irradiated Shell every 16 attacks, dealing 1800 damage, and then rests for 4.5s.\n<color=black>•</color> When frightened, resets attack speed and triggers a craterless Doom-shroom effect (does not self-destruct).\n<color=black>•</color> Depending on the target's debuffs, gains the following effects:\n- Chilled: Chilled duration increased by 25%.\n- Enflamed: Damage bonus increased by an additive 40%, stackable with other increases.\n - Poisoned: Triggers Poison effects twice.</color>\n<color=black>Main Odyssey Modifiers:\n</color><color=#8B0000>1. No more rest after firing an Ultimate Doom Shell | Gatling Frenzy-shroom Subspecies Unlocked | Effects also apply to SP variants\n2. Now fires an Ultimate Doom Shell every 4 attacks | Effects also apply to SP variants</color>\n\n<color=black>Cherrybomber Drone Synergy Modifier:</color><color=#8B0000>\n<color=black>•</color> You must have unlocked all Gatling Cherrybomber and Gatling Doom's modifiers before this synergy becomes available in the shop for 15k.\n<color=black>•</color> When Cherrybomber Drone and SP Gatling Frenzy-shroom are on the same tile, they perform coordinated attacks, and the former gains 0.05 energy while the latter gains 0.1 energy. Energy drains at 0.3 per second. For the first 7 whole points of energy, each increases the number of shots fired during coordinated attacks by 1. Energy above 7 increases the 8th bullet’s damage by ×(1 + excess point).</color>",
+            "cost": "<size=36>Conversion Formula: <color=#8B0000>Peashooter <-> Scaredy-shroom</color>\nPromotion Formula: <color=#8B0000>Doom-shroom > Gatling Frenzy-shroom</color>"
+        },
+        {
+            "seedType": 973,
+            "name": "Thunder Bunnyon",
+            "introduce": "<align=justified><size=36><color=black>\"We're a band of wizards from the Frost Magic Tower. Just look at these fluffy scarves. Nothing's warmer than this, not even lightning magic.\" Thunder Bunnyons wiggle their long bunny ears… As for why they have bunny ears at all, that question has baffled taxonomists everywhere.</color>",
+            "info": "<size=36>Channels team power to unleash chain lightning and help Aristocattail summon drones.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable With Aristocattail's Modifier</color>\n<color=black>Damage: </color><color=#8B0000>100/1.5s</color>\n<color=black>Attack Range: </color><color=#8B0000>5×5</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Subspecies of Aristocattail.\n<color=black>•</color> Tapping a Thunder Bunnyon designates it as the Team Leader, as indicated by its lightning orb sparkling. Only one Leader can exist at a time; all others become Members.\n<color=black>• Team Leader:</color> Strikes zombies with electricity. On hit, it can arc up to 5 times to other zombies (the same zombie can become a non-consecutive target too) within a 2.2-tile radius. Arcs deal 50% the original damage. Damaged zombies have their DR value reduced by 3 (mini-bosses by 1), down to 0.\n<color=black>• Members:</color> Do not attack. Each Member increases the Leader's attack damage by 1.5× and increases the number of arcs by 3.\n<color=black>•</color> When the electric arc kills a zombie, a random Aristocattail on the field summons a nerfed Drone that fires only 20 straight-shot bullets, each dealing 160 damage.</color>\n<color=black>Odyssey Modifiers:\n<color=#8B0000>1. Summoned Drone is no longer nerfed and fires 60 shots normally\n2. Attack Damage ×3 | Thunder Bunnyon Subspecies Unlocked</color>",
+            "cost": "\n<size=36>Conversion Formula: <color=#8B0000>Cattail <-> Amp-nion</color>"
+        },
+        {
+            "seedType": 974,
+            "name": "Dyson Magnet",
+            "introduce": "<align=justified><size=36><color=black>Dyson Magnet has spent her whole life trying to harness the power of stars themselves to help her fellow magnetic friends. Starting off small, at least in her mind, she has been successful in linking the power of the Sun to the power of any magnetic system she desires to join; effortlessly providing sustenance to her allies without expecting much in return. Her final goal is to harness the power of a galaxy, and become so efficient in transforming energy that she can unite the plants and zombies. She would also like to find a partner, possibly becoming the queen of a kingdom with a certain other plant...</color>",
+            "info": "<size=36>Uses the power of light and magnetism to rapidly produce Metal Objects, while granting damage bonuses and healing to magnetic plants.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable With Tesla Magnet's Modifier</color><color=black>\nSun Output: </color><color=#8B0000>25/25s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Subspecies of Tesla Magnet.\n<color=black>•</color> Produces a random metal object every 30s (10s for initial production) and recovers 500 HP on production. Drag a metal object on it and it will produce 25 Sun. \n<color=black>•</color> Produced metal object is automatically given to Grenadier Magnet, Hypno Magnet or Charmatron directly in front.\n<color=black>•</color> Metal production speed is increased by (1 + 0.15 × [Lumos Level] + 0.05×n), where n is the Number of Magnetic Connections in the same System, up to a maximum of 4×.\n<color=black>•</color> When producing Metal, grants every other plant in its Magnetic System a 3% attack bonus for 30s. If a plant is not at full HP, restores 500 HP for it; otherwise, spawns a random Metal Object at that plant's location. The number of Metal Objects generated by this effect does not exceed (3 + n/3).</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. Metal Production CD halved | Dyson Magnet Subspecies Unlocked\n2. Heal amount ×3, extra Metal Object production limit (3 + n/3) → (5 + n/2)</color>",
+            "cost": "\n<size=36>Conversion Formula: <color=#8B0000>Cherry Bomb <-> Sunflower</color>"
+        },
+        {
+            "seedType": 975,
+            "name": "Boreas Umbrella",
+            "introduce": "<align=justified><size=36><color=black>Coldness is the Boreas Umbrella's defining trait. She calls herself an avenger, precisely locking onto every zombie burdened with sin and firing arrows she names Judgment. Though her icy demeanor frightens and alienates young plant sprouts, she has quietly donated to the Plant Orphanage for ten years without fail. That familiar building always reminds her of the happy life she once had.</color>",
+            "info": "<size=36>Scatters chilling light and fires homing ice spikes; can consume energy to switch to a high-damage single-target mode.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable With Pharos Umbrella's Modifier</color><color=black>\nToughness: </color><color=#8B0000>1000</color><color=black>\nDamage: </color><color=#8B0000>80/0.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Subspecies of Pharos Umbrella. Inherits Plantern's traits.\n<color=black>•</color> Targets her own lane and the 2 adjacent lanes. Prioritizes the nearest zombie in range; can target air units.\n<color=black>•</color> Fires ice spikes at the target: deals ×2 damage to chilled targets and ×4 damage to frozen targets; also projects a cryo-beam that applies Chill for 5s.\n<color=black>•</color> For the first 10 Lumos levels, each level increases projectile damage by 20.\n<color=black>•</color> Scatter Mode: Can target up to 6 enemies. Gains 1 energy per attack cycle. Switches to Focus Mode at 40 energy.\n<color=black>•</color> Focus Mode: Targets only 1 enemy. Consumes 2 energy per attack cycle and multiplies projectile damage by 6. Reverts to Scatter Mode when energy is depleted.</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. Damage in Scatter Mode increases linearly up to ×4, Damage in Focus Mode ×4 | Boreas Umbrella Subspecies Unlocked\n2. Cryo-beam in Focus Mode now applies Freeze for 1s</color>",
+            "cost": "\n<size=36>Conversion Formula: <color=#8B0000>Plantern <-> Ice-shroom</color>"
+        },
+        {
+            "seedType": 976,
+            "name": "Quasar",
+            "introduce": "<align=justified><size=36><color=black>\"It's time to become a BIG Starfruit!\" Quasar shouts excitedly every time he's lifted into the air by a Gardening Glove. Even though his armor is cobbled together from leftover meteor fragments, hardly enough to support his dream of flight, he enjoys every moment of it. Just don't tell him he looks like a crab, or a bug.</color>",
+            "info": "<size=36>Integrates the traits of multiple magnetic Starfruit variants.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable With Omni Pumpkin</color><color=black>\nDamage: </color><color=#8B0000>160×5/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Subspecies of Omni Pumpkin.\n<color=black>•</color> Cannot be targeted by zombies and is ignored by zombies. Immune to crush.\n<color=black>•</color> Fires quasar projectiles that deal full splash damage in a 1-tile radius (single lane) with no falloff.\n<color=black>•</color>Magnetars within the same magnetic system as Quasars fire one additional quasar projectile when attacking, dealing damage equal to the Quasar's attack power.</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. On entry, resets and grants connected Magnetic Plants an additional Attack buff of 0.5% × number of Magnetic Plants\n2. Now counts twice towards the number of Magnetic Plants</color>",
+            "cost": "\n<size=36>Conversion Formula: <color=#8B0000>Pumpkin <-> Starfruit</color>"
+        },
+        {
+            "seedType": 977,
+            "name": "Cryolina Reaper",
+            "introduce": "<align=justified><size=36><color=black>He burns with a violet, icy chill. Some plants say he is constantly crying; Cryolina Reaper simply calls it \"breathing.\"</color>",
+            "info": "<size=36>Accumulates soul energy to save plants in moments of crisis and unleash surges of ice and fire.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color><color=black>\nToughness: </color><color=#8B0000>64k</color><color=black>\nDamage: </color><color=#8B0000>3600 (Cremator)</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Enters the field with 1 soul charge. Can hold a max of 3 soul charges. Gains 1 charge for every 500 zombies that die on either side.\n<color=black>•</color> When a plant takes fatal damage, consumes 1 charge to leave it at 1 HP, then:\n- Restores 50% of max HP to all plants on the field\n- Triggers a Jalapeno effect once in every lane (not affected by damage reduction)\n- Triggers an Ice-shroom effect once\n<color=black>•</color> Upon death, triggers a Jalapeno effect once in every lane (not affected by damage reduction), then triggers an Ice-shroom effect once.</color>\n<color=black>•</color> The maximum number of Cryolina Reapers that can be on the lawn at once is [(number of map rows) + 2].\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. Soul charge cap increased to 10, now gains 1 soul charge whenever a Mini-boss dies\n2. When using a soul charge, also grants 1s of invincibility to all plants</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Spicicle + Spicicle</color>"
+        },
+        {
+            "seedType": 978,
+            "name": "Cornposter Pot",
+            "introduce": "<align=justified><size=36><color=black>Cornposter Pot works at the factory, coating little Squashes in layers of butter, and has saved up a full year of vacation. But when he finally set foot on the island he had long dreamed of, he found more tourists there than zombies- so many that he nearly melted like butter. Forced to abandon the trip, he chose instead to stay home and bake his favorite buttercup cake.</color>",
+            "info": "<size=36>Uses a few \"slippery\" tricks to make zombies struggle to move.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable With Cornveyor Weed's Modifier</color><color=black>\nDamage: </color><color=#8B0000>300 (Squash)</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Subspecies of Cornveyor Weed. Short plant.\n<color=black>•</color> Increases the butter chance for Kernel-pult plants on it from 25% to 50%.\n<color=black>•</color> Can generate mini Butter Squashes (only one can exist at a time for each Cornposter). The mini Butter Squash leaps toward the nearest zombie up to 1.5 tiles, then lands, applying a 1-second butter stun to each zombie it crushes. It can bounce up to 6 times before disappearing.</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. Cornposter Pot's Butter stun duration ×3 | Cornposter Pot Subspecies Unlocked\n2. Butter Chance for the plant above 50% → 100%</color>",
+            "cost": "\n<size=36>Conversion Formula: <color=#8B0000>Shovel <-> Flower Pot</color>"
+        },
+        {
+            "seedType": 979,
+            "name": "Dragonbreath Torcher",
+            "introduce": "<color=#3D1400>Amidst the crackling of fireworks, the old year departs, and the warm spring breeze brings new life. The Spring Festival is the happiest time for all plants. The only minor incident involved the Dragonbreath Torcher; while setting off fireworks, he accidentally ignited the stage of Sunflowers that were performing \"Gong Xi Fa Cai\".</color>",
+            "info": "Breathes fire, summons dragons, and blasts zombies away in a lively spectacle.\n\n<color=#3D1400>Usage Conditions: Odyssey Mode</color>\n<color=#3D1400>Damage: </color><color=#8B0000>200</color>\n<color=#3D1400>Range: </color><color=#8B0000>5 Tiles Forward</color>\n<color=#3D1400>Special: <color=#8B0000>\n<color=black>•</color> Breathes fire every 4s that covers a 5 tile range, dealing fire damage every 0.02s to all zombies it hits (including flying enemies) and triggering knockback and a small cherry explosion every 0.2s.\n<color=black>•</color> When they stop breathing, Dragonbreath Torcher will summon a mini flying Bamboom that knocks zombies back and triggers a small cherry explosion to every zombie it hits every 0.02s. Can target flying enemies.</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. Explosion frequency ×2\n2. Each zombie hit by Dragonbreath Torcher's fire breath increases the damage of the next hit of that same attack by 1%, stacking up to 400%</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Bamboom + Pepper Popper</color>"
+        },
+        {
+            "seedType": 980,
+            "name": "Soulrender Bamboo",
+            "introduce": "<color=#3D1400>In the snowy plains, you'll often see the Soulrender Bamboo poking through thick snow. It's the winter vitality of the plains, growing a little more each day. As a sidenote, he absolutely loves drawing faces Lifereaver Spruce while he naps.</color>",
+            "info": "Forms a tough armor, standing firm against strong foes.\n\n<color=#3D1400>Usage Conditions: Odyssey Mode | Unlockable with Lifereaver Spruce</color>\n<color=#3D1400>Toughness: </color><color=#8B0000>8000</color>\n<color=#3D1400>Special: <color=#8B0000>\n<color=black>•</color> Subspecies of Lifereaver Spruce. Other plants cannot absorb damage for Soulrender Bamboo.\n<color=black>•</color> Immune to crush, knockback, freeze from Snowballs or Blizzards. Restores 1% max HP when hit by Snowball, Snow Fork, or Blizzard effects.\n<color=black>•</color> When HP/Shield is below 1× Toughness, restores 10% Toughness per 1.5s and gains a Shield equal to 10% toughness.\n<color=black>•</color> On contact with zombies with less than 10× its own HP, deals 10× Soulrender Bamboo's own HP in damage and takes 1× its own HP as self-damage.\n<color=black>•</color> Records incoming damage. While record damage > 0, takes 1% Toughness damage every 0.02s and deducts the same amount from the record. If record damage > 1M, this damage is increased. Ice-shroom effect clears the record.</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. Now receives only 1/3 incoming damage\n2. HP and Shield recovery ×2</color>",
+            "cost": "<size=36>Conversion Formula: <color=#8B0000>Spruce Sharpshooter <-> Bamblock</color>"
+        },
+        {
+            "seedType": 981,
+            "name": "Fungularity",
+            "introduce": "<color=#3D1400>Fungularity perfectly embodies the meaning of \"paradox.\" Despite being mostly ice, it loves summer, especially strolling on the beach and soaking up the sun. It's very frustrated that it can't get a tan.</color>",
+            "info": "Freezes time and generates ice particle streams that continuously wipe out enemies. Consumes Doom-shrooms to reach the next level.\n\n<color=#3D1400>Usage Conditions: Odyssey Mode | Unlockable With Maelonstrom</color>\n<color=#3D1400>Damage: </color><color=#8B0000>3600 (Cremator)</color>\n<color=#3D1400>Special: <color=#8B0000>\n<color=black>•</color> Maelonstrom's Subspecies. Does not explode automatically.\n<color=black>•</color> Click on it once to select a detonation spot. Click again to select. Explosion releases Doom-shroom effect at the target spot, applies 30s of Chronoshift, temporarily freezes the level (delaying the next zombie wave), and spawns 5 sets of vertical portals lasting 10s each. Some effects scale with energy level.\n<color=black>•</color> Starts out at 1 energy level. Using a Doom-shroom on it increases the level by 1, up to 3.\n-At energy level 1: 1 ice particle stream per portal, freezes the level for 1s;\n-At energy level 2: Explosion damage ×3, 2 ice particle stream per portal, freezes the level for 3s;\n-At energy level 3: Explosion damage ×3, 5 ice particle stream per portal, freezes the level for 10s, deals 10× attack to the zombie with the highest HP at the detonation epicenter tile, returns 1 Maelonstrom seed packet, and is extremely unstable: if not manually detonated 10s after appearance, explodes in place.\n<color=black>•</color> Ice particle streams deal 10 damage every 0.02s to zombies on contact, apply Chill and 1s of Chronoshift, and increase elapsed Chronoshift time by 1s. Can target air. When they disappear with the portals, deal cremator damage in a 1.5-tile radius and apply 10s Freeze.</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. Now only creates one set of portals, but they spawn ×10 ice particle streams\n2. Zombies immune to Chronoshift will still take damage equal to (Elapse Time)% of their HP</color>",
+            "cost": "<size=36>\nConversion Formula: <color=#8B0000>Melon-pult <-> Doom-shroom</color>"
+        },
+        {
+            "seedType": 982,
+            "name": "Magnate Plantern",
+            "introduce": "<color=#3D1400>Magnate Plantern pulses with an greedy warmth, casting golden beams that make even the dullest plants sparkle. Its light shines generously, hiding its true intention that it wants to claim the world's riches for itself. Those who linger beneath its glow might feel fortune, but disaster is what awaits them.</color>",
+            "info": "Provides Lumos for a large area and boosts plant lasers with light and money.\n\n<color=#3D1400>Usage Conditions: Odyssey Mode | Unlockable with Tycoonwood's Modifier</color>\n<color=#3D1400>Special: <color=#8B0000>\n<color=black>•</color> Subspecies of Tycoonwood.\n<color=black>•</color> Provides 3 Lumos levels in a 5×5 area.\n<color=black>•</color> When targeted by an Apeacalypse Railgun, splits the beam forward into three Gold Lasers at 0° and ±10°, which drop 50 coins per zombie hit.\n<color=black>•</color> Can receive Lumos energy from Photon Splitters, up to 1000. When a Photon Splitter in a 3×3 area attacks, Magnate Plantern consumes (1 + current energy/10) energy, each point increasing the Photon Splitter's damage by 1%.\n<color=black>•</color> Each Lumos level increases the damage of both lasers above by an additional 0.1×.</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. 1% Damage increase to lasers for every 1000 Coins you have\n2. Magnate Plantern Subspecies Uunlocked</color>",
+            "cost": "\n<size=36>Conversion Formula: <color=#8B0000>Torchwood <-> Plantern</color>"
+        },
+        {
+            "seedType": 983,
+            "name": "Wicked Undertater",
+            "introduce": "<color=#3D1400>Wicked Untertater is the Arbiter's loyal undertaker, roaming the battlefield with a wicked grin. No plant escapes his scrutiny, and those who fall in his shadow are not simply gone, they are transformed into fuel for his dark magic of soul conjuring and curse cleansing. Some of the fallen may be reborn as echoes of life, giving the world a chance to marvel at his grim handiwork.</color>",
+            "info": "On explosion, reincarnates nearby plants, counters curse-casters, and summons a Zombie Soul.\n\n<color=#3D1400>Usage Conditions: Odyssey Mode | Unlockable with Grim Arbiter's Modifier</color>\n<color=black>Arming Time: </color><color=#8B0000>30s</color>\n<color=#3D1400>Damage: </color><color=#8B0000>1800 (Cremator)</color>\n<color=#3D1400>Special: <color=#8B0000>\n<color=black>•</color> Subspecies of Grim Arbiter. Short plant.\n<color=black>•</color> When armed and then triggered, releases Jalapeno effect and craterless Doom-shroom effect, destroying plants in a 3×3 area with a 50% chance to drop destroyed plant's seed packet, and spawns a Zombie Soul of the highest-HP zombie within his tile. If the plant is cursed, the drop is guaranteed and the curse caster loses 15% max HP. Does not destroy Grim Arbiters, Wicked Undertaters, Endoflames or Titan plants.</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. Seed packet drop is now guaranteed\n2. Zombie Soul damage transfer ×2 | Wicked Undertater Subspecies Unlocked</color>",
+            "cost": "\n<size=36>Conversion Formula: <color=#8B0000>Chomper <-> Potato Mine</color>"
+        },
+        {
+            "seedType": 984,
+            "name": "Photon Splitter",
+            "introduce": "<color=#3D1400>\"Time works in strange ways. One moment I'm the last defender on a devastated lawn, and suddenly it's like all that fighting never happened, and we're using a slightly different strategy against the same crowd of zombies.\" The front head has many stories like this, but the back head just sighs. \"Why do I always take the back seat in these jobs...\"\n\n-Written by Boxpone</color>",
+            "info": "Receives, channels, transfers, and uses Lumos energy to annihilate targets in spacetime.\n\n<color=#3D1400>Usage Conditions: Odyssey Mode | Unlockable</color>\n<color=#3D1400>Damage: </color><color=#8B0000>40</color>\n<color=#3D1400>Range: </color><color=#8B0000>5 Tiles Forward</color>\n<color=#3D1400>Special: <color=#8B0000>\n<color=black>•</color> Every 0.5s, gains Lumos energy equal to its current Lumos level. Storage cap 1000. Energy consumed for attacks or transfers = 1 + current energy × 10%.\n<color=black>•</color> Can transfer Lumos energy to Photon Splitter in front in the same lane, or to selected Atomheart Plantern or Magnate Plantern (not adjacent). Clicking on self makes it target zombies and attack.\n<color=black>•</color> Consumes Lumos energy every 0.1s for transfer, supplying 10% of its own attack as Lumos energy to the target. Each energy spent doubles the supplied amount.\n<color=black>•</color> Consumes energy every 0.2s to attack, increasing damage by the amount of energy spent. Attacks apply Chronoshift. Lasers are enhanced if there is an Atomheart Plantern or Magnate Plantern transferring energy within a 3×3 area.</color>\n<color=black>Main Odyssey Modifiers:</color>\n<color=#8B0000>1. Lv1: Lumos energy cap increase from 1000 to 2000; Lv2: Lumos energy cap further increased to 10k\n2. Boosts Transfer efficiency by 50%, and by 250% if target's energy < 1000</color>\n<color=black>Atomheart Plantern Synergy Modifier:</color><color=#8B0000>\n<color=black>•</color> You must have unlocked all Photon Splitter and Shroomageddon's modifiers before this synergy becomes available in the shop for 20k.\n<color=black>•</color> Photon Splitters can send energy to Atomheart Planterns in other lanes. Lumos energy cap increases to 100k. Above 10k energy, enters Overcharge mode (attacks and gains extra Lumos energy every 0.02s). At max energy, collapses into a supermassive blackhole, rapidly pulls in and consumes non-boss zombies, then erupts in a blinding burst that deals 1M damage to all zombies 100 times.</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Split Beam + Chrono Pea</color>"
         }
     ]
 }
