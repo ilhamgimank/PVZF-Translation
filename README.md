@@ -16,8 +16,8 @@ The download links for the Multi-language Mod and the translation files of the M
  PvZ Fusion Version  |  Platform  |  Download Links 
 ------ | ------ | ------
 **\_Redist (Install these if you have problems launching the game)** | PC | [MEGA](https://mega.nz/file/gzU2QTIY#R71lWGYvXCxG4WBtzLyCRkkHV-WGqKB84rXXR4ikOSg)
-**Multi-Language 3.5 Beta** | PC | [Github Release](https://github.com/Teyliu/PVZF-Translation/releases/tag/3.5_beta)
-**English 3.5 by Joseph Franci** | Android | [Pixeldrain](https://pixeldrain.com/u/ZgUvZa9c) [Mediafire](https://www.mediafire.com/file/mn6z1ov2sfghjyp/PvZFusion3.5-Translation-Beta1.9.apk/file)
+**Multi-Language 3.4.2 Beta** | PC | [Github Release](https://github.com/Teyliu/PVZF-Translation/releases/tag/3.4.2_beta)
+**English 3.4.2 by Joseph Franci** | Android | [MEGA](https://mega.nz/file/JAcRzBrC#_L1gMBMoV-11gyw1Gbypr5aGRZGk1fXZWGofHKJfJ_M) [Google Drive](https://drive.google.com/file/d/1BxvoA5SGFVH1DqEJYnrIJqv67RSPENxp/view) [Mediafire](https://www.mediafire.com/file/oyt1vcvi1sd97a2/PvZFusion3.4.2-Translation-Beta1.8.apk/file)
 **Chinese 3.5** | PC | [MEGA](https://mega.nz/file/GVIHETzI#3-WXSAUMLoDqi2fc3en1iaPnZpthPxJIvrHCK0qNBk0) [Google Drive](https://drive.google.com/file/d/1AgNx8mxOjditSURMuT--M8iVw-XmHyNZ/view?usp=sharing)
 **Chinese 3.5** | Android | [MEGA](https://mega.nz/file/KNpRDIRa#YxYAAlypR-kfBY7zPCpvobnSjyz6RfH5jEAnNqARM2E) [Google Drive](https://drive.google.com/file/d/170g16WImbGqzDqwj2QgX6GB9BTPlPXCP/view?usp=sharing)
 **Chinese 3.4.2** | PC | [MEGA](https://mega.nz/file/yBgChToT#8IsyzG5GcaINiTzkurlX0ztuLffcDdoPqWDlMWDwUfA) [Google Drive](https://drive.google.com/file/d/1gJTpCa9S5T5UkSRAq0S0Q9pAl6c2DTDT/view?usp=sharing)
@@ -27,15 +27,12 @@ The download links for the Multi-language Mod and the translation files of the M
 > Other versions (starting from 2.8.1) can be found on the [Releases page.](https://github.com/Teyliu/PVZF-Translation/releases)
 > Looking to play the Multi-Language on Linux? [Click Here](https://discord.com/channels/1320410104587227147/1320555521744437258)
 
-The Multi-Language version supports the following languages: **English**, **Chinese (Simplified)**, **French**, **Spanish**, ***Vietnamese**, **Japanese**, **Ukrainian**, **Romanian** and **Korean**. Other contained languages are empty for the moment.
+The Multi-Language version supports the following languages: **English**, **French**, **Italian**, **German**, **Spanish**, **Portuguese**, **Vietnamese**, **Javanese**, **Indonesian**, **Russian**, **Japanese**, **Ukrainian**, **Romanian** and **Korean**. Other contained languages are empty for the moment.
 
-	Up-to-date 3.5 - English
-	Last Updated 3.4.2 - Vietnamese, Ukrainian
+	Up-to-date 3.4.2 - English, Vietnamese, Ukrainian
 	Gradually updating - French, Japanese
 	Last Updated 3.3.1 - Korean, Romanian
 	Last Updated 3.2.1 - Spanish
-
-	Languages below have been removed due to a lack of updates.
 	Last Updated 2.6.1 - Indonesian, Russian 
 	Last Updated 2.5.1 - Portuguese, Javanese
 	Last Updated 2.1.6 - German, Italian
@@ -103,14 +100,14 @@ Italian | No active translator | Dyna, Pasuqlaw, Daka
 German | No active translator | Stevenzocker, Dynagi
 Spanish | Xabdi, Teyliu | Hairy Nugget, Moonlight, Arooming
 Portuguese | No active translator | Bioxcis (Texture Editor), NickZin006, Prats, Shel (Texture Editor), Dgamer15 (Playtester)
-Javanese | No active translator | Xelag, 由羅 (Yura), JustTer, Star Apple
+Javanese | Xelag, 由羅 (Yura), JustTer, Star Apple
 Vietnamese | Shion, Cryda, JustNull | 
-Indonesian | No active translator | 由羅 (Yura), Xelag, Seroja, Star Apple
-Russian | No active translator | Nekosha, LancerX0 (Coder), Kammerer
+Indonesian | 由羅 (Yura), Xelag, Seroja, Star Apple | 
+Russian | Nekosha, LancerX0 (Coder), Kammerer | 
 Japanese | AnnieTGM | devilzwawa, Ryna (Marina), Mamoru-kun
 Korea | fumufumolover, 취미로 놀고 먹는 사람 | 설이 , ATMnou
 Ukrainian | Easter Wolf |
-Romanian | Rykon-V73 |
+Romanian | Rykon-V73
 
 This language team has a detailed contribution report : 
 

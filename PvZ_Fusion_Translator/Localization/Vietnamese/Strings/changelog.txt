@@ -4,21 +4,49 @@ Nguồn chính thống có thể truy cập từ link server: <color=#64DD17>dis
 Xin hãy tránh khỏi các trang tải game như <color=#8B0000>pvzfusion.net</color> hay <color=#8B0000>pvzfusion.pro</color> vì bọn họ đã phân phối lại bản mod mà không có sự cho phép chính thức. 
 Bản Việt Hóa được làm bởi team CBD và team Bloom.
 
-<align=center><size=130%>PvZ Fusion 3.5 Changelog</size></align>
+<align=center><size=130%>PvZ Fusion 3.4.2 Changelog</size></align>
 
-1. Chế độ chỉnh sửa màn chơi cùng với giao diện mới
-- Chế độ siêu chỉnh sửa lần này mang tới nhiều cơ chế mới giúp chỉnh sửa màn chơi 1 cách toàn diện nhất.
-- Bao gồm các cài đặt cơ bản, chế độ chơi, cây và Zombie, điều kiện chiến thắng, chế độ Thần, Gacha thậm chỉ là Zombie spawn
+1. Chế độ mới: - Cuộc Phiêu Lưu Tôi là Zombie
+- Nằm tại phần Màn Chơi Cộng Đồng
+- Bao gồm 3 chương và hướng dẫn từng màn.
 
-2. Màn chơi mới
-- 3 màn Chế Độ Đập Bình mới, hoàn thành cả 3 sẽ nhận Bình Vàng
-- Minigame mới: Dò Mìn
-- Gacha Hỗn Loạn
-- Tôi là Zombie Phiêu Lưu chương 4
-- Màn chơi giới thiệu công thức mới
-- Chế độ Hồ Bơi Vô Tận
+2. Chế độ Du Lịch mới: Du Lịch Đầu Tư
+- Dựa theo chế độ Nguyền Ngục. Zombie sinh ra theo đợt sẽ không còn cho điểm, và cũng không thể chọn buff sau mỗi màn. Thay vào đó:
+  • Khi bắt đầu sẽ nhận được 1 lượng lớn điểm
+  • Sau mỗi màn sẽ nhận nhiều điểm hơn, và cuối mỗi vòng đều có thẻ truy cập Cửa Hàng Du Lịch.
+- Có thể mua buff du lịch đặc thù của cây với giá rẻ hơn, đồng thời khi đầy đủ các buff tương ứng sẽ mở khóa cơ chế Liên Kết.
+- Có 3 loại buff: Bạc, Vàng, Kim Cương. Mỗi cấp độ sẽ tăng độ khó tương ứng.
 
-3. Buff Gacha
-- Chỉ có thể kích hoạt khi chơi chế độ gacha
+3. Tối ưu chế độ du lịch
+- Cửa hàng Du Lịch giờ sẽ cho ra 4 buff du lịch tối thưởng và 4 buff du lịch đặt thù mỗi khi làm mới.
+- Bỏ giới hạn chọn 10 cây du lịch bán thượng khởi đầu, tăng xác suất xuất hiện buff du lịch đặc thù cho các cây du lịch bán thượng trên sân tương ứng sau khi hoàn thành màn.
+- Chế Độ Du Lịch Mới và Chế Độ Nguyền Ngục đã có màn chơi chọn riêng.
+- Tối ưu định dạng file save của Chế Độ Du Lịch. (Lưu Ý: Không còn tương thích với file save của các bản cũ.)
+- Thêm thanh máu riêng cho các Miniboss, có thể tắt ở phần cài đặt.
+- Sắp xếp lại toàn bộ buff du lịch tương ứng.
 
-4. Chỉnh sửa bug và tối ưu game
+4. Chế độ Gacha
+- Có thể bật tại trang chủ.
+- Zombie Tối Thượng, Zombie Tiến Hóa và Miniboss có thể bật/tắt tại trang chủ.
+- Nếu bật cả 3, cây du lịch sẽ có tỉ lệ 10% xuất hiện dưới dạng tinh hệ.
+
+5. Miniboss tí hon mới: Tiểu Vương Hề. 
+- Mỗi 3 giây thực hiện 1 đòn đánh: 
+  • Triệu hồi Zombie Vua Hề bị thôi miên ở mỗi hàng từ cột 1 đến 5. 
+  • Cấp độ của Zombie bằng bình phương cấp độ của Tiểu Vương Hề. Nhận 10 kinh nghiệm khi dùng.
+  • Triệu hồi hộp hề ở mỗi ô và gây 1800/3600/10000 sát thương (tăng theo cấp độ). Nhận 30 kinh nghiệm khi dùng.
+  • Khiến mọi Zombie phát nổ, gây 1800/3600/10000 sát thương (tăng theo cấp độ). Nhận 50 kinh nghiệm khi dùng.
+
+6. Các cập nhật khác
+- Thêm tính năng bỏ qua chọn cây trong chế độ vô tận.
+- Thêm phím B để bật phần chọn cây ngay lập tức trong màn chơi.
+- Thêm phím H để xem chỉ số của cây khi lia chuột vào nó.
+- Tối ưu game khi nhiều vật thể xuất hiện.
+- Sửa nhiều lỗi khác.
+
+7. Cân bằng game
+- Thủy Quái Cơ Khí: Giới hạn hồi máu là 10 triệu máu mỗi màn.
+- Ớt Vĩnh Hằng: Chỉ có thể trồng tối đa 2 hàng trên sân.
+
+8. Tiếng Việt sẽ sớm có bản BepInEx cùng với các mod tích hợp trong tương lai.
+
