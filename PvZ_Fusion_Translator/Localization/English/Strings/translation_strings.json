@@ -2251,6 +2251,8 @@
   "关卡名": "Level Name",
   "请输入关卡名": "Enter level name here",
   "请输入关卡编号": "Enter level ID here",
+  "请输入波数": "Set Wave count",
+  "请输入初始阳光": "Set starting Sun",
   "关卡编号": "Level ID",
   "关卡内编辑": "In-Level Editing",
   "进入编辑器": "Enter Editor",
