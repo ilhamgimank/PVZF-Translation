@@ -1,103 +1,193 @@
 {
   "zombies": [
-     {
-      "theZombieType": 254,
-      "name": "Zombie Óc Chó Hoả Trảo (254)",
+    {
+      "theZombieType": 2540,
+      "name": "Zombie Óc Chó Hoả Trảo",
       "introduce": "<size=36><color=black>Là sự đảo nghịch của Óc Chó Tuyết Trảo, tuy Óc Chó Hoả Trảo tự tin rằng mình có thể đánh bại Óc Chó Tuyết Trảo trong 1 cuộc đấu tay đôi, nhưng thường Óc Chó Tuyết Trảo lại hay đòi thách đấu ở vùng tuyết.</color>",
       "info": "<size=36>Triệu hồi bởi Hắc Hoả Linh!.\n\n<color=black>Sát Thương: </color><color=#4B0082>1000</color>\n<color=black>Máu: </color><color=#4B0082>1500+8000 (Giáp cấp 1)</color>\n<color=black>Đặc Điểm:</color><color=#4B0082> Được tạo ra khi Hắc Hoả Linh thôi miên Zombie. </size>"
-  }, 
-  {
-      "theZombieType": 255,
-      "name": "Zombie Nấm Công Chúa Đọc Báo (255)",
+    },
+    {
+      "theZombieType": 2550,
+      "name": "Zombie Nấm Công Chúa Đọc Báo",
       "introduce": "<size=36><color=black>Bằng 1 cách nào đó, Zombie Giáo Sư đã có thể gắn Nấm Công Chúa lên đầu mình, và giờ ông ta có thể triệu hồi vô hạn Zombie để tạo nên quân đoàn bất bại.</color>",
       "info": "<size=36>Nhấn chìm cả sân với quân số áp đảo!\n\n<color=black>Sát Thương: </color><color=#4B0082>400/0.5 giây</color>\n<color=black>Máu: </color><color=#4B0082>3000+1500 (Giáp cấp 2)</color>\n<color=black>Khả Năng:</color><color=#4B0082> Khi mất báo thì mỗi 0.75 giây sẽ triệu hồi ngẫu nhiên 1 trong các Zombie sau:</color><color=blue> Zombie Óc Chó Bầu Dục, Zombie Đọc Báo Anh Đào, Xe Trượt Tuyết Đỏ, Zombie Giáo Sư, Zombie Bầu Dục Bão Tố</color></color></size>"
-  }, 
-  {
+    },
+    {
       "theZombieType": 97,
-      "name": "Zombie Hộp Quà Hồng Ngọc (97)",
+      "name": "Zombie Hộp Quà Hồng Ngọc",
       "introduce": "<size=36><color=black>Là sức mạnh tổng hợp của mọi Zombie hộp quà trên thế giới, cậu ta thậm chí còn bị đột biến và có thể đánh ngang cơ với những Zombie mạnh mẽ nhất.</color>",
       "info": "<size=36>Vô cùng mạnh mẽ và cắn mọi thứ trên đường đi!\n\n<color=black>Máu: </color><color=#4B0082>120000+30000 (Giáp cấp 1)</color>\n<color=black>Khả Năng:</color><color=#4B0082> \n<color=black>•</color> Sát thương gây ra luôn là hành quyết, nhưng giới hạn ở các cây có giới hạn sát thương. \n<color=black>•</color> Khi chết sẽ triệu hồi 5 Zombie Hộp Quà Kim Cương và 5 Zombie Hộp Quà Kim Cương thôi miên.</color></color></size>"
-  },
-  {
+    },
+    {
       "theZombieType": 266,
-      "name": "Zombie Siêu Súng Máy (266)",
+      "name": "Zombie Siêu Súng Máy",
       "introduce": "<size=36><color=black>Zombie Siêu Súng Máy tự hào rằng, mình là Zombie bắn đậu mạnh nhất, cho tới khi gặp Giáo Sư Z.</color>",
-      "info": "<size=36>Zombie bắn tận 20 đạn đậu!\n\n<color=blue>Từ Murong Mod\n<color=black>Sát Thương: </color><color=#4B0082>20*4*5/1 giây</color><color=black>\nMáu: </color><color=#4B0082>500 </color>\n<color=black>Khả Năng:</color><color=#4B0082> Bắn lượng lớn đạn vào cây. Khi Zombie Đậu Hà Lan ra sân, có tỉ lệ 30% xuất hiện thêm Zombie Siêu Súng Máy.</color></color></size>"
-  },
-  {
+      "info": "<size=36><color=#4B0082>Zombie bắn cực nhiều đạn đậu!\n\n<color=blue>Từ Murong Mod\n<color=black>Sát Thương: </color><color=#4B0082>20/0.1 giây</color><color=black>\nMáu: </color><color=#4B0082>500 </color>\n<color=black>Khả Năng:</color><color=#4B0082> Bắn lượng lớn đạn vào cây. Khi Zombie Đậu Hà Lan ra sân, có tỉ lệ 30% xuất hiện thêm Zombie Siêu Súng Máy.</color></color></size>"
+    },
+    {
       "theZombieType": 98,
-      "name": "Zombie Hộp Quà Hắc Ngọc Bí Ẩn (98)",
+      "name": "Zombie Hộp Quà Hắc Ngọc Bí Ẩn",
       "introduce": "<size=36><color=black>Liệu bạn có biết, LibraHP và Infinity75 có xích mích với nhau nên LibraHP không bao giờ port mod của mình sang MelonLoader.</color>",
-      "info": "<size=36>Triệu hồi cả những Zombie mạnh mẽ nhất!\n\n<color=blue>Từ RH Customization Mod\n<color=black>Máu: </color><color=#4B0082>40000+12000 (Giáp cấp 1)</color>\n<color=black>Khả Năng:</color><color=#4B0082> \n<color=black>•</color> Sẽ luôn đi chung với Hắc Diện Vũ Trang Khổng Nhân.\n<color=black>•</color> Miễn nhiễm với hiệu ứng Chịu Nhiệt, đóng băng và cả đẩy lùi.\n<color=black>•</color> Khi bị xe cắt cỏ cán qua, nó sẽ lấy xe cắt cỏ đó, hồi đầy máu và có thể tiêu diệt cây ngay lập tức và bỏ qua mọi hiệu ứng.\n<color=black>•</color> Khi bị sát thương thì sẽ trừ sồ tiền bạn có tương đương với sát thương mà nó bị nhận vào, và Cỗ Máy Huỷ Diệt sẽ không chịu sát thương thay cho Hộp Quà Hắc Ngọc Bí Ẩn.\n<color=black>•</color> Khi chết thì sẽ biến thành Zombie du lịch bất kỳ tương tự như Hộp Quà Kim Cương Bí Ẩn. \n<color=black>Buff Luyện Ngục: </color><color=#4B0082> Zombie Hộp Quà Hắc Ngọc Bí Ẩn khi bị mất hộp quà sẽ luôn triệu hồi miniboss.</color></color></size>"
-  }, 
-  {
+      "info": "<size=36><color=#4B0082>Triệu hồi cả những Zombie mạnh mẽ nhất!\n\n<color=blue>Từ RH Customization Mod\n<color=black>Máu: </color><color=#4B0082>40000+12000 (Giáp cấp 1)</color>\n<color=black>Khả Năng:</color><color=#4B0082> \n<color=black>•</color> Sẽ luôn đi chung với Hắc Diện Vũ Trang Khổng Nhân.\n<color=black>•</color> Miễn nhiễm với hiệu ứng Chịu Nhiệt, đóng băng và cả đẩy lùi.\n<color=black>•</color> Khi bị xe cắt cỏ cán qua, nó sẽ lấy xe cắt cỏ đó, hồi đầy máu và có thể tiêu diệt cây ngay lập tức và bỏ qua mọi hiệu ứng.\n<color=black>•</color> Khi bị sát thương thì sẽ trừ sồ tiền bạn có tương đương với sát thương mà nó bị nhận vào, và Cỗ Máy Huỷ Diệt sẽ không chịu sát thương thay cho Hộp Quà Hắc Ngọc Bí Ẩn.\n<color=black>•</color> Khi chết thì sẽ biến thành Zombie du lịch bất kỳ tương tự như Hộp Quà Kim Cương Bí Ẩn. \n<color=black>Buff Luyện Ngục: </color><color=#4B0082> Zombie Hộp Quà Hắc Ngọc Bí Ẩn khi bị mất hộp quà sẽ luôn triệu hồi miniboss.</color></color></size>"
+    },
+    {
       "theZombieType": 99,
-      "name": "Zombie Hộp Quà Hắc Ngọc (99)",
+      "name": "Zombie Hộp Quà Hắc Ngọc",
       "introduce": "<size=36><color=black>Cái nón này giúp cậu ta có thể miễn nhiễm mọi thứ, đúng là ghê đấy. Thế có chống lại Hoa Ăn Thịt không thì bảo?</color>",
-      "info": "<size=36>Miễn nhiễm với xe cắt cỏ!\n\n<color=blue>Từ RH Customization Mod\n<color=black>Máu: </color><color=#4B0082>40000+12000 (Giáp cấp 1)</color>\n<color=black>Khả Năng:</color><color=#4B0082> \n<color=black>•</color> Có tỉ lệ 10% sẽ đi cùng với Zombie Hộp Quà Kim Cương khi xuất hiện, và sẽ tạo ra 3 Zombie Hộp Quà Kim Cương khi bị mất hộp quà. \n<color=black>•</color> Miễn nhiễm với hiệu ứng Chịu Nhiệt, đóng băng và cả đẩy lùi.\n<color=black>•</color> Khi bị xe cắt cỏ cán qua, nó sẽ lấy xe cắt cỏ đó, hồi đầy máu và có thể tiêu diệt cây ngay lật tức và bỏ qua mọi hiệu ứng. Nếu bị xe cắt cỏ đi qua một lần nữa, xe cắt cỏ đó sẽ trở thành Zombie Hộp Quà Hắc Ngọc.</color></color></size>"
-  },
-  {
-    "theZombieType": 80,
-    "name": "Zombie Ảo Thuật Gia (80)",
-    "introduce": "<size=36><color=black>“Tôi yêu ảo thuật, nhất là khi trình diễn chúng!” - Zombie Áo Thuật nói thế, vô số Zombie thích trò đó của hắn ta, kể cả cây!</color>",
-    "info": "<size=36>Biến hoá khốn lường!\n\n<color=blue>Từ MC屑鱼 Mod\n<color=black>Máu: </color><color=#4B0082>1350</color>\n<color=black>Khả Năng:</color><color=#4B0082> \n<color=black>•</color> Có tỉ lệ ra sân thay thế cho Zombie bình thường.\n<color=black>•</color> Mỗi 5 giây có thể biến đổi 1 cây bất kì với tỉ lệ cao ghép với cây khác và tỉ lệ rất thấp làm cây đó biến mất và tạo ra 1 Imp tại ô đó. Nếu không có cây nào để biến đổi thì sẽ tạo ra 1 Imp tại ô ngẫu nhiên.</color></size>"
-  },
-  {
-    "theZombieType": 190,
-    "name": "Zombie Bầu Dục Bắn Tỉa (190)",
-    "introduce": "<size=36><color=black>Là bậc thầy bắn tỉa của phe Zombie, tuy nhiên cậu ta lại thích chơi bầu dục hơn là bắn súng, thế là cậu ta vác nguyên khẩu bắn tỉa vào sân đấu.</color>",
-    "info": "<size=36>Săn lùng cây trong tầm bắn!\n\n<color=blue>Từ Sniper DLC\n<color=black>Máu: </color><color=#4B0082>1000 </color>\n<color=black>Khả Năng:</color><color=#4B0082> Sau khi ra sân sẽ khóa mục tiêu có số mặt trời cao nhất trong 8 giây, sau đó sẽ hành quyết cây đó và chuyển sang mục tiêu khác.</color></size>"
-  },
-  {
-    "theZombieType": 401,
-    "name": "Xe Tăng Tiger II (401)",
-    "introduce": "<size=36><color=black>Bằng 1 cách nào đó, đám Zombie đã thành công chiếm được các xe tăng từ thế chiến 2, mặc dù nó trông có vẻ lỗi thời nhưng sức mạnh của nó vẫn vô cùng đáng gờm.</color>",
-    "info": "<size=36>Sức mạnh áp đảo của Zombie cơ giới!\n\n<color=blue>Từ PvZ Fusion Reimagined Plants Mod\n<color=black>Sát Thương: </color><color=#4B0082>1800/5 giây </color>\n<color=black>Máu: </color><color=#4B0082>16000 </color>\n<color=black>Khả Năng:</color><color=#4B0082> \n<color=black>•</color> Bắn đạn pháo mỗi 5 giây, gây 1800 sát thương/số cây trong phạm vi 3x3 ô đồng thời áp dụng hiệu ứng Suy Yếu vĩnh viễn.\n<color=black>•</color> Cây bị dính hiệu ứng Suy Yếu sẽ luôn phải nhận x3 sát thương.\n<color=black>•</color> Nếu cây bị hiệu ứng Suy Yếu, khi bị sát thương bởi đạn pháo sẽ bị Hành Quyết ngay lập tức.\n<color=black>•</color> Không thể bị xuyên thủng bởi gai và không thể bị nuốt chửng.\n<color=black>•</color> Giảm 50% sát thương nhận vào.</color></size>"
-  },
-  {
-    "theZombieType": 150,
-    "name": "Zombie Pháo Khổng Lồ (150)",
-    "introduce": "<size=36><color=black>Bằng một cách nào đó, bọn Zombie đã thành công ghép Pháo Ngô với Zombie. và giờ đây bọn Zombie có thể bắn pháo khắp nơi.</color>",
-    "info": "<size=36>Zombie khổng lồ trang bị pháo hạng nặng!\n\n<color=blue>Từ PvZ Fusion Reimagined Plants Mod\n<color=black>Sát Thương: </color><color=#4B0082>1800/20 giây </color>\n<color=black>Máu: </color><color=#4B0082>3000 </color>\n<color=black>Khả Năng:</color><color=#4B0082> \n<color=black>•</color> Bắn đạn pháo mỗi 20 giây vào cây có giá trị mặt trời cao nhất, gây 1800 sát thương trong phạm vi 3x3 ô và triệu hồi các Imps tại các ô có cây bị ảnh hưởng.\n<color=black>•</color> Có khả năng xuất hiện cùng với các Garg khác.</color></size>"
-  },
-  {
-    "theZombieType": 251,
-    "name": "Zombie Đại Pháo Hạng Nặng (251)",
-    "introduce": "<size=36><color=black>Là chỉ huy của quân đoàn Zombie khổng lồ, nhưng những gì hắn ta muốn là chỉ mong có bạn chơi cùng.</color>",
-    "info": "<size=36>Zombie khổng lồ nhưng hoả lực mạnh hơn mọi Zombie khổng lồ khác!\n\n<color=blue>Từ PvZ Fusion Reimagined Plants Mod\n<color=black>Sát Thương: </color><color=#4B0082>200*44/20 giây </color>\n<color=black>Máu: </color><color=#4B0082>12000 </color>\n<color=black>Khả Năng:</color><color=#4B0082> \n<color=black>•</color> Bắn đạn pháo mỗi 20 giây vào cây có giá trị mặt trời cao nhất, gây 200 sát thương mỗi viên trong phạm vi 3*5+3*3 ô và triệu hồi các Zombie Pháo Khổng Lồ quanh nó cho từng viên đạn nó bắn và Imp tại các ô có cây bị ảnh hưởng bởi đạn pháo dưa.\n<color=black>•</color> Có khả năng xuất hiện cùng với các Garg khác.</color></size>"
-  },
-  {
-    "theZombieType": 400,
-    "name": "Xe Pháo Tuyết Bọc Giáp (400)",
-    "introduce": "<size=36><color=black>Được trang bị pháo tuyết tương tự như pháo của giáo sư Z và súng tuyết, lẽ ra đơn vị này sẽ tê liệt gần như mọi thứ, chỉ là giờ Hắc Long spam nhiều quá.</color>",
-    "info": "<size=36>Cường hoá với công nghệ tối tân từ Bà Chúa Tuyết!\n\n<color=black>Sát Thương: </color><color=#4B0082>60/2 giây </color>\n<color=black>Máu: </color><color=#4B0082>4000 </color>\n<color=black>Khả Năng:</color><color=#4B0082> \n<color=black>•</color> Bắn đạn cầu tuyết về phía trước và ở cây xa nhất dưới hàng, gây 60 sát thương và câm lặng cây ở phạm vi 3x3 ô.\n<color=black>•</color> Miễn nhiễm với gai.\n<color=black>•</color> Khi bị tiêu diệt, triệu hồi 1 hàng Zombie Súng Tuyết.</color></size>"
-  },
-  {
-    "theZombieType": 249,
-    "name": "<color=#4B0082>Hắc Thiết Tướng Quân (249)",
-    "introduce": "<size=36><color=black>“Hắc Thiết Tướng Quân” được vô số Zombie đặt biệt danh là ‘Pháo Đài Di Động’. Đó là vì khi bọn Zombie bước vào phòng hắn ta, cả căn phòng là cả 1 kho vũ khí đồ sộ. Mà phải biết rằng, căn phòng ấy… còn to hơn cả Zomboss 9000 của Tiến sĩ Edgar!</color>",
-    "info": "<size=36>Trang bị tận răng từ súng máy hạng nặng cho tới cả 1 khẩu gattling.\n\n<color=blue>Từ PvZ Fusion Reimagined Plants Mod\n<color=black>Sát Thương Cắn: </color><color=#4B0082>200 </color>\n<color=black>Sát Thương: </color><color=#4B0082>80*3/0.1 giây </color>\n<color=black>Máu: </color><color=#4B0082>48000 </color>\n<color=black>Khả Năng:</color><color=#4B0082> \n<color=black>•</color> Là Miniboss. Xuất hiện trong Luyện Ngục khi bạn chọn Debuff của nó.\n<color=black>•</color> Có thể xuất hiện từ Zombie Hộp Quà Hắc Ngọc nếu đã cài mod của Infinity75.\n<color=black>•</color> Chỉ nhận tối đa 5000 sát thương cho các đòn hành quyết.\n<color=black>•</color> Miễn nhiễm với hiệu ứng đóng băng, bơ, làm chậm, thu nhỏ, nuốt chửng, rong biển.\n<color=black>•</color> Mỗi lần bắn mà không kích hoạt Tuyệt Kĩ thì có tỉ lệ 5% triệu hồi 1 Zombie Hắc Thiết Bầu Dục Xung Kích và 1 hàng Zombie Hắc Thiết Bão Tố và 2 hàng Zombie Bầu Dục Bão Tố.\n<color=black>•</color> Mỗi lần bắn có tỉ lệ 2% kích hoạt Tuyệt Kĩ.\n<color=black>•</color> <color=black>Tuyệt Kĩ:</color><color=#4B0082> Giảm 40% sát thương nhận vào và sát thương tối đa (mọi nguồn sát thương) có thể nhận vào là 3000.\n<color=black>•</color> Tốc độ bắn từ 0.1 giây còn 0.02 giây, đạn giờ sẽ bắn phân tán trong 5 giây.\n<color=black>•</color> Đồng thời mỗi lần kích hoạt Tuyệt Kĩ thì hồi 8000 máu và tăng vĩnh viễn 500 sát thương.</color></size>"
-  },
-  {
-    "theZombieType": 252,
-    "name": "<color=#4B0082>Máy Khoan Netherite (249)",
-    "introduce": "<size=36><color=black>Zombie lái Máy Khoan Netherite đã mở một lớp học chuyên đào quặng cho các Zombie khác theo học. Với phương châm giúp mọi Zombie đều trang bị giáp Netherite.</color>",
-    "info": "<size=36>Vũ khí tối thượng của thợ mỏ.\n\n<color=blue>Từ PvZ Fusion Reimagined Plants Mod\n<color=black>Máu: </color><color=#4B0082>48000 </color>\n<color=black>Khả Năng:</color><color=#4B0082> \n<color=black>•</color> Là Miniboss. Xuất hiện trong Luyện Ngục khi bạn chọn Debuff của nó.\n<color=black>•</color> Chỉ nhận tối đa 5000 sát thương cho các đòn hành quyết.\n<color=black>•</color> Miễn nhiễm với hiệu ứng đóng băng, bơ, làm chậm, thu nhỏ, nuốt chửng, rong biển.\n<color=black>•</color> Khi ra sân sẽ di chuyển dưới lòng đất và mang theo 1 số Zombie như Thợ Mỏ Netherite, sau 3 giây sẽ trồi lên với đầy đủ máu.\n<color=black>•</color> Mỗi lần trồi lên sẽ gây 400 sát thương cho toàn bộ cây toàn sân.\n<color=black>•</color> Mỗi lần trồi lên sẽ triệu hồi 2 hàng Zombie Thợ Mỏ, 1 hàng Zombie Thợ Mỏ Netherite, 1 hàng Thợ Khoan Netherite và 1 hàng Công Nhân Netherite.\n<color=black>•</color> Khi trồi lên thì sẽ bắn laser mỗi 10 giây lên cả 3 hàng gây 200 sát thương, và triệu hồi thêm 1 hàng Zombie Thợ Mỏ Netherite.\n<color=black>•</color> Mỗi khi mất 20% máu tối đa thì sẽ chui xuống đất 1 lần.\n<color=black>•</color> Khi chết sẽ triệu hồi 2 hàng Zombie Thợ Mỏ, 1 hàng Zombie Thợ Mỏ Netherite, 1 hàng Thợ Khoan Netherite và 1 hàng Công Nhân Netherite.</color></size>"
-  },
-  {
-    "theZombieType": 253,
-    "name": "<color=#4B0082>Băng Ngục Tướng Quân (253)",
-    "introduce": "<size=36><color=black>Là đại chỉ huy của gia tộc Zombie không lồ, Băng Ngục Tướng Quân với sức mạnh cường hoá từ nấm băng đã trở nên vô cùng hùng mạnh, sánh ngang với Hắc Thiết Tướng Quân.</color>",
-    "info": "<size=36>Cho cây trải nghiệm thảm hoạ Chernobyl. Sức mạnh của một miniboss thực thụ.\n\n<color=blue>Từ PvZ Fusion Reimagined Plants Mod\n<color=black>Sát Thương: </color><color=#4B0082>\n<color=black>Pháo Ngô: </color><color=#4B0082>1800 trong phạm vi 3x3 ô và 1800 + 25% máu tối đa của cây phạm vi toàn sân.\n<color=black>Pháo Phụ: </color><color=#4B0082>300*2/1.5 giây</color>\n<color=black>Máu: </color><color=#4B0082>50000 </color>\n<color=black>Khả Năng:</color><color=#4B0082> \n<color=black>•</color> Là Miniboss. Xuất hiện trong Luyện Ngục khi bạn chọn Debuff của nó.\n<color=black>•</color> Chỉ nhận tối đa 5000 sát thương cho các đòn hành quyết.\n<color=black>•</color> Miễn nhiễm với hiệu ứng đóng băng, làm chậm, bơ, thu nhỏ, nuốt chửng, rong biển.\n<color=black>•</color> Khi ra sân có khả năng di chuyển sang hàng khác, đồng thời sẽ bắn pháo ngô ngay lập tức sau 3 giây, câm lặng mọi cây trên sân và triệu hồi thêm 1 Imps cho mọi cây bị ảnh hưởng. Sau đó triệu hồi 4 Zombie Đại Pháo Hạng Nặng ở 4 hướng.\n<color=black>•</color> Đập nhanh hơn Garg bình thường gấp 2 lần, mỗi lần đập sẽ câm lặng cây xung quanh đó 3x3 ô. Đạn ngô từ pháo phụ cũng có khả năng câm lặng cây trong phạm vi 3x3 ô.\n<color=black>•</color> Mỗi 10 giây sẽ nhảy lên phía trước, nghiền nát cây xung quanh nó 3x3 ô, sau đó nhảy về chỗ cũ.\n<color=black>•</color> Nếu máu dưới 50%, bắn thêm 4 đạn pháo ngô.\n<color=black>•</color> Khi chết thì sẽ triệu hồi thêm 1 hàng Zombie Đại Pháo Hạng Nặng.</color></size>"
-  },
+      "info": "<size=36><color=#4B0082>Miễn nhiễm với xe cắt cỏ!\n\n<color=blue>Từ RH Customization Mod\n<color=black>Máu: </color><color=#4B0082>40000+12000 (Giáp cấp 1)</color>\n<color=black>Khả Năng:</color><color=#4B0082> \n<color=black>•</color> Có tỉ lệ 10% sẽ đi cùng với Zombie Hộp Quà Kim Cương khi xuất hiện, và sẽ tạo ra 3 Zombie Hộp Quà Kim Cương khi bị mất hộp quà. \n<color=black>•</color> Miễn nhiễm với hiệu ứng Chịu Nhiệt, đóng băng và cả đẩy lùi.\n<color=black>•</color> Khi bị xe cắt cỏ cán qua, nó sẽ lấy xe cắt cỏ đó, hồi đầy máu và có thể tiêu diệt cây ngay lật tức và bỏ qua mọi hiệu ứng. Nếu bị xe cắt cỏ đi qua một lần nữa, xe cắt cỏ đó sẽ trở thành Zombie Hộp Quà Hắc Ngọc.</color></color></size>"
+    },
     {
-    "theZombieType": 450,
-    "name": "<color=#4B0082>Kỵ Sĩ Không Đầu (450)",
-    "introduce": "<size=36><color=black>Tái sinh, Kỵ Sĩ Hắc Thiết của ta. Tới lúc giải phóng cơn cuồng nộ của sự báo thù, giành lại vinh quanh cho chính gia tộc của ngươi. Hãy trỗi dậy, hãy mang tới cái chết cho bọn chúng.</color>",
-    "info": "<size=36>Sự trả thù là không thể tránh khỏi.\n\n<color=blue>Từ Wuxuan Mod\n<color=black>Sát Thương: </color><color=#4B0082>100*4/0.1 giây</color>\n<color=black>Máu: </color><color=#4B0082>54000 </color>\n<color=black>Khả Năng:</color><color=#4B0082> \n<color=black>•</color> Là Miniboss. \n<color=black>•</color> Chỉ nhận tối đa 5000 sát thương cho các đòn hành quyết.\n<color=black>•</color> Miễn nhiễm với hiệu ứng đóng băng, làm chậm, bơ, thu nhỏ, nuốt chửng, rong biển.\n<color=black>•</color> Có thể xuất hiện trực tiếp từ ô 5 bên phải sân nếu không bị chặn. Sau đó cưỡi chiến mã nghiền nát cây, còn không thì gây 100*4 sát thương lên cây ở phía trước và kích hoạt hiệu ứng Nguyền Rủa ở phạm vi 3x3 ô trong 5 giây.\n<color=black>•</color> Sau khi tông cây, nó sẽ dừng trong 1.5 giây, sau đó di chuyển bình thường trong 10 giây trước khi tiếp tục húc vào cây.\n<color=black>•</color> Hồi 300 máu mỗi 0.1 giây.\n<color=black>•</color> Tấn công liên tục vào cây ở cự ly gần, sẽ bỏ qua mọi hiệu ứng giảm sát thương và cả sát thương tối đa có thể nhận vào.\n<color=black>•</color> Có thể tấn công 2 cây cùng lúc phía trước.</color></size>"
-  },
+      "theZombieType": 500,
+      "name": "Zombie Ảo Thuật Gia",
+      "introduce": "<size=36><color=black>“Tôi yêu ảo thuật, nhất là khi trình diễn chúng!” - Zombie Áo Thuật nói thế, vô số Zombie thích trò đó của hắn ta, kể cả cây!</color>",
+      "info": "<size=36><color=#4B0082>Biến hoá khốn lường!\n\n<color=blue>Từ MC屑鱼 Mod\n<color=black>Máu: </color><color=#4B0082>1350</color>\n<color=black>Khả Năng:</color><color=#4B0082> \n<color=black>•</color> Có tỉ lệ ra sân thay thế cho Zombie bình thường.\n<color=black>•</color> Mỗi 5 giây có thể biến đổi 1 cây bất kì với tỉ lệ cao ghép với cây khác và tỉ lệ rất thấp làm cây đó biến mất và tạo ra 1 Imp tại ô đó. Nếu không có cây nào để biến đổi thì sẽ tạo ra 1 Imp tại ô ngẫu nhiên.</color></size>"
+    },
     {
-      "theZombieType": 5000,
+      "theZombieType": 190,
+      "name": "Zombie Bầu Dục Bắn Tỉa",
+      "introduce": "<size=36><color=black>Là bậc thầy bắn tỉa của phe Zombie, tuy nhiên cậu ta lại thích chơi bầu dục hơn là bắn súng, thế là cậu ta vác nguyên khẩu bắn tỉa vào sân đấu.</color>",
+      "info": "<size=36><color=#4B0082>Săn lùng cây trong tầm bắn!\n\n<color=blue>Từ Sniper DLC\n<color=black>Máu: </color><color=#4B0082>1000 </color>\n<color=black>Khả Năng:</color><color=#4B0082> Sau khi ra sân sẽ khóa mục tiêu có số mặt trời cao nhất trong 8 giây, sau đó sẽ hành quyết cây đó và chuyển sang mục tiêu khác.</color></size>"
+    },
+    {
+      "theZombieType": 150,
+      "name": "Zombie Pháo Khổng Lồ",
+      "introduce": "<size=36><color=black>Bằng một cách nào đó, bọn Zombie đã thành công ghép Pháo Ngô với Zombie. và giờ đây bọn Zombie có thể bắn pháo khắp nơi.</color>",
+      "info": "<size=36><color=#4B0082>Zombie khổng lồ trang bị pháo hạng nặng!\n\n<color=blue>Từ PvZ Fusion Reimagined Plants Mod\n<color=black>Sát Thương: </color><color=#4B0082>1800/20 giây </color>\n<color=black>Máu: </color><color=#4B0082>3000 </color>\n<color=black>Khả Năng:</color><color=#4B0082> \n<color=black>•</color> Bắn đạn pháo mỗi 20 giây vào cây có giá trị mặt trời cao nhất, gây 1800 sát thương trong phạm vi 3x3 ô và triệu hồi các Imps tại các ô có cây bị ảnh hưởng.\n<color=black>•</color> Có khả năng xuất hiện cùng với các Garg khác.</color></size>"
+    },
+    {
+      "theZombieType": 151,
+      "name": "Zombie Đu Xà Hủy Diệt",
+      "introduce": "<size=36><color=black>Zombie Nấm Hủy Diệt sau khi thấy rằng mình quá chậm nên quyết định tập chạy thật nhanh và lao về phía cây, nhưng mà có lẽ mọi thứ không hề ổn thỏa cho mấy.</color>",
+      "info": "<size=36><color=#4B0082>Zombie Nấm Hủy Diệt nhưng có thể đu xà!\n\n<color=blue>Từ PvZ Fusion Reimagined Plants Mod\n<color=black>Sát Thương: </color><color=#4B0082>1800 </color>\n<color=black>Máu: </color><color=#4B0082>1850 </color>\n<color=black>Khả Năng:</color><color=#4B0082> \n<color=black>•</color> Có tỉ lệ xuất hiện cùng với Zombie Đu Xà/Zombie Nấm Hủy Diệt, không bao giờ xuất hiện cùng lúc với Zombie Đu Xà Nguyên Tử.\n<color=black>•</color> Sau khi nhảy xà, 20 giây sau sẽ phát nổ và gây 1800 sát thương ở phạm vi 3x3 ô.</color></size>"
+    },
+    {
+      "theZombieType": 152,
+      "name": "Zombie Bầu Dục Đu Xà",
+      "introduce": "<size=36><color=black>Là chuyên gia đu xà trong trường đại học Zombie, Zombie Bầu Dục Đu Xà giỏi tới mức nhiều Zombie khác cũng muốn trở thành Zombie đu xà như nó.</color>",
+      "info": "<size=36><color=#4B0082>Zombie đu xà với cây cờ trên tay!\n\n<color=blue>Từ PvZ Fusion Reimagined Plants Mod\n<color=black>Máu: </color><color=#4B0082>1400+1400 (Giáp cấp 1) </color>\n<color=black>Khả Năng:</color><color=#4B0082> \n<color=black>•</color> Có tỉ lệ xuất hiện cùng với Zombie Đu Xà.\n<color=black>•</color> Khi nhảy xà sẽ nhảy qua 2 cây, sau đó để lại cờ và triệu hồi 1 hàng Zombie Bầu Dục (Có tỉ lệ 30% Zombie Bầu Dục thành Zombie Bầu Dục Đu Xà).\n<color=black>•</color> Khi Zombie Đu Xà nhảy qua cờ, nó sẽ hồi máu đầy đủ và có thể nhảy thêm 1 lần nữa.</color></size>"
+    },
+    {
+      "theZombieType": 249,
+      "name": "<u>Hắc Thiết Tướng Quân<u>",
+      "introduce": "<size=36><color=black>“Hắc Thiết Tướng Quân” được vô số Zombie đặt biệt danh là ‘Pháo Đài Di Động’. Đó là vì khi bọn Zombie bước vào phòng hắn ta, cả căn phòng là cả 1 kho vũ khí đồ sộ. Mà phải biết rằng, căn phòng ấy… còn to hơn cả Zomboss 9000 của Tiến sĩ Edgar!</color>",
+      "info": "<size=36><color=#4B0082>Trang bị tận răng từ súng máy hạng nặng cho tới cả 1 khẩu gattling.\n\n<color=blue>Từ PvZ Fusion Reimagined Plants Mod\n<color=black>Sát Thương Cắn: </color><color=#4B0082>200 </color>\n<color=black>Sát Thương: </color><color=#4B0082>80*3/0.1 giây </color>\n<color=black>Máu: </color><color=#4B0082>48000 </color>\n<color=black>Khả Năng:</color><color=#4B0082> \n<color=black>•</color> Là Miniboss. Xuất hiện trong Luyện Ngục khi bạn chọn Debuff của nó.\n<color=black>•</color> Khi ở trên sân, đạn không thể bị phản lại bởi dù.\n<color=black>•</color> Chỉ nhận tối đa 5000 sát thương cho các đòn hành quyết.\n<color=black>•</color> Miễn nhiễm với hiệu ứng đóng băng, bơ, làm chậm, thu nhỏ, nuốt chửng, rong biển.\n<color=black>•</color> Mỗi lần bắn mà không kích hoạt Tuyệt Kĩ thì có tỉ lệ 5% triệu hồi 1 Zombie Hắc Thiết Bầu Dục Xung Kích và 1 hàng Zombie Hắc Thiết Bão Tố và 2 hàng Zombie Bầu Dục Bão Tố.\n<color=black>•</color> Mỗi lần bắn có tỉ lệ 2% kích hoạt Tuyệt Kĩ.\n<color=black>•</color> <color=black>Tuyệt Kĩ:</color><color=#4B0082> Giảm 40% sát thương nhận vào và sát thương tối đa (mọi nguồn sát thương) có thể nhận vào là 3000.\n<color=black>•</color> Tốc độ bắn từ 0.1 giây còn 0.02 giây, đạn giờ sẽ bắn phân tán trong 5 giây.\n<color=black>•</color> Đồng thời mỗi lần kích hoạt Tuyệt Kĩ thì hồi 8000 máu và tăng vĩnh viễn 500 sát thương.</color></size>"
+    },
+    {
+      "theZombieType": 251,
+      "name": "Zombie Đại Pháo Hạng Nặng",
+      "introduce": "<size=36><color=black>Là chỉ huy của quân đoàn Zombie khổng lồ, nhưng những gì hắn ta muốn là chỉ mong có bạn chơi cùng.</color>",
+      "info": "<size=36><color=#4B0082>Zombie khổng lồ nhưng hoả lực mạnh hơn mọi Zombie khổng lồ khác!\n\n<color=blue>Từ PvZ Fusion Reimagined Plants Mod\n<color=black>Sát Thương: </color><color=#4B0082>200*44/20 giây </color>\n<color=black>Máu: </color><color=#4B0082>12000 </color>\n<color=black>Khả Năng:</color><color=#4B0082> \n<color=black>•</color> Bắn đạn pháo mỗi 20 giây vào cây có giá trị mặt trời cao nhất, gây 200 sát thương mỗi viên trong phạm vi 3*5+3*3 ô và triệu hồi các Zombie Pháo Khổng Lồ quanh nó cho từng viên đạn nó bắn và Imp tại các ô có cây bị ảnh hưởng bởi đạn pháo dưa.\n<color=black>•</color> Có khả năng xuất hiện cùng với các Garg khác.</color></size>"
+    },
+    {
+      "theZombieType": 252,
+      "name": "<u>Máy Khoan Netherite<u>",
+      "introduce": "<size=36><color=black>Zombie lái Máy Khoan Netherite đã mở một lớp học chuyên đào quặng cho các Zombie khác theo học. Với phương châm giúp mọi Zombie đều trang bị giáp Netherite.</color>",
+      "info": "<size=36><color=#4B0082>Vũ khí tối thượng của thợ mỏ.\n\n<color=blue>Từ PvZ Fusion Reimagined Plants Mod\n<color=black>Máu: </color><color=#4B0082>48000 </color>\n<color=black>Khả Năng:</color><color=#4B0082> \n<color=black>•</color> Là Miniboss. Xuất hiện trong Luyện Ngục khi bạn chọn Debuff của nó.\n<color=black>•</color> Chỉ nhận tối đa 5000 sát thương cho các đòn hành quyết.\n<color=black>•</color> Miễn nhiễm với hiệu ứng đóng băng, bơ, làm chậm, thu nhỏ, nuốt chửng, rong biển.\n<color=black>•</color> Khi ra sân sẽ di chuyển dưới lòng đất và mang theo 1 số Zombie như Thợ Mỏ Netherite, sau 3 giây sẽ trồi lên với đầy đủ máu.\n<color=black>•</color> Mỗi lần trồi lên sẽ gây 400 sát thương cho toàn bộ cây toàn sân.\n<color=black>•</color> Mỗi lần trồi lên sẽ triệu hồi 2 hàng Zombie Thợ Mỏ, 1 hàng Zombie Thợ Mỏ Netherite, 1 hàng Thợ Khoan Netherite và 1 hàng Công Nhân Netherite.\n<color=black>•</color> Khi trồi lên thì sẽ bắn laser mỗi 10 giây lên cả 3 hàng gây 200 sát thương, và triệu hồi thêm 1 hàng Zombie Thợ Mỏ Netherite.\n<color=black>•</color> Mỗi khi mất 20% máu tối đa thì sẽ chui xuống đất 1 lần.\n<color=black>•</color> Khi chết sẽ triệu hồi 2 hàng Zombie Thợ Mỏ, 1 hàng Zombie Thợ Mỏ Netherite, 1 hàng Thợ Khoan Netherite và 1 hàng Công Nhân Netherite.</color></size>"
+    },
+    {
+      "theZombieType": 253,
+      "name": "<u>Băng Ngục Tướng Quân<u>",
+      "introduce": "<size=36><color=black>Là đại chỉ huy của gia tộc Zombie không lồ, Băng Ngục Tướng Quân với sức mạnh cường hoá từ nấm băng đã trở nên vô cùng hùng mạnh, sánh ngang với Hắc Thiết Tướng Quân.</color>",
+      "info": "<size=36><color=#4B0082>Cho cây trải nghiệm thảm hoạ Chernobyl. Sức mạnh của một miniboss thực thụ.\n\n<color=blue>Từ PvZ Fusion Reimagined Plants Mod\n<color=black>Sát Thương: </color><color=#4B0082>\n<color=black>Pháo Ngô: </color><color=#4B0082>1800 trong phạm vi 3x3 ô và 1800 + 25% máu tối đa của cây phạm vi toàn sân.\n<color=black>Pháo Phụ: </color><color=#4B0082>300*2/1.5 giây</color>\n<color=black>Máu: </color><color=#4B0082>50000 </color>\n<color=black>Khả Năng:</color><color=#4B0082> \n<color=black>•</color> Là Miniboss. Xuất hiện trong Luyện Ngục khi bạn chọn Debuff của nó.\n<color=black>•</color> Chỉ nhận tối đa 5000 sát thương cho các đòn hành quyết.\n<color=black>•</color> Miễn nhiễm với hiệu ứng đóng băng, làm chậm, bơ, thu nhỏ, nuốt chửng, rong biển.\n<color=black>•</color> Khi ra sân có khả năng di chuyển sang hàng khác, đồng thời sẽ bắn pháo ngô ngay lập tức sau 3 giây, câm lặng mọi cây trên sân và triệu hồi thêm 1 Imps cho mọi cây bị ảnh hưởng. Sau đó triệu hồi 4 Zombie Đại Pháo Hạng Nặng ở 4 hướng.\n<color=black>•</color> Đập nhanh hơn Garg bình thường gấp 2 lần, mỗi lần đập sẽ câm lặng cây xung quanh đó 3x3 ô. Đạn ngô từ pháo phụ cũng có khả năng câm lặng cây trong phạm vi 3x3 ô.\n<color=black>•</color> Mỗi 10 giây sẽ nhảy lên phía trước, nghiền nát cây xung quanh nó 3x3 ô, sau đó nhảy về chỗ cũ.\n<color=black>•</color> Nếu máu dưới 50%, bắn thêm 4 đạn pháo ngô.\n<color=black>•</color> Khi chết thì sẽ triệu hồi thêm 1 hàng Zombie Đại Pháo Hạng Nặng.</color></size>"
+    },
+    {
+      "theZombieType": 254,
+      "name": "Zombie Đu Xà Nguyên Tử",
+      "introduce": "<size=36><color=black>Cậu ta là 1 fan hâm mộ cuồng nhiệt của Hoa Ăn Thịt Hủy Diệt, cậu ta thậm chí còn đội cả cái mũ giống như Hoa Ăn Thịt Hủy Diệt. Chỉ là nó che luôn con mắt, mà cũng chả ai biết cậu ta có thấy đường không nữa.</color>",
+      "info": "<size=36><color=#4B0082>Hoa Ăn Thịt Hủy Diệt làm nón!\n\n<color=blue>Từ PvZ Fusion Reimagined Plants Mod\n<color=black>Sát Thương: </color><color=#4B0082>1800 </color>\n<color=black>Máu: </color><color=#4B0082>6000 </color>\n<color=black>Khả Năng:</color><color=#4B0082> \n<color=black>•</color> Chỉ xuất hiện ở chế độ Du Lịch. Có tỉ lệ xuất hiện cùng với Zombie Đu Xà/Zombie Nấm Hủy Diệt, không bao giờ xuất hiện cùng lúc với Zombie Đu Xà Hủy Diệt.\n<color=black>•</color> Mỗi 20 giây có thể nuốt chửng 1 cây, tiêu diệt toàn bộ cây trong ô đó ngay lập tức, và gây 1800 sát thương cho toàn bộ cây trong phạm vi 7x7 ô.\n<color=black>•</color> Nếu cây không bị nuốt chửng, chỉ nhận thêm 1800 sát thương.</color></size>"
+    },
+    {
+      "theZombieType": 255,
+      "name": "Liên Báo Nguyên Tử",
+      "introduce": "<size=36><color=black>Bằng 1 cách nào đó, Zombie Giáo Sư đã có thể gắn Lan Tử Đinh lên đầu mình, và giờ ông ta có thể nghiền nát mọi phòng thủ đằng trước.</color>",
+      "info": "<size=36><color=#4B0082>Hỏa lực áp đảo!\n\n<color=black>Sát Thương: </color><color=#4B0082>300*4/0.5 giây</color>\n<color=black>Máu: </color><color=#4B0082>3000+3000 (Giáp cấp 2)</color>\n<color=black>Khả Năng:</color><color=#4B0082> Có mọi khả năng của Liên Báo Anh Đào. Đạn nguyên tử khi bắn trúng cây sẽ nổ và gây thêm 300 sát thương ở phạm vi 5x5 ô.</color></size>"
+    },
+    {
+      "theZombieType": 256,
+      "name": "<u>Giáo Sư D<u>",
+      "introduce": "<size=36><color=black>Là bạn thân của giáo sư Z, ông ta thường gặp gỡ và họp bàn chuyện về cách để cải tiến đầu của mình cùng với các giáo sư Z khác.</color>",
+      "info": "<size=36><color=#4B0082>Nghiền nát mọi thứ, kể cả Hắc Long.\n\n<color=black>Sát Thương: </color><color=#4B0082>300+300 </color>\n<color=black>Máu: </color><color=#4B0082>6000 + 15000 (Giáp cấp 1) + 3000 (Giáp cấp 2)</color>\n<color=black>Đặc Điểm:  </color><color=#4B0082>\n<color=black>•</color> Có tỉ lệ 10% xuất hiện khi Giáo Sư Z ra sân.\n<color=black>•</color> Sát thương tối đa nhận vào là 500.\n<color=black>•</color> Miễn nhiễm với mọi hiệu ứng bất lợi, không thể chọc thủng bởi gai.\n<color=black>•</color> Khi cầm tờ báo, bản thân sẽ không bị sát thương, kể cả đạn nguyên tử.\n<color=black>•</color> Khi bị mất báo, bất tử trong 1 khoảng thời gian và biến 30 Zombie thành Liên Báo Nguyên Tử tức giận.\n<color=black>•</color> Sau đó sẽ phi thẳng về phía trước, bắn 1 loạt đạn nguyên tử và đạn cẩu nguyên tử. Số đạn cẩu nguyên tử bắn ra là 4 viên mỗi 0.1 giây. Toàn bộ đạn đều phát nổ ở phạm vi 5x5 ô gây 300 sát thương.\n<color=black>•</color> Tốc độ di chuyển khi mất báo là gấp đôi so với giáo sư Z.</color>"
+    },
+    {
+      "theZombieType": 257,
+      "name": "Zombie Hắc Thiết Đu Xà",
+      "introduce": "<size=36><color=black>Hắn ta là 1 Zombie đu xà vĩ đại, tại vì hắn ta có thể xem là người duy nhất nhảy 1 phát vào tận nhà của Crazy Dave.</color>",
+      "info": "<size=36><color=#4B0082>Nhảy đi, nhảy đi nào!\n\n<color=blue>Từ PvZ Fusion Reimagined Plants Mod\n<color=black>Sát Thương Cắn: </color><color=#4B0082>100 </color>\n<color=black>Máu: </color><color=#4B0082>6000+1400 (Giáp cấp 1) </color>\n<color=black>Khả Năng:</color><color=#4B0082> \n<color=black>•</color> Có tỉ lệ xuất hiện cùng với Zombie Đu Xà.\n<color=black>•</color> Khi nhảy xà sẽ nhảy qua 2 cây, sau đó để lại cờ và triệu hồi 1 hàng Zombie Bầu Dục Đu Xà.\n<color=black>•</color> Khi Zombie Đu Xà nhảy qua cờ, nó sẽ hồi máu đầy đủ và trở thành Zombie Bầu Dục Đu Xà.</color></size>"
+    },
+    {
+      "theZombieType": 258,
+      "name": "<u>Kỵ Sĩ Đại Thực<u>",
+      "introduce": "<size=36><color=black>Sau khi thuần phục con thú khổng lồ này, Kỵ Sĩ Đại Thực quyết định mang nó đi chinh chiến khắp nơi, với sức mạnh áp đảo, không một ai có thể cản bước hắn ta.</color>",
+      "info": "<size=36><color=#4B0082>Xông lên, nghiền nát mọi thứ trong tầm ngắm!\n\n<color=blue>Từ PvZ Fusion Reimagined Plants Mod\n<color=black>Sát Thương Cắn: </color><color=#4B0082>1800 </color>\n<color=black>Máu: </color><color=#4B0082>48000</color>\n<color=black>Khả Năng:</color><color=#4B0082> \n<color=black>•</color> Là Miniboss. Xuất hiện trong Luyện Ngục khi bạn chọn Debuff của nó.\n<color=black>•</color> Chỉ nhận tối đa 5000 sát thương cho các đòn hành quyết.\n<color=black>•</color> Miễn nhiễm với hiệu ứng đóng băng, bơ, làm chậm, thu nhỏ, nuốt chửng, rong biển.\n<color=black>•</color> Có khả năng nuốt chửng cây trong phạm vi 3x3 ô, nếu không thể nuốt chửng thì sẽ gây sát thương chuẩn bằng lượng máu hiện tại.\n<color=black>•</color> Mỗi lần cắn sẽ kích nổ gây 1800 sát thương trong phạm vi 7x7 ô.\n<color=black>•</color> Nếu bị tiêu diệt, Kỵ Sĩ Hắc Đại Thực sẽ xuống sân và tiếp tục chiến đấu.</color></size>"
+    },
+    {
+      "theZombieType": 259,
+      "name": "<u>Kỵ Sĩ Hắc Đại Thực<u>",
+      "introduce": "<size=36><color=black>Kể cả khi không có chiến mã của mình, hắn ta vẫn là 1 chiến binh đáng gờm cùng với tốc độ mà không 1 Zombie có thể sánh kịp.</color>",
+      "info": "<size=36><color=#4B0082>Xuyên qua mọi hàng phòng thủ kiên cố nhất!\n\n<color=blue>Từ PvZ Fusion Reimagined Plants Mod\n<color=black>Sát Thương Cắn: </color><color=#4B0082>100 </color>\n<color=black>Máu: </color><color=#4B0082>12000 + 12000 (Giáp cấp 1)</color>\n<color=black>Khả Năng:</color><color=#4B0082> \n<color=black>•</color> Có mọi khả năng của Hắc Thiết Đu Xà.\n<color=black>•</color> Có thể nhảy 4 lần liên tiếp.\n<color=black>•</color> Sau khi nhảy, nuốt chửng cây đằng trước, đồng thời gây 1800 sát thương ở phạm vi 7x7 ô.\n<color=black>•</color> Mỗi lần nhảy sẽ để lại 1 cây cờ đen, Zombie Đu Xà đi qua nó sẽ trở thành Zombie Hắc Thiết Đu Xà.</color></size>"
+    },
+    {
+      "theZombieType": 336,
+      "name": "<u>Vua Hề Hoàng Kim<u>",
+      "introduce": "<size=36><color=black>Nếu như Vua Hề Điên Loạn đã đủ khổ, chuyện gì nếu bộ ba Nữ Vương Hề, Vua Hề Hoàng Kim và Hắc Vũ Trang Khổng Nhân trên sân cùng 1 lúc? Mọi thứ coi như không còn.</color>",
+      "info": "<size=36><color=#4B0082>Tới lúc quẩy nào!\n\n<color=blue>Từ Wuxuan Mod\n<color=black>Sát Thương: </color><color=#4B0082>1000 </color>\n<color=black>Máu: </color><color=#4B0082>54000</color>\n<color=black>Khả Năng:</color><color=#4B0082> \n<color=black>•</color> Là Miniboss. Xuất hiện trong Luyện Ngục khi bạn chọn Debuff của nó.\n<color=black>•</color> Miễn nhiễm với hiệu ứng đóng băng, bơ, làm chậm, thu nhỏ, nuốt chửng, rong biển.\n<color=black>•</color> Khi còn bật nhảy, giảm 30% sát thương nhận vào và sát thương tối đa có thể nhận vào là 5000. \n<color=black>•</color> Khi không còn bật nhảy, giảm 70% sát thương nhận vào và sát thương tối đa có thể nhận vào là 3000. \n<color=black>•</color> Chỉ có thể chặn nó bằng cây cao, khi đó nó sẽ mất cần bật nhảy và phát nổ.\n<color=black>•</color> Mỗi lần phát nổ; hồi sinh 5 Zombie có lượng máu cao nhất xung quanh nó mà không phải là Zombie hề 1 lần duy nhất.\n<color=black>•</color> Mỗi lần nó sẽ nhảy mỗi 2-5 giây.\n<color=black>•</color> Nó chỉ tự xuống sân khi có quá 3-5 Zombie xung quanh nó chết cùng 1 lúc hoặc lượng máu của những Zombie xung quanh nó mất hơn 15000-54000 máu.\n<color=black>•</color> Khi không còn bật nhảy, mỗi 3-5 giây sẽ hút 3000-8000 xu của bạn. Hồi lượng máu tương đương với 10% số xu nó hút.\n<color=black>•</color> Mỗi lần hút đủ 60000 xu thì nó sẽ có lại cần bật nhảy và sẽ nhảy lại từ đầu ở cuối bên phải sân.\n<color=black>•</color> Khi nó ở trên sân, toàn bộ Zombie cần nhảy miễn nhiễm với thôi miên.\n<color=black>•</color> Có khả năng hồi sinh 1 lần duy nhất, khi đã hồi sinh thì không thể hồi sinh cho các Zombie khác.\n<color=black>•</color> Có tỉ lệ 1% ra sân cùng với Nữ Hoàng Hề hoặc Zombie bị hóa thành tượng vàng.\n\n<color=black>Chế Độ Luyện Ngục: </color><color=#4B0082>\n<color=black>•</color> Có mọi khả năng tương tự như Vua Hề Hoàng Kim gốc.\n<color=black>•</color> Có tỉ lệ 5% ra sân cùng với Nữ Vương Hề.\n<color=black>•</color> Có thêm khả năng hồi sinh/triệu hồi Zombie tối thượng.\n<color=black>•</color> Miễn là còn bật nhảy, nó có thể hồi sinh vô hạn số lần.\n<color=black>•</color> Nó chỉ tự xuống sân khi có quá 1-3 Zombie xung quanh nó chết cùng 1 lúc hoặc lượng máu của những Zombie xung quanh nó mất hơn 5000-20000 máu.\n<color=black>•</color> Khi xuống sân, Zombie xung quanh nó 3x3 ô sẽ giảm 50% sát thương nhận vào, sát thương tối đa nhận vào là 3000, miễn nhiễm với đóng băng, đẩy lùi, bơ.\n<color=black>•</color> Miễn nhiễm với cá hồi, khiến game bị crash.</color></size>"
+    },
+    {
+      "theZombieType": 348,
+      "name": "Bạch Chiến Xa",
+      "introduce": "<size=36><color=black>Micheal Jackson đã chọn mua 1 chiếc xe trắng để đi phượt, đồng thời giúp cậu ta quên hết mọi phiền muộn. “Mục tiêu của ta chưa bao giờ rõ ràng đến thế. Chuyến lưu diễn ấy, cùng với ước mơ kia, luôn xuất hiện trong tâm trí ta, mê hoặc ta tới tận cùng.”</color>",
+      "info": "<size=36><color=#4B0082>Phóng hết tốc lực đi nào!\n\n<color=blue>Từ Wuxuan Mod\n<color=black>Cấp Độ: </color><color=#4B0082>2 </color>\n<color=black>Máu: </color><color=#4B0082>8000 </color>\n<color=black>Khả Năng:</color><color=#4B0082> \n<color=black>•</color> 3 giây đầu tiên sau khi vào sân, phóng hết tốc lực tới ô 5 rồi chậm lại. Nếu không thì sẽ liên tục cán nát cây phía trước. Khi đó sẽ giảm 90% sát thương nhận vào.\n<color=black>•</color> Sau khi tới ô 5 hoặc sau 3 giây, di chuyển nhanh về phía trước.\n<color=black>•</color> Khi bị tiêu diệt, luôn triệu hồi 1 Micheal Jackson Chuyên Nghiệp và 1 Hắc Chiến Xa Cấp 1.</color></size>"
+    },
+    {
+      "theZombieType": 349,
+      "name": "Bạch Chiến Đài Xa",
+      "introduce": "<size=36><color=black>Kể từ khi ra MV đầu tiên, tiền tài như nước tràn vào, khiến cho hắn ta ngày càng ăn chơi phung phí, và giờ hắn ta còn độ cái xe của mình dát vàng nữa.</color>",
+      "info": "<size=36><color=#4B0082>Hãy cho mọi cây biết thế nào là âm nhạc!\n\n<color=blue>Từ Wuxuan Mod\n<color=black>Cấp Độ: </color><color=#4B0082>3 </color>\n<color=black>Máu: </color><color=#4B0082>12000 </color>\n<color=black>Khả Năng:</color><color=#4B0082> \n<color=black>•</color> 3 giây đầu tiên sau khi vào sân, phóng hết tốc lực tới ô 5 rồi chậm lại. Nếu không thì sẽ liên tục cán nát cây phía trước. Khi đó sẽ giảm 90% sát thương nhận vào.\n<color=black>•</color> Sau khi tới ô 5 hoặc sau 3 giây, di chuyển nhanh về phía trước và giảm 75% sát thương nhận vào.\n<color=black>•</color> Khi bị tiêu diệt, luôn triệu hồi 1 Micheal Jackson Quốc Tế và 1 Hắc Chiến Xa Bọc Giáp.</color></size>"
+    },
+    {
+      "theZombieType": 400,
+      "name": "Xe Pháo Tuyết Bọc Giáp",
+      "introduce": "<size=36><color=black>Được trang bị pháo tuyết tương tự như pháo của giáo sư Z và súng tuyết, lẽ ra đơn vị này sẽ tê liệt gần như mọi thứ, chỉ là giờ Hắc Long spam nhiều quá.</color>",
+      "info": "<size=36><color=#4B0082>Cường hoá với công nghệ tối tân từ Bà Chúa Tuyết!\n\n<color=black>Sát Thương: </color><color=#4B0082>60/2 giây </color>\n<color=black>Máu: </color><color=#4B0082>4000 </color>\n<color=black>Khả Năng:</color><color=#4B0082> \n<color=black>•</color> Bắn đạn cầu tuyết về phía trước và ở cây xa nhất dưới hàng, gây 60 sát thương và câm lặng cây ở phạm vi 3x3 ô.\n<color=black>•</color> Miễn nhiễm với gai.\n<color=black>•</color> Khi bị tiêu diệt, triệu hồi 1 hàng Zombie Súng Tuyết.</color></size>"
+    },
+    {
+      "theZombieType": 401,
+      "name": "Xe Tăng Tiger II",
+      "introduce": "<size=36><color=black>Bằng 1 cách nào đó, đám Zombie đã thành công chiếm được các xe tăng từ thế chiến 2, mặc dù nó trông có vẻ lỗi thời nhưng sức mạnh của nó vẫn vô cùng đáng gờm.</color>",
+      "info": "<size=36><color=#4B0082>Sức mạnh áp đảo của Zombie cơ giới!\n\n<color=blue>Từ PvZ Fusion Reimagined Plants Mod\n<color=black>Sát Thương: </color><color=#4B0082>1800/5 giây </color>\n<color=black>Máu: </color><color=#4B0082>16000 </color>\n<color=black>Khả Năng:</color><color=#4B0082> \n<color=black>•</color> Có tỉ lệ xuất hiện cùng với Hắc Chiến Xa.\n<color=black>•</color> Bắn đạn pháo mỗi 5 giây, gây 1800 sát thương/số cây trong phạm vi 3x3 ô đồng thời áp dụng hiệu ứng Suy Yếu vĩnh viễn.\n<color=black>•</color> Cây bị dính hiệu ứng Suy Yếu sẽ luôn phải nhận x3 sát thương.\n<color=black>•</color> Nếu cây bị hiệu ứng Suy Yếu, khi bị sát thương bởi đạn pháo sẽ bị Hành Quyết ngay lập tức.\n<color=black>•</color> Không thể bị xuyên thủng bởi gai và không thể bị nuốt chửng.\n<color=black>•</color> Giảm 50% sát thương nhận vào.</color></size>"
+    },
+    {
+      "theZombieType": 450,
+      "name": "<u>Kỵ Sĩ Không Đầu<u>",
+      "introduce": "<size=36><color=black>Tái sinh, Kỵ Sĩ Hắc Thiết của ta. Tới lúc giải phóng cơn cuồng nộ của sự báo thù, giành lại vinh quanh cho chính gia tộc của ngươi. Hãy trỗi dậy, hãy mang tới cái chết cho bọn chúng.</color>",
+      "info": "<size=36><color=#4B0082>Sự trả thù là không thể tránh khỏi.\n\n<color=blue>Từ Wuxuan Mod\n<color=black>Sát Thương: </color><color=#4B0082>400*4/0.1 giây</color>\n<color=black>Máu: </color><color=#4B0082>54000 </color>\n<color=black>Khả Năng:</color><color=#4B0082> \n<color=black>•</color> Là Miniboss. \n<color=black>•</color> Chỉ nhận tối đa 5000 sát thương cho các đòn hành quyết.\n<color=black>•</color> Miễn nhiễm với hiệu ứng đóng băng, làm chậm, bơ, thu nhỏ, nuốt chửng, rong biển.\n<color=black>•</color> Sẽ luôn ra sân nếu như Nguyên Soái Hắc Thiết bị đánh bại.\n<color=black>•</color> Có thể xuất hiện trực tiếp từ ô 5 bên phải sân nếu không bị chặn. Sau đó cưỡi chiến mã nghiền nát cây, còn không thì gây 100*4 sát thương lên cây ở phía trước và kích hoạt hiệu ứng Nguyền Rủa ở phạm vi 3x3 ô trong 5 giây.\n<color=black>•</color> Sau khi tông cây, nó sẽ dừng trong 1.5 giây, sau đó di chuyển bình thường trong 10 giây trước khi tiếp tục húc vào cây.\n<color=black>•</color> Hồi 300 máu mỗi 0.1 giây.\n<color=black>•</color> Tấn công liên tục vào cây ở cự ly gần, sẽ bỏ qua mọi hiệu ứng giảm sát thương và cả sát thương tối đa có thể nhận vào.\n<color=black>•</color> Có thể tấn công 2 cây cùng lúc phía trước.\n<color=black>•</color> Khi mất 50% máu tối đa, triệu hồi 1 hàng Hắc Thiết Bão Tố.\n<color=black>•</color> Có thể xuất hiện từ Zombie Hộp Quà Bí Ẩn Kim Cương trong chế độ du lịch.</color></size>"
+    },
+    {
+      "theZombieType": 357,
+      "name": "<u>Pháo Đài Băng Ngục<u>",
+      "introduce": "<size=36><color=black>Siêu bền bỉ, với khả năng phòng thủ siêu bền, cùng với khả năng oanh tạc diện rộng. Nó chính là pháo đài trên không với chiến tích bất bại trước mọi đối thủ.</color>",
+      "info": "<size=36><color=#4B0082>Pháo đài trên không thật sự.\n\n<color=blue>Từ Wuxuan Mod\n<color=black>Sát Thương: </color><color=#4B0082>300 (Khinh Hạm), 1000 (Tên Lửa)</color>\n<color=black>Máu: </color><color=#4B0082>50000 </color>\n<color=black>Khả Năng:</color><color=#4B0082> \n<color=black>•</color> Là Miniboss. \n<color=black>•</color> Có tỉ lệ 50% xuất hiện khi Pháo Đài Kirov ra sân.\n<color=black>•</color> Chỉ nhận tối đa 5000 sát thương.\n<color=black>•</color> Miễn nhiễm với mọi hiệu ứng bất lợi.\n<color=black>•</color> Gây 300 sát thương và đóng băng cây dưới nó mỗi giây.\n<color=black>•</color> Di chuyển cực chậm, có thể đổi hàng mỗi 10 giây.\n<color=black>•</color> Có khả năng oanh tạc cả hàng mỗi 3 giây, gây 300 sát thương mỗi bom lên toàn cây trong phạm vi oanh tạc và đóng băng cây nào sống sót.\n<color=black>•</color> Mỗi 5 giây, bắn 1 tên lửa băng vào cây, ưu tiên drone -> cây du lịch -> cây có lượng máu cao nhất, gây 1000 sát thương và đóng băng cây tại ô đó.</color></size>"
+    },
+    {
+      "theZombieType": 337,
+      "name": "<u>Thiên Cổ Quan Long<u>",
+      "introduce": "<size=36><color=black>1 kẻ lang thang, vác theo 1 vật phong ấn vạn năm trước, hắn ta chỉ di chuyển, theo sau là đoàn tùy tùng chưa từng dừng lại bao giờ.</color>",
+      "info": "<size=36><color=#4B0082>Kẻ mang theo vật phong ấn.\n\n<color=blue>Từ Wuxuan Mod\n<color=black>Sát Thương: </color><color=#4B0082>4000</color>\n<color=black>Máu: </color><color=#4B0082>30000/30000/36000/50000 </color>\n<color=black>Khả Năng:</color><color=#4B0082> \n<color=black>•</color> Là boss, không thể bị tiêu diệt bởi xe cắt cỏ. \n<color=black>•</color> Giảm 50% sát thương nhận vào, đồng thời chỉ nhận tối đa 5000 sát thương.\n<color=black>•</color> Miễn nhiễm với hiệu ứng đóng băng, làm chậm, thu nhỏ, nuốt chửng, rong biển.\n<color=black>•</color> Có tỉ lệ 50% ra sân thay cho Thánh Long Vạn Niên.\n<color=black>•</color> Mỗi 10 giây sẽ triệu hồi 1 hàng Cương Thi, toàn bộ Cương Thi giảm 50% sát thương nhận vào.\n<color=black>•</color> Có tỉ lệ 33% miễn nhiễm sát thương nhận vào.\n<color=black>•</color> Mỗi lần chuyển đổi dạng hoặc chết, phát nổ gây 10000 sát thương lên cây trong phạm vi 5x5 ô.\n<color=black>•</color> Có 4 dạng như sau:\n<color=black>Dạng 1: Thiên Mệnh Khai Ấn</color> \n<color=black>•</color> Khi ra sân sẽ lao nhanh về phía trước 3 ô.\n<color=black>•</color> Mỗi 4-8 giây có thể dịch chuyển xuyên qua cây phía trước và gây 4000 sát thương. \n<color=black>•</color> Tấn công gây 4000 sát thương cùng với vụ nổ hề.\n<color=black>Dạng 2: Thi Mệnh Vị Tẫn</color>\n<color=black>•</color> Tiếp tục di chuyển về phía trước kể cả khi đã mất đầu.\n<color=black>•</color> Có mọi khả năng của dạng 1, giờ đây miễn nhiễm với mọi hiệu ứng bất lợi.\n<color=black>•</color> Vô hiệu hóa 1 buff ngẫu nhiên mà bạn đang có.\n<color=black>Dạng 3: Cửu U Hàng Lâm</color>\n<color=black>•</color> Không còn khả năng di chuyển.\n<color=black>•</color> Miễn nhiễm với mọi hiệu ứng bất lợi.\n<color=black>•</color> Vô hiệu hóa 1 buff ngẫu nhiên khi ra sân.\n<color=black>•</color> Mỗi 10 giây sẽ gây sát thương tương ứng 10% máu tối đa lên mọi cây trên sân và thêm 1 debuff.\n<color=black>Dạng 4: Long Đế Tái Lâm</color>\n<color=black>•</color> Khi xuất hiện, kích hoạt vụ nổ hề 9x9 ô.\n<color=black>•</color> Đồng thời vô hiệu hóa 1 buff ngẫu nhiên.\n<color=black>•</color> Mỗi 10 giây sẽ thêm 1 debuff ngẫu nhiên và gây sát thương tương ứng 10% máu tối đa. Đồng thời giảm 5% máu tối đa cho toàn bộ cây trên sân và hồi lượng máu tương ứng.\n<color=black>•</color> Khi chết, phát nổ vụ nổ hề phạm vi 5x5 ô và mở khóa toàn bộ buff đã vô hiệu hóa trước đó.</color></size>"
+    },
+    {
+      "theZombieType": 501,
+      "name": "Zombie thường",
+      "introduce": "<size=36><color=black>Lần đầu tiên xuất hiện là từ PvZ 3.</color>",
+      "info": "<size=36><color=#4B0082>Zombie thường\n\n<color=blue>Từ Wuxuan Mod\n<color=black>Máu: </color><color=#4B0082>270</color>\n<color=black>Đặc Điểm:</color><color=#4B0082> Có tỉ lệ 50% ra sân thay cho Zombie thường.</color></size>"
+    },
+    {
+      "theZombieType": 502,
+      "name": "Siêu Zombie",
+      "introduce": "<size=36><color=black>Lần đầu tiên xuất hiện là từ PvZ Giga Mod, nơi mà toàn bộ Zombie x2 máu và có mắt đỏ.</color>",
+      "info": "<size=36><color=#4B0082>Zombie thường, nhưng trâu hơn\n\n<color=blue>Từ Wuxuan Mod\n<color=black>Sát Thương: </color><color=#4B0082>200\n<color=black>Máu: </color><color=#4B0082>1000</color>\n<color=black>Đặc Điểm:</color><color=#4B0082> Có tỉ lệ 50% ra sân thay cho Zombie thường. Giảm 5% sát thương nhận vào. Có khả năng kháng nổ, lần đầu bị sát thương nổ sẽ chỉ nhận 10 sát thương.</color></size>"
+    },
+    {
+      "theZombieType": 260,
       "name": "<color=#4B0082><u>Placeholder</u>",
       "introduce": "<align=justified><size=36><color=black>Placeholder</color>",
       "info": "<size=36>Placeholder\n\n<color=black>Toughness: </color><color=#4B0082>32000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Placeholder</color>"
