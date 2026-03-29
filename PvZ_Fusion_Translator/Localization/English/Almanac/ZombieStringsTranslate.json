@@ -949,6 +949,12 @@
             "info": "<size=36>Stakes out targets from a distance; operates solo; and takes down enemies with certainty after 6 shots.\n\n<color=black>Damage: </color><color=#4B0082>500 (Sniper)</color>\n<color=black>Toughness: </color><color=#4B0082>3000 +3000 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Immune to hypnotization and knockback.\n<color=black>•</color> Begins attacking once he reaches the farthest-right column of the lawn. Every 2 seconds, he will snipe the left-most plant in his lane that is not a pot (prioritizing pumpkins -> plants -> drones).\n<color=black>•</color> Every 6th shot will instantly kill the plant he is targetting, regardless of damage absorption or reduction. If he is forced to switch lanes (excluding the zombie gloves), the shot count is reset.</color>"
         },
         {
+            "theZombieType": 247,
+            "name": "Zombie Soul",
+            "introduce": "<align=left><size=36><color=black>I have no introduce</color>",
+            "info": "<size=36>I have no info</color>"
+        },
+        {
             "theZombieType": 300,
             "name": "Gatling Cherry Scholar Zombie",
             "introduce": "<align=left><size=36><color=black>\"There's always more to life than just math puzzles… like the reed outside the window… or tonight's moonlight,\" mumbles Gatling Cherry Scholar Zombie. \"But first, I really need to solve this Sudoku. It's… surprisingly hard.\"</color>",
