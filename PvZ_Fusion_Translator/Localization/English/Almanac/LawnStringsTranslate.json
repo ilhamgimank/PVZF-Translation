@@ -3567,7 +3567,7 @@
             "seedType": 1343,
             "name": "Gourd-pult",
             "introduce": "<align=justified><size=36><color=black>Squash is heavy, but too soft. Melons are heavy too, but too fragile. Now those problems are solved. Or possibly combined.</color>",
-            "info": "<size=36>Projectiles crush zombies like a Squash, then shatter like a Melon, dealing splash damage.\n\n<color=black>Damage: </color><color=#8B0000>120 (Squash)/3s</color>\n<color=black>Detection Range: </color><color=#8B0000>0.5 tiles to the left; 1 tile to the right</color>\n<color=black>Special: </color><color=#8B0000>Projectiles deal area crush damage on landing, then break shortly after, dealing splash damage with fall-off similar to Melon-pult.</color>",
+            "info": "<size=36>Projectiles crush zombies like a Squash, then shatter like a Melon, dealing splash damage.\n\n<color=black>Damage: </color><color=#8B0000>120 (Squash)/3s</color>\n<color=black>Special: </color><color=#8B0000>Projectiles deal area crush damage on landing, then break shortly after, dealing splash damage with fall-off similar to Melon-pult.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Squash + Melon-pult</color>"
         },
         {
