@@ -219,7 +219,7 @@
   "^([^\\s]{2})X([^\\s]{2})$": "{0} x {1}",
   "当前资产:\n(\\d+)\n词条消耗：\n(\\d+)": "Current Money:\n{0}\nModifier Cost:\n{1}",
   "该卡牌价值([^\\s]+)元，是否丢弃？": "This Packet is worth ${0}, discard?",
-  "配方：([^\\s]+)": "Formula: {0}",
+  "配方：([^\\s]+)": "Recipe: {0}",
   "出售该卡牌可以获得([^\\s]+)元": "Sell this Packet for ${0}?",
   "升级需要：\n([^\\s]+)": "Upgrade Requirements:\n{0}",
   "存货不足，是否以(\\d+)的价格购买([^\\s]+)？": "Out of Stock! Buy the {1} for ${0}?",
