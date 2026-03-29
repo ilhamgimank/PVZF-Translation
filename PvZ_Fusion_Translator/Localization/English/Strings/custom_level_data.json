@@ -1,7 +1,130 @@
-{
-	"level_1774627145655_lu7rlfvtm":
-	{
-		"name": "idk what level this is",
-		"startTip": "hello hello hello"
-	}
+﻿{
+    "level_1772710664724_lig7sqzv5": {
+        "name": "Odyssey Adventure: Level 17",
+        "startTip": ""
+    },
+    "level_1772718364411_erw9i6bmq": {
+        "name": "The Gods: Nyan Squash's Revenge",
+        "startTip": "Woah, this Squash squad is absolutely stacked with talent, huh?\nThe chill Squash, the pay-to-win Squash, the charming Squash\nThe hard Squash, the volatile Squash, the hot Squash - this is PG material!\nAnd there's even a Squash that shows up and <U><color=#B8860B><SIZE=20>wipes the whole floor</SIZE></color>!</U>\nPlus their very own <U><SIZE=20><color=#F08080>\"Princess\" Nyan Squash</SIZE></color>!</U>"
+    },
+    "level_1772722911574_8n760typj": {
+        "name": "Alpha Assassin Hitman",
+        "startTip": "Alpha Assassin Hitman!\n(Yeah the original blurb writer did not try very hard)"
+    },
+    "level_1772794811952_9hc854i7q": {
+        "name": "Anti-air Berserker",
+        "startTip": "As absolutely <i>nobody</i> knows, Berserker Snipea can \"hit\" air units too.\nWhile targeting other zombies, the projectile also casually clips anything flying by.\nGive it a go and knock those flyers out of the sky!\nN.B.: if any plant dies, it'll result in a game over!"
+    },
+    "level_1772872400910_vnoc3otz4": {
+        "name": "Super Nutsweeper",
+        "startTip": "<SIZE=26><color=white>\n<align=left><U>Spike-nut - 0</U>\n<U>Star-nut - 1</U>\n<U>Cabbage-nut - 2</U>\n<U>Cherry-nut - 3</U>\n<U>Flame Wall-nut - 4</U>\n<U>Frost Wall-nut - 5</U>\n<U>Silver-nut - 6</U>\n\t<U>Hypno-nut - 7</U>\n\t<U>Doom-nut - 8</U>\n<align=center></color><U>Each Nut type shows the number of mines around it\nUse Coldsnap Beans to mark mine spots - there are 58 in total, good luck!\n\n\n\n\n\n\n\n\n\n\n</U>"
+    },
+    "level_1772957930451_1hk8aodya": {
+        "name": "Battle of the Liliputs",
+        "startTip": "<size=15>Small body</size>\n<size=50>Big power</size>"
+    },
+    "level_1773140970286_7bsqxg8pe": {
+        "name": "Refactoring",
+        "startTip": "<size=24><align=left><color=white>Base rules:\n<size=18>Odyssey fusions: Disabled\nGlove CD: 0s\nWave Interval: 40s\nNatural Sun drop: Disabled\nZombie Sun drop: Enabled\nFusion Disassembly: Enabled\n\n<size=144>\n<align=center><size=15></color>Difficulty 0-5 all ok. The panel on the left lists every gameplay tweak for this level.\nThe first 8 plants in your slots can each only be bought once, while the remaining 5 can be purchased infinitely (with a short cooldown).\nUse disassembly and recombine plants into more valuable forms: if you play it right, you can even create some base plants.\nNote: Plant stats are completely unchanged\n<size=300>\n"
+    },
+    "level_1773141401946_ajdjyjtmr": {
+        "name": "Vasebreaking Puzzle: Hypnosis",
+        "startTip": "<size=24><align=left>Base rules:\n<size=18>Zombie damage: 2×\nOdyssey fusions: Disabled\n<size=242>\n<align=center><size=18>Pure Puzzler, Recommended difficulties: 0-3 (otherwise may not be solvable)\nThe panel on the left lists every gameplay tweak for this level, please read them before you play.\nChallenge: Clear the level without using the Hypno-shroom in your seed slot.\n<size=300>\n"
+    },
+    "level_1774004769526_za6f7yoy5": {
+        "name": "Odyssey Gacha: Vasebreaker",
+        "startTip": ""
+    },
+    "level_1774021232832_2o5a8h8md": {
+        "name": "Odyssey Gacha: Purgatory of Diamond",
+        "startTip": "You should accept the whims of fate\nOnce you've set foot on this path\n-------------\nRecommended difficulties: 0-4\nMini-bosses are recommended to be disabled\nChallenge: Clear the level with the 3 settings pertaining to Gacha modes all enabled"
+    },
+    "level_1774109191871_tfirdlefk": {
+        "name": "The Gods: Through Time and Space",
+        "startTip": ""
+    },
+    "level_1774119630318_rld1qhxlg": {
+        "name": "Undead Eternal",
+        "startTip": "\nYou can see all balance changes in this level through the Editor or using H on plants.\nThe Mallet is banned.\nZombies in this level have reduced HP but higher damage and increased number.\n\n            Click on                 Good luck                    to start"
+    },
+    "level_1774164065908_1y752bodf": {
+        "name": "Welcome to the Darkside",
+        "startTip": "A very generic I, Zombie level.\nAs you can see, you need to act fast and kill the Plantern at the start.\nRecommended difficulties: 4-5 (otherwise not solvable)\nSubmitter: 窝是fvv, Best Solution: 375 Sun left"
+    },
+    "level_1774174308190_dakkzec42": {
+        "name": "Blank Level (Edit this to reset Level Editor settings)",
+        "startTip": ""
+    },
+    "level_1774316229611_6nctetuy8": {
+        "name": "Grave Tripper",
+        "startTip": "Trip Pole Vaulting Zombies up with Grave Busters. Try to save your Grave Busters.\nThe Undying Totem Modifier is activated for this level.\u000bChallenge: Clear the level without using the Undying Totem."
+    },
+    "level_1774355110855_hcqameykh": {
+        "name": "The Gods: Trial of Synergies",
+        "startTip": "Submitter: 怪猫_SC(Bilibili)\n\n<b><size=25><color=orange>Cherrybomber & Infernal Squashwood</color>\n<color=red>Cherrizilla</color> <color=#2A2A72>Obsidian Tall-nut</color>\n<color=yellow>McCornics</color> <color=blue>Maelonstrom</color></size></b>\n\n\n"
+    },
+    "level_1774355113900_swfar1lf9": {
+        "name": "Land Grabber",
+        "startTip": "The Glove in this level has reduced CD, use it well!\n[High difficulty warning: try with caution]\n<i>Cherish every piece of land you have!</i>\n\n\n\n\n\n\n\n\n<size=25>Protect your Flower Pots!</size>\n<size=16>Tip: Metal zombies too beefy to make a dent in? Maybe you need some Magnetic power.</size>\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    "level_1774406542551_2cbqzyxbk": {
+        "name": "Vasebreaking Puzzle: Meltdown",
+        "startTip": "<size=24><align=left>Base rules:\n<size=18>Zombie damage: 2×\nZombie speed: 0.8×\nOdyssey fusions: Disabled\n<size=18>High Gravity: Enabled\n<size=24>Modifiers:\n<size=18>Craterless Doom explosions\nZombies have a 0.1s i-frame each hit\n\n<size=120>\n<align=center><size=18>Pure Puzzler, Recommended difficulties: 0-3 (otherwise may not be solvable)\n\nThe panel on the left lists every gameplay tweak for this level, please read them before you play.\nChallenge: Clear the level without using the Black Cherry in your seed slot.\n<size=300>\n"
+    },
+    "level_1774599144997_0qpxg22jh": {
+        "name": "The Gods: Back to Basics",
+        "startTip": "<color=red>What is this level? Are we de-evolving?</color>\n*<color=yellow>Fascinating. Anyways, watch out for flying zombies and the Mallet recharges super fast in this level.</color>\n<color=green>Support plants: Midas/G.M.Nut/Tall-nuts/Fungularity</color>"
+    },
+    "level_1774599184523_5jzbx956k": {
+        "name": "Death from Above",
+        "startTip": "You will face the coordinated attacks of flying zombies and bungees.\n<color=#FF0000>When it is time for end game, the winner descends from above!</color>"
+    },
+    "level_1774600503668_1dle8ve5z": {
+        "name": "Vasebreaking Puzzle: Follow the Cone",
+        "startTip": "The Conehead isn't making any friends with the Imps after this one..."
+    },
+    "level_1774600505253_39nuh24z7": {
+        "name": "Vasebreaking Puzzle: Master Strategist",
+        "startTip": "High difficulty warning!\n\nSome zombies can be used against others.\nTry to obtain metal objects and fuse them with certain plants.\nTheir control abilities will help you deal with troublesome zombies more effectively.\nRecommended difficulty: D3"
+    },
+    "level_1774600506836_lz1dqhcyv": {
+        "name": "Vasebreaking Puzzle: Cherrypicking",
+        "startTip": "Any difficulty is ok for this level.\n              \nTry to make as many explosive cherries as possible to wipe out every zombie!"
+    },
+    "level_1774600996701_vpgpfkk2l": {
+        "name": "Fractured Earth",
+        "startTip": "Column Planting enabled."
+    },
+    "level_1774611032370_90xngigri": {
+        "name": "Stopwatch",
+        "startTip": "This level is based on D5 and is pretty tough: choose your difficulty wisely! (Spawns are fixed; only damage reduction can be adjusted).\nOne full sway up and down of a Pumpkin is roughly equal to 2 seconds.\nGlove cooldown is increased to 25s, and you can only plant down a Flower Pot once!\nFor the \"true experience,\" try not using the H key to check Windy Pumpkin's production CD\nIf you want an extra challenge, beat the level only using Doom-shrooms from your seed slots."
+    },
+    "level_1774628038557_3pvkpu1ls": {
+        "name": "Vasebreaker: Snow Burial",
+        "startTip": "Squashweeds can slow down Snowfurs effectively.\nColdsnap Beam enables Snow Peas to Deep Chill cold-resistant zombies.\nThere are 2 Elder Snowfurs among the Vases, watch out for them!"
+    },
+    "level_1774697468177_t3wig8c6m": {
+        "name": "杂技",
+        "startTip": "本关基于n5设计，以n5减伤来平衡数值，但请根据实际情况合理选择游玩难度\n杂技里的扔球表演是一项基本功\n内行人能够通过它，快速判断一名杂技演员是否训练有素\n你愿意体验这样快节奏却又一切尽在掌握的感觉吗？\n如果不幸弄掉了球也不要紧，三个球都会有一个备用版\n但是，一个技术精湛的杂技演员可不会丢掉手上的球哦！\n（本关有较大的操作压力，请做好长时间时停的准备！但不要担心，表演不会持续太久）\n\n\n\n"
+    },
+    "level_1774710505815_jh5iw4yiw": {
+        "name": "我是僵尸：狂轰滥炸",
+        "startTip": "<size=18>毁灭菇可以炸掉本格内所有植物，以及融合其他内鬼植物炸\n推荐难度0，作者：小董玩的好，最优解：500"
+    },
+    "level_1774710599909_xva2v02e6": {
+        "name": "我是僵尸：狂轰滥炸",
+        "startTip": "<size=18>毁灭菇可以炸掉本格内所有植物，以及融合其他内鬼植物炸\n推荐难度0，作者：小董玩的好，最优解：500"
+    },
+    "level_1774710754764_sdyk3rfkv": {
+        "name": "我是僵尸：狂轰滥炸",
+        "startTip": "<size=18>毁灭菇可以炸掉本格内所有植物，以及融合其他内鬼植物炸\n推荐难度0，作者：小董玩的好，最优解：500 （可以去搜索作者寻找攻略）"
+    },
+    "level_1774710985333_cmls4g3rt": {
+        "name": "我是僵尸：狂轰滥炸",
+        "startTip": "<size=18>毁灭菇可以炸掉本格内所有植物，以及融合其他内鬼植物炸\n推荐难度0，作者：小董玩的好，最优解：500 （可以去搜索作者寻找攻略）"
+    },
+    "level_1774710991748_nlx90py2s": {
+        "name": "单枪匹马",
+        "startTip": "点击植物卡牌升级植物\n本关卡前期容错较低，必要时请弃车保帅"
+    }
 }
