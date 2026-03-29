@@ -12,7 +12,7 @@
         "startTip": "Alpha Assassin Hitman!\n(Yeah the original blurb writer did not try very hard)"
     },
     "level_1772794811952_9hc854i7q": {
-        "name": "Anti-air Berserker",
+        "name": "Vasebreaking Puzzle: Anti-air Berserker",
         "startTip": "As absolutely <i>nobody</i> knows, Berserker Snipea can \"hit\" air units too.\nWhile targeting other zombies, the projectile also casually clips anything flying by.\nGive it a go and knock those flyers out of the sky!\nN.B.: if any plant dies, it'll result in a game over!"
     },
     "level_1772872400910_vnoc3otz4": {
@@ -48,7 +48,7 @@
         "startTip": "\nYou can see all balance changes in this level through the Editor or using H on plants.\nThe Mallet is banned.\nZombies in this level have reduced HP but higher damage and increased number.\n\n            Click on                 Good luck                    to start"
     },
     "level_1774164065908_1y752bodf": {
-        "name": "Welcome to the Darkside",
+        "name": "I, Zombie: Welcome to the Darkside",
         "startTip": "A very generic I, Zombie level.\nAs you can see, you need to act fast and kill the Plantern at the start.\nRecommended difficulties: 4-5 (otherwise not solvable)\nSubmitter: 窝是fvv, Best Solution: 375 Sun left"
     },
     "level_1774174308190_dakkzec42": {
@@ -99,32 +99,36 @@
         "name": "Stopwatch",
         "startTip": "This level is based on D5 and is pretty tough: choose your difficulty wisely! (Spawns are fixed; only damage reduction can be adjusted).\nOne full sway up and down of a Pumpkin is roughly equal to 2 seconds.\nGlove cooldown is increased to 25s, and you can only plant down a Flower Pot once!\nFor the \"true experience,\" try not using the H key to check Windy Pumpkin's production CD\nIf you want an extra challenge, beat the level only using Doom-shrooms from your seed slots."
     },
+      "level_1774627145655_lu7rlfvtm": {
+        "name": "Third Time's the Charm",
+        "startTip": "The Glove has no CD in this level, plants recharge faster and you can disassemble fusions.\nMake good use of Puff-shroom stacking and disassembling quirks.\nFrom Three, All Things."
+      },
     "level_1774628038557_3pvkpu1ls": {
         "name": "Vasebreaker: Snow Burial",
         "startTip": "Squashweeds can slow down Snowfurs effectively.\nColdsnap Beam enables Snow Peas to Deep Chill cold-resistant zombies.\nThere are 2 Elder Snowfurs among the Vases, watch out for them!"
     },
     "level_1774697468177_t3wig8c6m": {
-        "name": "杂技",
-        "startTip": "本关基于n5设计，以n5减伤来平衡数值，但请根据实际情况合理选择游玩难度\n杂技里的扔球表演是一项基本功\n内行人能够通过它，快速判断一名杂技演员是否训练有素\n你愿意体验这样快节奏却又一切尽在掌握的感觉吗？\n如果不幸弄掉了球也不要紧，三个球都会有一个备用版\n但是，一个技术精湛的杂技演员可不会丢掉手上的球哦！\n（本关有较大的操作压力，请做好长时间时停的准备！但不要担心，表演不会持续太久）\n\n\n\n"
+        "name": "Acrobatics",
+        "startTip": "Designed for Difficulty 5, but feel free to play according to your experience.\nBall juggling is a basic skill in acrobatics.\nInsiders judge whether an acrobat is well-trained simply by examining their juggling skills.\nThis level tests your on that.\nIt's fine if you lose your balls, you have one backup for each of them.\nBut an expert acrobat does not simply drop his balls!\n(This level requires heavy micro-management, be prepared to constantly play under slow-mode! But don't worry, the performance won't be long)\n\n\n\n"
     },
     "level_1774710505815_jh5iw4yiw": {
-        "name": "我是僵尸：狂轰滥炸",
-        "startTip": "<size=18>毁灭菇可以炸掉本格内所有植物，以及融合其他内鬼植物炸\n推荐难度0，作者：小董玩的好，最优解：500"
+        "name": "I, Zombie: Carpet Bombing",
+        "startTip": "<size=18>Doom-shroom erases all other plants in the same tile, and can be fused to make fusions that do the same thing.\nRecommended difficulty: 0, Submitter: 小董玩的好, Best Solution: 500 Sun left"
     },
     "level_1774710599909_xva2v02e6": {
-        "name": "我是僵尸：狂轰滥炸",
-        "startTip": "<size=18>毁灭菇可以炸掉本格内所有植物，以及融合其他内鬼植物炸\n推荐难度0，作者：小董玩的好，最优解：500"
+        "name": "I, Zombie: Carpet Bombing",
+        "startTip": "<size=18>Doom-shroom erases all other plants in the same tile, and can be fused to make fusions that do the same thing.\nRecommended difficulty: 0, Submitter: 小董玩的好, Best Solution: 500 Sun left"
     },
     "level_1774710754764_sdyk3rfkv": {
-        "name": "我是僵尸：狂轰滥炸",
-        "startTip": "<size=18>毁灭菇可以炸掉本格内所有植物，以及融合其他内鬼植物炸\n推荐难度0，作者：小董玩的好，最优解：500 （可以去搜索作者寻找攻略）"
+        "name": "I, Zombie: Carpet Bombing",
+        "startTip": "<size=18><size=18>Doom-shroom erases all other plants in the same tile, and can be fused to make fusions that do the same thing.\nRecommended difficulty: 0, Submitter: 小董玩的好, Best Solution: 500 Sun left\n(Search the submitter's name on Bilibili for a walkthrough)"
     },
     "level_1774710985333_cmls4g3rt": {
-        "name": "我是僵尸：狂轰滥炸",
-        "startTip": "<size=18>毁灭菇可以炸掉本格内所有植物，以及融合其他内鬼植物炸\n推荐难度0，作者：小董玩的好，最优解：500 （可以去搜索作者寻找攻略）"
+        "name": "I, Zombie: Carpet Bombing",
+        "startTip": "<size=18><size=18>Doom-shroom erases all other plants in the same tile, and can be fused to make fusions that do the same thing.\nRecommended difficulty: 0, Submitter: 小董玩的好, Best Solution: 500 Sun left\n(Search the submitter's name on Bilibili for a walkthrough)"
     },
     "level_1774710991748_nlx90py2s": {
-        "name": "单枪匹马",
-        "startTip": "点击植物卡牌升级植物\n本关卡前期容错较低，必要时请弃车保帅"
+        "name": "Solitary Sword",
+        "startTip": "Click on the seed slot to upgrade\nThere's little room for error at the start, be ready to sacrifice units if needed."
     }
 }
