@@ -33,7 +33,7 @@ Please visit our community for future updates and support.
   - Jawbreaker (Chomper + Squash)
 - Odyssey Fusions:
   - Common:
-    - Mammon Plantern (Tycoonwood + Plantern)
+    - Magnate Plantern (Tycoonwood + Plantern)
     - Wicked Undertaker (Grim Arbiter + Potato Mine)
   - Epic:
     - Soulrender Bamboo (Lifereaver Spruce + Bamblock)
