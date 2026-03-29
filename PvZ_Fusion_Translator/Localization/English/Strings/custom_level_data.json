@@ -107,10 +107,6 @@
         "name": "Vasebreaker: Snow Burial",
         "startTip": "Squashweeds can slow down Snowfurs effectively.\nColdsnap Beam enables Snow Peas to Deep Chill cold-resistant zombies.\nThere are 2 Elder Snowfurs among the Vases, watch out for them!"
     },
-    "level_1774697468177_t3wig8c6m": {
-        "name": "Acrobatics",
-        "startTip": "Designed for Difficulty 5, but feel free to play according to your experience.\nBall juggling is a basic skill in acrobatics.\nInsiders judge whether an acrobat is well-trained simply by examining their juggling skills.\nThis level tests your on that.\nIt's fine if you lose your balls, you have one backup for each of them.\nBut an expert acrobat does not simply drop his balls!\n(This level requires heavy micro-management, be prepared to constantly play under slow-mode! But don't worry, the performance won't be long)\n\n\n\n"
-    },
     "level_1774710505815_jh5iw4yiw": {
         "name": "I, Zombie: Carpet Bombing",
         "startTip": "<size=18>Doom-shroom erases all other plants in the same tile, and can be fused to make fusions that do the same thing.\nRecommended difficulty: 0, Submitter: 小董玩的好, Best Solution: 500 Sun left"
@@ -130,5 +126,13 @@
     "level_1774710991748_nlx90py2s": {
         "name": "Solitary Sword",
         "startTip": "Click on the seed slot to upgrade\nThere's little room for error at the start, be ready to sacrifice units if needed."
+    },
+    "level_1774801162568_qibeat3la": {
+        "name": "Acrobatics",
+        "startTip": "Designed for Difficulty 5, but feel free to play according to your experience.\nBall juggling is a basic skill in acrobatics.\nInsiders judge whether an acrobat is well-trained simply by examining their juggling skills.\nThis level tests your on that.\nIt's fine if you lose your balls, you have one backup for each of them.\nBut an expert acrobat does not require off-stage assistance! (Like Mallet, Endoflame, but naturally spawned Fertilizer is ok)\n(This level requires heavy micro-management, be prepared to constantly play under slow-mode! But don't worry, the performance won't be long)\n\n\n\n"
+    },
+    "level_1774801181976_029hel9es": {
+        "name": "Acrobatics",
+        "startTip": "Designed for Difficulty 5, but feel free to play according to your experience.\nBall juggling is a basic skill in acrobatics.\nInsiders judge whether an acrobat is well-trained simply by examining their juggling skills.\nThis level tests your on that.\nIt's fine if you lose your balls, you have one backup for each of them.\nBut an expert acrobat does not require off-stage assistance! (Like Mallet, Endoflame, but naturally spawned Fertilizer is ok)\n(This level requires heavy micro-management, be prepared to constantly play under slow-mode! But don't worry, the performance won't be long)\n\n\n\n"
     }
 }
