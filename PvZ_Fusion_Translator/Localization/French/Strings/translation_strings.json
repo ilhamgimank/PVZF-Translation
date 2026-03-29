@@ -803,5 +803,10 @@
   "随机模式中出现进化僵尸": "Les zombies évolués peuvent apparaître dans le mod Gacha",
   "随机模式中出现领袖": "Les mini-bosses peuvent apparaître en mod gacha",
   "随机模式中出现强究极僵尸": "<size=90%>Les zombies Odyssey épiques\n peuvent appaître en mod Gacha",
-  "持续伤害": "Des attaqueurs persistants"
+  "持续伤害": "Des attaqueurs persistants",
+  "-------Strings - 3.4 New I,Z": "Texte - 3.4 Nouveau I,Z-------",
+  "魅惑僵尸死亡时，在本行发射一个200%基础伤害的超级魅惑子弹": "Lorsqu’un zombie hypnotisé meurt, une spore de charme est lancée sur sa ligne, infligeant 200 % de ses dégâts de base.",
+  "羁绊队员获得20%独立伤害增幅，僵尸每有一种状态异常，每秒受到20%基础伤害": "Les plantes de cette affinité bénéficient d’un bonus de dégâts indépendant de 20 % ; les zombies subissent 20 % de leurs dégâts de base par seconde pour chaque effet négatif dont ils sont affectés.",
+  "羁绊队员造成伤害时，为僵尸附加10点冻结值，僵尸被冻结时额外造成10%伤害": "Lorsqu’une plante de cette affinité inflige des dégâts, elle applique 10 points cryo aux zombies et inflige 10 % de dégâts supplémentaires lorsque la cible est gelée.",
+  "我方小队获得12%幸运一击率，我方每造成2000次伤害，对全场僵尸造成一次60%的基础伤害": "Les plantes de cette affinité gagnent 12 % de chances de coup critique. Pour chaque 2 000 dégâts infligés par les plantes, tous les zombies sur le terrain subissent des dégâts équivalents à 60 % de leurs dégâts de base."
 }
