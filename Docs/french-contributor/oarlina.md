@@ -22,14 +22,45 @@ Ce document retrace l’ensemble des contributions effectuées par **Oarlina** a
 
 > Statistiques cumulées sur l’ensemble de la période.
 
-* Nouvelles traductions : **22**
-* Traductions ajustées : **89**
+* Nouvelles traductions : **26**
+* Traductions ajustées : **96**
 
 ---
 
 ## 🗓️ Historique des contributions
 
 > Les contributions sont regroupées par semaine civile (ISO).
+
+---
+
+### 📅 Semaine — `23/03/26 → 30/03/26`
+> [PR#110](https://github.com/Teyliu/PVZF-Translation/pull/110)
+
+**Résumé de la semaine**
+
+* Nouvelles traductions : **4**
+* Traductions ajustées : **7**
+
+---
+
+#### Détail
+
+## 🌱 **Newly Added Plants**
+
+* **Pot-hypno** (`seedType: 1380`)
+* **Champi-chalumeau** (`seedType: 1389`)
+* **Bambou Brise-âmes** (`seedType: 980`)
+* **Planterne Magnat** (`seedType: 982`)
+
+## ♻️ **Modified String Entries**
+
+* **保存植物阵容** (72)
+* **填充随机植物** (70)
+* **全自动斗蛐蛐** (69)
+* **简单模式** (54)
+* **确定重新开始吗？** (50)
+* **时停** (44)
+* **开始战斗** (43)
 
 ---
 

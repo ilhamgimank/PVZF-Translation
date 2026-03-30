@@ -21,7 +21,7 @@ Ce document retrace l’ensemble des contributions effectuées par **Hubtech** a
 
 > Statistiques cumulées sur l’ensemble de la période.
 
-* Nouvelles traductions : **49**
+* Nouvelles traductions : **54**
 * Traductions ajustées : **46**
 
 ---
@@ -29,6 +29,32 @@ Ce document retrace l’ensemble des contributions effectuées par **Hubtech** a
 ## 🗓️ Historique des contributions
 
 > Les contributions sont regroupées par semaine civile (ISO).
+
+---
+
+### 📅 Semaine — `23/03/26 → 30/03/26`
+> [PR#110](https://github.com/Teyliu/PVZF-Translation/pull/110)
+
+**Résumé de la semaine**
+
+* Nouvelles traductions : **5**
+
+---
+
+#### Détail
+
+## 🌱 **Newly Added Plants**
+
+* **Poivron** (`seedType: 1384`)
+* **Séparateur de Photons** (`seedType: 984`)
+
+## 🧵 **New String Entries Added**
+
+* **我方获得10%减伤穿透（针对领袖）** (2052)
+* **羁绊队员获得20%速度增幅** (2045)
+* **我方小队获得10%积分获取加成，每轮开始获得1次免费刷新** (2044)
+* **我方每击杀600只僵尸，释放全屏火焰，造成100%的基础伤害** (2043)
+* **羁绊队员获得20%独立伤害增幅** (2041)
 
 ---
 
