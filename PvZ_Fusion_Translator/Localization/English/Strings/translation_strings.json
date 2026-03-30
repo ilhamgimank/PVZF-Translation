@@ -2215,7 +2215,7 @@
   "已删除关卡，请手动刷新关卡列表": "Level deleted. Please reload the list manually.",
   "无法从注册表获取关卡名称": "Unable to fetch level from registry.",
   "权限不足，无法删除\n仅删除该关卡的本地缓存，退出该页面重进后刷新": "Unable to delete: Permission denied\nLocal cache for this level deleted. Please exit, re-enter and reload.",
-  "需要被保护的植物": "Losing this Plant\ncauses Defeat",
+  "需要被保护的植物": "Losing this plant\ncauses game over",
   "防碾压": "Anti-crush",
   "-------Strings - Cassidy 3.5": "Strings - Cassidy 3.5-------",
   "超级自定义": "Super Level Editor",
