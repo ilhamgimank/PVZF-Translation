@@ -17,9 +17,9 @@ Ce document a pour objectif de reconnaître et valoriser les personnes impliqué
 
 **Récapitulatif des contributions**
 
-* Nouvelles traductions : **249**
-* Traductions ajustées : **133**
-* Reviews effectuées : **453**
+* Nouvelles traductions : **259**
+* Traductions ajustées : **134**
+* Reviews effectuées : **518**
 
 **Réseaux & contacts**
 
@@ -49,7 +49,7 @@ Ce document a pour objectif de reconnaître et valoriser les personnes impliqué
 
 **Statistiques de contribution**
 
-* Nouvelles traductions : **49**
+* Nouvelles traductions : **54**
 * Traductions ajustées : **46**
 
 **Réseaux & contacts**
@@ -62,8 +62,8 @@ Ce document a pour objectif de reconnaître et valoriser les personnes impliqué
 
 **Statistiques de contribution**
 
-* Nouvelles traductions : **22**
-* Traductions ajustées : **89**
+* Nouvelles traductions : **26**
+* Traductions ajustées : **96**
 
 **Réseaux & contacts**
 
@@ -76,7 +76,7 @@ Ce document a pour objectif de reconnaître et valoriser les personnes impliqué
 
 **Statistiques de contribution**
 
-* Nouvelles traductions : **47**
+* Nouvelles traductions : **55**
 * Traductions ajustées : **2**
 
 **Réseaux & contacts**
@@ -96,6 +96,34 @@ Ce document a pour objectif de reconnaître et valoriser les personnes impliqué
 **Réseaux & contacts**
 
 * **Discord** : *artex2000*
+
+---
+
+### [Cinnamon Stick](./french-contributor/goofgedebunkers.md)
+
+**Statistiques de contribution**
+
+
+* Nouvelles traductions : **23**
+* Traductions ajustées : **1**
+
+**Réseaux & contacts**
+
+* **GitHub** : [Cinnamon Stick](https://github.com/Goofgedebunkers)
+
+---
+
+### [Lafourmie](./french-contributor/lafourmiedugaming-collab.md)
+
+**Statistiques de contribution**
+
+
+* Nouvelles traductions : **9**
+* Traductions ajustées : **0**
+
+**Réseaux & contacts**
+
+* **GitHub** : [lafourmiedugaming-collab](https://github.com/lafourmiedugaming-collab)
 
 ---
 

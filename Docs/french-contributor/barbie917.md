@@ -22,7 +22,7 @@ Ce document retrace l’ensemble des contributions effectuées par **Barbie917**
 
 > Statistiques cumulées sur l’ensemble de la période.
 
-* Nouvelles traductions : **47**
+* Nouvelles traductions : **55**
 * Traductions ajustées : **2**
 
 
@@ -31,6 +31,30 @@ Ce document retrace l’ensemble des contributions effectuées par **Barbie917**
 ## 🗓️ Historique des contributions
 
 > Les contributions sont regroupées par semaine civile (ISO).
+
+---
+
+### 📅 Semaine — `23/03/26 → 30/03/26`
+> [PR#110](https://github.com/Teyliu/PVZF-Translation/pull/110)
+
+**Résumé de la semaine**
+
+* Nouvelles traductions : **8**
+
+---
+
+#### Détail
+
+## 🧵 **New String Entries Added**
+
+* **加载格子完毕！** (2073)
+* **向右** (2074)
+* **保存格子完毕！** (2072)
+* **无尽模式跳过选卡** (2070)
+* **随机模式中出现进化僵尸** (2068)
+* **随机模式中出现领袖** (2067)
+* **随机模式中出现强究极僵尸** (2066)
+* **持续伤害** (2038)
 
 ---
 

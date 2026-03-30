@@ -28,15 +28,132 @@ Ce document retrace l’ensemble des contributions effectuées par **Charles LIN
 
 > Statistiques cumulées sur l’ensemble de la période.
 
-* Nouvelles traductions : **249**
-* Traductions ajustées : **133**
-* Reviews effectuées : **453**
+* Nouvelles traductions : **259**
+* Traductions ajustées : **134**
+* Reviews effectuées : **518**
 
 ---
 
 ## 🗓️ Historique des contributions
 
 > Les contributions sont regroupées par semaine civile (ISO).
+
+---
+
+### 📅 Semaine — `23/03/26 → 30/03/26`
+> [PR#110](https://github.com/Teyliu/PVZF-Translation/pull/110)
+
+**Résumé de la semaine**
+
+* Nouvelles traductions : **10**
+* Traductions ajustées : **1**
+* Reviews effectuées : **65**
+
+---
+
+#### Détail
+
+## 🌱 **Newly Added Plants**
+* **Pois Empoisonné** (`seedType: 1385`)
+* **Double-poison** (`seedType: 1386`)
+* **Triple-poison** (`seedType: 1387`)
+* **Sulfateuse Empoisonnée** (`seedType: 1388`)
+* **Double-lumière** (`seedType: 1381`)
+* **Triple-lumière** (`seedType: 1382`)
+* **Sulfateuse de Lumière** (`seedType: 1383`)
+* **Champi-singularité** (`seedType: 981`)
+* **Triple-planterne** (`seedType: 1379`)
+* **Patate Funèbre** (`seedType: 983`)
+
+## 🧩 **Modified Plants**
+* **Pois-lumière** (`seedType: 1373`)
+
+## 🌿 **Reviews**
+
+### 🌱 **Newly Added Plants**
+
+[Hubtech](./hubtech.md) :
+* **Poivron** (`seedType: 1384`)
+* **Séparateur de Photons** (`seedType: 984`)
+
+[Oarlina](./oarlina.md) :
+* **Pot-hypno** (`seedType: 1380`)
+* **Champi-chalumeau** (`seedType: 1389`)
+* **Bambou Brise-âmes** (`seedType: 980`)
+* **Planterne Magnat** (`seedType: 982`)
+
+### 🧵 **New String Entries Added**
+
+[Hubtech](./hubtech.md) :
+* **我方获得10%减伤穿透（针对领袖）** (2052)
+* **羁绊队员获得20%速度增幅** (2045)
+* **我方小队获得10%积分获取加成，每轮开始获得1次免费刷新** (2044)
+* **我方每击杀600只僵尸，释放全屏火焰，造成100%的基础伤害** (2043)
+* **羁绊队员获得20%独立伤害增幅** (2041)
+
+[Barbie917](./barbie917.md) :
+* **加载格子完毕！** (2073)
+* **向右** (2074)
+* **保存格子完毕！** (2072)
+* **无尽模式跳过选卡** (2070)
+* **随机模式中出现进化僵尸** (2068)
+* **随机模式中出现领袖** (2067)
+* **随机模式中出现强究极僵尸** (2066)
+* **持续伤害** (2038)
+
+[Lafourmie](./lafourmiedugaming-collab.md) :
+* **特别感谢** (2063)
+* **3：推波助澜** (2062)
+* **2：菇泛远影** (2061)
+* **1：光茵荏苒** (2060)
+* **-------Strings - 3.4 New I,Z** (2059)
+* **魅惑僵尸死亡时，在本行发射一个200%基础伤害的超级魅惑子弹** (2056)
+* **羁绊队员获得20%独立伤害增幅，僵尸每有一种状态异常，每秒受到20%基础伤害** (2055)
+* **羁绊队员造成伤害时，为僵尸附加10点冻结值，僵尸被冻结时额外造成10%伤害** (2054)
+* **我方小队获得12%幸运一击率，我方每造成2000次伤害，对全场僵尸造成一次60%的基础伤害** (2042)
+
+[Cinnamon Stick](./goofgedebunkers.md) :
+* **背包(B)** (43)
+* **雪原** (803)
+* **雪原：无尽** (804)
+* **雪莲可以从雪球效果中获益** (816)
+* **芦荟可以从雪球和寒冰菇效果中获益** (817)
+* **雪地** (1489)
+* **及时雨：提交3个寒冰机枪射手\n** (1765)
+* **寰宇** (2034)
+* **激活该羁绊后，可以使场上的植物在雪原地图免受沉默和冻结** (2046)
+* **羁绊队员每次射击，获得0.001固定速度增幅，最高叠加到基础速度的0.3倍** (2046)
+* **羁绊队员命中僵尸时，为究极流星充能，充能满时流星落下造成100%基础伤害** (2049)
+* **阳光、金币上限增加10000，获取效率增加20%** (2050)
+* **我方小队生命值上限提高15%** (2051)
+* **我方小队获得5%伤害减免** (2053)
+* **每30秒召唤流星造成100%基础伤害，并为植物增加10%攻击力，羁绊队员获得双倍，最多叠加1层** (2057)
+* **羁绊队员获得10%独立伤害增幅，红温伤害增幅提高20%** (2058)
+* **羁绊队员造成伤害时，在每行发射一枚爆炸樱桃，伤害为本次伤害的100%，冷却0.8秒** (2048)
+
+### ♻️ **Modified String Entries**
+
+[Cinnamon Stick](./goofgedebunkers.md) :
+* **任务目标：合成8个寒冰机枪\n任务奖励：手套无cd+究极窝炬+他的两个词条** (517)
+
+[Oarlina](./oarlina.md) :
+* **保存植物阵容** (72)
+* **填充随机植物** (70)
+* **全自动斗蛐蛐** (69)
+* **简单模式** (54)
+* **确定重新开始吗？** (50)
+* **时停** (44)
+* **开始战斗** (43)
+
+### 🧪 **New Regex Patterns Added**
+
+[Cinnamon Stick](./goofgedebunkers.md) :
+* **需要(\d+)点阳光** (278)
+* **^：(\d+)$** (267)
+* **^支线(\d+)** (266)
+* **^(\d+)级$** (235)
+* **([^\s]+)，推荐难度：(\d+)** (233)
+* **^HP：(\d+)/(\d+)$** (230)
 
 ---
 
@@ -55,7 +172,7 @@ Ce document retrace l’ensemble des contributions effectuées par **Charles LIN
 
 ## 🌿 **Reviews**
 
-## 🧟‍♂️ **Newly Added Zombie Translations**
+### 🧟‍♂️ **Newly Added Zombie Translations**
 * **Lanceur de Trident de la Légion** (`theZombieType: 51`)
 * **Zombie Mineur-en-or** (`theZombieType: 58`)
 * **Zombie Footballeur-dauphin** (`theZombieType: 61`)
