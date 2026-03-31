@@ -501,7 +501,7 @@
             "seedType": 253,
             "name": "Barley",
             "introduce": "<align=left><size=36><color=black>Barley calls itself a generalist, but other plants think of it as just a bit player — \"After all, other plants always do the work, don't they?\"</color></size>",
-            "info": "<size=36>Barley regularly transforms into other plants.\n\n<color=#4A2900>Unlock Conditions: Beat I, Zombie without clicking Start Fight</color>\n<color=black>Special: </color><color=#8B0000>Transforms into a random non-Odyssey fusion (or upgrade) plant every 30s. Transformation stops after further manual fusion.</color></size>",
+            "info": "<size=36>Barley regularly transforms into other plants.\n\n<color=#4A2900>Unlock Conditions: Beat I, Zombie (Sandbox Included) via Normal Mode</color>\n<color=black>Special: </color><color=#8B0000>Transforms into a random non-Odyssey fusion (or upgrade) plant every 30s. Transformation stops after further manual fusion.</color></size>",
             "cost": "<size=36>Cost: <color=#8B0000>50</color>\nRecharge: <color=#8B0000>30s</color></size>"
         },
         {
