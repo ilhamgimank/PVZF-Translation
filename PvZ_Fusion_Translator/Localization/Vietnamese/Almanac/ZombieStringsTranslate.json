@@ -457,6 +457,12 @@
             "info": "<size=36>Đi xuyên qua mọi đối thủ, kể cả cây.\n\n<color=black>Máu: </color><color=#4B0082>270+1400 (Giáp cấp 1)</color>\n<color=black>Khả Năng: </color><color=#4B0082>Nếu mang mũ bầu dục, Zombie Bầu Dục Vàng sẽ đi xuyên cây.\n<color=black>Điểm Yếu:</color><color=#4B0082> Nấm Nam Châm</color></color>"
         },
         {
+            "theZombieType": 80,
+            "name": "Zombie Đu Xà Thời Không",
+            "introduce": "<size=36><color=black>Nhờ khả năng dịch chuyển tức thời, cậu ta có thể nhảy qua bất kỳ thứ gì, chỉ là, cậu ta không thể kiểm soát nơi mình tiếp đất.</color>",
+            "info": "<size=36>Nhảy qua cây 1 cách bất định.\n\n<color=black>Máu: </color><color=#4B0082>720+1400 (Giáp cấp 1)</color>\n<color=black>Khả Năng: </color><color=#4B0082>Sau khi nhảy qua cây, nó sẽ nhảy lên phía trước, sau, hoặc trên dưới hàng của nó. Khi bị tiêu diệt sẽ rớt ra Mảnh Vỡ Thời Không.</color></color>"
+        },
+        {
             "theZombieType": 100,
             "name": "Zombie Đậu Hà Lan",
             "introduce": "<size=36><color=black>Khả năng chiến đấu từ xa của zombie đậu hà lan thường khiến cây sợ hãi, nhưng những zombie mặt khác luôn sợ hãi vì chúng luôn sợ rằng nó sẽ tấn công chúng từ phía sau.</color>",
@@ -905,6 +911,18 @@
             "name": "<u>Thánh Long Vạn Niên<u>",
             "introduce": "<size=36><color=black>Vào một mùa thu yên bình, có một con rồng giáng thế xuống trần gian. Thân nó kết từ dây leo, lấy xác làm thị giả, dựng kiếm làm quan quách. Thấy cỏ cây xanh tốt lạ thường, nó phán: “Vạn năm trước khi ta đắc đạo, chưa từng thấy dị tượng này.” Lật tức vung tay, toàn bộ khu vực xung quanh đều bị phá hủy. Người đời chẳng rõ nó là cây hay Zom, chỉ gọi nó là: Thánh Long Vạn Niên.",
             "info": "<size=36>Người bảo hộ vùng đất hàng vạn năm.\n\n<color=black>Máu: </color><color=#4B0082>15000*4</color>\n<color=black>Đặc Điểm: </color><color=#4B0082>\n<color=black>•</color> Miễn nhiễm với mọi hiệu ứng bất lợi.\n<color=black>•</color> Chỉ nhận tối đa 5000 sát thương từ hành quyết.\n<color=black>•</color> Zombie thôi miên khi lại gần sẽ bị tiêu diệt ngay lập tức bằng vụ nổ hề trong bán kính 5x3 ô.\n<color=black>•</color> Có 4 dạng, mỗi dạng sẽ có 15000 máu. Khi máu xuống 0, chuyển đổi sang dạng tiếp theo.\n<color=black>Dạng 1:</color> Đánh cắp búa của người chơi. Tấn công toàn bộ cây trên sân, gây 1000 sát thương. (100 nếu không phải chế độ Du Lịch) Sau đó sẽ chỉ tấn công lên cây có lượng máu cao nhất trên sân.\n<color=black>Dạng 2:</color> Đánh cắp găng tay của người chơi. Mỗi 4 giây sẽ di chuyển Zombie không phải Zombie bay và miniboss gần nhà nhất thêm 2 ô mỗi hàng.\n<color=black>Dạng 3:</color> Đánh cắp xẻng của người chơi. Mỗi 5 giây sẽ xẻng cây có giá trị mặt trời thấp nhất trên sân.\n<color=black>Dạng 4:</color> Có toàn bộ khả năng của 3 dạng trước. Khi bị tiêu diệt sẽ rớt ra toàn bộ thẻ cây mà nó đã xẻng.</color></size>"
+        },
+        {
+            "theZombieType": 245,
+            "name": "Đĩa Bay Hủy Diệt",
+            "introduce": "<size=36><color=black>Đĩa bay này đã được nâng cấp vô số tính năng, độ cơ động, độ bền. Khi người ta hỏi tiến sĩ Zomboss, hắn chỉ bảo rằng: 'À thì ta chỉ loại bỏ mọi khuyết điểm, kể cả phi công'</color>",
+            "info": "<size=36>Năng lượng từ trường lên mọi vật thể.\n\n<color=black>Máu: </color><color=#4B0082>4500</color>\n<color=black>Khả Năng: </color><color=#4B0082>\n<color=black>•</color> Cây dưới nó sẽ không thể được các cây khác nhận sát thương thay trong 1 giây.\n<color=black>•</color> Tăng 100 giáp cho Zombie dưới nó.\n<color=black>•</color>Zombie khi có giáp sẽ giảm 50% sát thương nhận vào.</color></size>"
+        },
+        {
+            "theZombieType": 246,
+            "name": "Xạ Thủ Alpha",
+            "introduce": "<size=36><color=black>Hắn ta là 1 xạ thủ ẩn thân chờ thời, hắn lẫn trốn ở nhưng nơi tối tăm, mang tới tử thần tới mục tiêu của hắn, là nang vuốt sắc nhọn cửa sư đoàn Alpha tinh nhuê. Hắn ta chính là tử thần xác sống.</color>",
+            "info": "<size=36>Tiêu diệt mục tiêu ở khoảng cách cực xa.\n\n<color=black>Sát Thương:</color><color=#4B0082> 500/2 giây</color>\n<color=black>Máu: </color><color=#4B0082>3000+3000 (Giáp cấp 2)</color>\n<color=black>Kĩ Năng:</color><color=#4B0082> \n<color=black>•</color> Khi ra sân, tấn công vào cây đầu tiên trên hàng. Tốc độ bắn có thể bị ảnh hưởng bởi hiệu ứng làm chậm và không thể tấn công xuyên quá bí ngô.\n<color=black>•</color> Mỗi 6 phát sẽ hành quyết mục tiêu (gây 1 triệu sát thương), đòn này xuyên giáp và mọi hiệu ứng giới hạn hoặc nhận thay sát thương. \n<color=black>•</color> Khi bị buộc phải chuyển hàng, làm lại số phát cần đề hành quyết.</color></size>"
         },
         {
             "theZombieType": 300,

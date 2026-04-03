@@ -407,6 +407,6 @@ PlantsAndZombiesSpawner.dll
 ToolMod.dll
 
 GIT_WORKFLOW.md
-*.dll
+.dll
 
 /.idea

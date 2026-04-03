@@ -2,6 +2,7 @@
 The Official source of PvZ Fusion is only on the dev, 蓝飘飘fly's Bilibili</color>
 The only valid source of this translation is from this community: <color=#64DD17>discord.gg/DPAC5ZVJ8T</color> and the associated GitHub pages.
 Stay away from other sources like <color=#8B0000>pvzfusion.net</color> or <color=#8B0000>pvzfusion.pro</color> as they redistribute our work without permission.
+If you'd like to change the language of the translation, make sure to check out the "Languages" menu in the bottom right of this menu.
 Please visit our community for future updates and support.
 
 <align=center><size=130%>Plants VS. Zombies: Fusion - Update 3.5 Changelog</size></align>
@@ -10,7 +11,7 @@ Please visit our community for future updates and support.
 - The all-new Upgraded Level Editor allows for a wide range of level customization; players can create levels to share locally as well as explore high-quality online levels curated by the Fusion development team.
  - Basic Settings: Customize level scenes, names, wave counts, preset plants, and more in advance.
  - Gamemode Settings: Enable certain gamemode types like Conveyor Belt, "I, Zombie", and Vasebreaker; and customize wave intervals, glove cooldowns, and starting tips.
- - Card Settings: Set the amount of card slots, pre-selected plants, and card prices/cooldowns.
+ - Seed Settings: Set the amount of card slots, pre-selected plants, and card prices/cooldowns.
  - Victory Conditions: Set different objectives for winning a level such as defeating certain zombies or eating enough brains.
  - The Gods Settings: Design your own upgrade paths for custom The Gods levels and adjust their various attributes.
  - Advanced Spawn Settings: Precisely adjust the factors that affect zombie spawns per wave.
@@ -20,24 +21,24 @@ Please visit our community for future updates and support.
 - Basic Fusions:
   - Triplantern (Threepeater + Plantern)
   - Hypno Pot (Hypno-shroom + Flower Pot)
-  - Lumos Repeater (Repeater + Plantern)
-  - Split Lumos (Split Pea + Plantern)
-  - Gatling Lumos (Gatling Pea + Plantern)
+  - Rebeamer (Repeater + Plantern)
+  - Split Beam (Split Pea + Plantern)
+  - Gatling Beam (Gatling Pea + Plantern)
   - Bell Pepper (Jalapeno > Puff-shroom)
-  - PLANTNAME_1385 (Peashooter + Garlic)
-  - PLANTNAME_1386 (Repeater + Garlic)
-  - PLANTNAME_1387 (Split Pea + Garlic)
-  - PLANTNAME_1388 (Gatling Pea + Garlic)
-  - PLANTNAME_1389 (Fume-shroom + Torchwood)
-  - PLANTNAME_1390 (Chomper + Squash)
+  - Poison Pea (Peashooter + Garlic)
+  - Poison Repeater (Repeater + Garlic)
+  - Split Poison (Split Pea + Garlic)
+  - Gatling Poison (Gatling Pea + Garlic)
+  - Blowtorch-shroom (Fume-shroom + Torchwood)
+  - Jawbreaker (Chomper + Squash)
 - Odyssey Fusions:
   - Common:
-    - Mammon Plantern (Tycoonwood + Plantern)
+    - Magnate Plantern (Tycoonwood + Plantern)
     - Wicked Undertaker (Grim Arbiter + Potato Mine)
   - Epic:
     - Soulrender Bamboo (Lifereaver Spruce + Bamblock)
     - Fungularity (Maelonstrom + Doom-shroom)
-    - Photon Splitter (Split Lumos + Chrono Pea)
+    - Photon Splitter (Split Beam + Chrono Pea)
 - Special/Misc:
   - Golden Recycling Vase
 
@@ -55,19 +56,19 @@ Please visit our community for future updates and support.
 5. New Levels
 - 3 new Vasebreaker levels, including new Obsidian and Charm vases; completing all 3 will unlock the Golden Recycling Vase
 - New Minigame: Nutsweeper (number of mines increases with in-game difficulty)
-- 3 new Gacha levels: The Destiny Series
+- 3 new Gacha levels: The Chaos Series
 - New "I, Zombie" Adventure levels
 - New Fusion Showcase levels
-- New Pool: Endless Mode: Leisure (Enemy spawns are similar to the original Survival: Endless from PvZ 1)
+- New Pool: Endless Mode: Serenity (Enemy spawns are similar to the original Survival: Endless from PvZ 1)
 
 6. New Synergy
-- Photon Splitter can now lock onto any Atomheart Plantern in front of it (click on Photon Splitter to choose a target) and supercharge it. When the Atomheart Plantern's charge exceeds 10,000, its brightness will increase dramatically, dealing massive amounts of damage and slowing down zombies in its radius. When its charge reaches 100,000, it will collapse into a singularity before exploding, devastating the lawn and all zombies on screen. (WARNING: These effects may affect photosensitive players.)
+- Photon Splitter can lock onto any Atomheart Plantern ahead (click to select) to charge it. When energy exceeds 10k, its brightness increases, dealing heavy damage and slowing zombies in its radius. At 100k, collapses into a black hole and explodes, devastating all zombies on screen. (WARNING: Contains flashing lights)
 
 7. Gacha Modifiers
 - Gacha levels now have various exclusive modifiers that can be earned from random events.
 
 8. Odyssey Balance Adjustments
-- Apeacalypse Railgun: No longer automatically targets Atomheart Planterns in its range; instead, you must now manually click on it to target either an Atomheart or Mammon Plantern for their effects. When Railgun's laser passes through an Atomheart Plantern, it now slows zombies down and splashes small Doom-shroom explosions on the zombies it hits.
+- Apeacalypse Railgun: No longer automatically targets Atomheart Planterns in its range; instead, you must now manually click on it to target either an Atomheart or Magnate Plantern for their effects. When Railgun's laser passes through an Atomheart Plantern, it now slows zombies down and splashes small Doom-shroom explosions on the zombies it hits.
 - Grim Arbiter: Now generates a Phantom Clone of the zombie with the highest health in the tile in front of it, which shares the damage it takes with all zombies of the same type on the lawn.
   - Grim Arbiter's second modifier, related to repeating on-death effects, has been replaced with unlocking its subspecies (Wicked Undertaker) and doubling the damage effect of the Phantom Clone it spawns.
 - Thunder Bunnyon: Thunder Bunnyon's lightning now deals damage to any zombie that comes in contact with it and can decrease their Damage Reduction value.
