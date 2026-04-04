@@ -281,6 +281,20 @@
       "cost": "<size=36><color=#3D1400>Giá:</color><color=red> 50</color>\n<color=#3D1400>Thời Gian Hồi:</color> <color=red>15 giây</color>"
     },
     {
+      "seedType": 220,
+      "name": "Bình Vàng",
+      "introduce": "<align=justified><size=36><color=#3D1400>Bình Vàng là nơi trao đổi hàng hóa lớn nhất của khu phố, nó giúp các cây tìm thấy những vật phẩm thất lạc, thậm chí là đưa các cây tới những nơi không ngờ tới.",
+      "info": "<size=36>Trao đổi đồng giá.\n\n<color=#4A2900>Điều Kiện Mở Khoá: Hoàn thành Chế Độ Đập Bình 4, 5, 6</color>\n<color=#3D1400>Khả năng: </color><color=red>\n<color=black>•</color> Tạo ra thẻ cây ngẫu nhiên dựa theo lượng năng lương tương ứng như sau: \n- 1 năng lượng: Cây cơ bản\n- 2 năng lượng: Cây kết hợp-\n 3 năng lượng: Cây siêu cấp\n<color=black>•</color> Có thể dùng găng tay cho cây vào Bình Vàng để tích năng lượng tương ứng như sau: 1 điểm với cây cơ bản, 2 điểm với cây kết hợp, 3 điểm với cây siêu cấp.\n<color=black>•</color> Nếu thêm cây Du Lịch vào bên trong Bình Vàng, 100% khi đập ra sẽ cho cây Du Lịch ngẫu nhiên.",
+      "cost": "<size=36><color=#3D1400>Giá:</color><color=red> 200</color>\n<color=#3D1400>Thời Gian Hồi:</color> <color=red>15 giây</color>"
+    },
+    {
+      "seedType": 221,
+      "name": "Hiệu Ứng Ghép Cây",
+      "introduce": "<align=justified><size=36><color=#3D1400>Đây không hẳn là cây, mà chỉ là 1 hiệu ứng ghép nhìn ngầu hơn thôi, và nó thật sự ngầu ấy chứ, phải không?",
+      "info": "<size=36>Này là hiệu ứng khi ghép cây.",
+      "cost": ""
+    },
+    {
       "seedType": 222,
       "name": "Pháo Tất Niên",
       "introduce": "<align=justified><size=36><color=#3D1400>Năm mới lại đến, Pháo Tất Niên đang chuẩn bị pháo hoa để mà chuẩn bị đón giao thừa. Bây giờ với pháo hoa làm từ anh đào và ớt, Pháo Tất Niên giờ có thể bắn pháo hoa khắp mọi nơi cho lần Tết này.",
@@ -291,7 +305,7 @@
       "seedType": 223,
       "name": "Táo Từ Trường",
       "introduce": "<align=justified><size=36><color=#3D1400>“Bình an hỷ lạc!” Táo Từ Trường mỉm cười chào hỏi mọi loài cây đi ngang qua. Còn với Zombie, cậu lại chúc hơi kì kì: “Nhân dịp lễ Tạ Ơn, chúc mọi người Halloween vui vẻ!” — câu chúc được thiết kế riêng dựa trên cuốn lịch bị gặm nhắm của tụi Zombie.",
-      "info": "<size=36>Nhỏ nhắn nhưng có võ.\n\n<color=#3D1400>Máu: </color><color=red>4000</color>\n<color=#3D1400>Khả năng: </color><color=red>\n<color=black>•</color>Khi trồng xuống, năng lượng bằng 0. Nó sẽ hồi 1 năng lượng mỗi 0.02 giây.\n<color=black>•</color> Nếu bị sát thương hoặc năng lượng tiêu hao, sẽ không hồi năng lượng trong 1 giây. Còn nếu cạn năng lượng thì 5 giây sau sẽ hồi năng lượng.\n<color=black>•</color> Nếu năng lượng >0, có thể dùng năng lượng để nhận sát thương thay cho cây xung quanh nó 3x3 ô.",
+      "info": "<size=36>Nhỏ nhắn nhưng có võ.\n\n<color=#3D1400>Máu: </color><color=red>4000</color>\n<color=#3D1400>Khả năng: </color><color=red>\n<color=black>•</color> Khi trồng xuống, năng lượng bằng 0. Nó sẽ hồi 1 năng lượng mỗi 0.02 giây.\n<color=black>•</color> Nếu bị sát thương hoặc năng lượng tiêu hao, sẽ không hồi năng lượng trong 1 giây. Còn nếu cạn năng lượng thì 5 giây sau sẽ hồi năng lượng.\n<color=black>•</color> Nếu năng lượng >0, có thể dùng năng lượng để nhận sát thương thay cho cây xung quanh nó 3x3 ô.",
       "cost": "<size=36><color=#3D1400>Giá:</color><color=red> 150</color>\n<color=#3D1400>Thời Gian Hồi:</color> <color=red>50 giây</color>"
     },
     {
@@ -697,7 +711,7 @@
       "seedType": 901,
       "name": "Liên Pháo Anh Đào",
       "introduce": "<align=justified><size=36><color=#3D1400>Tại sao phải làm vua trong khi ta có thể làm thần?-Liên Pháo Anh Đào ngạo nghễ nói, Không hổ danh là tay thiện xạ số 1 nhà họ đậu, chỉ tiếc hôm nay người bạn Gốc Cây Lửa của nó đang bận đi nướng thịt.</color>",
-      "info": "<size=36>Loại Đậu Gây nhiều sát thương nhất.\n\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch|Cần Mở Khoá\n<color=#3D1400>Sát Thương:</color><color=red>300*4/1.5 giây</color>\n<color=#3D1400>Khả Năng:</color><color=red> Miễn nhiễm với mọi vụ nổ anh đào.\n\n<color=#3D1400>Buff 1: </color><color=red>Đạn siêu anh đào x3 sát thương</color>\n<color=#3D1400>Buff 2:</color><color=red> Giảm thời gian bắn xuống 1/2\n<color=#3D1400>Buff Cộng Hưởng:</color><color=red> Kích hoạt khi có đầy đủ buff của Liên Pháo Anh Đào và Hoả Bộc Bí Đao. Khi đó Liên Pháo Anh Đào sẽ bắn 3 hàng, mỗi hàng 4 viên, đạn hàng trên và hàng dưới sẽ bay theo quỹ đạo hàm số sin và cosin. Còn Hoả Bộc Bí Đao thì nếu không còn chỗ đặt Bí Cay thì sẽ đốt toàn sân.\n<color=#3D1400>Thực Anh Đào:</color><color=red> Chỉ có thể kích hoạt trong 3 màn, đạn siêu anh đào được bắn ra từ bất kì cây nào cũng phát nổ ở phạm vi 3x3 ô.\n\n<color=#3D1400>Liên Pháo Anh Đào Tinh Hệ:</color><color=red>\n<color=#3D1400>Sát Thương:</color><color=red>300*100/1.5 giây</color>\n<color=#3D1400>Khả Năng:</color><color=red> Có mọi khả năng của Liên Pháo Anh Đào. </color>",
+      "info": "<size=36>Loại Đậu Gây nhiều sát thương nhất.\n\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch|Cần Mở Khoá\n<color=#3D1400>Sát Thương:</color><color=red>300*4/1.5 giây</color>\n<color=#3D1400>Khả Năng:</color><color=red> Miễn nhiễm với mọi vụ nổ anh đào.\n\n<color=#3D1400>Buff 1: </color><color=red>Đạn siêu anh đào x3 sát thương</color>\n<color=#3D1400>Buff 2:</color><color=red> Giảm thời gian bắn xuống 1/2\n<color=#3D1400>Buff Cộng Hưởng:</color><color=red> Kích hoạt khi có đầy đủ buff của Liên Pháo Anh Đào và Hoả Bộc Bí Đao. Khi đó Liên Pháo Anh Đào sẽ bắn 3 hàng, mỗi hàng 4 viên, đạn hàng trên và hàng dưới sẽ bay theo quỹ đạo hàm số sin và cosin. Còn Hoả Bộc Bí Đao thì nếu không còn chỗ đặt Bí Cay thì sẽ đốt toàn sân.\n<color=#3D1400>Thực Anh Đào:</color><color=red> Chỉ có thể kích hoạt trong 3 màn, đạn siêu anh đào được bắn ra từ bất kì cây nào cũng phát nổ ở phạm vi 3x3 ô.\n\n<color=#3D1400>Liên Pháo Anh Đào Tinh Hệ:</color><color=red>\n<color=#3D1400>Sát Thương:</color><color=red> 300*100/1.5 giây</color>\n<color=#3D1400>Khả Năng:</color><color=red> Có mọi khả năng của Liên Pháo Anh Đào. </color>",
       "cost": "\n<size=36><color=#3D1400>Công Thức: </color></color><color=red>Súng Máy Hoa Anh Đào + Siêu Đậu Anh Đào</color>"
     },
     {
@@ -711,7 +725,7 @@
       "seedType": 903,
       "name": "Anh Long Đại Đế",
       "introduce": "<align=justified><size=36><color=#3D1400>Anh Long Đại Đế, cái tên toát lên sự uy quyền mà cũng thể hiện bản tính bạo chúa của một con khủng long thực thụ, không phải đơn điệu như Nấm Hư Vô, cũng không cầu kì như Định Tinh… thôi bỏ đi. Mặc dù vậy Anh Long Đại Đế vẫn vẫn bị trêu đùa bởi các anh em cũ của mình “Ô, Khủng Long Anh Đáo à? Ây chết tôi quên mất anh đổi tên rồi’ - Hoả Bộc Bí Đao nói</color>",
-      "info": "<size=36>Đây là loại cây vừa phòng thủ vừa tấn công tốt nhất!\n\n<color=#3D1400><color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch|Cần Mở Khoá</color>\nSát Thương: </color><color=red>1000/1.75 giây</color>\n<color=#3D1400>Máu:</color><color=red> 8000</color>\n<color=#3D1400>Khả Năng:</color><color=red>\n<color=black>•</color> Cây cao, có thể chặn một số Zombie nhảy qua nó. Đồng thời khả năng hồi máu từ Anh Đào sẽ tương tự như Óc Chó Anh Đào.\n<color=black>•</color> Chuyển hóa lượng hồi máu còn dư thành máu ảo (tối đa gấp 4 lần so với máu cơ bản).\n<color=black>•</color> Mất đi 800 máu mỗi giây khi không hồi máu cho đến khi về lại 8000 máu.\n<color=black>•</color> Giới hạn sát thương nhận phải: 1/3 máu hiện tại\n<color=black>•</color> Mỗi 40 giây có thể hành quyết 1 Zombie không phải Boss, hồi 4 lần số máu và nhận 1 Stack Nuốt Chứng. \n<color=black>•</color> Mỗi lần cắn sẽ gây sát thương diện rộng và gây thêm sát thương bằng: \n<color=blue>Máu Zombie*(3%+0.2%*Số Stack Nuốt Chừng)</color> \nĐồng thời hồi phục lượng máu bằng sát thương gây ra. Sau đó sẽ phun thêm 1 đạn siêu anh đào.\n<color=black>•</color> Khi bị sát thương chí mạng sẽ kích hoạt khả năng Từ Chối Tử Thần, khi đó lượng máu sẽ không dưới 1 trong 5 giây. Có thể kích hoạt mỗi 30 giây hoặc anh Long hành quyết thành công.</color>\n\n<color=#3D1400>Buff 1:</color><color=red> Khả năng hồi máu x3.</color>\n<color=#3D1400>Buff 2:</color><color=red> Có thể sử dụng Hành Quyết mỗi 15 giây.</color>\n<color=#3D1400>Buff Cộng Hưởng:</color><color=red> Kích hoạt khi có toàn bộ buff của Anh Long Đại Đế và Hắc Tảng. Khi đó máu của anh Long tăng lên không giới hạn. Còn Hắc Tảng giảm 90% sát thương nhận vào khi có anh Long trên sân.\n\n<color=#3D1400>Anh Long Đại Đế Tinh Hệ:</color><color=red>\n<color=#3D1400>Sát Thương:</color><color=red>1000/1.75 giây</color>\n<color=#3D1400>Khả Năng:</color><color=red> Mỗi lần tấn công sẽ phun 25 đạn anh đào ra toàn sân. Sau khi nuốt chửng, phun 800 đạn siêu anh đào phạm vi 5 ô đằng trước trong 5 giây. </color></color>",
+      "info": "<size=36>Đây là loại cây vừa phòng thủ vừa tấn công tốt nhất!\n\n<color=#3D1400><color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch|Cần Mở Khoá</color>\nSát Thương: </color><color=red>1000/1.75 giây</color>\n<color=#3D1400>Máu:</color><color=red> 8000</color>\n<color=#3D1400>Khả Năng:</color><color=red>\n<color=black>•</color> Cây cao, có thể chặn một số Zombie nhảy qua nó. Đồng thời khả năng hồi máu từ Anh Đào sẽ tương tự như Óc Chó Anh Đào.\n<color=black>•</color> Chuyển hóa lượng hồi máu còn dư thành máu ảo (tối đa gấp 4 lần so với máu cơ bản).\n<color=black>•</color> Mất đi 800 máu mỗi giây khi không hồi máu cho đến khi về lại 8000 máu.\n<color=black>•</color> Giới hạn sát thương nhận phải: 1/3 máu hiện tại\n<color=black>•</color> Mỗi 40 giây có thể hành quyết 1 Zombie không phải Boss, hồi 4 lần số máu và nhận 1 Stack Nuốt Chứng. \n<color=black>•</color> Mỗi lần cắn sẽ gây sát thương diện rộng và gây thêm sát thương bằng: \n<color=blue>Máu Zombie*(3%+0.2%*Số Stack Nuốt Chừng)</color> \nĐồng thời hồi phục lượng máu bằng sát thương gây ra. Sau đó sẽ phun thêm 1 đạn siêu anh đào.\n<color=black>•</color> Khi bị sát thương chí mạng sẽ kích hoạt khả năng Từ Chối Tử Thần, khi đó lượng máu sẽ không dưới 1 trong 5 giây. Có thể kích hoạt mỗi 30 giây hoặc anh Long hành quyết thành công.</color>\n\n<color=#3D1400>Buff 1:</color><color=red> Khả năng hồi máu x3.</color>\n<color=#3D1400>Buff 2:</color><color=red> Có thể sử dụng Hành Quyết mỗi 15 giây.</color>\n<color=#3D1400>Buff Cộng Hưởng:</color><color=red> Kích hoạt khi có toàn bộ buff của Anh Long Đại Đế và Hắc Tảng. Khi đó máu của anh Long tăng lên không giới hạn. Còn Hắc Tảng giảm 90% sát thương nhận vào khi có anh Long trên sân.\n\n<color=#3D1400>Anh Long Đại Đế Tinh Hệ:</color><color=red>\n<color=#3D1400>Sát Thương:</color><color=red> 1000/1.75 giây</color>\n<color=#3D1400>Khả Năng:</color><color=red> Mỗi lần tấn công sẽ phun 25 đạn anh đào ra toàn sân. Sau khi nuốt chửng, phun 800 đạn siêu anh đào phạm vi 5 ô đằng trước trong 5 giây. </color></color>",
       "cost": "\n<size=36><color=#3D1400>Công Thức: </color><color=red>Phi Long Thăng Thiên + Hoa Ăn Thịt Anh Đào</color>"
     },
     {
@@ -1012,7 +1026,7 @@
       "seedType": 946,
       "name": "Cao Xạ Bất Diệt",
       "introduce": "<align=justified><size=36><color=#3D1400>Sau khi loại bỏ bộ súng máy và trở thành 1 xạ thủ, Cao Xạ Bất Diệt cảm thấy rất là yên bình, mặc dù vẫn có khá nhiều lời bàn tán phía sau. Dù sao thì, có ai làm xạ thủ mà cầm nguyên 1 khẩu súng có cỡ nòng còn lớn hơn xe tăng và cầu mong mình bắn trúng mục tiêu?</color></size></align>",
-      "info": "<size=36>Vũ khí công phá mạnh nhất của phe cây.\n\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch|Mở khoá cùng lúc với Pháo Đài Bất Diệt</color>\n<color=#3D1400>Sát Thương:</color><color=red> 300*5/3 giây\n<color=#3D1400>Máu:</color><color=red> 8000\n<color=#3D1400>Khả Năng:</color><color=red>\n<color=black>•</color> Phân loài của Pháo Đài Bất Diệt, chuyển đổi qua lại bằng Đậu Bắn Tỉa và Đậu Hà Lan.\n<color=black>•</color> Phạm vi bắn là ±10° (xoay tối đa 10 độ) tính từ hàng của nó\n<color=black>•</color> Mỗi lần bắn sẽ mất 100 máu, tối thiểu còn 500 máu. Máu càng thấp sát thương càng cao. Tối đa 900 sát thương.\n<color=black>•</color> Tia laser xuyên vô hạn, có thể tấn công cả trên không.</color>",
+      "info": "<size=36>Vũ khí công phá mạnh nhất của phe cây.\n\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch|Mở khoá cùng lúc với Pháo Đài Bất Diệt</color>\n<color=#3D1400>Sát Thương:</color><color=red> 300*5/3 giây\n<color=#3D1400>Máu:</color><color=red> 8000\n<color=#3D1400>Khả Năng:</color><color=red>\n<color=black>•</color> Phân loài của Pháo Đài Bất Diệt, chuyển đổi qua lại bằng Đậu Bắn Tỉa và Đậu Hà Lan.\n<color=black>•</color> Phạm vi bắn là ±10° (xoay tối đa 10 độ) tính từ hàng của nó.\n<color=black>•</color> Mỗi lần bắn sẽ mất 100 máu, tối thiểu còn 500 máu. Máu càng thấp sát thương càng cao. Tối đa 900 sát thương.\n<color=black>•</color> Tia laser xuyên vô hạn, có thể tấn công cả trên không.\n<color=black>•</color> Có thể nhấn vào Cao Xạ Bất Diệt để khiến nó tấn công vào Bạch Quang Hàn Nguyệt/Đèn Tài Lộc nhằm tăng sát thương và phạm vi tấn công.</color>",
       "cost": "\n<size=36><color=#3D1400>Công Thức: </color><color=red>Pháo Đài Bất Diệt + Đậu Bắn Tỉa</color>"
     },
     {
@@ -1033,7 +1047,7 @@
       "seedType": 949,
       "name": "Bạch Quang Hàn Nguyệt",
       "introduce": "<align=justified><size=36><color=#3D1400>“Thiệt hại từ cuộc chiến tranh hạt nhân và quá sức tưởng tượng cho bất kì ai từng trải qua.” - Bạch Quang Hàn Nguyệt hiện tại giờ đây đã chọn việc lưu giữ năng lượng hạt nhân bên trong mình và chuyển hoá nó thành ánh sáng tương tự như chính mặt trăng trên bầu trời. Tuy nhiên nếu như có ai dám phá huỷ sự hoà bình này, cô ấy sẽ không ngại trở thành vị thần chết trên chiến trường.</color></size></align>",
-      "info": "<size=36>Ánh sáng chiếu rọi mọi nơi mang theo cảm giác lạnh sóng lưng.\n\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch|Mở khoá cùng lúc với Nấm Hư Vô</color>\n<color=#3D1400>Sát Thương:</color><color=red> 600 * (1 + Điểm Ánh Sáng)/3 giây\n<color=#3D1400>Phạm vi tấn công:</color><color=red> 3*5</color>\n<color=#0077b6>Stack Đóng Băng: </color><color=red>Mỗi lần cho 30 stack đóng băng.\n<color=#3D1400>Khả Năng:</color><color=red>\n<color=black>•</color> Phân loài của Nấm Hư Vô, chuyển đổi qua lại bằng Đèn Lồng và Nấm Bạch Tuộc.\n<color=black>•</color> Cung cấp điểm ánh sáng cho phạm vi 3x3 ô, kể cả cho bản thân.\n<color=black>•</color> Có thể phân tán tia laser của Cao Xạ Bất Diệt, phân ra 3 hướng và sát thương giữ nguyên.\n<color=black>•</color> Khi chết, nó sẽ đóng băng Zombie toàn màn hình và cung cấp 10 điểm ánh sáng cho toàn sân trong 10 giây.</color>",
+      "info": "<size=36>Ánh sáng chiếu rọi mọi nơi mang theo cảm giác lạnh sóng lưng.\n\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch|Mở khoá cùng lúc với Nấm Hư Vô</color>\n<color=#3D1400>Sát Thương:</color><color=red> 600 * (1 + Điểm Ánh Sáng)/3 giây\n<color=#3D1400>Phạm vi tấn công:</color><color=red> 3*5</color>\n<color=#0077b6>Stack Đóng Băng: </color><color=red>Mỗi lần cho 30 stack đóng băng.\n<color=#3D1400>Khả Năng:</color><color=red>\n<color=black>•</color> Phân loài của Nấm Hư Vô, chuyển đổi qua lại bằng Đèn Lồng và Nấm Bạch Tuộc.\n<color=black>•</color> Cung cấp điểm ánh sáng cho phạm vi 3x3 ô, kể cả cho bản thân.\n<color=black>•</color> Khi chết, nó sẽ đóng băng Zombie toàn màn hình và cung cấp 10 điểm ánh sáng cho toàn sân trong 10 giây.\n<color=black>•</color> Khi tia laser của Cao Xạ Bất Diệt bắn vào Hàn Quang Bạch Nguyệt, phân ra 3 tia laser băng theo góc độ ±10°, đồng thời gây thêm vu nổ trong phạm vi 1 ô với sát thương bằng 5% sát thương của tia Laser lên mọi Zombie bị bắn trúng.\n<color=black>•</color> Có thể được nạp năng lượng bởi Lưu Quang Thời Không, năng lương tối đa có tích trữ là 1000. \n<color=black>•</color> Khi có Lưu Quang Thời Không xung quanh nó phạm vi 3x3 ô, nạp năng lượng cho Lưu Quang Thời Không tương ứng (1 + số năng lượng hiện tại/10) mỗi giây, tia laser của Lưu Quang Thời Không sẽ có khả năng làm chậm mục tiêu và cho stack đóng băng tương ứng với năng lượng tiêu thụ. \n<color=black>•</color> Đồng thời gây thêm vu nổ khi trúng mục tiêu trong phạm vi 1 ô với sát thương vụ nổ bằng 50% sát thương của tia laser.\n<color=#3D1400>Buff Cộng Hưởng: </color><color=red>Chỉ mở khóa khi có đầy đủ buff của Lưu Quang Thời Không và Hàn Quang Bạch Nguyệt. Khi đó Lưu Quang Thời Không có khả năng nạp năng lượng cho Bạch Quang Hàn Nguyệt ở mọi hàng, và giới hạn năng lượng của Bạch Quang Hàn Nguyệt tăng lên 100000, đồng thời tăng mạnh tốc đánh và sát thương gây ra khi năng lượng càng nhiều; khi năng lương trên 10000, vào trạng thái Quá Tải, khi đó sẽ có khả năng tự nạp năng lượng và tấn công mỗi 0.02 giây; một khi đạt 100000 năng lượng, sụp đổ trở thành điểm kỳ dị hút toàn bộ Zombie không phải miniboss/boss rồi sau đó phát nổ 100 lần vụ nổ Nguyên Tử Băng toàn sân.</color>",
       "cost": "\n<size=36><color=#3D1400>Công Thức: </color><color=red>Nấm Hư Vô + Đèn Lồng</color>"
     },
     {
@@ -1082,7 +1096,7 @@
       "seedType": 956,
       "name": "Thực Thần Thập Tử",
       "introduce": "<align=justified><size=36><color=#3D1400>Thực Thần Thập Tử sở hữu sức mạnh khủng khiếp có thể phong ấn sinh linh trong tĩnh lặng. Nhiều năm qua, hắn ta vẫn theo đuổi sứ mệnh vĩ đại của mình: “Ta sẽ ban cho vạn vật sự sống vĩnh hằng, khiến thời gian dừng lại ở khoảnh khắc hạnh phúc, từ nay thế gian không còn chiến tranh và bi kịch. Tất cả nỗi buồn, ta sẽ gánh chịu một mình.” Ngọn lửa địa ngục bùng cháy sau lưng hắn chính là gánh nặng tội lỗi mà hắn mang thay cho chúng sinh.</color></size></align>",
-      "info": "<size=36>Tái sinh cho cây phía trước.\n\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch|Chọn Lúc Ban Đầu</color>\n<color=#3D1400>Sát Thương: </color><color=red>1800\n<color=#3D1400>Thời Gian Nhai: </color><color=red>30 giây\n<color=#3D1400>Khả Năng:</color><color=red>\n<color=black>•</color> Không tự động tấn công Zombie, thay vào đó chỉ cắn khi nhấn vào.\n<color=black>•</color> Khi nhấn vào thì nó sẽ cạp và sẽ kích hoạt hiệu ứng Ớt và Nấm Nguyên Tử đằng trước và không để lại hố.\n<color=black>•</color> Khi nhấn vào mà có cây đằng trước thì cây đằng trước chết ngay lập tức và sẽ có tỉ lệ 50% rớt ra thẻ.\n<color=black>•</color> Nếu cây bị hiệu ứng Nguyền Rủa, khi bị Thực Thần Thập Tử cắn sẽ có tỉ lệ 100% rớt ra thẻ. Còn Zombie gây ra hiệu ứng Nguyền Rủa này sẽ giảm 15% máu tối đa.\n\n<color=#3D1400>Buff 1:</color><color=red> Cây bị cạp bởi Thực Thần Thập Tử sẽ luôn rớt ra thẻ.</color>\n<color=#3D1400>Buff 2:</color><color=red> Cây tối thượng bị cạp bởi Thực Thần Thập Tử sẽ luôn kích hoạt hiệu ứng khi chết. Hiệu ứng này sẽ được tăng sức mạnh gấp 4 lần. </color>",
+      "info": "<size=36>Tái sinh cho cây phía trước.\n\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch|Chọn Lúc Ban Đầu</color>\n<color=#3D1400>Sát Thương: </color><color=red>1800\n<color=#3D1400>Thời Gian Nhai: </color><color=red>30 giây\n<color=#3D1400>Khả Năng:</color><color=red>\n<color=black>•</color> Không tự động tấn công Zombie, thay vào đó chỉ cắn khi nhấn vào.\n<color=black>•</color> Khi nhấn vào thì nó sẽ cạp và sẽ kích hoạt hiệu ứng Ớt và Nấm Nguyên Tử đằng trước và không để lại hố.\n<color=black>•</color> Khi nhấn vào mà có cây đằng trước thì cây đằng trước chết ngay lập tức và sẽ có tỉ lệ 50% rớt ra thẻ.\n<color=black>•</color> Sẽ không tiêu diệt Thực Thần Thập Tử, Mìn Tử Thần, Hoa Lan Lửa và các cây 2 ô.\n<color=black>•</color> Nếu cạp trúng Zombie mà Zombie đó sống sót, tạo 1 Zombie Phân Thân.\n<color=black>Zombie Phân Thân:</color> Khi Zombie phân thân nhận sát thương, toàn bộ Zombie cùng loại cũng sẽ nhận 100% sát thương, với miniboss thì chỉ nhận 50% sát thương. Biến mất sau 10 giây.\n<color=black>•</color> Nếu cây bị hiệu ứng Nguyền Rủa, khi bị Thực Thần Thập Tử cắn sẽ có tỉ lệ 100% rớt ra thẻ. Còn Zombie gây ra hiệu ứng Nguyền Rủa này sẽ giảm 15% máu tối đa.\n\n<color=#3D1400>Buff 1:</color><color=red> Cây bị cạp bởi Thực Thần Thập Tử sẽ luôn rớt ra thẻ.</color>\n<color=#3D1400>Buff 2:</color><color=red> Cây tối thượng bị cạp bởi Thực Thần Thập Tử sẽ luôn kích hoạt hiệu ứng khi chết. Hiệu ứng này sẽ được tăng sức mạnh gấp 4 lần. </color>",
       "cost": "\n<size=36><color=#3D1400>Công Thức: </color><color=red>Hoa Ăn Thịt Huỷ Diệt + Ớt Nguyên Tử</color>"
     },
     {
@@ -1245,6 +1259,41 @@
       "introduce": "<align=justified><size=36><color=#3D1400>Năm cũ đã qua, năm mới lại đến, tết đón sum vầy. Chỉ là, trong khi đang chuẩn bị ăn mừng thì Trúc Hỏa Long lại thay vì đốt pháo hoa, cậu ta lại đốt cả hàng Hoa Hướng Dương xếp số: 2026.</color></size></align>",
       "info": "<size=36>Phun lửa, triệu hồi rồng thần, thổi bay Zombie với ngọn lửa hủy diệt.\n\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch|Chọn Lúc Ban Đầu</color>\n<color=#3D1400>Sát Thương: </color><color=red>200\n<color=#3D1400>Phạm Vi Tấn Công: </color><color=red>5 ô phía trước\n<color=#3D1400>Khả Năng:</color><color=red>\n<color=black>•</color> Phun lửa liên tục 1 giây, gây 200 sát thương mỗi 0.02 giây. Có thể gây sát thương lên Zombie bay. Tấn công mỗi 4 giây.\n<color=black>•</color> Gây vụ nổ Siêu Anh Đào cho Zombie dính phải. Vụ nổ có thể đẩy lùi Zombie.\n<color=black>•</color> Sau khi phun lửa, triệu hồi Pháo Tre có khả năng tấn công cả hàng cùng khả năng nổ Siêu Anh Đào và đẩy lùi Zombie.\n\n<color=#3D1400>Buff 1: </color><color=red>Tăng gấp đôi tần suất nổ anh đào của vùng lửa.\n<color=#3D1400>Buff 2: </color><color=red> Khi tấn công, với mỗi Zombie dính phải, tăng 1% sức mạnh cho lần tấn công tiếp theo, tối đa 400%.</color>",
       "cost": "\n<size=36><color=#3D1400>Công Thức: </color><color=red>Pháo Tất Niên + Pháo Hoa Anh Đào</color>"
+    },
+    {
+      "seedType": 980,
+      "name": "Hàn Trúc Vĩnh Hằng",
+      "introduce": "<align=justified><size=36><color=#3D1400>Vào những ngày tuyết lớn, cậu ta thường bị vùi trong đống tuyết trắng, với khả năng của 1 cây tuyết, cậu ta dần dày lên, mạnh hơn. Trong thời gian rảnh cậu ta làm gì? À thì đi vẽ Hàn Liên Cung Thủ thôi.</color></size></align>",
+      "info": "<size=36>Phòng vệ tối thượng bằng trúc\n\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch|Mở khoá cùng lúc với Hàn Liên Cung Thủ</color>\n<color=#3D1400>Máu: </color><color=red>8000\n<color=#3D1400>Khả Năng:</color><color=red>\n<color=black>•</color> Phân loài của Hàn Liên Cung Thủ, chuyển đổi qua lại bằng Gốc Cung Thủ và Măng Băng.\n<color=black>•</color> Không thể nhận sát thương thay bởi các cây khác.\n<color=black>•</color> Miễn nhiễm với nghiền nát và đẩy lùi.\n<color=black>•</color> Khi nhận hiệu ứng đóng băng/câm lặng, hồi 1% máu tối đa.\n<color=black>•</color> Khi máu/giáp dưới 100% máu tối đa, mỗi 1.5 giây sẽ hồi 10% máu/giáp cho bản thân.\n<color=black>•</color> Có khả năng tiêu diệt ngay lập tức Zombie chạm vào nó có lượng máu thấp hơn x10 máu hiện tại của Hàn Trúc Vĩnh Hằng, đồng thời Hàn Trúc Vĩnh Hằng sẽ chỉ mất 10% máu tương ứng với máu của Zombie.\n<color=black>•</color> Khi nhận sát thương, nó sẽ chỉ mất sẽ từ từ mất máu dần dần thay vì mất toàn bộ máu phải nhận ngay lập tức với sát thương nhận vào là 1% máu tối đa mỗi giây.\n<color=black>•</color> Nếu sát thương nhận vào trên 1000000, tăng mạnh tốc độ mất máu. Có thể hủy hiệu ứng bằng Nấm Băng.\n\n<color=#3D1400>Buff 1: </color><color=red>Tốc độ mất máu của Hàn Trúc Vĩnh Hằng giảm 2/3.\n<color=#3D1400>Buff 2: </color><color=red> Tăng tốc độ hồi máu và giáp của Hàn Trúc Vĩnh Hằng.</color>",
+      "cost": "\n<size=36><color=#3D1400>Công Thức: </color><color=red>Thời Không Cực Hàn + Nấm Nguyên Tử</color>"
+    },
+    {
+      "seedType": 981,
+      "name": "Thời Không Tận Thế",
+      "introduce": "<align=justified><size=36><color=#3D1400>Thời Không Tận Thế chính là cái mà người ta gọi là tận thế hạt nhân. Mặc dù cậu ta là cây băng nhưng lại rất thích mùa hè, bãi biển và tắm nắng, chỉ là, cơ thể cậu ta không dành cho việc đó.</color></size></align>",
+      "info": "<size=36>Vụ nổ hố đen! Có thể tăng sức mạnh với Nấm Nguyên Tử.\n\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch|Mở khoá cùng lúc với Thời Không Cực Hàn</color>\n<color=#3D1400>Sát Thương: </color><color=red>3600 (Sát Thương Nổ)\n<color=#3D1400>Khả Năng:</color><color=red>\n<color=black>•</color> Phân loài của Thời Không Cực Hàn, chuyển đổi qua lại bằng Dưa Hấu và Nấm Nguyên Tử.\n<color=black>•</color> Không tự kích nổ, thay vào đó có thể nhấp vào nó để chọn vị trí kích nổ.\n<color=black>•</color> Sau khi chọn vị trí, nó sẽ dich chuyển tới ô đó và phát nổ trong phạm vi 5x5 ô.\n<color=black>•</color> Zombie trong phạm vi vụ nổ sẽ nhận hiệu ứng Phân Rã trong 30 giây, thời gian ra lượt Zombie tiếp theo sẽ ngưng động trong một thời gian ngắn.\n<color=black>•</color> Sau khi phát nổ, mở Cổng Không Gian phun khói lạnh liên tục gây 10 sát thương mỗi 0.02 giây lên Zombie mà khói lạnh đó đi qua trong 10 giây. Khói lạnh sẽ gây hiệu ứng chậm và tăng hiệu ứng Phân Rã lên Zombie thêm 1 giây cho mỗi lần nó gây sát thương, và khi đóng lại sẽ phát nổ thêm lần nữa trong phạm vi 3x3 ô và đóng băng Zombie trong 10 giây.\n<color=black>•</color> Có thể dùng thẻ Nấm Nguyên Tử để tăng cấp độ vụ nổ, tối đa là 2. Thời Không Tận Thế sẽ bao gồm 3 cấp độ như sau:\n<color=black>Cấp 1:</color> Mỗi Cổng Không Gian sẽ tạo 1 khói lạnh, đồng thời sau khi phát nổ sẽ trì hoãn thời gian cho đợt tiếp theo là 1 giây.\n<color=black>Cấp 2:</color> Sát thương vụ nổ x3. Mỗi Cổng Không Gian sẽ tạo 2 khói lạnh, đồng thời sau khi phát nổ sẽ trì hoãn thời gian cho đợt tiếp theo là 3 giây.\n<color=black>Cấp 3:</color> Sát thương vụ nổ x3. Mỗi Cổng Không Gian sẽ tạo 5 khói lạnh, đồng thời sau khi phát nổ sẽ trì hoãn thời gian cho đợt tiếp theo là 10 giây. Khi Cổng Không Gian đóng lại, vụ nổ sẽ gây x10 sát thương lên Zombie có máu cao nhất trong phạm vi nổ của nó.\n<color=black>•</color> Khi Thời Không Tận Thế ở cấp 3, nó sẽ tự kích nổ sau 10 giây, đồng thời khi phát nổ sẽ trả lại thẻ Thời Không Cực Hàn.\n\n<color=#3D1400>Buff 1: </color><color=red>Thời Không Tận Thế sẽ chỉ tạo 1 Cổng Không Gian trên sân, toàn bộ khói lạnh đều sẽ được tập trung lại 1 cổng và x10 số khói lạnh tạo ra.\n<color=#3D1400>Buff 2: </color><color=red>Zombie miễn nhiễm với hiệu ứng Phân Rã vẫn sẽ nhận thêm sát thương tương đương với (thời gian phân rã)% máu tối đa</color>",
+      "cost": "\n<size=36><color=#3D1400>Công Thức: </color><color=red>Thời Không Cực Hàn + Nấm Nguyên Tử</color>"
+    },
+    {
+      "seedType": 982,
+      "name": "Đèn Tài Lộc",
+      "introduce": "<align=justified><size=36><color=#3D1400>Đèn Tài Lộc đã tạo nên 1 ma thuật giúp cậu ta nhìn rõ mọi thứ trên toàn thế giới, 1 bí mật của tòa tháp ánh sáng. Mặc dù đó chỉ là 1 thủ thuật phản chiếu ánh sáng, nhưng với ánh sáng rực rỡ như vậy, liệu có thủ thuật nào chứ?</color></size></align>",
+      "info": "<size=36>Càng nhiều tiền, ánh sáng càng khủng.\n\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch|Mở khoá bằng buff của Đuốc Tài Lộc</color>\n<color=#3D1400>Khả Năng:</color><color=red>\n<color=black>•</color> Phân loài của Đuốc Tài Lộc, chuyển đổi qua lại bằng Lồng Đèn và Gốc Lửa.\n<color=black>•</color> Cung cấp 3 Mức Độ Ánh Sáng cho cây ở phạm vi 5x5 ô xung quanh nó.\n<color=black>•</color> Khi Cao Xa Bất Diệt bắn laser qua Đèn Tài Lộc, phân ra 3 tia ở góc độ ±10° và mỗi mục tiêu bị bắn trúng sẽ tăng 50 xu.\n<color=black>•</color> Có thể nạp năng lượng bởi Lưu Quang Thời Không, năng lương tối đa có thể nạp vào là 1000. Khi Lưu Quang Thời Không ở xung quanh nó 3x3 ô, tiêu thụ (1 + số năng lượng hiện có*10) mỗi lần tấn công, với mỗi năng lượng tiêu thụ, tăng 1% sát thương.\n<color=black>•</color> Với mỗi Mức Độ Ánh Sáng mà Đèn Tài Lộc nhận vào, tăng 10% sát thương cho tia laser mà nó buff.\n<color=black>•</color> Khi buff Có Tiền Có Quyền được kích hoạt, tia laser khi đi qua Đèn Tài Lộc tăng 1% sát thương với mỗi 1000 xu bạn đang có.",
+      "cost": "\n<size=36><color=#3D1400>Công Thức: </color><color=red>Đuốc Tài Lộc + Lồng Đèn</color>"
+    },
+    {
+      "seedType": 983,
+      "name": "Mìn Tử Thần",
+      "introduce": "<align=justified><size=36><color=#3D1400>Đã tới lúc trở thành ngôi sao sáng chói nhất khu phố. Sao Đa Nhiệm trở nên vô cùng phấn khích, mặc dù cậu ta chỉ là 1 mảng thiên thạch được rèn lại, nhưng điều đó không ảnh hưởng tới giấc mơ của cậu. Chỉ là, đừng nói cậu ta là 1 con cua.</color></size></align>",
+      "info": "<size=36>Phát nổ cực mạnh.\n\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch|Mở khoá bằng buff của Thực Thần Thập Tử</color>\n<color=#3D1400>Sát Thương: </color><color=red>1800\n<color=#3D1400>Khả Năng:</color><color=red>\n<color=black>•</color> Phân loài của Thực Thần Thập Tử, chuyển đổi qua lại bằng Mìn Khoai Tây và Hoa Ăn Thịt.\n<color=black>•</color> Sẽ nạp trong 30 giây.\n<color=black>•</color> Khi phát nổ, nó sẽ tạo ra phân thân của Zombie có máu cao nhất và kích hoạt hiệu ứng Ớt Nguyên Tử đằng trước và không để lại hố.\n<color=black>•</color> Khi kích nổ, toàn bộ cây xung quanh nó 3x3 ô chết ngay lập tức và sẽ có tỉ lệ 50% rớt ra thẻ.\n<color=black>•</color> Sẽ không tiêu diệt Thực Thần Thập Tử, Mìn Tử Thần, Hoa Lan Lửa và các cây 2 ô.\n<color=black>•</color> Nếu cây bị hiệu ứng Nguyền Rủa, khi bị Mìn Tử Thần phát nổ sẽ có tỉ lệ 100% rớt ra thẻ. Còn Zombie gây ra hiệu ứng Nguyền Rủa này sẽ giảm 15% máu tối đa.</color>",
+      "cost": "\n<size=36><color=#3D1400>Công Thức: </color><color=red>Thực Thần Thập Tử + Mìn Khoai Tây</color>"
+    },
+    {
+      "seedType": 984,
+      "name": "Lưu Quang Thời Không",
+      "introduce": "<align=justified><size=36><color=#3D1400>Thời gian khá là kì lạ, lúc thì cậu ta là kẻ bảo hộ cuối cùng của sân vườn, lúc thì chả có gì xảy ra. Chúng ta đang đấu với ZOmbie với chiến thuật khác đi đôi chút. Cái đầu đằng trước luôn kể vậy trong khi đầu đằng sau thì chỉ thở dài rằng, sao mình lại kẹt với thằng này.</color></size></align>",
+      "info": "<size=36>Hấp thụ, vẩn chuyển, tái chế và vũ khí hóa ánh sáng của vũ trụ.\n\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch|Cần Mở Khoá</color>\n<color=#3D1400>Sát Thương: </color><color=red>40/0.2 giây\n<color=#3D1400>Khả Năng:</color><color=red>\n<color=black>•</color> Có mọi khả năng của Đậu 2 Đầu Laser.\n<color=black>•</color> Năng lượng tối đa có thể tích trữ là 1000.\n<color=black>•</color> Có khả năng nạp năng lượng cho Bạch Quang Hàn Nguyệt/Đèn Tài Lộc hoặc Lưu Quang Thời Không cho đằng trước.\n<color=black>•</color> Mỗi khi nạp năng lượng cho cây khác, hoàn lại lượng năng lượng bằng 10% sát thương. Với mỗi năng lượng tiêu thụ, tốc độ nạp sẽ tăng lên tương ứng.\n<color=black>•</color> Tia laser cũng gây hiệu ứng Phân Rã lên mục tiêu.\n<color=black>•</color> Nếu xung quanh nó có Bạch Quang Hàn Nguyệt/Đèn Tài Lộc trong phạm 3x3 ô, tăng mạnh sát thương của tia laser.\n\n<color=#3D1400>Buff 1:</color><color=red> Tăng giới hạn tích trữ năng lượng lên 2000, cấp 2 sẽ tăng giới hạn lên 10000.</color>\n<color=#3D1400>Buff 2:</color><color=red> Tăng hiệu suất nạp năng lượng lên 50%, nếu cây đang nạp có năng lượng dưới 2500, tăng hiệu suất lên 250%.\n\n<color=#3D1400>Buff Cộng Hưởng: </color><color=red>Chỉ mở khóa khi có đầy đủ buff của Lưu Quang Thời Không và Hàn Quang Bạch Nguyệt. Khi đó Lưu Quang Thời Không có khả năng nạp năng lượng cho Bạch Quang Hàn Nguyệt ở mọi hàng, và giới hạn năng lượng của Bạch Quang Hàn Nguyệt tăng lên 100000, đồng thời tăng mạnh tốc đánh và sát thương gây ra khi năng lượng càng nhiều; khi năng lương trên 10000, vào trạng thái Quá Tải, khi đó sẽ có khả năng tự nạp năng lượng và tấn công mỗi 0.02 giây; một khi đạt 100000 năng lượng, sụp đổ trở thành điểm kỳ dị hút toàn bộ Zombie không phải miniboss/boss rồi sau đó phát nổ 100 lần vụ nổ Nguyên Tử Băng toàn sân.</color>",
+      "cost": "\n<size=36><color=#3D1400>Công Thức: </color><color=red>Đậu 2 Đầu Laser + Đậu Thời Không</color>"
     },
     {
       "seedType": 1000,
@@ -1425,7 +1474,7 @@
       "seedType": 1025,
       "name": "Nấm Dũng Cảm",
       "introduce": "<align=justified><size=36><color=#3D1400>​“Tôi trước đây vô cùng sợ hãi khi có Zombie đến gần tôi, nhưng nhờ sự giúp đỡ của người anh cả Nấm Mũm Mĩm mà giờ đây tôi không còn rụt rè nữa, và cũng sẽ không co rúm lại khi có Zombie tiến gần đến tôi. Như chủ tịch Hồ Chí Minh từng nói “Không có việc gì khó. Chỉ sợ lòng không bền. Đào núi và lấp biển. Quyết chí ắt làm nên”</color>",
-      "info": "<size=36>Có thể bắn đạn từ xa và phun sương ở gần!\n\n<color=#3D1400>Sát Thương:</color><color=red> 30*2/1.5 giây, 30/1.5 giây</color>\n<color=#3D1400>Khả Năng:</color><color=red> Khi Zombie ở xa thì bắn 2 đạn, đến gần thì sẽ tấn công như Nấm Mũm Mĩm</color>",
+      "info": "<size=36>Có thể bắn đạn từ xa và phun sương ở gần!\n\n<color=#3D1400>Sát Thương:</color><color=red> 30*2/1.5 giây, 30/1.5 giây</color>\n<color=#3D1400>Khả Năng:</color><color=red> Khi Zombie ở xa thì bắn 2 đạn, đến gần thì sẽ tấn công như Nấm Mũm Mĩm. Không bao giờ lẫn trốn nếu Zombie lại gần.</color>",
       "cost": "\n<size=36><color=#3D1400>Công Thức: </color><color=red>Nấm Mũm Mĩm + Nấm Nhút Nhát</color>"
     },
     {
@@ -1892,9 +1941,9 @@
     },
     {
       "seedType": 1092,
-      "name": "Bí Ngô Nam Châm",
-      "introduce": "<align=justified><size=36><color=#3D1400> Bí Ngô Nam Châm khá quan ngại khi cùng họ hàng của mình đi ăn tại các nhà hàng phương Tây. Các bạn có biết tại sao không?</color>",
-      "info": "<size=36>Có thể kết hợp với những món đồ sắt để tạo nên hình dạng mới.\n\n<color=#3D1400>Máu:</color><color=red> 4000</color>\n<color=#666699>Liên Kết Từ Tính: </color><color=red>Gây (20*số cây trong Liên Kết Từ Tính*tốc độ của Zombie) cho các Zombie có vật sắt trên người </color>",
+      "name": "Bí Ngô Từ Tính",
+      "introduce": "<align=justified><size=36><color=#3D1400> Bí Ngô Từ Tính khá quan ngại khi cùng họ hàng của mình đi ăn tại các nhà hàng phương Tây. Các bạn có biết tại sao không?</color>",
+      "info": "<size=36>Có thể kết hợp với những món đồ sắt để tạo nên hình dạng mới.\n\n<color=#3D1400>Máu:</color><color=red> 4000</color>\n<color=#666699>Liên Kết Từ Tính: </color><color=red>Gây (20*số cây trong Liên Kết Từ Tính*tốc độ của Zombie) mỗi 6 giây cho các Zombie có vật sắt trên người ở phạm vi 3x3 ô.</color>",
       "cost": "\n<size=36><color=#3D1400>Công Thức: </color><color=red>Bí Ngô + Nấm Nam Châm</color>"
     },
     {
@@ -2334,7 +2383,7 @@
     {
       "seedType": 1155,
       "name": "Gai Lửa",
-      "introduce": "<align=justified><size=36><color=#3D1400>Liệu bạn có biết, tính tới bản 3.3 đã có tận 525 cây trong Almanac, và nếu đọc được cái này thì xin chúc mừng, bạn vừa tốn 10 giây để đọc cái thứ vô nghĩa này! À và nó sẽ cập nhật mọi phiên bản đấy!</color>\n\n<size=36>",
+      "introduce": "<align=justified><size=36><color=#3D1400>Liệu bạn có biết, tính tới bản 3.5 đã có tận 576 cây trong Almanac, và nếu đọc được cái này thì xin chúc mừng, bạn vừa tốn 10 giây để đọc cái thứ vô nghĩa này! À và nó sẽ cập nhật mọi phiên bản đấy!</color>\n\n<size=36>",
       "info": "<size=36>Được tạo ra từ Gai Bốc Lửa\n\n<color=#3D1400>Sát Thương: </color><color=red>20/giây\n<color=#3D1400>Khả Năng:</color><color=red> Không thể ghép với cây khác. Có thể chọc xe tuyết.</color>",
       "cost": ""
     },
@@ -2599,9 +2648,9 @@
     },
     {
       "seedType": 1193,
-      "name": "Nấm Phun Lửa",
-      "introduce": "<align=justified><size=36><color=#3D1400>“Là một đầu bếp của một nhà hàng 5 sao, Nấm Phun Lửa biết rằng một trong nhưng yếu tố tạo nên bữa ăn ngon là nguyên liệu đảm bảo chính hãng:nhà bếp đâu? Tôi cần 200g thịt bò, tỏi, măng tây, rượu vang,… à mà mang cả dầu thực vật ra nhá! Cái gì đây? Tôi bảo dầu thực vật ông mua dầu Tactics làm gì? Đã đạo nhái lại còn chất lượng kém, vứt đi, siêu thị “Yêu Từ Bé” dạo này nhiều loại dầu nhái thực vật lắm, cẩn trọng vào!”</color>",
-      "info": "<size=36>Phun ngọn lửa vô cùng nóng!\n\n<color=#3D1400>Sát Thương:</color><color=red> 33/1.5 giây(0.33 giây = 1 sát thương)</color>\n<color=#3D1400>Khả Năng:</color><color=red> Đòn tấn công có thể gây Hiệu Ứng Chịu Nhiệt.</color>",
+      "name": "Nấm Xịt Hơi Cay",
+      "introduce": "<align=justified><size=36><color=#3D1400>“Là một đầu bếp của một nhà hàng 5 sao, Nấm Xịt Hơi Cay biết rằng một trong nhưng yếu tố tạo nên bữa ăn ngon là nguyên liệu đảm bảo chính hãng:nhà bếp đâu? Tôi cần 200g thịt bò, tỏi, măng tây, rượu vang,… à mà mang cả dầu thực vật ra nhá! Cái gì đây? Tôi bảo dầu thực vật ông mua dầu Tactics làm gì? Đã đạo nhái lại còn chất lượng kém, vứt đi, siêu thị “Yêu Từ Bé” dạo này nhiều loại dầu nhái thực vật lắm, cẩn trọng vào!”</color>",
+      "info": "<size=36>Phun hơi cay vô cùng nóng rát!\n\n<color=#3D1400>Sát Thương:</color><color=red> 33/1.5 giây(0.33 giây = 1 sát thương)</color>\n<color=#3D1400>Khả Năng:</color><color=red> Đòn tấn công có thể gây Hiệu Ứng Chịu Nhiệt.</color>",
       "cost": "\n<size=36><color=#3D1400>Công Thức: </color><color=red>Nấm Mũm Mĩm + Ớt</color>"
     },
     {
@@ -3474,7 +3523,7 @@
     },
     {
       "seedType": 1318,
-      "name": "Bí Hà Lan",
+      "name": "Bí Ngô Hà Lan",
       "introduce": "<align=justified><size=36><color=#3D1400>Nghe nói Zombie mang xe tăng tới? Thế thì ta cũng tung ra pháo đài súng máy sống: Bí Hà Lan! Đạn dược lấy ở đâu á? Ờ thì… PiaoPiao quên lắp kho đạn nên… Để mấy cây đậu bên trong “chia sẻ” đạn là ổn cả mà!</color></color>",
       "info": "<size=36>Bắn đạn đậu tuỳ chỉnh phụ thuộc vào cây trên nó.\n\n<color=#3D1400>Sát Thương: </color><color=red>?*?/3 giây\n<color=#3D1400>Máu: </color><color=red>4000\n<color=#3D1400>Khả Năng: </color><color=red>Có thể bắn đạn đậu dựa theo cây đậu trên nó. Đạn bắn ra sẽ kế thừa mọi khả năng của cây đậu bên trong nó và sẽ tính riêng. Nó sẽ tấn công cố định mỗi 3 giây. Không thể dùng chung với các cây đậu 3 đầu.</color>",
       "cost": "\n<size=36><color=#3D1400>Công Thức: <color=red>Đậu Hà Lan + Bí Ngô</color>"
@@ -3861,7 +3910,7 @@
       "seedType": 1373,
       "name": "Đậu Laser",
       "introduce": "<align=justified><size=36><color=#3D1400>Ban đầu Đậu Laser rất thích bắn tia laser vào các cây khác, nhưng Lưu Quang Tiên Tán đã chỉ cậu ta cách bắn laser vào Zombie.</color></color>",
-      "info": "<size=36>Hãy chuẩn bị cho vũ khí tối thượng đi.\n\n<color=#3D1400>Sát Thương: </color><color=red>10/0.2 giây\n<color=#3D1400>Khả Năng: </color><color=red>\n<color=black>•</color> Mỗi 0.5 giây có thể tích trữ 1 năng lượng ánh sáng tương đương với Mức Độ Ánh Sáng nhận vào.\n<color=black>•</color> Mỗi lần gây sát thương sẽ tiêu thụ 1 năng lượng ánh sáng. Với mỗi năng lượng ánh sáng tiêu thụ, lần gây sát thương tiếp theo sẽ gây thêm 10 sát thương.</color>",
+      "info": "<size=36>Hãy chuẩn bị cho vũ khí tối thượng đi.\n\n<color=#3D1400>Sát Thương: </color><color=red>10/0.2 giây\n<color=#3D1400>Khả Năng: </color><color=red>\n<color=black>•</color> Mỗi 0.5 giây có thể tích trữ 1 năng lượng ánh sáng tương đương với Mức Độ Ánh Sáng nhận vào.\n<color=black>•</color> Mỗi lần gây sát thương sẽ tiêu thụ (1 + số năng lượng hiện tại*10%) năng lượng ánh sáng cho lần bắn tiếp theo. Sát thương gây ra bằng lượng năng lương tiêu thụ x10. \n<color=black>•</color> Có thể nhấn vào cây để Đậu Laser có thể nạp năng lượng vào Đậu 2 Đầu Laser ở đằng trước, khoảng cách tối thiểu là 1 ô trống cho 2 cây.\n<color=black>•</color> Hiệu suất nạp năng lượng là x1.</color>",
       "cost": "\n<size=36><color=#3D1400>Công Thức: <color=red>Đậu Hà Lan + Lồng Đèn</color>"
     },
     {
@@ -3898,6 +3947,91 @@
       "introduce": "<align=justified><size=36><color=#3D1400>Cậu ta mang theo Bí Bắp Cải Tí Hon để giúp ném thêm nhiều bí, ai dè đám đó lại ném phân thân của bọn chúng, và nó thành 1 vòng lặp rồi.</color></color>",
       "info": "<size=36>Ném những bí bắp cải tí hon.\n\n<color=#3D1400>Sát Thương: </color><color=red>60/3 giây\n<color=#3D1400>Khả Năng: </color><color=red>\n<color=black>•</color> Ném đạn Bí Bắp Cải Tí Hon, đạn khi trúng Zombie sẽ đè gây sát thương trong phạm vi 1 ô. \n<color=black>•</color> Sau đó đạn sẽ ném 2 đạn Bí Bắp Cải Tí Hon, gây 50% sát thương trong phạm vi 1 ô đằng trước.\n<color=black>•</color> Sau đó đạn sẽ tiếp tục ném thêm 2 đạn Bí Bắp Cải Tí Hon, gây 25% sát thương trong phạm vi 1 ô đằng trước.</color>",
       "cost": "\n<size=36><color=#3D1400>Công Thức: <color=red>Bắp Cải + Bí Đè</color>"
+    },
+    {
+      "seedType": 1379,
+      "name": "Đèn Ba Đầu",
+      "introduce": "<align=justified><size=36><color=#3D1400>Đèn Ba Đầu có con số yêu thích là 3, gấp 3 độ sáng, gấp 3 tầm nhìn, gấp 3 lương. Nhất là, gấp 3 snack!</color></color>",
+      "info": "<size=36>Nhân ba ánh sáng\n\n<color=#3D1400>Khả Năng: </color><color=red>\n<color=black>•</color> Cung cấp 3 Mức Độ Ánh Sáng cho toàn bộ cây xung quanh nó 3x3 ô.\n<color=black>•</color> Tia laser bắn qua nó sẽ bắn thêm 2 tia laser, mỗi tia gây 30 sát thương.</color>",
+      "cost": "\n<size=36><color=#3D1400>Công Thức: <color=red>Đèn Lồng + Đậu 3 Đầu</color>"
+    },
+    {
+      "seedType": 1380,
+      "name": "Chậu Mê Hoặc",
+      "introduce": "<align=justified><size=36><color=#3D1400>Được yêu mến bởi mọi cây và Zombie, cô ấy là 1 y tá, và thường dành thời gian còn lại ở hội nhóm Zombie gần đó.</color></color>",
+      "info": "<size=36>Níu kéo Zombie lại 1 chỗ.\n\n<color=#3D1400>Khả Năng: </color><color=red>\n<color=black>•</color> Zombie đi qua ô của nó sẽ giảm 33% sát thương nhận vào và hồi 1 HP mỗi 0.04 giây.\n<color=black>•</color> Zombie cắn nó sẽ bị thôi miên, và Chậu Thôi Miên sẽ trở thành Chậu Hoa thường.</color>",
+      "cost": "\n<size=36><color=#3D1400>Công Thức: <color=red>Nấm Thôi Miên + Chậu Hoa</color>"
+    },
+    {
+      "seedType": 1381,
+      "name": "Đậu Tiểu Liên Laser",
+      "introduce": "<align=justified><size=36><color=#3D1400>Là 1 cây đèn bình thường tại hồ bơi, mỗi lần trước khi đi cậu ta đều chào mũ xuống. Vì thế cậu ta gần như không thề nổi bật cả, vì cậu ta chả có gì khác biệt.</color></color>",
+      "info": "<size=36>Bắn 2 Zombie cùng 1 lúc\n\n<color=#3D1400>Sát Thương: </color><color=red>10/0.2 giây\n<color=#3D1400>Khả Năng: </color><color=red>\n<color=black>•</color> Có mọi khả năng của Đậu Laser.\n<color=black>•</color> Có khả năng tấn công 2 Zombie cùng 1 lúc, sát thương sẽ được chia đều.\n<color=black>•</color> Hiệu suất nạp năng lượng là x2.</color>",
+      "cost": "\n<size=36><color=#3D1400>Công Thức: <color=red>Đậu Hà Lan*2 + Lồng Đèn</color>"
+    },
+    {
+      "seedType": 1382,
+      "name": "Đậu 2 Đầu Laser",
+      "introduce": "<align=justified><size=36><color=#3D1400>Cả 2 lúc nào cũng cãi nhau và ganh đua nhau, trừ trò so mắt thôi.</color></color>",
+      "info": "<size=36>Sát thương tập trung vào 1 mục tiêu.\n\n<color=#3D1400>Sát Thương: </color><color=red>10/0.2 giây\n<color=#3D1400>Khả Năng: </color><color=red>\n<color=black>•</color> Có mọi khả năng của Đậu Laser.\n<color=black>•</color> Có khả năng nhận năng lượng từ các Đậu Laser phía sau nó, tăng mạnh sát thương gây ra.\n<color=black>•</color> Hiệu suất nạp năng lượng là x1.</color>",
+      "cost": "\n<size=36><color=#3D1400>Công Thức: <color=red>Đậu Hà Lan*3 + Lồng Đèn</color>"
+    },
+    {
+      "seedType": 1383,
+      "name": "Đậu Súng Máy Laser",
+      "introduce": "<align=justified><size=36><color=#3D1400>Rực rỡ trên chiến trường, gấp 4 lần vinh quang, kể cả khi tập trung tiêu diệt mục tiêu.</color></color>",
+      "info": "<size=36>Tấn công đa muc tiêu.\n\n<color=#3D1400>Sát Thương: </color><color=red>10/0.2 giây\n<color=#3D1400>Khả Năng: </color><color=red>\n<color=black>•</color> Có mọi khả năng của Đậu Laser.\n<color=black>•</color> Có khả năng tấn công 4 Zombie cùng 1 lúc, sát thương sẽ được chia đều.\n<color=black>•</color> Hiệu suất nạp năng lượng là x4.</color>",
+      "cost": "\n<size=36><color=#3D1400>Công Thức: <color=red>Đậu Hà Lan*4 + Lồng Đèn</color>"
+    },
+    {
+      "seedType": 1384,
+      "name": "Ớt Chuông",
+      "introduce": "<align=justified><size=36><color=#3D1400>Tuy yếu, nhưng khi chụm lại thì sẽ vô cùng bùng nổ đấy. Và nhất là bọn chúng luôn đi theo đàn. Các cây khác đều nhận xét nó với mức độ cay từ vừa, rất cay và ớt Tứ Xuyên.</color></color>",
+      "info": "<size=36>Đốt liên tục.\n\n<color=#3D1400>Sát Thương: </color><color=red>600 (Sát Thương Nổ)\n<color=#3D1400>Khả Năng: </color><color=red>\n<color=black>•</color> Có mọi khả năng của Đậu Laser.\n<color=black>•</color> Khi Zombie ở gần nó, nó sẽ kích hoạt hiệu ứng của Ớt và đốt 1 hàng.</color>",
+      "cost": "\n<size=36><color=#3D1400>Công Thức: <color=red>Nấm Lùn + Ớt</color>"
+    },
+    {
+      "seedType": 1385,
+      "name": "Đậu Tỏi",
+      "introduce": "<align=justified><size=36><color=#3D1400>1 vua đầu bếp thực thụ, cậu ta luôn nấu món mà mình giỏi nhất, đậu tỏi. Zombie mỗi lần ăn vào sẽ cảm nhận nỗi nhớ sâu thẳm, và khóc vì mùi của nó cực kì khó chịu.</color></color>",
+      "info": "<size=36>Bắn bom độc vào Zombie\n\n<color=#3D1400>Sát Thương: </color><color=red>30/1.5 giây\n<color=#3D1400>Khả Năng: </color><color=red>\n<color=black>•</color> Zombie bị bắn trúng sẽ nhận 1 Stack Độc Tỏi.\n<color=black>•</color> Bắn trúng Zombie bị nhiễm Độc Tỏi sẽ tạo ra 1 sương độc trên hàng đó.\n<color=black>Sương Độc: </color> Bán kính 0.74 ô, tồn tại trong 6 giây và mỗi giây gây (20*số đạn tỏi nhận vào) sát thương lên Zombie trên hàng đó. Tối đa 1 sương độc mỗi hàng.</color>",
+      "cost": "\n<size=36><color=#3D1400>Công Thức: <color=red>Đậu Hà Lan + Tỏi</color>"
+    },
+    {
+      "seedType": 1386,
+      "name": "Đậu Tiêu Liên Tỏi",
+      "introduce": "<align=justified><size=36><color=#3D1400>Đậu Tiểu Liên Tỏi tập trung tấn công vào Zombie, cố gắng không để bất kì thứ gì xao nhãng. Không có gì có thể lay động cậu ta, từ Zombie, ma cà rồng, và cả người bán hàng.</color></color>",
+      "info": "<size=36>Bắn gấp đôi số bom độc vào Zombie\n\n<color=#3D1400>Sát Thương: </color><color=red>30*2/1.5 giây\n<color=#3D1400>Khả Năng: </color><color=red>\n<color=black>•</color> Có mọi khả năng của Đậu Tỏi.\n<color=black>•</color> Sau khi trồng xuống 15 giây, có thể nhấn vào nó để nâng cấp thành Đậu 2 Đầu Tỏi.</color>",
+      "cost": "\n<size=36><color=#3D1400>Công Thức: <color=red>Đậu Hà Lan*2 + Tỏi</color>"
+    },
+    {
+      "seedType": 1387,
+      "name": "Đậu 2 Đầu Tỏi",
+      "introduce": "<align=justified><size=36><color=#3D1400>Thời hiện đại, các đòn bắn theo đường cong là vô cùng cần thiết, nhưng Đậu 2 Đầu Tỏi không làm thế, cậu ta đơn giản chỉ bắn vào nhà và rồi ai đó ném đạn ra ngoài thôi.</color></color>",
+      "info": "<size=36>Bắn gấp đôi số bom độc vào Zombie\n\n<color=#3D1400>Sát Thương: </color><color=red>30*3/1.5 giây\n<color=#3D1400>Khả Năng: </color><color=red>\n<color=black>•</color> Có mọi khả năng của Đậu Tỏi.\n<color=black>•</color> Sau khi trồng xuống 15 giây, có thể nhấn vào nó để nâng cấp thành Đậu Súng Máy Tỏi.</color>",
+      "cost": "\n<size=36><color=#3D1400>Công Thức: <color=red>Đậu Hà Lan*3 + Tỏi</color>"
+    },
+    {
+      "seedType": 1388,
+      "name": "Đậu Súng Máy Tỏi",
+      "introduce": "<align=justified><size=36><color=#3D1400>Đậu Súng Máy Tỏi là cây tỏi bốc mùi nhất, nhiều cây cho rằng cậu ta rất lười. Nhưng thật ra cậu ta rất kỷ luật, cậu ta luôn đi tắm rửa, tập luyện và cả tắm hằng ngày nữa.</color></color>",
+      "info": "<size=36>Bắn gấp đôi số bom độc vào Zombie\n\n<color=#3D1400>Sát Thương: </color><color=red>30*3/1.5 giây\n<color=#3D1400>Khả Năng: </color><color=red>Có mọi khả năng của Đậu Tỏi.</color>",
+      "cost": "\n<size=36><color=#3D1400>Công Thức: <color=red>Đậu Hà Lan*4 + Tỏi</color>"
+    },
+    {
+      "seedType": 1389,
+      "name": "Nấm Phun Lửa",
+      "introduce": "<align=justified><size=36><color=#3D1400>Nấm Phun Lửa nổi tiếng nhờ tài nấu nướng biến đậu thành đậu nướng. Tuy nhiên, tài nấu nướng của cậu lại nổi tiếng hơi là lạ, vì cậu ta luôn phá sản trước khi nấu bất kì mẻ đậu nào.</color></color>",
+      "info": "<size=36>Tích trữ sát thương và phun ngọn lửa cực mạnh.\n\n<color=#3D1400>Sát Thương: </color><color=red>???/1 giây\n<color=#3D1400>Phạm Vi Tấn Công: </color><color=red>4 ô đằng trước\n<color=#3D1400>Khả Năng: </color><color=red>\n<color=black>•</color> Không tự tấn công, sẽ chỉ hấp thụ đạn.\n<color=black>•</color> Có khả năng hấp thụ đạn đậu hà lan, khi đó sẽ chuyển đổi thành sát thương cho Nấm Phun Lửa cho lần tấn công tiếp theo. Sát thương tối đa có thể gây ra là 300.\n<color=black>•</color> Có khả năng đốt đạn đậu băng và chuyển hỏa thành đạn đậu hà lan.</color>",
+      "cost": "\n<size=36><color=#3D1400>Công Thức: <color=red>Nấm Mũm Mĩm + Gốc Lửa</color>"
+    },
+    {
+      "seedType": 1390,
+      "name": "Bí Đè Ăn Thịt",
+      "introduce": "<align=justified><size=36><color=#3D1400>'Đói, đói, đói quá đi!' Bí Đè Ăn Thịt luôn than đói, kể cả khi đã nuốt 1 đống Zombie, cậu ta vẫn đói. Nhìn kìa, Garganture, à mà, hình như to quá.</color></color>",
+      "info": "<size=36>Nuốt chửng Zombie và tiếp tục đè\n\n<color=#3D1400>Sát Thương: </color><color=red>1800\n<color=#3D1400>Phạm Vi Tấn Công: </color><color=red>1 ô đằng trước, không tính ô cùng hàng\n<color=#3D1400>Khả Năng: </color><color=red>\n<color=black>•</color> Đè Zombie phía trước nó 1 ô, gây 1800 sát thương lên toàn bộ Zombie trong phạm vi đè và nuốt chửng 1 Zombie.\n<color=black>•</color> Sau khi đè, nếu nuốt chửng thành công, nó sẽ không biến mất và tiếp tục đè Zombie phía trước. Nếu nuốt chững thất bại, chỉ gây 1800 sát thương và biến mất. </color>",
+      "cost": "\n<size=36><color=#3D1400>Công Thức: <color=red>Bí Đè + Hoa Ăn Thịt</color>"
     }
+
   ]
 }

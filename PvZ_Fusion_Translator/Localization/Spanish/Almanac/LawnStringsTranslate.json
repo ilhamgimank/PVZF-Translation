@@ -734,7 +734,7 @@
             "seedType": 906,
             "name": "Pinchobsidiana",
             "introduce": "<size=39><color=#3D1400>Tras ser bautizado por el fuego y el hielo, Pinchobsidiana se volvió duro como el acero. Su temperamento errático probablemente se deba al metal condensado en su boca, haciéndole reacio a hablar.</color></size>",
-            "info": "<size=39>Puede infligir daño masivo y pinchar múltiples neumáticos.\n\n<color=#3D1400>Dureza: </color><color=red>8000</color>\n<color=#3D1400>Daño:</color> <color=red>300*2 cada 1,5s\n\n<color=#3D1400>Especial:</color> <color=red>Hereda las características de Pinchorroca. Recupera 500 PS cada 15s.\n\n<color=purple>Mejoras de Odisea:</color>\n</color></color>- Daño multiplicado x5 | Subespecie Nuez Gema Desbloqueada</color>\n- Gana una reducción de daño del 95%</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Carámbano + Piroclasto</color></size>",
+            "info": "<size=39>Puede infligir daño masivo y pinchar múltiples neumáticos.\n\n<color=#3D1400>Dureza: </color><color=red>8000</color>\n<color=#3D1400>Daño:</color> <color=red>300*2 cada 1,5s\n\n<color=#3D1400>Especial:</color> <color=red>Hereda las características de Pinchorroca. Recupera 500 PS cada 15s.\n\n<color=purple>Mejoras de Odisea:</color>\n</color></color>- Daño multiplicado x5 | Subespecie Pinchonuez Obsidiana Desbloqueada</color>\n- Gana una reducción de daño del 95%</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Carámbano + Piroclasto</color></size>",
             "cost": "<size=33>Costo: <color=red>450, 525</color>   Recarga: <color=red>215 Segundos</color>\nPlantas Requeridas: <color=red>6\n<color=purple>Condición de Uso: Modo Odisea - Selección Inicial</color></size>"
         },
         {
@@ -907,9 +907,9 @@
         },
         {
             "seedType": 931,
-            "name": "Nuez Gema",
-            "introduce": "<size=39><color=#3D1400>A Nuez Gema le encantan los abrazos. \"Un abrazo cálido puede calmar hasta al zombi más revoltoso\", dice. Y, efectivamente, todos los zombis que ha abrazado ahora yacen plácidamente en el césped... completamente inmóviles.</color></size>",
-            "info": "<size=39>Refleja el daño que hacen los zombis al morderla.\n\n<color=#3D1400>Dureza: </color><color=red>16000</color>\n\n<color=#3D1400>Especial:</color> <color=red>Subespecie de Pinchobsidiana que se puede cambiar entre Nuez y Pinchorroca.\n- Refleja 500 de daño a los zombis mordiendolo (al tener el modificador necesario para desbloquear esta planta), y la máxima cantidad de daño que puede recibir es 1000.\n- Recupera 1500 PS cada 15 segundos.\n- Puede pinchar neumáticos, lo que inflige el 50% de la dureza máxima del zombi y lo repele.\n\n<color=purple>Mejoras de Odisea:</color>\n</color></color></color>- Daño multiplicado x5 | Subespecie Nuez Gema Desbloqueada</color>\n<color=black>   - Hereda sus características.</color></color>\n- Gana una reducción de daño del 95%</color>\n<color=black>   - Hereda sus características.</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Pinchobsidiana + Nuez</color></size>",
+            "name": "Pinchonuez Obsidiana",
+            "introduce": "<size=39><color=#3D1400>A Pinchonuez Obsidiana le encantan los abrazos. \"Un abrazo cálido puede calmar hasta al zombi más revoltoso\", dice. Y, efectivamente, todos los zombis que ha abrazado ahora yacen plácidamente en el césped... completamente inmóviles.</color></size>",
+            "info": "<size=39>Refleja el daño que hacen los zombis al morderla.\n\n<color=#3D1400>Dureza: </color><color=red>16000</color>\n\n<color=#3D1400>Especial:</color> <color=red>Subespecie de Pinchobsidiana que se puede cambiar entre Nuez y Pinchorroca.\n- Refleja 500 de daño a los zombis mordiendolo (al tener el modificador necesario para desbloquear esta planta), y la máxima cantidad de daño que puede recibir es 1000.\n- Recupera 1500 PS cada 15 segundos.\n- Puede pinchar neumáticos, lo que inflige el 50% de la dureza máxima del zombi y lo repele.\n\n<color=purple>Mejoras de Odisea:</color>\n</color></color></color>- Daño multiplicado x5 | Subespecie Pinchonuez Obsidiana Desbloqueada</color>\n<color=black>   - Hereda sus características.</color></color>\n- Gana una reducción de daño del 95%</color>\n<color=black>   - Hereda sus características.</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Pinchobsidiana + Nuez</color></size>",
             "cost": "<size=33>Costo: <color=red>500, 575</color>   Recarga: <color=red>245 Segundos</color>\nPlantas Requeridas: <color=red>7\n<color=purple>Condición de Uso: Mejora de Odisea - S.I.</color></size>"
         },
         {
@@ -2127,7 +2127,7 @@
             "seedType": 1126,
             "name": "Tacopulta",
             "introduce": "<size=39><color=#3D1400>\"Cuando era pequeño, los mayores siempre me preguntaban qué tipo de lanzador quería ser,\" dice Tacopulta. \"Todos pensaban que no se puede tener maíz, melón y col a la vez, pero yo no estaba de acuerdo. Aunque era solo un niño, quería tenerlo todo.\"</color></size>",
-            "info": "<size=39>Puede disparar proyectiles mixtos en sucesión rápida.</color>\n\n<color=#3D1400>Daño:</color> <color=red>140 cada 5s\n<color=#3D1400>Especial:</color> <color=red>42% de probabilidad de disparo rápido. Los proyectiles se dividen en una mezcla de mazorcas (25% de probabilidad de lanzar una mantequilla que inmoviliza el zombi por 4 segundos) y sandías al impactar a los zombis.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Coltapulta + Lanzamaíz + Melonpulta</color></size>",
+            "info": "<size=39>Puede disparar proyectiles mixtos en sucesión rápida.</color>\n\n<color=#3D140de probabilidad de lanzar una mantequilla0>Daño:</color> <color=red>140 cada 5s\n<color=#3D1400>Especial:</color> <color=red>42% de probabilidad de disparo rápido. Los proyectiles se dividen en una mezcla de mazorcas (25%  que inmoviliza el zombi por 4 segundos) y sandías al impactar a los zombis.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Coltapulta + Lanzamaíz + Melonpulta</color></size>",
             "cost": "<size=39>Costo: <color=red>500</color>   Recarga: <color=red>22,5 Segundos</color>\nPlantas Requeridas: <color=red>3</color></size>"
         },
         {
@@ -3749,234 +3749,234 @@
         },
         {
             "seedType": 1358,
-            "name": "Ray-shroom",
-            "introduce": "<align=justified><size=36><color=black>\"Every plant I see is wearing sunglasses,\" Ray-shroom grumbles. \"It's ridiculous, so pretentious!\" In the end, Ray-shroom chalks it up to some inexplicable trend, while the other plants agree that staring directly at an ultra-high-power laser emitter is obviously bad for your eyesight…</color>",
-            "info": "<size=36>Fires a piercing laser ray. Damage falls off with distance and increases with Lumos.\n\n<color=black>Damage: </color><color=#8B0000>10/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Fires across the entire lane with unlimited pierce.\n<color=black>•</color> Each Lumos level increases damage by 0.5×.\n<color=black>•</color> Damage increases by 1.6×(5 - column distance to the target). At Lumos level 3 or higher, this instead becomes 0.8×(10 - column distance).</color>",
-            "cost": "<size=36>Fusion Formula: <color=#8B0000>Fume-shroom + Plantern</color>"
+            "name": "Linterseta",
+            "introduce": "<align=justified><size=36><color=black>\"Todas las plantas que veo llevan gafas de sol,\" gruñe Linterseta. \"Es ridiculo, es pretencioso!\" Al final Linterseta lo atribuye a alguna moda rara, mientras las otras plantas estan de acuerdo que mirar directamente a un emisor de luz de alta potencia es obviamente malo para la vista…</color>",
+            "info": "<size=36>Dispara un rayo perforante. Pierde daño con la distancia y aumenta con niveles Lúmina.\n\n<color=black>Daño: </color><color=#8B0000>10/1.5s</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> dispara en linea recta y atraviesa toda la fila con perforación ilimitada.\n<color=black>•</color> Cada nivel de Lúmina aumenta el daño en 0.5×.\n<color=black>•</color> El daño aumenta en 1.6×(5 - columnas de distancia al objetivo). En el nivel 3 o superior de Lúmina, esto se convierte en 0.8×(10 - columnas de distancia al objetivo).</color>",
+            "cost": "<size=36>Fórmula de Fusión: <color=#8B0000>Humoseta + Planterna</color>"
         },
         {
             "seedType": 1359,
-            "name": "Cabbage Dropper",
-            "introduce": "<align=justified><size=36><color=black>After years of mindlessly throwing cabbages, seeing the world at that height really makes you think. What if those cabbages had a life? Hopes and dreams? Families? Children? All of those questions run through Cabbage Dropper's leafy mind.</color>",
-            "info": "<size=36>Provides close-range air support by dropping cabbages.\n\n<color=black>Damage: </color><color=#8B0000>40×3/3s</color>\n<color=black>Attack Range: </color><color=#8B0000>Own tile and 2 adjacent tiles in the same lane</color>\n<color=black>Special: </color><color=#8B0000>Flying plant.</color>",
-            "cost": "<size=36>Fusion Formula: <color=#8B0000>Blover + Cabbage-pult</color>"
+            "name": "Dron Col",
+            "introduce": "<align=justified><size=36><color=black>Despues de años de lanza coles sin pensar, ver el mundo desde lo alto realmente te pone a pensar. que si esas coles tenian una vida? Esperanzas y sueños? Familias? Hijos? Todas estas preguntas atravesaron la densa mente de Dron Col.</color>",
+            "info": "<size=36>Provee apoyo de corto alcance disparando coles.\n\n<color=black>Daño: </color><color=#8B0000>40×3/3s</color>\n<color=black>Rango de ataque: </color><color=#8B0000>Su casilla propia y 2 casillas adyacentes</color>\n<color=black>Especial: </color><color=#8B0000>Planta aérea.</color>",
+            "cost": "<size=36>Fórmula de Fusión: <color=#8B0000>Trebolador + Coltapulta</color>"
         },
         {
             "seedType": 1360,
-            "name": "Butter Fly",
-            "introduce": "<align=justified><size=36><color=black>Butter Fly signed up for the Garden Variety Show, hoping to play a UFO on stage, but it never made the cut. He just kept dropping corn and butter everywhere, drawing fierce opposition from the ground crew, and even causing the director who supported him to take a nasty fall.</color>",
-            "info": "<size=36>Provides close-range air support by dropping corn kernels or butter.\n\n<color=black>Damage: </color><color=#8B0000>20×3/3s</color>\n<color=black>Attack Range: </color><color=#8B0000>Own tile and 2 adjacent tiles in the same lane</color>\n<color=black>Special: </color><color=#8B0000>Flying plant. Has a 25% chance to drop butter, dealing 40 damage.</color>",
-            "cost": "<size=36>Fusion Formula: <color=#8B0000>Blover + Kernel-pult</color>"
+            "name": "Dron Maiz",
+            "introduce": "<align=justified><size=36><color=black>Dron Maiz se inscribió en el Garden Variety Show, esperando interpretar a un OVNI en el escenario, pero nunca fue seleccionado. Simplemente seguía dejando caer granos y mantequilla por todas partes, provocando un fuerte rechazo de el equipo de tierra, e incluso haciendo que el director que lo apoyaba sufriera una desagradable caída.</color>",
+            "info": "<size=36>Provee apoyo de corto alcance disparando  granos o mantequilla.\n\n<color=black>Daño: </color><color=#8B0000>20×3/3s</color>\n<color=black>Rango de ataque: </color><color=#8B0000>Su casilla propia y 2 casillas adyacentes</color>\n<color=black>Especial: </color><color=#8B0000>Planta aérea. Tiene un 25% de probabilidad de lanzar una mantequilla, inflige 40 Daño.</color>",
+            "cost": "<size=36>Fórmula de Fusión: <color=#8B0000>Trebolador + Lanzamaíz</color>"
         },
         {
             "seedType": 1361,
-            "name": "Fall Melon",
-            "introduce": "<align=justified><size=36><color=black>Other melons call him lazy, but Fall Melon insists he's efficient. \"Just let gravity do the work! Throwing things is exhausting!\" He seems to completely ignore the fact that this also shortens his range.</color>",
-            "info": "<size=36>Provides close-range air support by dropping melons.\n\n<color=black>Damage: </color><color=#8B0000>80×3/3s</color>\n<color=black>Attack Range: </color><color=#8B0000>Own tile and 2 adjacent tiles in the same lane</color>\n<color=black>Special: </color><color=#8B0000>Flying plant.</color>",
-            "cost": "<size=36>Fusion Formula: <color=#8B0000>Blover + Melon-pult</color>"
+            "name": "Dron Melon",
+            "introduce": "<align=justified><size=36><color=black>Otros melones lo llaman perezoso, pero Dron Melon insiste en que es eficiente. \"¡Solo deja que la gravedad haga el trabajo! ¡Lanzar cosas es agotador!\" Parece ignorar por completo el hecho de que esto también reduce su alcance.</color>",
+            "info": "<size=36>Provee apoyo de corto alcance disparando melones\n<color=black>Daño: </color><color=#8B0000>80×3/3s</color>\n<color=black>Rango de ataque: </color><color=#8B0000>Su casilla propia y 2 casillas adyacentes</color>\n<color=black>Especial: </color><color=#8B0000>Planta aérea.</color>",
+            "cost": "<size=36>Fórmula de Fusión: <color=#8B0000>Trebolador + Melonpulta</color>"
         },
         {
             "seedType": 1362,
-            "name": "Starch-shroom",
-            "introduce": "<align=justified><size=36><color=black>After accepting a brand partnership offer from Potato Mine, Starch-shroom quit his bakery job. \"Joining the explosive-making industry was the best decision I've ever made,\" says Starch-shroom. \"Spraying starch straight from your mouth is way more efficient than fermenting bread!\"</color>",
-            "info": "<size=36>The fume he sprays carries a strong potato scent, sometimes even explosive!\n\n<color=black>Damage: </color><color=#8B0000>30/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Every 10th attack, triggers a Potato Mine explosion that deals 300 damage at the position of each zombie hit.</color>",
-            "cost": "<size=36>Fusion Formula: <color=#8B0000>Potato Mine + Fume-shroom</color>"
+            "name": "Papotaseta",
+            "introduce": "<align=justified><size=36><color=black>Despues de aceptar una oferta de asociación de marca de Patatapum, Papotaseta dejó su trabajo en la panadería. \"Unirse a la industria de la fabricación de explosivos fue la mejor decisión que he tomado,\" dice Papotaseta. \"Rocear almidón directamente desde tu boca es mucho más eficiente que fermentar pan!\"</color>",
+            "info": "<size=36>El humo que expulsa lleva un fuerte olor a papa, a veces incluso es explosivo!\n\n<color=black>Daño: </color><color=#8B0000>30/1.5s</color>\n<color=black>Especial: </color><color=#8B0000>Cada 10º ataque, genera una explosión de Patatapum que inflige 300 Daño en la posición de cada zombie golpeado.</color>",
+            "cost": "<size=36>Fórmula de Fusión: <color=#8B0000>Patatapum + Humoseta</color>"
         },
         {
             "seedType": 1363,
-            "name": "Butternut-pult",
-            "introduce": "<align=justified><size=36><color=black>Butternut-pult was never good at biology. He's always believed that the idea of \"apical dominance\" is wrong, but he's learned to keep that opinion to himself, not because he's embarrassed about his grades, but because he doesn’t want anyone to realize he's a corn with an underdeveloped tip.</color>",
-            "info": "<size=36>Thrown projectiles slam zombies like a Squash, with a chance to butter the ones that get crushed.\n\n<color=black>Damage: </color><color=#8B0000>60/3s (Squash)</color>\n<color=black>Special: </color><color=#8B0000>Projectiles deal area squash damage when they land. Has a 25% chance to throw a Butter Squash, dealing 60 damage and applying 4s of Butter stun to up to 3 damaged targets.</color>",
-            "cost": "<size=36>Fusion Formula: <color=#8B0000>Squash + Kernel-pult</color>"
+            "name": "Lanzamaíz Pesado",
+            "introduce": "<align=justified><size=36><color=black>Lanzamaíz Pesado nunca fue buena en la biología. Siempre ha creído que la idea de la \"dominancia aplastante\" es errónea, pero ha aprendido a guardarse esa opinión, no porque le avergüencen sus notas, sino porque no quiere que nadie se dé cuenta de que es una mazorca con la punta subdesarrollada.</color>",
+            "info": "<size=36>Lanza proyectiles que aplastan zombies como una Apisonaflor, con una probabilidad de pegar mantequilla a los que son aplastados.\n\n<color=black>Daño: </color><color=#8B0000>60/3s (Apisonaflor)</color>\n<color=black>Especial: </color><color=#8B0000>Los proyectiles hacen daño en área cuando impactan. Tiene un 25% de probabilidad de lanzar un Apisonaflor de mantequilla, causando 60 de daño y aplicando 4s de aturdimiento de mantequilla a hasta 3 objetivos afectados.</color>",
+            "cost": "<size=36>Fórmula de Fusión: <color=#8B0000>Apisonaflor + Lanzamaíz</color>"
         },
         {
             "seedType": 1364,
-            "name": "Crater-tot",
-            "introduce": "<align=justified><size=36><color=black>As the head chef of a French fry restaurant, Crater-tot runs a tight kitchen and is known for his strict, no-nonsense management. But behind his successful spud career lies a personal struggle: his explosive temper means he can no longer make delicious fries.</color>",
-            "info": "<size=36>Shatters in a devastating explosion, scattering five Potato Mines that instantly arm on landing.\n\n<color=black>Damage: </color><color=#8B0000>1800 (Cremator)</color>\n<color=black>Special: </color><color=#8B0000>Short plant. When it explodes, it also triggers a Doom-shroom effect, then throws potato chunks onto 5 empty tiles. Each chunk creates a fully armed Potato Mine as soon as it lands.</color>",
-            "cost": "<size=36>Fusion Formula: <color=#8B0000>Potato Mine + Doom-shroom</color>"
+            "name": "Petapapum",
+            "introduce": "<align=justified><size=36><color=black>Como el jefe de cocina de un restaurante de papas fritas, Petapapum dirige una cocina impecable y es conocido por su gestión estricta y sin rodeos. Pero tras su exitosa carrera en el mundo de las patatas fritas se esconde una lucha personal: su temperamento explosivo le impide preparar unas patatas fritas deliciosas.</color>",
+            "info": "<size=36>Genera una explosión devastadora, dispersando cinco Patatapums que se activan instantáneamente al aterrizar..\n\n<color=black>Daño: </color><color=#8B0000>1800 (Incinerador)</color>\n<color=black>Especial: </color><color=#8B0000>Planta baja. Al explotar, también desencadena una explosion de Petaseta y lanza trozos de patatapum a 5 casillas vacías. Cada trozo crea un Patatapum completamente armadas en cuanto aterrizan..</color>",
+            "cost": "<size=36>Fórmula de Fusión: <color=#8B0000>Patatapum + Petaseta</color>"
         },
         {
             "seedType": 1365,
-            "name": "Zodiac-shroom",
-            "introduce": "<align=justified><size=36><color=black>Zodiac-shroom worries that the loose tuft of fuzz on top of his cap makes him look silly, though most zombies would never understand why that bothers him.</color>",
-            "info": "<size=36>Zombies that bite him become hypnotized, turning into moving star launchers.\n\n<color=black>Special: </color><color=#8B0000>When bitten, hypnotizes the zombie and disappears, causing it to fire stars in a spiral: 60 volleys (300 total star projectiles).</color>",
-            "cost": "<size=36>Fusion Formula: <color=#8B0000>Hypno-shroom + Starfruit</color>"
+            "name": "Seta del Zodiaco",
+            "introduce": "<align=justified><size=36><color=black>Seta del Zodiaco le preocupa que el mechón suelto de pelusa sobre su gorra lo haga parecer ridículo, aunque la mayoría de los zombis nunca entenderían por qué eso le molesta.</color>",
+            "info": "<size=36>Los zombis que lo muerden quedan hipnotizados y lanzan estrellas a gran velocidad.\n\n<color=black>Especial: </color><color=#8B0000>Cuando es comida, hynotiza al zombie y desaparece, causando que dispare estreelas en espiral: 60 rafagas (300 proyectiles de estrella en total).</color>",
+            "cost": "<size=36>Fórmula de Fusión: <color=#8B0000>Hipnoseta + Frustrella</color>"
         },
         {
             "seedType": 1366,
-            "name": "Pea Squash",
-            "introduce": "<align=justified><size=36><color=black>\"Should I jump up and smash zombies, or should I just be a proper shooter?\" That question haunted Pea Squash throughout his entire adolescence. In the end, he chose the more traditional Squash lifestyle, but every time he hits the ground, those little green bumps on his body reflexively fire peas anyway.</color>",
-            "info": "<size=36>Bursts into a storm of peas when it slams down.\n\n<color=black>Damage: </color><color=#8B0000>1800 (Squash)</color>\n<color=black>Detection Range: </color><color=#8B0000>0.5 tiles to the left; 1 tile to the right</color>\n<color=black>Special: </color><color=#8B0000>When it lands, releases 3 rings of pea projectiles (108 peas total).</color>",
-            "cost": "<size=36>Fusion Formula: <color=#8B0000>Peashooter + Squash</color>"
+            "name": "Apisonaflor Guisante",
+            "introduce": "<align=justified><size=36><color=black>\"¿Debo saltar y aplastar zombis, o debo ser un lanzador de verdad? Esa pregunta atormentó a Apisoguisante durante toda su adolescencia. Al final, optó por el estilo de vida más tradicional de Apisonaflor, pero cada vez que toca el suelo, esos pequeños bultos verdes en su cuerpo disparan guisantes por reflejo.</color>",
+            "info": "<size=36>Libera una tormenta de guisabtes al aplastar.\n\n<color=black>Daño: </color><color=#8B0000>1800 (Apisonaflor)</color>\n<color=black>Rango de Deteccion: </color><color=#8B0000>0.5 casillas a la izquierda; 1 casilla a la derecha</color>\n<color=black>Especial: </color><color=#8B0000>Al aplastar, libera 3 anillos de guisantes (108 guisantes en total).</color>",
+            "cost": "<size=36>Fórmula de Fusión: <color=#8B0000>Lanzaguisantes + Apisonaflor</color>"
         },
         {
             "seedType": 1367,
-            "name": "Silver Ice-shroom",
-            "introduce": "<align=justified><size=36><color=black>Ruthless. Cold-blooded. Those are the labels people stick on Silver Ice-shroom, even other Ice-shrooms think he's too icy. Silver Ice-shroom doesn't care. His success comes from being cold-hearted; anyone who isn't ruthless enough simply can't survive in the cold-chain logistics business.</color>",
-            "info": "<size=36>An Ice-shroom coated in silver frost.\n\n<color=black>Special: </color><color=#8B0000>Freezes for 1 second longer than a normal Ice-shroom.</color>",
-            "cost": "<size=36>Fusion Formula: <color=#8B0000>Ice-shroom + Marigold</color>"
+            "name": "Seta Congelada Plateada",
+            "introduce": "<align=justified><size=36><color=black>Despiadado. De sangre fría. Así es como se describe a Seta Congelada Plateada; incluso otras Setas Congeladas lo consideran demasiado frío. A Seta Congelada Plateada no le importa. Su éxito radica en su frialdad; cualquiera que no sea lo suficientemente despiadado simplemente no puede sobrevivir en el negocio de la logística de la cadena de frío.</color>",
+            "info": "<size=36>Una Seta Congelada cubierta de escarcha plateada.\n\n<color=black>Especial: </color><color=#8B0000>Congela por 1 segundo mas que una Seta Congelada normal.</color>",
+            "cost": "<size=36>Fórmula de Fusión: <color=#8B0000>Seta Congelada + Margarita</color>"
         },
         {
             "seedType": 1368,
-            "name": "Golden Ice-shroom",
-            "introduce": "<align=justified><size=36><color=black>A monopolist of the cold-chain logistics industry, Golden Ice-shroom can sway the temperature of the market with just a light sprinkle of coins. After years in the business, his wealth and fame are beyond counting, and his life is complete… except for the fact that he still can't cure his facial paralysis.</color>",
-            "info": "<size=36>A stable, gold-plated Ice-shroom that brings extreme cold through money.\n\n<color=black>Special: </color><color=#8B0000>Triggers an Ice-shroom effect once on appearance (does not disappear afterwards).</color>\n<color=black>Ultimate: </color><color=#8B0000>Costs 3000 Coins, Cooldown: 2s; repeats the following effects 4 times on targets within a 2.2-tile radius:\n-Deals 200 damage, applies Chill and 25 Cryo point, and reduces the target's Cryo cap by 100.\n-Fires an icicle at each target dealing 20 damage. Icicles deal 2× damage to Chilled zombies and 4× damage to frozen zombies.</color>",
-            "cost": "\n<size=36>Upgrade Cost: </color><color=#8B0000>3000 Coins</color>"
+            "name": "Seta Congelada Dorada",
+            "introduce": "<align=justified><size=36><color=black>Monopolio de la industria de la logística de cadena de frío, Seta Congelada Dorada puede influir en el mercado con tan solo unas monedas. Tras años en el negocio, su riqueza y fama son incalculables, y su vida es plena… salvo por el hecho de que aún no ha podido curar su parálisis facial.</color>",
+            "info": "<size=36>Una Seta Congelada estable y chapada en oro que trae frío extremo a través del dinero.\n\n<color=black>Especial: </color><color=#8B0000>Activa el efecto de una Seta Congelada una vez al aparecer (no desaparece).</color>\n<color=black>Uso de Monedas: </color><color=#8B0000>Consume 3000 monedas, Recarga: 2s; Repite los siguientes efectos 4 veces en objetivos dentro de un radio de 2.2 casillas: - Inflige 200 de Daño, congela y aplica 25 puntos criogenicos, y reduce el límite para congelar del objetivo en 100 puntos. - Dispara un carámbano a cada objetivo infligiendo 20 de daño. Los carámbanos infligen 2× daño a los zombis Helados y 4× daño a los zombis Congelados.</color>",
+            "cost": "\n<size=36>Costo de Mejora: </color><color=#8B0000>3000 Monedas</color>"
         },
         {
             "seedType": 1369,
-            "name": "Rebound-shroom",
-            "introduce": "<align=justified><size=36><color=black>Table tennis is a shared passion of both plants and zombies, and Rebound Shroom is a household name in the zombie world, having defeated countless graveyard champions. By reporting opponents for the foul of returning the ball with their heads, he has claimed gold medals in over a dozen Plant-Zombie Table Tennis Championships, while his not-too-bright opponents have never noticed that he commits the very same foul himself.</color>",
-            "info": "<size=36>Treats projectiles as table tennis balls, batting them back and forth continuously toward zombies' heads.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> When a lobbed projectile in the same lane hits a zombie in front, it will rebound toward Rebound-shroom and then continue bouncing back and forth between the two.\n<color=black>•</color> Only one projectile can be bounced at a time; the bounce height gradually decreases until it hits the ground.\n<color=black>•</color> Does not bounce projectiles that can already bounce on their own.</color>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Fume-shroom + Cabbage-pult</color>"
+            "name": "PingPongseta",
+            "introduce": "<align=justified><size=36><color=black>El tenis de mesa es una pasión compartida tanto por plantas como por zombis, y PingPongseta es un nombre conocido en el mundo zombi, tras haber derrotado a innumerables campeones del cementerio. Al denunciar a sus oponentes por la falta de devolver la pelota con la cabeza, ha ganado medallas de oro en más de una docena de Campeonatos de Tenis de Mesa entre Plantas y Zombis, mientras que sus oponentes, no muy listos, jamás se han percatado de que él mismo comete la misma falta.</color>",
+            "info": "<size=36>Trata los proyectiles como si fueran pelotas de ping-pong, golpeándolos continuamente de un lado a otro hacia las cabezas de los zombis.\n\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Cuando un proyectil lanzado en el mismo carril golpea a un zombi que está delante, rebotará hacia PingPongseta y luego continuará rebotando de un lado a otro entre los dos.\n<color=black>•</color> Solo puede rebotar un proyectil a la vez; la altura del rebote disminuye gradualmente hasta que toca el suelo.\n<color=black>•</color> No rebota proyectiles que ya pueden rebotar por sí solos.</color>",
+            "cost": "\n<size=36>Fórmula de Fusión: <color=#8B0000>Humoseta + Coltapulta</color>"
         },
         {
             "seedType": 1370,
-            "name": "Squish",
-            "introduce": "<align=justified><size=36><color=black>They're just three kids pestering you for candy. The only unusual thing is that if you refuse their request, you might feel a bit of \"pressure.\"</color>",
-            "info": "<size=36>Energetic little squashes that hop around and smash enemies.\n\n<color=black>Damage: </color><color=#8B0000>300 (Squash)</color>\n<color=black>Detection Range: </color><color=#8B0000>1 tile to the left and right</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant. Can be planted 3 times in one tile.\n<color=black>•</color> Smashes once every 1s and does not disappear after smashing; when not targeting, jumps back to its original tile.\n<color=black>•</color> Vulnerable to zombie attack for 0.6s after each smash.\n<color=black>•</color> Immune to crush. When crushed, takes 500 damage every 0.02s. When smashed, takes damage equal to the corresponding damage a hypnotized zombie would take when smashed.</color>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Squash > Puff-shroom</color>"
+            "name": "Apisonaflorcita",
+            "introduce": "<align=justified><size=36><color=black>Son solo tres niños que te están pidiendo caramelos. Lo único raro es que, si te niegas, podrías sentir un poco de \"presión\".</color>",
+            "info": "<size=36>Pequeñas y enérgicas Apisonaflores que saltan y aplastan a los enemigos.\n\n<color=black>Daño: </color><color=#8B0000>300 (Apisonaflor)</color>\n<color=black>Rango de Deteccion: </color><color=#8B0000>1 casilla a la izquierda y derecha</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Planta baja. Se puede plantar 3 veces en una casilla.\n<color=black>•</color> Aplastan 1 una vez cada 1 s y no desaparece después de aplastar ; cuando no tiene objetivo, salta de vuelta a su casilla original.\n<color=black>•</color> Vulnerable a los ataques de zombies por 0.6s despues de atacar.\n<color=black>•</color> Inmune al aplastamiento. Al ser aplastado, recibe 500 daño cada 0,02 s. Al ser aplastado, recibe daño equivalente al daño que recibiria un zombi hipnotizado al ser aplastado.</color>",
+            "cost": "\n<size=36>Fórmula de Fusión: <color=#8B0000>Apisonaflor + Seta desesporada (en orden)</color>"
         },
         {
             "seedType": 1371,
-            "name": "Doom Pumpkin",
-            "introduce": "<align=justified><size=36><color=black>Doom Pumpkin is always advertising his services as being great for healthier-looking skin, but plant inspectors often complain that his treatments are dangerously radioactive.</color>",
-            "info": "<size=36>Channels the power of Doom-shroom into the plants inside.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Gains 1% charge every 0.5s; enters the field with a starting charge between 80%-95% randomly.\n<color=black>•</color> When charge meter is full (100%), can consume all charge to transform one plant on his tile into a fusion of that plant and Doom-shroom (the resulting plant must not be an Odyssey fusion).</color>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Doom-shroom > Pumpkin</color>"
+            "name": "Calabaza de la perdicion",
+            "introduce": "<align=justified><size=36><color=black>Calabaza de la perdicion siempre anuncia sus servicios como excelentes para una piel mas sana, pero los inspectores de plantas a menudo se quejan de que sus tratamientos son peligrosamente radiactivos.</color>",
+            "info": "<size=36>Canaliza el poder de Petaseta hacia las plantas del interior.\n\n<color=black>Dureza: </color><color=#8B0000>4000</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Gana un 1% de carga cada 0,5 s; entra al campo con una carga inicial aleatoria entre 80%-95%.\n<color=black>•</color> Cuando el medidor de carga está lleno (100%), puede consumir toda la carga para transformar una planta a la fusión de esa planta y Petaseta (la planta resultante no puede ser una fusión de Odisea).</color>",
+            "cost": "\n<size=36>Fórmula de Fusión: <color=#8B0000>Petaseta + Calabaza</color>"
         },
         {
             "seedType": 1372,
-            "name": "Spike Pot",
-            "introduce": "<align=justified><size=36><color=black>Every plant that's spent time with Spike Pot complains that he's far too enthusiastic and has no sense of personal boundaries. Only Obsidian Spike-nut doesn't mind, and the reason is simple: Spike Pot is the only one willing to help de-rust Obsidian Spike-nut's razor-sharp shell.</color>",
-            "info": "<size=36>Has Spikeweed traits and enhances the defenses of Spike-nut plants.\n\n<color=black>Damage: </color><color=#8B0000>20/1s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant. Inherits traits from Spikeweed (ignored by biting zombies and pops tires).\n<color=black>•</color> Grants 50% damage reduction to Spike-nut and Obsidian Spike-nut on him.\n<color=black>•</color> Becomes anti-crush if the plant above is an Obsidian Spike-nut.</color>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Spikeweed > Flower Pot</color>"
+            "name": "Maceta Espinosa",
+            "introduce": "<align=justified><size=36><color=black>Todas las plantas que han pasado tiempo con Maceta Espinosa se quejan de que es demasiado entusiasta y no tiene ningún sentido de límites personales. Sólo a Nuez Obsidiana no le importa, y la razón es simple: Maceta Espinosa es el único dispuesto a ayudar a desoxidar la afilada cáscara de Pinchonuez Obsidiana.</color>",
+            "info": "<size=36>Tiene rasgos de Pinchohierba y mejora las defensas de las Pinchonueces..\n\n<color=black>Daño: </color><color=#8B0000>20/1s</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Planta baja. Hereda rasgos de Pinchohierba (ignorado por los zombis que muerden y revienta neumáticos).\n<color=black>•</color> Le otorga una reducción del 50% de Daño a Pinchonuez y Nuez Obsidiana.\n<color=black>•</color> Se vuelve inmune al aplastamiento si la planta de arriba es una Pinchonuez Obsidiana.</color>",
+            "cost": "\n<size=36>Fórmula de Fusión: <color=#8B0000>Spikeweed + Maceta</color>"
         },
         {
             "seedType": 1373,
             "name": "Beamshooter",
-            "introduce": "<align=justified><size=36><color=black>Lumos Pea started out as a kid who loved shining laser pointers at people. Later, Pharos Umbrella taught him how to use that trick on zombies instead.</color>",
-            "info": "<size=36>Fires high-frequency targeted lasers; absorbs Lumos energy to increase power.\n\n<color=black>Damage: </color><color=#8B0000>10/0.2s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Gains Lumos energy equal to Lumos level every 0.5s, up to 1000. Each laser beam consumes (1 + current energy × 10%) energy when attacking or transferring.\n<color=black>•</color> Can lock onto a Split Beam in front in the same lane (not directly adjacent). Transfers energy every 0.1s, restoring energy equal to 10% of its attack. Each point of energy spent doubles the amount transferred.\n<color=black>•</color> Consumes energy every 0.2s to attack, increasing damage by the amount of energy spent.</color>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Peashooter + Plantern</color>"
+            "introduce": "<align=justified><size=36><color=black>Lúmina Pea started out as a kid who loved shining laser pointers at people. Later, Pharos Umbrella taught him how to use that trick on zombies instead.</color>",
+            "info": "<size=36>Fires high-frequency targeted lasers; absorbs Lúmina energy to increase power.\n\n<color=black>Daño: </color><color=#8B0000>10/0.2s</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Gains Lúmina energy equal to Lúmina level every 0.5s, up to 1000. Each laser beam consumes (1 + current energy × 10%) energy when attacking or transferring.\n<color=black>•</color> Can lock onto a Split Beam in front in the same lane (not directly adjacent). Transfers energy every 0.1s, restoring energy equal to 10% of its attack. Each point of energy spent doubles the amount transferred.\n<color=black>•</color> Consumes energy every 0.2s to attack, increasing Daño by the amount of energy spent.</color>",
+            "cost": "\n<size=36>Fórmula de Fusión: <color=#8B0000>Lanzaguisantes + Plantern</color>"
         },
         {
             "seedType": 1374,
-            "name": "Squash Drone",
-            "introduce": "<align=justified><size=36><color=black>By harnessing gravitational potential energy, floating Squashes can unleash devastating slams with ease: making the exaggerated wind-up before attacking seem unnecessary. \"Not unnecessary at all,\" explains Squash Drone. \"I'm shooing away the ladybugs resting on my leaves, so I don't hit them by accident.\"</color>",
-            "info": "<size=36>Repeatedly slams down on zombies beneath him.\n\n<color=black>Damage: </color><color=#8B0000>100/2s (Squash)</color>\n<color=black>Detection Range: </color><color=#8B0000>Current tile</color>\n<color=black>Special: </color><color=#8B0000> Flying plant. When a zombie is in range, smashes the zombie below repeatedly.</color>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Squash + Blover</color>"
+            "name": "Dron Apisonaflor",
+            "introduce": "<align=justified><size=36><color=black>Al aprovechar la energía potencial de la gravedad, los Apisonaflores flotantes pueden desatar ataques devastadores con facilidad: haciendo que la exageración antes de atacar parezca innecesaria. \"No es innecesario en absoluto,\" explica Dron Apisonaflor. \"Estoy ahuyentando a las mariquitas que descansan sobre mis hojas, para no golpearlas por accidente.\"</color>",
+            "info": "<size=36>Golpea repetidamente a los zombies debajo de él.\n\n<color=black>Daño: </color><color=#8B0000>100/2s (Apisonaflor)</color>\n<color=black>Rango de Deteccion: </color><color=#8B0000>Su propia casilla</color>\n<color=black>Especial: </color><color=#8B0000> Planta aérea. Cuando un zombi está dentro del alcance, aplasta al zombi que está debajo repetidamente.</color>",
+            "cost": "\n<size=36>Fórmula de Fusión: <color=#8B0000>Apisonaflor + Trebolador</color>"
         },
         {
             "seedType": 1375,
-            "name": "Coldslaw",
-            "introduce": "<align=justified><size=36><color=black>\"You have no idea how terrifying that place was,\" Coldslaw says, still shaken. \"A land of extreme cold, where countless plants were frozen forever. If I hadn't risked my life to open the door back outside, we vegetables would've all died in there.\" Oh, he's talking about his adventure inside Dave's refrigerator again.</color>",
-            "info": "<size=36>Lobs frozen cabbages and attacks faster when hitting frozen enemies.\n\n<color=black>Damage: </color><color=#8B0000>40/3s</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Attacks inflict Chill, add 10 Cryo points and deal ×4 damage to frozen zombies.</color>\n<color=black>Special: </color><color=#8B0000>On hitting a Frozen zombie, the projectile can bounce once, and Coldslaw's attack speed is greatly increased for 3s. This effect can only trigger again 1.5s after it ends.</color>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Ice-shroom + Cabbage-pult</color>"
+            "name": "Coltapulta Congelada",
+            "introduce": "<align=justified><size=36><color=black>\"No tienes idea de lo aterrador que era ese lugar,\" Coltapulta congelada dice, todavía conmocionado. \"Una tierra de frío extremo, donde innumerables plantas quedaron congeladas para siempre. Si no hubiera arriesgado mi vida para abrir la puerta afuera, todos los vegetales habríamos muerto allí.\" Oh, está hablando de su aventura dentro del refrigerador de Dave otra vez.</color>",
+            "info": "<size=36>Lanza coles congeladas y ataca más rápido al golpear a enemigos congelados.\n\n<color=black>Daño: </color><color=#8B0000>40/3s</color>\n<color=#0077b6>Sistema criogénico: </color><color=#8B0000>Los ataques infligen efecto helado, agrega 10 puntos de crio y causan ×4 Daño a los zombis congelados.</color>\n<color=black>Especial: </color><color=#8B0000>Al golpear a un zombi congelado, el proyectil puede rebotar una vez y la velocidad de ataque de Coltapulta congelada aumenta considerablemente durante 3 segundos. Este efecto solo puede activarse nuevamente 1,5 s después de que finalice.</color>",
+            "cost": "\n<size=36>Fórmula de Fusión: <color=#8B0000>Seta Congelada + Coltapulta</color>"
         },
         {
             "seedType": 1376,
-            "name": "Cobsicle",
-            "introduce": "<color=#3D1400>To freeze the perfect butter, Cobsicle made a special trip to Siberia. Now, its butter is as smooth as marble; heavy, hard, beautiful, and makes a satisfying thud when smashed on a zombie's head.'</color>",
-            "info": "<size=36>Lobs frozen kernels and butter.\n\n<color=black>Damage: </color><color=#8B0000>20/3s</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Attacks inflict Chill, add 10 Cryo points and deal ×4 damage to frozen zombies.</color>\n<color=black>Special: </color><color=#8B0000>Has a 25% chance to throw a frozen butter stick that freezes zombies for 4 seconds.</color>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Ice-shroom + Kernel-pult</color>"
+            "name": "Lanzamaíz Congelado",
+            "introduce": "<color=#3D1400>Para congelar la mantequilla perfecta, Lanzamaíz Congelado hizo un viaje especial a Siberia. Ahora su mantequilla es tan lisa como el mármol; Pesado, duro, hermoso y produce un ruido sordo satisfactorio cuando se lo estrella en la cabeza de un zombi.</color>",
+            "info": "<size=36>Lanza granos y mantequilla congelados.\n\n<color=black>Daño: </color><color=#8B0000>20/3s</color>\n<color=#0077b6>Sistema criogénico: </color><color=#8B0000>Los ataques infligen efecto helado, agrega 10 puntos de crio y causan ×4 Daño a los zombis congelados.</color>\n<color=black>Especial: </color><color=#8B0000>Tiene un 25% de probabilidad de lanzar una mantequilla congelada que congela a los zombis durante 4 segundos.</color>",
+            "cost": "\n<size=36>Fórmula de Fusión: <color=#8B0000>Seta Congelada + Lanzamaíz</color>"
         },
         {
             "seedType": 1377,
-            "name": "Tingle Kelp",
-            "introduce": "<color=#3D1400>Tingle Kelp is extremely vigilant. It lives alone, foraging only in shallow waters. When necessary, it even hides beneath zombies to evade predators. It sleeps with one eye open—no easy feat for a plant with only one eye.</color>",
-            "info": "<size=36>When coming in contact with a zombie, Tingle Kelp explodes and attaches itself to other zombies to multiply.\n\n<color=black>Damage: </color><color=#8B0000>20 × 30</color>\n<color=black>Special: </color><color=#8B0000>When a zombie comes into contact with Tingle Kelp, it will burst into 30 kelp projectiles that inflict 1 Tangle value before disappearing. If a zombie is killed by the kelp projectile, an extra Tingle Kelp will spawn on that tile (if possible).</color>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Puff-shroom > Tangle Kelp</color>"
+            "name": "Zampalguita",
+            "introduce": "<color=#3D1400>Zampalguita está extremadamente atento. Vive solo y se alimenta únicamente en aguas poco profundas. Cuando es necesario, incluso se esconde debajo de los zombis para evadir a los depredadores. Duerme con un ojo abierto, lo que no es tarea fácil para una planta con un solo ojo.</color>",
+            "info": "<size=36>Al entrar en contacto con un zombie, Zampalguita explota y se adhiere a otros zombies para multiplicarse.\n\n<color=black>Daño: </color><color=#8B0000>20 × 30</color>\n<color=black>Especial: </color><color=#8B0000>Cuando un zombi entra en contacto con Zampalguita, estallará en 30 proyectiles de algas que infligirán 1 valor de Enredadera antes de desaparecer. Si el proyectil de algas mata a un zombi, aparecerá una Zampalguita adicional en esa casilla (si es posible).</color>",
+            "cost": "\n<size=36>Fórmula de Fusión: <color=#8B0000>Seta Desesporada + Zampalga</color>"
         },
         {
             "seedType": 1378,
-            "name": "Lettuce-pult",
-            "introduce": "<color=#3D1400>\"Smart robots are so handy! I customized one to my exact specifications, and it's massively boosted my throwing efficiency!\" Lettuce-pult exclaimed excitedly. \"Oh, the battle is about to begin.\" With that, he leaped into a larger version of himself. Moments later, he heard the opponent say, \"Smart robots are so handy! I customized one to...\"</color>",
-            "info": "Lettuce-pult can launch tinier versions of itself, unmasking its layers to attack more zombies.\n\n<color=black>Damage: </color><color=#8B0000>60/3s (Squash)</color>\n<color=black>Special: </color><color=#8B0000>Lobs a mini Lettuce-pult that deals AOE crushing damage upon landing, then lobs 2 smaller Lettuce-pults that deal 50% of the original damage before disappearing. The smaller Lettuce-pults lob 2 even smaller Lettuce-pults that deal 25% of the original damage and disappear immediately before disappearing itself.</color>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Squash + Cabbage-pult</color>"
+            "name": "Coltapulta Pesada",
+            "introduce": "<color=#3D1400>\"¡Los robots inteligentes son muy útiles! Personalicé uno según mis especificaciones exactas y ¡aumentó enormemente mi eficiencia de lanzamiento!\"—exclamó Coltapulta Pesada con entusiasmo.\"Oh, la batalla está por comenzar.\" Con eso, saltó a una versión más grande de sí mismo. Momentos después, escuchó al oponente decir:\"¡Los robots inteligentes son muy útiles! Personalicé uno seguns mis...\"</color>",
+            "info": "Coltapulta Pesada puede lanzar versiones más pequeñas de sí mismo, quitandose sus capas para atacar a más zombis.\n\n<color=black>Daño: </color><color=#8B0000>60/3s (Apisonaflor)</color>\n<color=black>Especial: </color><color=#8B0000>Lanza una mini Coltapulta Pesada que inflige Daño en area aplastando al aterrizar, luego lanza 2 Coltapulta Pesadas más pequeñas que infligen el 50% del Daño original antes de desaparecer. La Coltapulta Pesadas más pequeña lanza 2 Coltapulta Pesadas aún más pequeñas que infliguen el 25% del Daño original y desaparecen inmediatamente antes de desaparecer.</color>",
+            "cost": "\n<size=36>Fórmula de Fusión: <color=#8B0000>Apisonaflor + Coltapulta</color>"
         },
         {
             "seedType": 1379,
-            "name": "Triplantern",
-            "introduce": "<color=#3D1400>Triplantern's favorite number is three. Triple the light, triple the vision, even triple the salary. With savings that generous, he can afford triple the snacks, neatly stored in his triple lamp cases. The triple things that he hates are triple the zombies, triple the waves and triple the gacha levels.</color>",
-            "info": "Provides triple the Lumos of a normal Plantern and splits lasers into three.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Provides 3 Lumos levels in a 3×3 area.\n<color=black>•</color> Lumos Cactus and Ray-shroom anti-ground lasers that pass through will create two additional lasers in the same lane, each dealing 30 damage</color>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Threepeater + Plantern</color>"
+            "name": "Triplanterna",
+            "introduce": "<color=#3D1400>el número  favorito de Triplanterna es el tres. Triplica la luz, triplica la visión, incluso triplica el salario. Con ahorros tan generosos, puede permitirse el triple de refrigerios, cuidadosamente guardados en sus estuches de lámparas triples. Las cosas triples que odia son el triple de zombies, el triple de olas y el triple de niveles de gacha.</color>",
+            "info": "Proporciona el triple de Lúmina que un Planter normal y divide los láseres en tres.\n\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Proporciona 3 niveles de Lúmina en un área de 3×3.\n<color=black>•</color> Los láseres anti-tierra de Lumicactus y Linterseta que pasen crearán dos láseres adicionales en el mismo carril, cada uno de los cuales causará 30 Daño</color>",
+            "cost": "\n<size=36>Fórmula de Fusión: <color=#8B0000>Tripitidora + Planterna</color>"
         },
         {
             "seedType": 1380,
-            "name": "Hypno Pot",
-            "introduce": "<color=#3D1400>Hypno Pot is well-liked by everyone. Plants, zombies, even mischievous little beetles are all her friends. She works at a mushroom nursery, and in her free time she's a proud member of the Zombuddies Club, often sharing her handmade rainbow clay during holidays.</color>",
-            "info": "The charm within the pot nurtures hypnotized zombies.\n\n<color=black>Special: </color><color=#8B0000>Grants hypnotized zombies on its tile 33% Damage Reduction and heals 1 HP every 0.04s. When bitten, hypnotizes the attacker and reverts back to a Flower Pot.</color>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Hypno-shroom > Flower Pot</color>"
+            "name": "Maceta Hipnotica",
+            "introduce": "<color=#3D1400>Maceta Hipnotica es del agrado de todos. Plantas, zombis e incluso pequeños escarabajos traviesos son todos sus amigos. Trabaja en una enfermeria para hongos y en su tiempo libre es una orgullosa miembro del Club Zombiejas, y a menudo comparte su arcilla arcoíris hecha a mano durante las vacaciones.</color>",
+            "info": "El encanto dentro de la Maceta nutre a los zombis hipnotizados.\n\n<color=black>Especial: </color><color=#8B0000>Otorga a los zombis hipnotizados en su casilla una reducción de daño del 33 % y cura 1 HP cada 0,04 s. Cuando es mordido, hipnotiza al atacante y vuelve a convertirse en una maceta.</color>",
+            "cost": "\n<size=36>Fórmula de Fusión: <color=#8B0000>Hipnoseta + Maceta</color>"
         },
         {
             "seedType": 1381,
             "name": "Rebeamer",
             "introduce": "<align=justified><size=36><color=black>The weekly Pool Light Festival is an important social event for Rebeamer. Before heading out, it carefully adjusts its lamp hat, the leaves under the brim not only make it look stylish, but also give its firefly friends a place to rest after the party.</color>",
-            "info": "<size=36>Fires two high-frequency lasers.\n\n<color=black>Damage: </color><color=#8B0000>10×2/0.2s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Gains Lumos energy equal to Lumos level every 0.5s, up to 1000. Each laser beam consumes (1 + current energy × 10%) energy when attacking or transferring.\n<color=black>•</color> Can lock onto a Split Beam in front in the same lane (not directly adjacent). Transfers energy every 0.1s, restoring energy equal to 20% of its attack. Each point of energy spent doubles the amount transferred.\n<color=black>•</color> Consumes energy every 0.2s to attack 2 zombies at once, increasing damage by the amount of energy spent.</color>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Peashooter + Beamshooter</color>"
+            "info": "<size=36>Fires two high-frequency lasers.\n\n<color=black>Daño: </color><color=#8B0000>10×2/0.2s</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Gains Lúmina energy equal to Lúmina level every 0.5s, up to 1000. Each laser beam consumes (1 + current energy × 10%) energy when attacking or transferring.\n<color=black>•</color> Can lock onto a Split Beam in front in the same lane (not directly adjacent). Transfers energy every 0.1s, restoring energy equal to 20% of its attack. Each point of energy spent doubles the amount transferred.\n<color=black>•</color> Consumes energy every 0.2s to attack 2 zombies at once, increasing Daño by the amount of energy spent.</color>",
+            "cost": "\n<size=36>Fórmula de Fusión: <color=#8B0000>Lanzaguisantes + Beamshooter</color>"
         },
         {
             "seedType": 1382,
             "name": "Split Beam",
             "introduce": "<align=justified><size=36><color=black>\"It's my turn to wear the hat.\" \"But the strap is under my chin.\"The two heads of the Lumen Relay Shooter argue constantly. Even the Pool Light Festival can't distract them - the only thing that stops the argument is when they start fighting over the eyebrows instead.</color>",
-            "info": "<size=36>Receives laser energy from the left and fires high-frequency lasers.\n\n<color=black>Damage: </color><color=#8B0000>10/0.2s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> The right head functions like a Beamshooter.\n<color=black>•</color> The left head can receive Lumos energy from beamshooter-family plants in the same lane (not in directly adjacent tile).</color>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Peashooter + Rebeamer</color>"
+            "info": "<size=36>Receives laser energy from the left and fires high-frequency lasers.\n\n<color=black>Daño: </color><color=#8B0000>10/0.2s</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> The right head functions like a Beamshooter.\n<color=black>•</color> The left head can receive Lúmina energy from beamshooter-family plants in the same lane (not in directly adjacent tile).</color>",
+            "cost": "\n<size=36>Fórmula de Fusión: <color=#8B0000>Lanzaguisantes + Rebeamer</color>"
         },
         {
             "seedType": 1383,
             "name": "Gatling Beam",
             "introduce": "<align=justified><size=36><color=black>Gatling Beam shines brilliantly on the battlefield, often earning four times the credit. Though its glow makes it an easy target, it never backs down. Wounds within the light are a warrior's badge of honor.</color>",
-            "info": "<size=36>Fires four high-frequency lasers.\n\n<color=black>Damage: </color><color=#8B0000>10×4/0.2s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Gains Lumos energy equal to Lumos level every 0.5s, up to 1000. Each laser beam consumes (1 + current energy × 10%) energy when attacking or transferring.\n<color=black>•</color> Can lock onto a Split Beam in front in the same lane (not directly adjacent). Transfers energy every 0.1s, restoring energy equal to 40% of its attack. Each point of energy spent doubles the amount transferred.\n<color=black>•</color> Consumes energy every 0.2s to attack 4 zombies at once, increasing damage by the amount of energy spent.</color>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Peashooter + Split Beam</color>"
+            "info": "<size=36>Fires four high-frequency lasers.\n\n<color=black>Daño: </color><color=#8B0000>10×4/0.2s</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Gains Lúmina energy equal to Lúmina level every 0.5s, up to 1000. Each laser beam consumes (1 + current energy × 10%) energy when attacking or transferring.\n<color=black>•</color> Can lock onto a Split Beam in front in the same lane (not directly adjacent). Transfers energy every 0.1s, restoring energy equal to 40% of its attack. Each point of energy spent doubles the amount transferred.\n<color=black>•</color> Consumes energy every 0.2s to attack 4 zombies at once, increasing Daño by the amount of energy spent.</color>",
+            "cost": "\n<size=36>Fórmula de Fusión: <color=#8B0000>Lanzaguisantes + Split Beam</color>"
         },
         {
             "seedType": 1384,
             "name": "Bell Pepper",
             "introduce": "<align=justified><size=36><color=black>Each little Bell Pepper may be small and insignificant on its own, but together they pack serious heat. That's why they like to stick in groups. Other plants even rate them by size: mild, medium, and extra hot.</color>",
-            "info": "<size=36>Small body, fiery temper.\n\n<color=black>Damage: </color><color=#8B0000>600 (Cremator)</color>\n<color=black>Special: </color><color=#8B0000>Short plant. Explodes when zombies get close, triggering a Jalapeno effect with less damage.</color>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Jalapeno > Puff-shroom</color>"
+            "info": "<size=36>Small body, fiery temper.\n\n<color=black>Daño: </color><color=#8B0000>600 (Incinerador)</color>\n<color=black>Especial: </color><color=#8B0000>Short plant. Explodes when zombies get close, triggering a Jalapeno effect with less Daño.</color>",
+            "cost": "\n<size=36>Fórmula de Fusión: <color=#8B0000>Jalapeno + Seta desesporada (en orden)</color>"
         },
         {
             "seedType": 1385,
             "name": "Poison Pea",
             "introduce": "<align=justified><size=36><color=black>Despite the name, Poison Pea is a chef with a strong signature style. He insists every customer try its specialty, fried peas with garlic powder. The smell alone brings zombies flooding with memories: childhood, family, home… and plenty of tears.</color>",
-            "info": "<size=36>Fires garlic peas that cause poisoned zombies to release toxins, forming a toxic cloud.\n\n<color=black>Damage: </color><color=#8B0000>30/1.5s</color>\n<color=#5E1675>Poison System: </color><color=#8B0000>\n<color=black>•</color> Projectiles add 1 Poison value to zombies on hit.\n<color=black>•</color> If the zombie hit is already in a Poisoned state, creates a Toxic Cloud at the zombie's feet that lasts for 6s, applying 1 Poison value and dealing damage equal to 20× the total projectiles fired in one volley by all Poison-system straight-shooting plants in this lane per second to all zombies caught within. There can be up to 1 active Toxic Cloud per lane.</color>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Peashooter + Garlic</color>"
+            "info": "<size=36>Fires garlic peas that cause poisoned zombies to release toxins, forming a toxic cloud.\n\n<color=black>Daño: </color><color=#8B0000>30/1.5s</color>\n<color=#5E1675>Poison System: </color><color=#8B0000>\n<color=black>•</color> Projectiles add 1 Poison value to zombies on hit.\n<color=black>•</color> If the zombie hit is already in a Poisoned state, creates a Toxic Cloud at the zombie's feet that lasts for 6s, applying 1 Poison value and dealing Daño equal to 20× the total projectiles fired in one volley by all Poison-system straight-shooting plants in this lane per second to all zombies caught within. There can be up to 1 active Toxic Cloud per lane.</color>",
+            "cost": "\n<size=36>Fórmula de Fusión: <color=#8B0000>Lanzaguisantes + Garlic</color>"
         },
         {
             "seedType": 1386,
             "name": "Poison Repeater",
             "introduce": "<align=justified><size=36><color=black>\"Fight! Fight! Attack! Attack!\" Poison Repeater lives with passion and poison. Nothing distracts it, not zombies, not vampires, not even pushy salesmen.</color>",
-            "info": "<size=36>Fires two garlic peas at once.\n\n<color=black>Damage: </color><color=#8B0000>30×2/1.5s</color>\n<color=#5E1675>Poison System: </color><color=#8B0000>\n<color=black>•</color> Projectiles add 1 Poison value to zombies on hit.\n<color=black>•</color> If the zombie hit is already in a Poisoned state, creates a Toxic Cloud at the zombie's feet.</color>\n<color=black>Special: </color><color=#8B0000> Tap to auto-fuse with a free Peashooter 15s after planting.",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Peashooter + Poison Pea</color>"
+            "info": "<size=36>Fires two garlic peas at once.\n\n<color=black>Daño: </color><color=#8B0000>30×2/1.5s</color>\n<color=#5E1675>Poison System: </color><color=#8B0000>\n<color=black>•</color> Projectiles add 1 Poison value to zombies on hit.\n<color=black>•</color> If the zombie hit is already in a Poisoned state, creates a Toxic Cloud at the zombie's feet.</color>\n<color=black>Especial: </color><color=#8B0000> Tap to auto-fuse with a free Lanzaguisantes 15s after planting.",
+            "cost": "\n<size=36>Fórmula de Fusión: <color=#8B0000>Lanzaguisantes + Poison Pea</color>"
         },
         {
             "seedType": 1387,
             "name": "Split Poison",
             "introduce": "<align=justified><size=36><color=black>Bouncing shots are a must-have skill for modern Split Peas, but Split Poison did not bother to learn it. Nor does he had to. He can simply fire garlic peas into the house behind it, and sooner or later someone will throw them right back.</color>",
-            "info": "<size=36>Fires garlic peas both forwards and backwards.\n\n<color=black>Damage: </color><color=#8B0000>30×3/1.5s</color>\n<color=#5E1675>Poison System: </color><color=#8B0000>\n<color=black>•</color> Projectiles add 1 Poison value to zombies on hit.\n<color=black>•</color> If the zombie hit is already in a Poisoned state, creates a Toxic Cloud at the zombie's feet.</color>\n<color=black>Special: </color><color=#8B0000> Tap to auto-fuse with a free Peashooter 15s after planting.",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Peashooter + Poison Repeater</color>"
+            "info": "<size=36>Fires garlic peas both forwards and backwards.\n\n<color=black>Daño: </color><color=#8B0000>30×3/1.5s</color>\n<color=#5E1675>Poison System: </color><color=#8B0000>\n<color=black>•</color> Projectiles add 1 Poison value to zombies on hit.\n<color=black>•</color> If the zombie hit is already in a Poisoned state, creates a Toxic Cloud at the zombie's feet.</color>\n<color=black>Especial: </color><color=#8B0000> Tap to auto-fuse with a free Lanzaguisantes 15s after planting.",
+            "cost": "\n<size=36>Fórmula de Fusión: <color=#8B0000>Lanzaguisantes + Poison Repeater</color>"
         },
         {
             "seedType": 1388,
             "name": "Gatling Poison",
             "introduce": "<align=justified><size=36><color=black>At the neighborhood potluck, renowned linguist Gatling Poison proudly served a \"traditional recipe\" of 'pois' and 'poisson'. It tasted excellent, except everybody got food poisoning afterwards. To this day he still insists the 'poison' was part of the 'Gift'.</color>",
-            "info": "<size=36>Fires four garlic peas at once.\n\n<color=black>Damage: </color><color=#8B0000>30×4/1.5s</color>\n<color=#5E1675>Poison System: </color><color=#8B0000>\n<color=black>•</color> Projectiles add 1 Poison value to zombies on hit.\n<color=black>•</color> If the zombie hit is already in a Poisoned state, creates a Toxic Cloud at the zombie's feet.</color>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Peashooter + Split Poison</color>"
+            "info": "<size=36>Fires four garlic peas at once.\n\n<color=black>Daño: </color><color=#8B0000>30×4/1.5s</color>\n<color=#5E1675>Poison System: </color><color=#8B0000>\n<color=black>•</color> Projectiles add 1 Poison value to zombies on hit.\n<color=black>•</color> If the zombie hit is already in a Poisoned state, creates a Toxic Cloud at the zombie's feet.</color>",
+            "cost": "\n<size=36>Fórmula de Fusión: <color=#8B0000>Lanzaguisantes + Split Poison</color>"
         },
         {
             "seedType": 1389,
             "name": "Blowtorch-shroom",
             "introduce": "<align=justified><size=36><color=black>Blowtorch-shroom made a name for himself by quickly cooking peas into rich pea paste and turning them into \"pea tarts.\" His skills are famous, but so is his terrible business sense. His business goes bankrupt at the rate of one restaurant per year, mostly because he burns through far too many peas just to maintain his hairstyle.</color>",
-            "info": "<size=36>Burns incoming peas, compressing them into a burst of flame.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Does not attack on its own.\n<color=black>•</color> Absorbs passing peas. Every 1s, exhales a piercing flame 4 tiles forward. Damage equals the total damage of absorbed peas, up to 300.\n<color=black>•</color> Melts Snow Peas into normal peas.</color>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Fume-shroom + Torchwood</color>"
+            "info": "<size=36>Burns incoming peas, compressing them into a burst of flame.\n\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Does not attack on its own.\n<color=black>•</color> Absorbs passing peas. Every 1s, exhales a piercing flame 4 tiles forward. Daño equals the total Daño of absorbed peas, up to 300.\n<color=black>•</color> Melts Snow Peas into normal peas.</color>",
+            "cost": "\n<size=36>Fórmula de Fusión: <color=#8B0000>Humoseta + Torchwood</color>"
         },
         {
             "seedType": 1390,
             "name": "Uglie",
             "introduce": "<align=justified><size=36><color=black>\"So hungry, so hungry, so hungry! I'm starving!\" Uglie shouts as he lunges at zombies ahead. No matter how much he eats, it's never enough. Oh look - a Gargantuar! Finally, a proper meal… Wait, that might've been too much.</color>",
-            "info": "<size=36>Gluttonous Squash that keeps squashing when fed.\n\n<color=black>Damage: </color><color=#8B0000>1800 (Squash)</color>\n<color=black>Detection Range: </color><color=#8B0000>1 tile to the right</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> On landing, attempts to devour one zombie caught underneath. Still deals damage to zombies that are not eaten.\n<color=black>•</color> On a successful devour, returns to the field on the same tile, otherwise he disappears.</color>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Chomper + Squash</color>"
+            "info": "<size=36>Gluttonous Apisonaflor that keeps Apisonafloring when fed.\n\n<color=black>Daño: </color><color=#8B0000>1800 (Apisonaflor)</color>\n<color=black>Rango de Deteccion: </color><color=#8B0000>1 tile to the right</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> On landing, attempts to devour one zombie caught underneath. Still deals Daño to zombies that are not eaten.\n<color=black>•</color> On a successful devour, returns to the field on the same tile, otherwise he disappears.</color>",
+            "cost": "\n<size=36>Fórmula de Fusión: <color=#8B0000>Chomper + Apisonaflor</color>"
         }
     ]
 }
