@@ -41,7 +41,7 @@
     },
     "Puff": {
         "achievement": 7,
-        "Name": "Utilisez un Champi-peureux ou un Champi-fumée pour tartiner le Champi-gnon.",
+        "Name": "Utilisez un Champi-peureux ou un Champi-fumée pour propager un Champi-gnon.",
         "Text": "D'où est-ce que je viens ?"
     },
     "SunBomb": {
@@ -81,8 +81,8 @@
     },
     "LilyPad": {
         "achievement": 16,
-        "Name": "Faire en sorte que Lily Pad produise une plante",
-        "Text": "Le jeune lotus vient de montrer son premier bourgeon."
+        "Name": "Faire en sorte qu'un Nénuphar produise une plante",
+        "Text": "Le jeune lotus montre ses bourgeons"
     },
     "ThreePeater": {
         "achievement": 17,
@@ -261,8 +261,8 @@
     },
     "UltimateFume": {
         "achievement": 52,
-        "Name": "Découvrez le champignon Doominator",
-        "Text": "Champignons ! Je suis de retour !"
+        "Name": "Découvrez le Champi-nator",
+        "Text": "Domination"
     },
     "UltimteGloom": {
         "achievement": 53,
