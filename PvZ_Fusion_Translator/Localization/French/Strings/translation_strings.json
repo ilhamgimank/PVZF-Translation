@@ -825,5 +825,22 @@
   "我方小队获得5%伤害减免": "Les plantes de cette affinité gagnent un bonus de réduction des dégâts de 5 %.",
   "羁绊队员获得10%独立伤害增幅，红温伤害增幅提高20%": "Les plantes de cette affinité gagnent un bonus indépendant de 10 % de dégâts, et l’Altération enflammée inflige 20 % de dégâts supplémentaires aux zombies.",
   "每30秒召唤流星造成100%基础伤害，并为植物增加10%攻击力，羁绊队员获得双倍，最多叠加1层": "Toutes les 30 s, une météorite est invoquée, infligeant 100 % de ses dégâts de base et augmentant la puissance d’attaque des plantes de 10 %. Les plantes de cette affinité reçoivent le double de cet effet, celui-ci ne se cumulant qu’une seule fois.",
-  "羁绊队员造成伤害时，在每行发射一枚爆炸樱桃，伤害为本次伤害的100%，冷却0.8秒": "Quand une plante de cette affinité fait des dégâts, elle lance une cerise explosive dans chaque colonne, infligeant 100 % des dégâts infligés, avec un temps de recharge de 0,8 seconde."
+  "羁绊队员造成伤害时，在每行发射一枚爆炸樱桃，伤害为本次伤害的100%，冷却0.8秒": "Quand une plante de cette affinité fait des dégâts, elle lance une cerise explosive dans chaque colonne, infligeant 100 % des dégâts infligés, avec un temps de recharge de 0,8 seconde.",
+  "整装待发：初始阳光+150": "Nombre de Soleils au départ +150",
+  "狂战士I：植物每损失10%血量增加30%攻击力": "Les plantes augmentent leurs dégâts de 30% pour tous les 10% de robustesse perdu",
+  "光合作用：植物生命值上限+30%": "Limite de robustesse des plantes +30%",
+  "再生之力：植物每15秒回复300点生命值": "Les plantes régénèrent 300 de Robustesse toutes les 15 secondes",
+  "强力打击：植物的攻击力增加25%": "La puissance des plantes augmente de 25%",
+  "精打细算：卡牌价格降低10": "Le prix des plantes est réduit de 10 soleils",
+  "极速战备：手套冷却速度增加30%": "Le temps de récupération des gants est réduit de 30%",
+  "精准打击：植物子弹的暴击率增加10%": "Les taux de coup critique des projectiles des plantes augmentent de 10%",
+  "全息制冷：卡牌冷却速度增加30%": "Le temps de récupération des plantes est réduit de 30%",
+  "极速连射：植物的攻击速度增加25%": "Augmente la vitesse d'attaque des plantes de 25%.",
+  "选择你的词条": "Choisissez vos compétences",
+  "樱桃指挥官挑战": "Défi du Commandant Cerise",
+  "无记录": "Pas d'enregistrement",
+  "继续游戏": "Continuer",
+  "新的一局": "Nouvelle partie",
+  "巨人之手": "Gargy aux Longs Bras",
+  "无尽：超限": "Sans fin : Invasion"
 }
