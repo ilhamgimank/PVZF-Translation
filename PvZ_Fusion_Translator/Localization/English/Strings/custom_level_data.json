@@ -1,23 +1,23 @@
-{
+﻿{
     "level_1772710664724_lig7sqzv5": {
         "name": "Odyssey Adventure: Level 17",
         "startTip": ""
     },
     "level_1772718364411_erw9i6bmq": {
-        "name": "The Gods: Cat Melon's Revenge",
-        "startTip": "Woah, this Squash Melon squad is absolutely stacked with talent, huh?\nThe chill Squash Melon, the pay-to-win Squash Melon, the charming Squash Melon\nThe hard Squash Melon, the volatile Squash Melon, the hot Squash Melon - this is PG material!\nAnd there's even a Squash Melon that shows up and <U><color=#B8860B><SIZE=20>wipes the whole floor</SIZE></color>!</U>\nPlus their very own <U><SIZE=20><color=#F08080>\"Princess\" Cat Melon</SIZE></color>!</U>"
+        "name": "The Gods: Nyan Squash's Revenge",
+        "startTip": "Woah, this Squash squad is absolutely stacked with talent, huh?\nThe chill Squash, the pay-to-win Squash, the charming Squash\nThe hard Squash, the volatile Squash, the hot Squash - this is PG material!\nAnd there's even a Squash that shows up and <U><color=#B8860B><SIZE=20>wipes the whole floor</SIZE></color>!</U>\nPlus their very own <U><SIZE=20><color=#F08080>\"Princess\" Nyan Squash</SIZE></color>!</U>"
     },
     "level_1772722911574_8n760typj": {
-        "name": "Alpha Snipe Striker",
-        "startTip": "Alpha Snipe Striker!\n(Yeah the original blurb writer did not try very hard)"
+        "name": "Alpha Assassin Hitman",
+        "startTip": "Alpha Assassin Hitman!\n(Yeah the original blurb writer did not try very hard)"
     },
     "level_1772794811952_9hc854i7q": {
         "name": "Vasebreaking Puzzle: Anti-air Berserker",
-        "startTip": "As absolutely <i>nobody</i> knows, Death God Snipe Strike Shooter can \"hit\" air units too.\nWhile targeting other zombies, the projectile also casually clips anything flying by.\nGive it a go and knock those flyers out of the sky!\nN.B.: if any plant dies, it'll result in a game over!"
+        "startTip": "As absolutely <i>nobody</i> knows, Berserker Snipea can \"hit\" air units too.\nWhile targeting other zombies, the projectile also casually clips anything flying by.\nGive it a go and knock those flyers out of the sky!\nN.B.: if any plant dies, it'll result in a game over!"
     },
     "level_1772872400910_vnoc3otz4": {
         "name": "Super Nutsweeper",
-        "startTip": "<SIZE=26><color=white>\n<align=left><U>Ground Spike Tough Fruit - 0</U>\n<U>Foreign Peach Tough Fruit - 1</U>\n<U>Roll Heart Vegetable Tough Fruit - 2</U>\n<U>Cherry Peach Tough Fruit - 3</U>\n<U>Fire Flame Tough Fruit - 4</U>\n<U>Cold Ice Tough Fruit - 5</U>\n<U>Silver Tough Fruit - 6</U>\n\t<U>Charm Confuse Tough Fruit - 7</U>\n\t<U>Destroy Eradicate Tough Fruit - 8</U>\n<align=center></color><U>Each Nut type shows the number of mines around it\nUse Extreme Cold Ice Beans to mark mine spots - there are 58 in total, good luck!\n\n\n\n\n\n\n\n\n\n\n</U>"
+        "startTip": "<SIZE=26><color=white>\n<align=left><U>Spike-nut - 0</U>\n<U>Star-nut - 1</U>\n<U>Cabbage-nut - 2</U>\n<U>Cherry-nut - 3</U>\n<U>Flame Wall-nut - 4</U>\n<U>Frost Wall-nut - 5</U>\n<U>Silver-nut - 6</U>\n\t<U>Hypno-nut - 7</U>\n\t<U>Doom-nut - 8</U>\n<align=center></color><U>Each Nut type shows the number of mines around it\nUse Coldsnap Beans to mark mine spots - there are 58 in total, good luck!\n\n\n\n\n\n\n\n\n\n\n</U>"
     },
     "level_1772957930451_1hk8aodya": {
         "name": "Battle of the Liliputs",
@@ -25,11 +25,11 @@
     },
     "level_1773140970286_7bsqxg8pe": {
         "name": "Refactoring",
-        "startTip": "<size=24><align=left><color=white>Base rules:\n<size=18>Odyssey fusions: Disabled\nGlove CD: 0s\nWave Interval: 40s\nNatural Sun drop: Disabled\nRigid Corpse Sun drop: Enabled\nFusion Disassembly: Enabled\n\n<size=144>\n<align=center><size=15></color>Difficulty 0-5 all ok. The panel on the left lists every gameplay tweak for this level.\nThe first 8 plants in your slots can each only be bought once, while the remaining 5 can be purchased infinitely (with a short cooldown).\nUse disassembly and recombine plants into more valuable forms: if you play it right, you can even create some base plants.\nNote: Plant stats are completely unchanged\n<size=300>\n"
+        "startTip": "<size=24><align=left><color=white>Base rules:\n<size=18>Odyssey fusions: Disabled\nGlove CD: 0s\nWave Interval: 40s\nNatural Sun drop: Disabled\nZombie Sun drop: Enabled\nFusion Disassembly: Enabled\n\n<size=144>\n<align=center><size=15></color>Difficulty 0-5 all ok. The panel on the left lists every gameplay tweak for this level.\nThe first 8 plants in your slots can each only be bought once, while the remaining 5 can be purchased infinitely (with a short cooldown).\nUse disassembly and recombine plants into more valuable forms: if you play it right, you can even create some base plants.\nNote: Plant stats are completely unchanged\n<size=300>\n"
     },
     "level_1773141401946_ajdjyjtmr": {
         "name": "Vasebreaking Puzzle: Hypnosis",
-        "startTip": "<size=24><align=left>Base rules:\n<size=18>Rigid Corpse damage: 2×\nOdyssey fusions: Disabled\n<size=242>\n<align=center><size=18>Pure Puzzler, Recommended difficulties: 0-3 (otherwise may not be solvable)\nThe panel on the left lists every gameplay tweak for this level, please read them before you play.\nChallenge: Clear the level without using the Charm Confuse Mushroom in your seed slot.\n<size=300>\n"
+        "startTip": "<size=24><align=left>Base rules:\n<size=18>Zombie damage: 2×\nOdyssey fusions: Disabled\n<size=242>\n<align=center><size=18>Pure Puzzler, Recommended difficulties: 0-3 (otherwise may not be solvable)\nThe panel on the left lists every gameplay tweak for this level, please read them before you play.\nChallenge: Clear the level without using the Hypno-shroom in your seed slot.\n<size=300>\n"
     },
     "level_1774004769526_za6f7yoy5": {
         "name": "Odyssey Gacha: Vasebreaker",
@@ -45,11 +45,11 @@
     },
     "level_1774119630318_rld1qhxlg": {
         "name": "Undead Eternal",
-        "startTip": "\nYou can see all balance changes in this level through the Editor or using H on plants.\nThe Mallet is banned.\nRigid Corpses in this level have reduced HP but higher damage and increased number.\n\n            Click on                 Good luck                    to start"
+        "startTip": "\nYou can see all balance changes in this level through the Editor or using H on plants.\nThe Mallet is banned.\nZombies in this level have reduced HP but higher damage and increased number.\n\n            Click on                 Good luck                    to start"
     },
     "level_1774164065908_1y752bodf": {
-        "name": "I, Rigid Corpse: Welcome to the Darkside",
-        "startTip": "A very generic I, Rigid Corpse level.\nAs you can see, you need to act fast and kill the Road Lantern Flower at the start.\nRecommended difficulties: 4-5 (otherwise not solvable)\nSubmitter: 窝是fvv, Best Solution: 375 Sun left"
+        "name": "I, Zombie: Welcome to the Darkside",
+        "startTip": "A very generic I, Zombie level.\nAs you can see, you need to act fast and kill the Plantern at the start.\nRecommended difficulties: 4-5 (otherwise not solvable)\nSubmitter: 窝是fvv, Best Solution: 375 Sun left"
     },
     "level_1774174308190_dakkzec42": {
         "name": "Blank Level (Edit this to reset Level Editor settings)",
@@ -57,11 +57,11 @@
     },
     "level_1774316229611_6nctetuy8": {
         "name": "Grave Tripper",
-        "startTip": "Trip Hold Pole Rigid Corpses up with Grave Tomb Swallow Consumers. Try to save your Grave Tomb Swallow Consumers.\nThe Undying Totem Modifier is activated for this level.\u000bChallenge: Clear the level without using the Undying Totem."
+        "startTip": "Trip Pole Vaulting Zombies up with Grave Busters. Try to save your Grave Busters.\nThe Undying Totem Modifier is activated for this level.\u000bChallenge: Clear the level without using the Undying Totem."
     },
     "level_1774355110855_hcqameykh": {
         "name": "The Gods: Trial of Synergies",
-        "startTip": "Submitter: 怪猫_SC(Bilibili)\n\n<b><size=25><color=orange>Cherrybomber & Ultra Extreme Fire Burst Squash Torch</color>\n<color=red>Ultra Extreme Cherry Peach Battle God</color> <color=#2A2A72>Ultra Extreme Black Shiny Rock Tall Tough Fruit</color>\n<color=yellow>McCornics</color> <color=blue>Ultra Extreme Ice God West Melon</color></size></b>\n\n\n"
+        "startTip": "Submitter: 怪猫_SC(Bilibili)\n\n<b><size=25><color=orange>Cherrybomber & Infernal Squashwood</color>\n<color=red>Cherrizilla</color> <color=#2A2A72>Obsidian Tall-nut</color>\n<color=yellow>McCornics</color> <color=blue>Maelonstrom</color></size></b>\n\n\n"
     },
     "level_1774355113900_swfar1lf9": {
         "name": "Land Grabber",
@@ -69,11 +69,11 @@
     },
     "level_1774406542551_2cbqzyxbk": {
         "name": "Vasebreaking Puzzle: Meltdown",
-        "startTip": "<size=24><align=left>Base rules:\n<size=18>Rigid Corpse damage: 2×\nRigid Corpse speed: 0.8×\nOdyssey fusions: Disabled\n<size=18>High Gravity: Enabled\n<size=24>Modifiers:\n<size=18>Craterless Doom explosions\nRigid Corpses have a 0.1s i-frame each hit\n\n<size=120>\n<align=center><size=18>Pure Puzzler, Recommended difficulties: 0-3 (otherwise may not be solvable)\n\nThe panel on the left lists every gameplay tweak for this level, please read them before you play.\nChallenge: Clear the level without using the Destroy Eradicate Cherry Peach in your seed slot.\n<size=300>\n"
+        "startTip": "<size=24><align=left>Base rules:\n<size=18>Zombie damage: 2×\nZombie speed: 0.8×\nOdyssey fusions: Disabled\n<size=18>High Gravity: Enabled\n<size=24>Modifiers:\n<size=18>Craterless Doom explosions\nZombies have a 0.1s i-frame each hit\n\n<size=120>\n<align=center><size=18>Pure Puzzler, Recommended difficulties: 0-3 (otherwise may not be solvable)\n\nThe panel on the left lists every gameplay tweak for this level, please read them before you play.\nChallenge: Clear the level without using the Black Cherry in your seed slot.\n<size=300>\n"
     },
     "level_1774599144997_0qpxg22jh": {
         "name": "The Gods: Back to Basics",
-        "startTip": "<color=red>What is this level? Are we de-evolving?</color>\n*<color=yellow>Fascinating. Anyways, watch out for flying zombies and the Mallet recharges super fast in this level.</color>\n<color=green>Support plants: Midas/G.M.Nut/Tall Tough Fruits/Ultra Extreme Ice God Destroy Eradicate Mushroom</color>"
+        "startTip": "<color=red>What is this level? Are we de-evolving?</color>\n*<color=yellow>Fascinating. Anyways, watch out for flying zombies and the Mallet recharges super fast in this level.</color>\n<color=green>Support plants: Midas/G.M.Nut/Tall-nuts/Fungularity</color>"
     },
     "level_1774599184523_5jzbx956k": {
         "name": "Death from Above",
@@ -81,7 +81,7 @@
     },
     "level_1774600503668_1dle8ve5z": {
         "name": "Vasebreaking Puzzle: Follow the Cone",
-        "startTip": "The Conehead isn't making any friends with the Little Devil Rigid Corpses after this one..."
+        "startTip": "The Conehead isn't making any friends with the Imps after this one..."
     },
     "level_1774600505253_39nuh24z7": {
         "name": "Vasebreaking Puzzle: Master Strategist",
@@ -97,31 +97,31 @@
     },
     "level_1774611032370_90xngigri": {
         "name": "Stopwatch",
-        "startTip": "This level is based on D5 and is pretty tough: choose your difficulty wisely! (Spawns are fixed; only damage reduction can be adjusted).\nOne full sway up and down of a South Melon is roughly equal to 2 seconds.\nGlove cooldown is increased to 25s, and you can only plant down a Flower Pot once!\nFor the \"true experience,\" try not using the H key to check 3 Leaf South Melon's production CD\nIf you want an extra challenge, beat the level only using Destroy Eradicate Mushrooms from your seed slots."
+        "startTip": "This level is based on D5 and is pretty tough: choose your difficulty wisely! (Spawns are fixed; only damage reduction can be adjusted).\nOne full sway up and down of a Pumpkin is roughly equal to 2 seconds.\nGlove cooldown is increased to 25s, and you can only plant down a Flower Pot once!\nFor the \"true experience,\" try not using the H key to check Windy Pumpkin's production CD\nIf you want an extra challenge, beat the level only using Doom-shrooms from your seed slots."
     },
-    "level_1774627145655_lu7rlfvtm": {
+      "level_1774627145655_lu7rlfvtm": {
         "name": "Third Time's the Charm",
-        "startTip": "The Glove has no CD in this level, plants recharge faster and you can disassemble fusions.\nMake good use of Little Spray Mushroom stacking and disassembling quirks.\nFrom Three, All Things."
-    },
+        "startTip": "The Glove has no CD in this level, plants recharge faster and you can disassemble fusions.\nMake good use of Puff-shroom stacking and disassembling quirks.\nFrom Three, All Things."
+      },
     "level_1774628038557_3pvkpu1ls": {
         "name": "Vasebreaker: Snow Burial",
-        "startTip": "Squash Melon Ground Spikes can slow down Snow Beast Rigid Corpses effectively.\nColdsnap Beam enables Cold Ice Shooters to Deep Chill cold-resistant zombies.\nThere are 2 Snow Beast Kings among the Vases, watch out for them!"
+        "startTip": "Squashweeds can slow down Snowfurs effectively.\nColdsnap Beam enables Snow Peas to Deep Chill cold-resistant zombies.\nThere are 2 Elder Snowfurs among the Vases, watch out for them!"
     },
     "level_1774710505815_jh5iw4yiw": {
-        "name": "I, Rigid Corpse: Carpet Bombing",
-        "startTip": "<size=18>Destroy Eradicate Mushroom erases all other plants in the same tile, and can be fused to make fusions that do the same thing.\nRecommended difficulty: 0, Submitter: 小董玩的好, Best Solution: 500 Sun left"
+        "name": "I, Zombie: Carpet Bombing",
+        "startTip": "<size=18>Doom-shroom erases all other plants in the same tile, and can be fused to make fusions that do the same thing.\nRecommended difficulty: 0, Submitter: 小董玩的好, Best Solution: 500 Sun left"
     },
     "level_1774710599909_xva2v02e6": {
-        "name": "I, Rigid Corpse: Carpet Bombing",
-        "startTip": "<size=18>Destroy Eradicate Mushroom erases all other plants in the same tile, and can be fused to make fusions that do the same thing.\nRecommended difficulty: 0, Submitter: 小董玩的好, Best Solution: 500 Sun left"
+        "name": "I, Zombie: Carpet Bombing",
+        "startTip": "<size=18>Doom-shroom erases all other plants in the same tile, and can be fused to make fusions that do the same thing.\nRecommended difficulty: 0, Submitter: 小董玩的好, Best Solution: 500 Sun left"
     },
     "level_1774710754764_sdyk3rfkv": {
-        "name": "I, Rigid Corpse: Carpet Bombing",
-        "startTip": "<size=18><size=18>Destroy Eradicate Mushroom erases all other plants in the same tile, and can be fused to make fusions that do the same thing.\nRecommended difficulty: 0, Submitter: 小董玩的好, Best Solution: 500 Sun left\n(Search the submitter's name on Bilibili for a walkthrough)"
+        "name": "I, Zombie: Carpet Bombing",
+        "startTip": "<size=18><size=18>Doom-shroom erases all other plants in the same tile, and can be fused to make fusions that do the same thing.\nRecommended difficulty: 0, Submitter: 小董玩的好, Best Solution: 500 Sun left\n(Search the submitter's name on Bilibili for a walkthrough)"
     },
     "level_1774710985333_cmls4g3rt": {
-        "name": "I, Rigid Corpse: Carpet Bombing",
-        "startTip": "<size=18><size=18>Destroy Eradicate Mushroom erases all other plants in the same tile, and can be fused to make fusions that do the same thing.\nRecommended difficulty: 0, Submitter: 小董玩的好, Best Solution: 500 Sun left\n(Search the submitter's name on Bilibili for a walkthrough)"
+        "name": "I, Zombie: Carpet Bombing",
+        "startTip": "<size=18><size=18>Doom-shroom erases all other plants in the same tile, and can be fused to make fusions that do the same thing.\nRecommended difficulty: 0, Submitter: 小董玩的好, Best Solution: 500 Sun left\n(Search the submitter's name on Bilibili for a walkthrough)"
     },
     "level_1774710991748_nlx90py2s": {
         "name": "Solitary Sword",
@@ -129,14 +129,18 @@
     },
     "level_1774801162568_qibeat3la": {
         "name": "Acrobatics",
-        "startTip": "Designed for Difficulty 5, but feel free to play according to your experience.\nBall juggling is a basic skill in acrobatics.\nInsiders judge whether an acrobat is well-trained simply by examining their juggling skills.\nThis level tests your on that.\nIt's fine if you lose your balls, you have one backup for each of them.\nBut an expert acrobat does not require off-stage assistance! (Like Mallet, Fire Red Lily, but naturally spawned Fertilizer is ok)\n(This level requires heavy micro-management, be prepared to constantly play under slow-mode! But don't worry, the performance won't be long)\n\n\n\n"
+        "startTip": "Designed for Difficulty 5, but feel free to play according to your experience.\nBall juggling is a basic skill in acrobatics.\nInsiders judge whether an acrobat is well-trained simply by examining their juggling skills.\nThis level tests your on that.\nIt's fine if you lose your balls, you have one backup for each of them.\nBut an expert acrobat does not require off-stage assistance! (Like Mallet, Endoflame, but naturally spawned Fertilizer is ok)\n(This level requires heavy micro-management, be prepared to constantly play under slow-mode! But don't worry, the performance won't be long)\n\n\n\n"
     },
     "level_1774801181976_029hel9es": {
         "name": "Acrobatics",
-        "startTip": "Designed for Difficulty 5, but feel free to play according to your experience.\nBall juggling is a basic skill in acrobatics.\nInsiders judge whether an acrobat is well-trained simply by examining their juggling skills.\nThis level tests your on that.\nIt's fine if you lose your balls, you have one backup for each of them.\nBut an expert acrobat does not require off-stage assistance! (Like Mallet, Fire Red Lily, but naturally spawned Fertilizer is ok)\n(This level requires heavy micro-management, be prepared to constantly play under slow-mode! But don't worry, the performance won't be long)\n\n\n\n"
+        "startTip": "Designed for Difficulty 5, but feel free to play according to your experience.\nBall juggling is a basic skill in acrobatics.\nInsiders judge whether an acrobat is well-trained simply by examining their juggling skills.\nThis level tests your on that.\nIt's fine if you lose your balls, you have one backup for each of them.\nBut an expert acrobat does not require off-stage assistance! (Like Mallet, Endoflame, but naturally spawned Fertilizer is ok)\n(This level requires heavy micro-management, be prepared to constantly play under slow-mode! But don't worry, the performance won't be long)\n\n\n\n"
     },
     "level_1774957409257_kfe1y67i8": {
-        "name": "Acrobatics",
-        "startTip": "Designed for Difficulty 5, but feel free to play according to your experience.\nBall juggling is a basic skill in acrobatics.\nInsiders judge whether an acrobat is well-trained simply by examining their juggling skills.\nThis level tests your on that.\nIt's fine if you lose your balls, you have one backup for each of them.\nBut an expert acrobat does not require off-stage assistance! (Like Mallet, Fire Red Lily, but naturally spawned Fertilizer is ok)\n(This level requires heavy micro-management, be prepared to constantly play under slow-mode! But don't worry, the performance won't be long)\n\n\n\n"
+      "name": "Acrobatics",
+      "startTip": "Designed for Difficulty 5, but feel free to play according to your experience.\nBall juggling is a basic skill in acrobatics.\nInsiders judge whether an acrobat is well-trained simply by examining their juggling skills.\nThis level tests your on that.\nIt's fine if you lose your balls, you have one backup for each of them.\nBut an expert acrobat does not require off-stage assistance! (Like Mallet, Endoflame, but naturally spawned Fertilizer is ok)\n(This level requires heavy micro-management, be prepared to constantly play under slow-mode! But don't worry, the performance won't be long)\n\n\n\n"
+    },
+    "level_1775048626512_f9xv3240i": {
+        "name": "Error: File Corruption",
+        "startTip": "File corruption detected. Attempting restoration.\n<color=#FF0000>Restoration failed!</color>\nExit code: Level file  <color=#6C6C6C>fused</color> with other levels!\n"
     }
 }
