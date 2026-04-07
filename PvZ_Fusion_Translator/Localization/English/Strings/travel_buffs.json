@@ -156,7 +156,7 @@
         "38": "Princess Solarnova: When a solar shot hits a zombie, it cause nearby projectiles to explode as well",
         "39": "Princess Solarnova: Energy cap ×3, Sun production amount after storage overflow ×3",
         "40": "Maelonstrom: Nebula Rift now focuses on the zombie with the least HP for the first half of the barrage | Fungularity: Now only creates one set of portals, but they spawn ×10 ice particle streams",
-        "41": "Maelonstrom: Cryo-melon damage ×6, but with decreased splash radius | Maelonstrom & Fungularity: Zombies immune to Chronoshift will still take damage equal to (Elapse Time)% of their HP",
+        "41": "Maelonstrom: Cryo-melon damage ×6, but with decreased splash radius | Maelonstrom & Fungularity: Zombies immune to Chronoshift will still take damage equal to (Elapsed Time)% of their HP",
         "42": "Prometheus Liontail: Heatbeam damage frequency ×2",
         "43": "Prometheus Liontail: Regular shots' damage ×3",
         "44": "Scylla Leviathan: Tangler minions can drown up to 3 zombies (or deal ×3 damage), and each zombie drowned rewards 10 energy stacks",
