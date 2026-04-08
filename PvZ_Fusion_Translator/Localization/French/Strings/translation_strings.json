@@ -269,7 +269,7 @@
   "放弃增益": "Sauter",
   "增益": "Bonus",
   "当前增益": "Bonus Activés",
-  "-------Strings - Adventure Mode": "Strings - Adventure Mode-------",
+  "-------Strings - Adventure Mode": "Texts - Mode Aventure-------",
   "--- AM - Old Version": "AM - Old Version ---",
   "试试把豌豆种到向日葵上面": "Essayez de planter un Pisto-pois sur un Tournesol.",
   "手里拿着植物时可以融合的植物会发光": "Les fusions disponibles brillent lorsque vous sélectionnez une plante.",
@@ -842,5 +842,13 @@
   "继续游戏": "Continuer",
   "新的一局": "Nouvelle partie",
   "巨人之手": "Gargy aux Longs Bras",
-  "无尽：超限": "Sans fin : Invasion"
+  "无尽：超限": "Sans fin : Invasion",
+  "需要3个小究级投手": "3 Lance-gangrènes requis",
+  "需要3个小喷菇": "3 Champi-gnons requis",
+  "WASD控制移动，按空格切换锁定视角": "Bouger avec ZQSD, appuyer sur espace\n pour bloquer la caméra",
+  "金钱产量+5": "Production de pièce +5 !",
+  "魅惑僵尸产量+1": "Apparition de Zobmie Hypnotisé +1",
+  "已有此升级": "Déjà Possédé !",
+  "需要先升级基础强化": "Acheter l'amélioration basique en premier !",
+  "星辉冒险1.0": "<size=90%>Aventure Stellaire\n1.0"
 }
