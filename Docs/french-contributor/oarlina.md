@@ -22,7 +22,7 @@ Ce document retrace l’ensemble des contributions effectuées par **Oarlina** a
 
 > Statistiques cumulées sur l’ensemble de la période.
 
-* Nouvelles traductions : **26**
+* Nouvelles traductions : **27**
 * Traductions ajustées : **96**
 
 ---
@@ -30,6 +30,22 @@ Ce document retrace l’ensemble des contributions effectuées par **Oarlina** a
 ## 🗓️ Historique des contributions
 
 > Les contributions sont regroupées par semaine civile (ISO).
+
+---
+
+### 📅 Semaine — `30/03/26 → 09/04/26`
+> [PR#114](https://github.com/Teyliu/PVZF-Translation/pull/114)
+
+**Résumé de la semaine**
+
+* Nouvelles traductions : **1**
+
+---
+
+#### Détail
+
+## 🧟‍♂️ Newly Added Zombie Translations
+* **Zombie Chevalier Clown-Pogo** (`theZombieType: 324`)
 
 ---
 
