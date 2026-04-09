@@ -21,7 +21,7 @@ Ce document retrace l’ensemble des contributions effectuées par **Lafourmie**
 
 > Statistiques cumulées sur l’ensemble de la période.
 
-* Nouvelles traductions : **9**
+* Nouvelles traductions : **16**
 * Traductions ajustées : **0**
 
 
@@ -30,6 +30,30 @@ Ce document retrace l’ensemble des contributions effectuées par **Lafourmie**
 ## 🗓️ Historique des contributions
 
 > Les contributions sont regroupées par semaine civile (ISO).
+
+---
+
+### 📅 Semaine — `30/03/26 → 09/04/26`
+> [PR#114](https://github.com/Teyliu/PVZF-Translation/pull/114)
+
+**Résumé de la semaine**
+
+* Nouvelles traductions : **7**
+
+---
+
+#### Détail
+
+## 🌱 Newly Added Plants
+* **Briseur de Machoir** (`seedType: 1390`)
+
+## 🧵 New String Entries Added
+* **-------Strings - 3.4 Misc** (2064)
+* **泰坦之躯** (2036)
+* **磁力科技** (2035)
+* **冰雪之地** (2033)
+* **屋顶守卫** (2032)
+* **前院守卫** (2030)
 
 ---
 
