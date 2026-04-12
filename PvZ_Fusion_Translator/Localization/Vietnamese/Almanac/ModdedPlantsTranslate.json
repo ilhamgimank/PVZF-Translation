@@ -361,6 +361,13 @@
       "cost": "<size=36><color=#3D1400>Giá:</color><color=red> 950</color>\n<color=#3D1400>Thời Gian Hồi:</color> <color=red>300 giây</color>"
     },
     {
+      "seedType": 1967,
+      "name": "Đặc Nhiệm Thần Chết",
+      "introduce": "<align=justified><size=36><color=#3D1400>Vào giây phút cuối cùng, chỉ có hắn hấp thụ được nguồn sức mạnh đặc biệt ấy. Với đôi nanh quỷ cắm sâu vào gương mặt, hắn hồi sinh từ đống tro tàn. 'Nợ máu trả bằng máu', đã thề sẽ săn lùng kẻ phía sau tất cả.",
+      "info": "<size=36>Tay bắn tỉa tử thần.\n\n<color=blue>Từ MC屑鱼 Mod</color>\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch\n<color=#3D1400>Sát Thương: </color><color=red>300/0.3 giây</color>\n<color=#3D1400>Khả Năng: </color><color=red> \n<color=black>•</color> Phân loài của Thực Thần Thập Tử, chuyển đổi qua lại bằng Đậu Cao Xạ và Hoa Ăn Thịt.\n<color=black>•</color> Có thể nhắm mục tiêu trên không.\n<color=black>•</color> Mỗi lần bắn sẽ tích 1 năng lượng tuyệt kĩ và 1 năng lượng hố đen cho mỗi Zombie nó bắn trúng.\n<color=#3D1400>Tuyệt Kĩ:</color><color=red> Kích hoạt khi tích đủ 300 năng lượng, x2 tốc bắn trong 8 giây.\n<color=#3D1400>Hố Đen:</color><color=red> Khi Zombie tích đủ 20 stack Hố Đen, lật tức tạo ra 1 Hố Đen tại ô của Zombie đó. \n<color=black>•</color> Hố Đen sẽ có phạm vi là 3x3 ô, tồn tại trong 3 giây, gây 100% sát thương mỗi 0.15 giây và gây 600% sát thương ngay lập tức lên Zombie đó. Đồng thời bắn thêm 8 mảnh vỡ hố đen gây 100% sát thương lên Zombie đó.\n<color=black>•</color> Khi có 20 Hố Đen trên sân, thay vì tạo mới, Đặc Nhiệm Tử Thần sẽ tăng 20% sát thương cho Hố Đen gần đó.\n<color=black>•</color> Mảnh vỡ hố đen sẽ giảm 1% giảm sát thương của Zombie.\n\n<color=#3D1400>Buff Du Lịch: \n<color=#3D1400>Làm Ít Công To:</color><color=red> Số lượng đạn cần thiết để Hỏa Bộc Gai Đào tạo ra Bí Cay tí hon còn 1 nữa.\n<color=#3D1400>Lửa Rửc:</color> Sát thương từ Bí Cay tí hon của Hỏa Bộc Gai Đào x3, số lần nhảy để tạo ra hiệu ứng Ớt còn 3.\n<color=#3D1400>Buff Cộng Hưởng: \n<color=#3D1400>Cải Tử Hoàn Sinh:</color><color=red> Giảm một nữa năng lượng yêu cầu để kích hoạt Tuyệt Kĩ và Hố Đen.\n<color=#3D1400>Giải Phóng Cái Chết:</color><color=red> Khi kích hoạt Tuyệt Kĩ, x3 sát thương gây ra.",
+      "cost": "\n<size=36><color=#3D1400>Công Thức: </color><color=red>Thực Thần Thập Tử + Đậu Cao Xạ"
+    },
+    {
       "ALL_GAME Mod": ""
     },
     {
@@ -1162,6 +1169,13 @@
       "introduce": "<align=justified><size=36><color=#3D1400>Là cao thủ bóng bay số một thế giới, vừa là vua đầu bép, Hỏa Thần Thiên Kích thích nhất là chơi bóng bán với trái bóng chính là đồ ăn mà cậu ta sẽ nấu.</color>",
       "info": "<size=36>Dùng đạn của cây thành sức mạnh áp đảo!\n\n<color=blue>Từ PvZ Fusion Reimagined Plants Mod\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch</color></color>\n<color=#3D1400>Máu: </color><color=red>3000</color>\n<color=#3D1400>Khả Năng:</color><color=red>\n<color=black>•</color> Phân loài của Hỏa Thần Chúc Dung, chuyển đổi qua lại bằng Bắp Cải và Dưa Hấu.\n<color=black>•</color> Có khả năng nãy đạn của Nấm Cải Mũm Mĩm.\n<color=black>•</color> Chỉ có khả năng nảy đạn cẩu không có khả năng nảy đạn, đạn được nảy sẽ gây sát thương lan 3x3 ô.\n<color=black>•</color> Đạn cẩu khi ném ra ở hàng của Hỏa Thần Thiên Kích sẽ tính là đạn của nó thay vì của cây ném ra đạn cẩu.\n<color=black>•</color> Có 2 chế độ: Tập Trung và Hỏa Kích\n<color=black>Tập Trung:</color> Đạn sẽ x3 sát thương lên Zombie mặc giáp.\n<color=black>Hỏa Kích:</color> Đạn mỗi lần nảy sẽ bắn thêm 1 đạn dưa lửa với sát thương tương ứng với đạn đã nảy và phát nổ 3x3 ô. Đạn dưa lửa sẽ gây hiệu ứng chịu nhiệt và xuyên giáp mục tiêu.\n\n<color=#3D1400>Buff Du Lịch: \n<color=#3D1400>Khí Định Thân Nhàn: </color><color=red>Đạn nảy bởi Hỏa Thần Thiên Kích sẽ tăng 5% sát thương cho mỗi lần nảy.\n<color=#3D1400>Tam Muội Chân Hỏa: </color><color=red>Ở chế độ Hỏa Kích, dưa lửa sẽ tạo ra vùng đất cháy.</color></color>",
       "cost": "\n<size=36><color=#3D1400>Công Thức: </color><color=red>Hỏa Thần Chúc Dung + Bắp Cải</color>"
+    },
+    {
+      "seedType": 835,
+      "name": "Liên Pháo Sinh Học",
+      "introduce": "<align=justified><size=36><color=#3D1400>Là bệnh nhân số 0 của chính bệnh dịch không thể xác định, cậu ta được tuyển vào tổ chức bí mật và trở thành 1 vũ khí tối thượng mà ngay cả cây và Zombie đều phải khiếp hãi.</color>",
+      "info": "<size=36>Sức mạnh vũ khí sinh học hủy diệt.\n\n<color=blue>Từ PvZ Fusion Reimagined Plants Mod\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch|Cần Mở Khoá\n<color=#3D1400>Sát Thương: </color><color=red>300*5*2/1 giây</color>\n<color=#3D1400>Khả Năng:</color><color=red> \n<color=black>•</color> Bắn đạn anh đào tỏi 3 hàng, hàng chính giữa bắn 2 viên và ném 1 đạn anh đào tỏi dạng cẩu có khả năng nảy vô tận, toàn bộ đều sát thương lan 1.5 ô. Đạn anh đào tỏi khi trúng mục tiêu sẽ tách thêm 10 đạn anh đào tỏi mini gây 10% sát thương và đạn anh đào dính gây 50% sát thương.\n<color=black>•</color> Đạn anh đào tỏi sẽ có khả năng tích stack độc và tạo ra khói virus khi bắn trúng Zombie bị nhiễm độc, khói virus sẽ gây vụ nổ siêu anh đào mỗi 0.02 giây và gây sát thương bằng 20*Số Stack Độc mỗi giây. Zombie bị tiêu diệt bởi khói virus sẽ tạo thêm 1 khói virus mới.\n<color=black>•</color> Mỗi 15 giây sẽ nâng cấp bản thân thêm 1 cấp, mỗi lần nâng cấp sẽ phát nổ anh đào xung quanh nó 3x3 ô và ném 1 đạn anh đào tỏi lên mọi Zombie trên sân. Bao gồm 3 cấp độ.\n<color=black>Cấp 1:</color> Bắn 4 anh đào tỏi 3 hàng, trong đó hàng giữa bắn 2 viên, đồng thời ném 1 đạn anh đào tỏi dạng cẩu.\n<color=black>Cấp 2:</color> Máu và sát thương x2, đồng thời x2 số đạn bắn ra.\n<color=black>Cấp 3:</color> Máu và sát thương x4, đồng thời x4 số đạn bắn ra.\n<color=black>•</color> Khi Liên Pháo Sinh Học trên sân, toàn bộ khói độc và sương độc của các cây tỏi đều nâng cấp thành khói virus.\n\n<color=#3D1400>Buff Du Lịch: </color> \n<color=#3D1400>Vũ Khí Sinh Học:</color><color=red> Liên Pháo Sinh Học sẽ luôn ở cấp 3, khi đó sẽ x12 máu, sát thương và đạn bắn ra.\n<color=#3D1400>Bom Sinh Hóa:</color><color=red> Đạn anh đào tỏi sẽ tách ra thành 2 đạn siêu anh đào tỏi khi trúng mục tiêu, 2 đạn siêu anh đào tỏi sẽ tiếp tục tách thành đạn bom anh đào tỏi và xuyên mục tiêu. Đạn bom anh đào tỏi sẽ gây hiệu ứng Bom Anh Đào khi trúng mục tiêu.</color>",
+      "cost": "\n<size=36><color=#3D1400>Công Thức: </color><color=red>Đậu Tiểu Liên Tỏi + Đậu 3 Đầu Anh Đào hay Đậu Tiểu Liên Anh Đào + Đậu 3 Đầu Tỏi"
     },
     {
       "seedType": 837,
@@ -2414,7 +2428,7 @@
       "cost": "\n<size=36><color=#3D1400>Công Thức: </color><color=red>Đậu Đại Đạn Đạo + Đậu Huỷ Diệt"
     },
     {
-      "seedType": 1439,
+      "seedType": 1431,
       "name": "Sao Cơ Khí",
       "introduce": "<align=justified><size=36><color=#3D1400>Với sức mạnh mới của mình, Sao Cơ Khí đã được nâng cấp toàn diện với sức mạnh gần như không tưởng. Mặc dù không hiểu sao nó không còn khả năng bắn thiên thạch.",
       "info": "<size=36>Vừa tấn công vừa phòng thủ.\n\n<color=blue>Từ Wuxuan mod</color>\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch\n<color=#3D1400>Sát Thương: </color><color=red>100*5/1.5 giây</color>\n<color=#3D1400>Máu: </color><color=red>640000</color>\n<color=#3D1400>Khả Năng: </color><color=red>\n<color=black>•</color> Nhận sát thương thay cho cây ở phạm vi 3x3 ô.\n<color=black>•</color> Đạn sao cơ khí có khả năng tự tìm mục tiêu tấn công, nhưng không tấn công trên không.\n<color=black>•</color> Đạn nổ lan 3x3 ô.\n<color=black>•</color> Đạn không thể đi qua Hoả Bộc Tinh Cự.\n<color=black>•</color> Khi buff Lưu Tinh Vũ được kích hoạt, tốc độ bắn còn 0.5 giây.",
@@ -2603,7 +2617,7 @@
       "cost": "\n<size=36><color=#3D1400>Công Thức: </color><color=red>Bí Ngô Ăn Thịt + Anh Long Đại Đế</color>"
     },
     {
-      "seedType": 1791,
+      "seedType": 899,
       "name": "Bí Mìn Đa Năng",
       "introduce": "<align=justified><size=36><color=#3D1400>Cậu ta như 1 con cua, chui xuống đất như muốn lột vỏ, chỉ là cậu ta hơi cục mịch cho việc này.</color>",
       "info": "<size=36>Có mọi chức năng của Bí Ngô.\n\n<color=blue>Từ Wuxuan Mod\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch\n<color=#3D1400>Máu:<color=red> 8000\n<color=#3D1400>Khả Năng:</color><color=red>\n<color=black>•</color> Phân loài của Bí Đa Năng, chuyển đổi qua lại với Mìn Khoai Tây và Nấm Nam Châm.\n<color=black>•</color> Thừa hưởng mọi khả năng của Bí Đa Năng.\n<color=black>•</color> Là cây lùn, khi Zombie cắn vào sẽ phản sát thương nổ, gây 500 sát thương.\n<color=black>•</color> Khi mất 1/3 máu, phát nổ khoai tây gây 1800 sát thương.\n\n<color=#3D1400>Buff Du Lịch: </color> \n<color=#3D1400>Liên Kết Từ Trường:</color><color=red>Bí Đa Năng, Bí Mìn Đa Năng, Sao Đa Năng sẽ gây sát thương liên tục lên Zombie mang giáp kim loại; nếu liên kết với Sao Tối Thượng/Cơ Giáp Tân Tiến liên kết với các cây đó, có khả năng tương ứng.\n<color=#3D1400>Nam Châm Nghịch Đảo:</color><color=red> Nam Châm Nghịch Đảo: Bí Đa Năng/Bí Mìn Đa Năng sẽ giảm 66% sát thương nhận vào, Sao Đa Năng sẽ x3 sát thương; nếu liên kết với Cơ Giáp Tân Tiến/Sao Tối Thượng liên kết với các cây đó, có khả năng tương ứng <color=black>| Mở Khóa Công Thức: Bí Mìn Đa Năng</color>",
@@ -2993,6 +3007,41 @@
       "introduce": "<align=justified><size=36><color=#3D1400>Bất kì óc chó nào cũng đều trưởng thành theo 1 cách riêng, và với Thời Không Thần Hồ Đào, cậu ta trở nên cao lớn hơn và giờ có thể chặn Zombie nhảy qua rồi đấy!</color>",
       "info": "<size=36>Phòng thủ cực hạn với sức mạnh không-thời gian.\n\n<color=blue>Từ Wuxuan Mod\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch\n<color=#3D1400>Máu: </color><color=red>32000</color>\n<color=#3D1400>Khả Năng: </color><color=red>\n<color=black>•</color> Miễn nhiễm với nghiền nát và chỉ nhận tối đa 1000 sát thương.\n<color=black>•</color> Thừa hưởng mọi khả năng của Thời Không Thần Hồ Đào.\n<color=black>•</color> Có thể biến đổi trở lại thành Thời Không Thần Hồ Đào bằng cách ghép với Óc Chó.",
       "cost": "\n<size=36><color=#3D1400>Công Thức: <color=red>Thời Không Thần Hồ Đào + Óc Chó Cao/Phân Bón"
+    },
+    {
+      "seedType": 5126,
+      "name": "Tài Lộc Hạch",
+      "introduce": "<align=justified><size=36><color=#3D1400>Nếu Quang Hạch Vương là vua trong việc farm sun thì tôi cũng là vua trong việc farm tiền, hoặc ít nhất là thế, à mà dạo này mọi thứ đắt đỏ thật.</color>",
+      "info": "<size=36>Sản Xuất Xu Mỗi Lần Nhận Sát Thương.<color=#3D1400>.\n\n<color=blue>Từ Wuxuan Mod\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch\n<color=#3D1400>Máu: </color><color=red>4000</color>\n<color=#3D1400>Khả Năng: </color><color=red>\n<color=black>•</color> Phần loài của Quang Hạch Vương, chuyển đổi qua lại bằng Hoa Hướng Dương và Hoa Cúc. \n<color=black>•</color> Chỉ nhận tối đa 50 sát thương và tạo ra 100 xu.\n<color=black>•</color> Khi nhấp chuột, nó sẽ tiêu tốn 3000 xu để phục hồi toàn bộ máu và tạo ra 1 Óc Chó Kim Cương lăn về phía trước sau 1 giây. \n<color=black>•</color> Nếu nhấp chuột liên tục, Óc Chó Kim Cương sẽ to hơn và gây nhiều sát thương hơn. Cho 1/2/3 lần nhấp chuột thì Óc Chó Kim Cương sẽ gây 1200/2400/3288 sát thương mỗi 0.02 giây.\n\n<color=#3D1400>Buff Du Lịch: </color> \n<color=#3D1400>Diệu Thủ Hồi Xuân:</color><color=red> Giảm 40% chi phí triệu hồi của Tài Lộc Hạch. \n<color=#3D1400>Vô Quan Thống Dương:</color><color=red> Giới hạn sát thương phải nhận của Tài Lộc Hạch giảm xuống 10. </color>",
+      "cost": "\n<size=36><color=#3D1400>Công Thức: <color=red>Quang Hạch Vương + Hoa Cúc"
+    },
+    {
+      "seedType": 5127,
+      "name": "Óc Chó Kim Cương Lăn",
+      "introduce": "<align=justified><size=36><color=#3D1400>Nó là cả 1 khối kim cương biết đi đấy! Mà ai đào ra được cái này hay vậy!\n\n<align=left><size=36><color=#4A2900>",
+      "info": "<size=36>Kim cương nguyên khối.\n\n<color=#3D1400>Sát Thương: </color><color=red>1200/0.02 giây\n<color=#3D1400>Đặc Điểm: </color><color=red>Cơ chế sát thương của Óc Chó Kim Cương mà Tài Lộc Hạch tạo ra sẽ là sau lần nhấp chuột thứ 2 sẽ chỉ bằng (sát thương tăng lên * 74%) sát thương và sẽ luôn làm tròn.</color>",
+      "cost": "\n<size=36><color=#3D1400>Được triệu hồi bởi Tài Lộc Hạch"
+    },
+    {
+      "seedType": 5128,
+      "name": "Tài Lộc Đại Đế",
+      "introduce": "<align=justified><size=36><color=#3D1400>Nếu Quang Hạch Vương là vua trong việc farm sun thì tôi cũng là vua trong việc farm tiền, hoặc ít nhất là thế, à mà dạo này mọi thứ đắt đỏ thật.</color>",
+      "info": "<size=36>Tới lúc cho thấy sức mạnh của tư bản.<color=#3D1400>.\n\n<color=blue>Từ Wuxuan Mod\n<color=#4A2900>Dạng tối thượng của Tài Lộc Hạch</color>\n<color=#4A2900>Chỉ mở khóa khi có cả 2 buff du lịch đặc thù của Tài Lộc Hạch</color>\n<color=#3D1400>Máu: </color><color=red>4000</color>\n<color=#3D1400>Khả Năng: </color><color=red>\n<color=black>•</color> Phần loài của Quang Hạch Đại Đế, chuyển đổi qua lại bằng Hoa Hướng Dương và Hoa Cúc. \n<color=black>•</color> Chỉ nhận tối đa 50 sát thương và tạo ra 100 xu.\n<color=black>•</color> Khi nhấp chuột, nó sẽ tiêu tốn 3000 xu để phục hồi toàn bộ máu và tạo ra 1 Tài Lộc Vương Hạch lăn về phía trước sau 1 giây.  \n<color=black>•</color> Tài Lộc Vương Hạch gây sát thương bằng 1200/0.02 giây và sẽ rớt ra 100 xu cho mỗi lần trúng Zombie và thêm khả năng đẩy lùi Zombie đó.\n<color=#3D1400>Cơ Chế Năng Lượng: </color><color=red>\n<color=black>•</color> Tăng 1 năng lượng cho mỗi lần số xu tăng lên.\n<color=black>•</color> Tăng 10 năng lượng cho mỗi lần nhấp chuột vào Tài Lộc Đại Đế. \n<color=black>•</color> Mỗi khi năng lượng đạt 100, tự động tiêu toàn bộ năng lượng và tạo ra Tài Lộc Vương Hạch Khổng Lồ gây x5 sát thương so với Óc Chó Mặt Trời.",
+      "cost": "\n<size=36><color=#3D1400>Công Thức: <color=red>Quang Hạch Vương + Hoa Cúc"
+    },
+    {
+      "seedType": 5129,
+      "name": "Tài Lộc Vương Hạch",
+      "introduce": "<align=justified><size=36><color=#3D1400>Vương miện được tạo ra từ kim cương đúc nguyên khối, cùng với vàng và các kim loại vô cùng quý giá, nó phải ngang vương miên của nước Anh!\n\n<align=left><size=36><color=#4A2900>",
+      "info": "<size=36>Kim cương nguyên khối, nhưng xịn hơn.\n\n<color=#3D1400>Sát Thương: </color><color=red>1200/0.02 giây\n<color=#3D1400>Đặc Điểm: </color><color=red>\n<color=black>•</color> Cơ chế sát thương của Tài Lộc Vương Hạch mà Tài Lộc Đại Đế tạo ra sẽ là sau lần nhấp chuột thứ 2 sẽ chỉ bằng (sát thương tăng lên * 74%) sát thương và sẽ luôn làm tròn.\n<color=black>•</color> Tạo 100 xu cho mỗi Zombie nó lăn trúng và đẩy lùi Zombie đó.</color>",
+      "cost": "\n<size=36><color=#3D1400>Được triệu hồi bởi Tài Lộc Đại Đế"
+    },
+    {
+      "seedType": 5130,
+      "name": "Regent",
+      "introduce": "<align=justified><size=36><color=#3D1400>Tới từ game Slay The Spire 2 và là 1 trong 5 nhân vật chính trong tựa game roguelike này.</color></color>",
+      "info": "<size=36>Kẻ đứng đầu với sức mạnh không tưởng\n\n<color=blue>Từ Wuxuan Mod\n<color=#3D1400>Sát Thương: </color><color=red>18000/3 giây</color>\n<color=#3D1400>Máu: </color><color=red>16000</color>\n<color=#3D1400>Khả Năng: </color><color=red> \n<color=black>•</color> Miễn nhiễm với nghiền nát và chỉ nhận tối đa 8000 sát thương.\n<color=black>•</color> Mỗi 5 giây sẽ hồi 8000 giáp. \n<color=black>•</color> Mỗi 30 giây sẽ vào trạng thái chiến đấu, khi đó sẽ tấn công gây vụ nổ 3x3 ô lên Zombie.</color>",
+      "cost": "\n<size=36><color=#3D1400>Giá: <color=red>1200</color>\n<color=#3D1400>Thời Gian Hồi:</color><color=red>25 giây</color>"
     },
     {
       "seedType": 2004,
