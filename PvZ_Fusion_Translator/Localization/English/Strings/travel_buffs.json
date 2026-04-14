@@ -63,7 +63,7 @@
         "2003": "If a Plant Type has dealt the highest total damage on the field, its attacks deal an extra 30% of original damage as true damage",
         "2004": "After firing 50 times (25 for catapults), plants gain an unlimited attack speed for 1s",
         "2005": "Plants gain 1% life steal, applied to the plant with the lowest HP percentage on the field",
-        "2006": "If a zombie goes undamaged for a set amount of time, the next hit it takes will deal greatly increased damage",
+        "2006": "The longer since a zombie was last damaged, the more damage it takes from the next hit. <1s: Damage * (1 + 9t); ≥1s: Damage * (10 + 9ln(t))",
         "2007": "Gains the Corrupt Sac. Corruption effect: each time a Zombie is damaged, the next instance of damage to it is increased by 5% (stackable)",
         "2008": "You can remove 1 Zombie Modifier from the View Modifier menu",
         "3000": "When Cherrizilla and Obsidian Tall-nut (or their subspecies) are both present, Cherrizilla/Garlizilla no longer has a maximum Toughness cap, and Obsidian Tall-nut/Obsidian Mine gains a 90% damage reduction",
