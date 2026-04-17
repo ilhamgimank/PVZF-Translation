@@ -19,6 +19,11 @@
         "16": "Amunisi Khusus: Damage dari Meriam ×3 | Meriam yang dimunculkan dengan bantuan Bawang Kelinci is akan menembak 60 peluru dengan normal",
         "17": "Satu Komentar: Damage dari Kucing Ajaib ×5 | Damage dari Bawang Kelinci ×3 | Subspesies Bawang Kelinci terbuka",
         "18": "Nuklir Terkontol: Semua ledakan nuklir yang meledak tidak akan meninggalkan kawah dan membuka subspesies Ratu Jamur Halusinasi",
-        "19": "Cari Pasukan: Ratu Jamur Halusinasi menmanggil 3 Zombi Raksasa terhipnotis dan Zomboni saat meledak"
+        "19": "Cari Pasukan: Ratu Jamur Halusinasi memanggil 3 Zombi Raksasa terhipnotis dan Zomboni saat meledak",
+        "20": "Miliarder: Untuk setiap 1000 koin yang dimiliki, damage peluru Kayu Bakar Uang dan Trilampu Kaya meningkat sebesar 1%",
+        "21": "Foya-foya: Peluru dari Kayu Bakar Uang memiliki efek percikan yang mirip dengan peluru api, dan subspesies Trilampu Kaya terbuka.",
+        "22": "Perisai Kuantum: Membuka subspesies Ratu Lampu Kristal. Energi maksimum Ratu Payung Lampu Bercahaya meningkat 10, regenerasi energi meningkat 20, dan kecepatan penyembuhan meningkat 2. Damage Ratu Lampu Kristal selama fase penyebaran meningkat secara linear menjadi 4 kali lipat, dan damagenya selama fase pemfokusan meningkat 4 kali lipat.",
+        "23": "Sinar Bertekanan Tinggi: Laser Ratu Payung Lampu memberikan kerusakan x3, meledak untuk memberikan kerusakan 10x, dan mengurangi waktu pendinginan menjadi 2 detik. Sinar selama fase pemfokusan Ratu Lampu Kristal Beku menimbulkan efek pembekuan selama 1 detik.",
+        "24": "Headshot Terus: Interval serangan Pasukan Bocil Besi diubah menjadi 7,5 detik, tetapi headshot dijamin, dan ada peluang 1/3 untuk langsung menembak beberapa kali setelah setiap tembakan. Kerusakan Subspesies Pasukan Bocil Besi x3"
     }
 }
