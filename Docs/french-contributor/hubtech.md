@@ -21,14 +21,44 @@ Ce document retrace l’ensemble des contributions effectuées par **Hubtech** a
 
 > Statistiques cumulées sur l’ensemble de la période.
 
-* Nouvelles traductions : **54**
-* Traductions ajustées : **46**
+* Nouvelles traductions : **63**
+* Traductions ajustées : **47**
 
 ---
 
 ## 🗓️ Historique des contributions
 
 > Les contributions sont regroupées par semaine civile (ISO).
+
+---
+
+### 📅 Semaine — `30/03/26 → 09/04/26`
+> [PR#114](https://github.com/Teyliu/PVZF-Translation/pull/114)
+
+**Résumé de la semaine**
+
+* Nouvelles traductions : **9**
+* Traductions ajustées : **1**
+
+---
+
+#### Détail
+
+## ♻️ Modified String Entries
+* **-------Strings - Adventure Mode** (262)
+
+## 🧪 New Regex Patterns Added
+* **^价格：(\d+)$** (312)
+
+## 🧵 New String Entries Added
+* **星辉冒险1.0** (1645)
+* **需要先升级基础强化** (1254)
+* **已有此升级** (1252)
+* **魅惑僵尸产量+1** (1239)
+* **金钱产量+5** (1235)
+* **WASD控制移动，按空格切换锁定视角** (1167)
+* **需要3个小究级投手** (1160)
+* **需要3个小喷菇** (1159)
 
 ---
 

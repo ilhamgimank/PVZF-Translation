@@ -785,6 +785,12 @@
             "name": "Chargeur Requin-marin",
             "introduce": "<align=justified><size=36><color=black>Le seul but de ce sous-marin à propulsion turbo : charger, désorganise les lignes ennemis et créer des points faibles que les alliés peuvent exploiter. Les critiques disent que c'est trop de sacrifice pour la vitesse, mais Edgar hausse les épaules—\"Tout ce dont j'ai besoin est d'avancer, à tout prix.\"</color>",
             "info": "<size=36>Il file à toute allure dans les couloirs aquatiques.\n\n<color=black>Robustesse : </color><color=#4B0082>6000</color>\n<color=black>Spécial : </color><color=#4B0082>\n<color=black>•</color> Zombie évolué de Catégorie 2.\n<color=black>•</color> Se précipite à grande vitesse le long du couloir aquatique.</color>"
+        },
+        {
+            "theZombieType": 324,
+            "name": "Zombie Chevalier Clown-Pogo",
+            "introduce": "<align=justified><size=36><color=black>Ne le dérange pas, il est amoureux. Il n'est pas dans le mood pour entendre ton pessimisme à propos de sa romance, et si tu essayes, vous rencontrerez une réaction émotive explosive.</color>",
+            "info": "<size=36>Zombie Pogo avec un bâton pogo moderne chargée d'explosifs. Seulement légèrement magnétique et difficile à désamorcer.\n\n<color=black>Robustesse: </color><color=#4B0082>3000 + 3000 (Type 1)</color>\n<color=black>Spécial: </color><color=#4B0082>\n<color=black>•</color> Zombie Évolué de Catégorie 1.\n<color=black>•</color> Hérite des caractéristiques de Clown-Pogo.\n<color=black>•</color> Il ne perd pas son bâton pogo s'il est repoussé par les Ombrelles.\n<color=black>•</color> S'il meurt en tenant le bâton, provoque une explosion de Zombie Diable à ressort.</color>"
         }
     ]
 }
