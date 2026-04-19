@@ -914,5 +914,14 @@
   "词条羁绊": "Modifier les affinities",
   "词条收益": "Bonus des modificateurs",
   "投资词条": "<size=80%> Modificateurs d'investissement",
-  "旅行：投资2": "Odyssée : \nInvestissement (Rivière)"
+  "旅行：投资2": "Odyssée : \nInvestissement (Rivière)",
+  "旅行：炼狱2": "Odyssée : Purgatoire\n(Rivière)",
+  "旅行：炼狱诅咒2": "Odyssée : Maudite\nPurgatoire (Rivière)",
+  "旅行：投资": "Odyssée :\nInvestissement",
+  "已有词条": "Modificateurs actuels",
+  "已购买": "Possédé",
+  "已消除": "Supprimé",
+  "拥有植物任意一个词条后解锁词条羁绊，拥有另一个时激活亚种（如有）羁绊，拒绝投资词条后无法生效": "Débloquez et améliorez les affinités en obtenant des modificateurs de plantes. Les affinités ne peuvent pas être activées si le Modificateur d’investissement est ignoré",
+  "蘑菇岛": "Colonie fongique",
+  "极致之冰": "Cryoniciens"
 }
