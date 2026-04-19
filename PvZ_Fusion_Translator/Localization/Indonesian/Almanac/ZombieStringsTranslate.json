@@ -1148,21 +1148,24 @@
         },
         {
             "theZombieType": 80,
-            "name": "超时空撑杆僵尸",
-            "introduce": "<color=#3D1400>依靠自己独有的传送能力, 超时空坚果撑杆僵尸可以轻易挑战任何高度的撑杆跳, 并且能百分百越过横杆. 现在唯一令他头大的问题是, 他经常落在观众席上. </color>",
-            "info": "用撑杆打开时空乱流, 翻越到意想不到的地方. \n\n<color=#3D1400>HP: </color><color=red>720+1100(一类)</color>\n<color=#3D1400>Kecepatan: </color><color=red>中等</color>\n<color=#3D1400>Fitur: </color><color=red>翻越植物时随机向上下左右某个方向传送一格. 被击杀时, 掉落时空碎片</color>"
+            "name": "Zombi Pelompat Waktu",
+            "introduce": "<color=#3D1400>Mengandalkan kemampuan teleportasi uniknya, Zombi Pelompat Waktu dapat dengan mudah menantang ketinggian lompatan galah apa pun dan pasti berhasil melewati palangnya. Satu-satunya masalah yang membuatnya pening sekarang adalah dia sering mendarat di kursi penonton.</color>",
+            "info": "<size=14><color=blue>Menggunakan galah untuk membuka retakan ruang-waktu dan melompat ke tempat yang tak terduga.\n\n<color=black>HP: </color><color=red>720+1100 (Armor)</color>\n<color=black>Kecepatan: </color><color=red>Sedang</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Saat melompati tanaman, ia akan berteleportasi satu kotak secara acak ke arah atas, bawah, kiri, atau kanan.\n(2) Saat tereliminasi, menjatuhkan pecahan waktu.</color></indent></color></size>",
+            "cost": ""
         },
         {
             "theZombieType": 245,
-            "name": "特种机械飞碟",
-            "introduce": "<color=#3D1400>经过改装后的特种机械飞碟, 无论硬度、威力、续航时间、环保评分, 都有了明显的提升, 被埃德加博士称为自己上个星期最伟大的科技进步. “我剔除掉了老型号所有的缺陷, ”他说道, “包括那个驾驶员. ”</color>",
-            "info": "散布磁场来屏蔽植物的承伤援助, 并强化僵尸体质. \n\n<color=#3D1400>HP: </color><color=red>4500</color>\n<color=#3D1400>Kecepatan: </color><color=red>中等</color>\n<color=#3D1400>Fitur: </color><color=red>位于其下方的植物1秒内无法被承伤, 曾位于其下方的僵尸护甲系数+100(不可叠加)</color>"
+            "name": "UFO Mekanik Spesial",
+            "introduce": "<color=#3D1400>Setelah dimodifikasi, UFO Mekanik Spesial ini memiliki peningkatan signifikan dalam hal ketahanan, kekuatan, durasi baterai, hingga peringkat ramah lingkungan. Dr. Edgar menyebutnya sebagai kemajuan teknologi terhebatnya minggu lalu. \"Aku sudah membuang semua kekurangan dari model lama,\" katanya, \"termasuk pilotnya.\"</color>",
+            "info": "<size=14><color=blue>Menyebarkan medan magnet untuk memblokir bantuan pertahanan tanaman dan memperkuat fisik zombi.\n\n<color=black>HP: </color><color=red>4500</color>\n<color=black>Kecepatan: </color><color=red>Sedang</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Tanaman yang berada di bawahnya tidak bisa menerima bantuan pertahanan (indestructible support) selama 1 detik.\n(2) Zombi yang pernah berada di bawahnya akan mendapatkan tambahan koefisien armor +100 (tidak dapat ditumpuk).</color></indent></color></size>",
+            "cost": ""
         },
         {
             "theZombieType": 246,
-            "name": "阿尔法狙击手",
-            "introduce": "<color=#3D1400>他是僵尸特种部队的阴影猎手. 他蛰伏于最暗的角落, 他瞄准于最静的瞬间, 他决心成为究极阿尔法小队的爪牙. 他倾听战歌, 在迷雾的尽头为之接续余音, 熟悉的旋律一直传唱到临终的刹那. </color>",
-            "info": "在远处盯梢后方植物, 单独行动, 六响毙命. \n\n<color=#3D1400>HP: </color><color=red>3000+3000(一类)</color>\n<color=#3D1400>远程伤害: </color><color=red>500</color>\n<color=#3D1400>Kecepatan: </color><color=red>慢</color>\n<color=#3D1400>Fitur: </color><color=red>免疫魅惑、击退. 移动到地图最右侧一列后开始攻击, 每约2秒狙击本行最左侧的非载体植物(受南瓜保护和寒冷减速影响). 每第6次狙击造成强制击杀, 受到换行效果时重置计数</color>"
+            "name": "Alpha Sniper",
+            "introduce": "<color=#3D1400>Dia adalah pemburu bayangan dari pasukan khusus zombi. Dia mengintai di sudut tergelap, membidik di momen paling sunyi, dan bertekad menjadi taring dari tim Ultimate Alpha. Dia mendengarkan lagu perang, menyambung nadanya di ujung kabut, melantunkan melodi familiar itu hingga detik terakhir hidupnya.</color>",
+            "info": "<size=14><color=blue>Mengincar tanaman barisan belakang dari jarak jauh, bergerak sendirian, dan membunuh dalam enam tembakan.\n\n<color=black>HP: </color><color=red>3000+3000 (Armor)</color>\n<color=black>Damage Jarak Jauh: </color><color=red>500</color>\n<color=black>Kecepatan: </color><color=red>Lambat</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Imun terhadap efek hipnotis dan pukul mundur (knockback).\n(2) Mulai menyerang setelah bergerak ke kolom paling kanan peta. Setiap sekitar 2 detik, menembak tanaman non-media paling kiri di barisnya (terpengaruh oleh perlindungan Pumpkin dan perlambatan efek dingin).\n(3) Setiap tembakan ke-6 akan memberikan instakill (pasti mati). Hitungan tembakan akan diulang (reset) jika ia berpindah baris.</color></indent></color></size>",
+            "cost": ""
         }
     ]
 }
