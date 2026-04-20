@@ -30,13 +30,126 @@ Ce document retrace l’ensemble des contributions effectuées par **Charles LIN
 
 * Nouvelles traductions : **259**
 * Traductions ajustées : **136**
-* Reviews effectuées : **556**
+* Reviews effectuées : **634**
 
 ---
 
 ## 🗓️ Historique des contributions
 
 > Les contributions sont regroupées par semaine civile (ISO).
+
+---
+
+## 👤 Charles LINDECKER
+
+### 📅 Semaine — `13/04/26 → 19/04/26`
+> [PR#121](https://github.com/Teyliu/PVZF-Translation/pull/121)
+
+**Résumé de la semaine**
+
+* Nouvelles traductions : **0**
+* Traductions ajustées : **0**
+* Reviews effectuées : **78**
+
+---
+
+#### Détail
+
+## 🌿 **Reviews**
+
+### 🧟‍♂️ Newly Added Zombie Translations
+
+@Oarlina :
+* **Reine Jill-dans-la-boite** (`theZombieType: 224`)
+* **Roi Clown-Pogo** (`theZombieType: 325`)
+* **Zombie Empereur Clown-Pogo** (`theZombieType: 326`)
+* **Hwacha Trident-léger** (`theZombieType: 333`)
+* **Hwacha Trident-moyen** (`theZombieType: 334`)
+* **Hwacha Trident-lourd** (`theZombieType: 335`)
+* **Spectre Agité** (`theZombieType: 330`)
+* **Spectre Immortel** (`theZombieType: 331`)
+* **Spectre Eternel** (`theZombieType: 332`)
+
+### 🧪 New Regex Patterns Added
+
+@lafourmiedugaming-collab :
+* **^烈焰战士([^\s]+)$** (339)
+
+### 🧵 New String Entries Added
+
+@Barbie917 :
+* **烈焰战士** (2039)
+* **积分不足** (2017)
+* **View 已有词条** (2016)
+* **再次点击挑战模式进入游戏** (2015)
+* **请先通关普通模式** (2011)
+* **词条羁绊** (2010)
+* **词条收益** (2009)
+* **投资词条** (2008)
+* **旅行：投资2** (2007)
+
+@Hubtech280 :
+* **超级笨蛋:梦珞** (637)
+* **换肤** (638)
+* **换肤_S** (639)
+* **你还没有解锁该植物** (1567)
+* **View 来源** (1565)
+* **金咖啡豆** (1558)
+* **磁力植物** (1556)
+* **飞行植物** (1555)
+* **水生植物** (1554)
+* **坚果植物** (1553)
+* **金属植物** (1552)
+* **神秘红卡** (1551)
+* **View 融合** (1546)
+* **搜索** (1545)
+* **融合** (1544)
+* **深入敌后** (1523)
+* **阳光大盗** (1525)
+* **更多僵尸** (1495)
+* **大泳池** (1491)
+* **熔岩之地** (1490)
+* **关卡设置** (1444)
+* **配方：** (1408)
+* **没有找到关卡数据** (1407)
+* **混乱模式** (1300)
+* **宝藏沙滩** (1289)
+* **谁是内鬼** (932)
+* **关闭_close** (914)
+* **诅咒模式** (895)
+* **更换地图** (881)
+* **已禁用** (826)
+* **已启用** (825)
+* **锁定** (824)
+* **挑战关卡** (812)
+* **我是僵尸** (810)
+* **普通卡牌** (809)
+* **彩色卡牌** (808)
+* **冒险的时光** (807)
+* **经典冒险** (806)
+* **彩卡** (805)
+* **拿出背包** (793)
+* **放入背包** (785)
+* **出售** (784)
+* **请先通关前面的关卡** (693)
+* **至极手速：手套挪动植物不再消耗冷却，且僵尸手套可以挪领袖** (680)
+* **时停(3)** (655)
+
+@lafourmiedugaming-collab :
+* **阳光财团** (2029)
+* **爆破王** (2028)
+* **战术小队** (2027)
+* **召唤师** (2026)
+* **百步穿杨** (2025)
+* **极致之冰**(2024)
+* **蘑菇岛**(2023)
+* **拥有植物任意一个词条后解锁词条羁绊，拥有另一个时激活亚种（如有）羁绊，拒绝投资词条后无法生效**(2022)
+* **已消除**(2021)
+* **已购买**(2020)
+* **已有词条**(2019)
+* **旅行：投资**(2006)
+* **旅行：炼狱诅咒2**(2005)
+* **旅行：炼狱2**(2004)
 
 ---
 
