@@ -1,5 +1,5 @@
 # PVZRH-Multi-language-Mod-Translation files
-> Note to developers: This repo's codes contain the **translation files and the associated mod artifacts**. **Source code** for the **Translator mod** can be found [here](https://github.com/Teyliu/PVZFusionTranslation). You do **NOT** need to build from the source code if you are not a developer.
+> Note to developers: This repo's codes contain the **translation files and the associated mod artifacts**. Please reach out to us via e-mail or on Discord if you need the **Source code** for the **Translator mod**. You do **NOT** need to build from the source code if you are not a developer.
 
 # Plants vs Zombies: Fusion | Downloads, Resources, etc. 
 ***
