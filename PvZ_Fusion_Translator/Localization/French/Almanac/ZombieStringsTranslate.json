@@ -791,6 +791,60 @@
             "name": "Zombie Chevalier Clown-Pogo",
             "introduce": "<align=justified><size=36><color=black>Ne le dérange pas, il est amoureux. Il n'est pas dans le mood pour entendre ton pessimisme à propos de sa romance, et si tu essayes, vous rencontrerez une réaction émotive explosive.</color>",
             "info": "<size=36>Zombie Pogo avec un bâton pogo moderne chargée d'explosifs. Seulement légèrement magnétique et difficile à désamorcer.\n\n<color=black>Robustesse: </color><color=#4B0082>3000 + 3000 (Type 1)</color>\n<color=black>Spécial: </color><color=#4B0082>\n<color=black>•</color> Zombie Évolué de Catégorie 1.\n<color=black>•</color> Hérite des caractéristiques de Clown-Pogo.\n<color=black>•</color> Il ne perd pas son bâton pogo s'il est repoussé par les Ombrelles.\n<color=black>•</color> S'il meurt en tenant le bâton, provoque une explosion de Zombie Diable à ressort.</color>"
+        },
+        {
+            "theZombieType": 224,
+            "name": "<color=#4B0082><u>Reine Jill-dans-la-boite</u>",
+            "introduce": "<align=justified><size=36><color=black>Le simple regard de la reine suffit à faire trembler ses serviteurs. Nul n’ose la défier. Mais le pouvoir n’est pas son seul plaisir : elle adore offrir. Dans son coffret cadeau richement décoré, des jouets et des babioles attendent de petites mains… ainsi que des bombes prêtes à surprendre. Et oh, comme elle aime les surprises.</color>",
+            "info": "<size=36>La Reine Jill-dans-la-boite adore créer des \" scènes explosives.\"\n\n<color=black>Robustesse: </color><color=#4B0082>48000</color>\n<color=black>Spécial: </color><color=#4B0082>\n<color=black>•</color> Mini-boss. Insensible à l'hypnose et à la famine.\n<color=black>•</color> Écrase les plantes.\n<color=black>•</color> Explose à la mort, infligeant des dégâts physiques.\n<color=black>•</color> Elle sort de sa boîte à intervalles réguliers, provoquant au hasard l'un des effets suivants :\n1. Invoque des Clowns-dans-la-boîte sur chaque case de la cinquième colonne et de toutes les colonnes situées à sa droite.\n2. C'est pareil, mais ça invoque plutôt des Clown Pogo.\n3. Elle déclenche une explosion dans sa colonne, infligeant des dégâts physiques.</color>"
+        },
+        {
+            "theZombieType": 325,
+            "name": "Roi Clown-Pogo",
+            "introduce": "<align=justified><size=36><color=black>À une époque, il avait du mal à écouler ses stocks de bâton pogo, de pastèques et de boîtes-à-surprise. Il a donc demandé conseil à Zombie Catapulte. \"Il faut imaginer la pastèque et la boîte à surprise comme un tout,\" le conseil était le suivant. À en juger par ce succès fulgurant, ça a marché.</color>",
+            "info": "<size=36>Équipé d'un chargeur à usage unique pour son bâton pogo explosif.\n\n<color=black>Robustesse: </color><color=#4B0082>6000 + 6000 (Type 1)</color>\n<color=black>Spécial: </color><color=#4B0082>\n<color=black>•</color> Zombie évolué de Palier 2.\n<color=black>•</color> Hérite des traits de Zombie Chevalier Clown-Pogo.\n<color=black>•</color> S'il apparaît dans la moitié droite du terrain, il se charge pendant 5 secondes, puis effectue un long bond d'environ 4 cases.</color>"
+        },
+        {
+            "theZombieType": 326,
+            "name": "Zombie Empereur Clown-Pogo",
+            "introduce": "<align=justified><size=36><color=black>Après un long moment, il a enfin surmonté la douleur de sa rupture. Il arbore désormais des couleurs vives et est prêt à courtiser une nouvelle déesse. Il courtise désormais Reine Jill-dans-la-boite. Espérons que son endurance émotionnelle se soit améliorée.</color>",
+            "info": "<size=36>Grâce à un système de recharge amélioré, la fumée dégagée par son bâton pogo explosif dissimule sa doublure.\n\n<color=black>Robustesse: </color><color=#4B0082>12000 + 12000 (Type 1)</color>\n<color=black>Spécial: </color><color=#4B0082>\n<color=black>•</color> Zombie Évolué de Palier 3.\n<color=black>•</color> Hérite des caractéristiques du Roi Clown-Pogo, mais la durée de la charge est réduite à 0,5 s.\n<color=black>•</color> Il peut échapper à la mort s'il tient son bâton pogo.</color>"
+        },
+        {
+            "theZombieType": 333,
+            "name": "Hwacha Trident-léger",
+            "introduce": "<align=justified><size=36><color=black>\"Quand les poiriers fleurissent à travers le pays, la rivière coule sous un voile de gaze.\"  Hwacha Trident-léger a lu cette ballade dans un livre jauni, émue par la légende qui s'y cachait. Malheureusement, elle n'a pas compris que les fusées ont besoin de moteurs pour voler loin.</color>",
+            "info": "<size=36>Lance une petite vague de tridents.\n\n<color=black>Robustesse: </color><color=#4B0082>3000</color>\n<color=black>Spécial: </color><color=#4B0082>\n<color=black>•</color> Zombie évolué de Palier 1.\n<color=black>•</color> Il attaque en tirant quatre tridents à la fois ; il peut recharger et tirer une nouvelle fois, puis reprend sa progression en écrasant les plantes. Les tridents atterrissent 5 à 7 cases plus loin.</color>"
+        },
+        {
+            "theZombieType": 334,
+            "name": "Hwacha Trident-moyen",
+            "introduce": "<align=justified><size=36><color=black>L'entraînement avec le Hwacha Trident-moyen comprend des exercices de précision spécifiques. Comme les tridents ne peuvent pas modifier leur trajectoire en plein vol, le conducteur doit repositionner l'ensemble du chariot pour viser. \"Ajustez légèrement… encore un peu… juste un tout petit peu—\" Plouf ! Le chariot tombe dans un étang tout proche.</color>",
+            "info": "<size=36>Lance une vague plus importante de tridents.\n\n<color=black>Robustesse: </color><color=#4B0082>3000 + 3000 (Type 1)</color>\n<color=black>Spécial: </color><color=#4B0082>\n<color=black>•</color> Zombie évolué de Catégorie 2.\n<color=black>•</color> Hérite des traits de Hwacha Trident-léger mais tire 14 tridents par salve.</color>"
+        },
+        {
+            "theZombieType": 335,
+            "name": "Hwacha Trident-lourd",
+            "introduce": "<align=justified><size=36><color=black>Un guerrier vétéran du trident, décoré et expérimenté, vient de rejoindre la division Hwacha dans ses nouveaux rangs. Il a chassé les Roulourson dans la tourbière et combattu des crocodiles dans les marécages. Il se tient désormais devant vous, prêt au combat. Voyons voir ... saurez-vous l'esquiver ?</color>",
+            "info": "<size=36>Lance des tridents qui se dispersent à sa mort.\n\n<color=black>Robustesse: </color><color=#4B0082>6000 + 6000 (Type 1)</color>\n<color=black>Spécial: </color><color=#4B0082>\n<color=black>•</color> Zombie évolué de Catégorie 3.\n<color=black>•</color> Hérite des caractéristiques de Hwacha Trident-moyen.\n<color=black>•</color> À sa mort, les tridents inutilisés se dispersent aléatoirement dans un rayon de 3,5 cases sur sa ligne, infligeant des dégâts à toutes les plantes touchées.</color>"
+        },
+        {
+            "theZombieType": 330,
+            "name": "Spectre Agité",
+            "introduce": "<align=justified><size=36><color=black>Né dans la pauvreté, j’ai eu la chance d’être parrainé par un riche mécène, ce qui m’a permis de faire des études. J’ai ensuite occupé un poste de fonctionnaire intègre, m’exprimant sans détours à la cour. Les gens disaient que l’empereur était un tyran, mais bien qu’il ait ignoré mes conseils, il ne m’a jamais puni. Ce n’est que plus tard que j’ai appris que l’empereur était sourd.</color>",
+            "info": "<size=36>Un esprit ressuscité qui explose à sa mort, causant du tort à toute forme de vie verte sur son passage.\n\n<color=black>Dégâts: </color><color=#4B0082>250 (sans morsure)</color>\n<color=black>Robustesse: </color><color=#4B0082>3000</color>\n<color=black>Spécial: </color><color=#4B0082>\n<color=black>•</color> Zombie évolué de Catégorie 1.\n<color=black>•</color> Lorsqu'il est tué par des dégâts, il inflige 125 points de dégâts à toutes les plantes situées dans une zone de 3×3.</color>"
+        },
+        {
+            "theZombieType": 331,
+            "name": "Spectre Immortel",
+            "introduce": "<align=justified><size=36><color=black>Le spectre nocturne s'élança, dispersant tous ses alliés. Deux plantes se dressaient sur son chemin. Enragé, il frappa : l'une tomba, et l'autre tenta de résister. Le spectre bondit, les transperçant toutes les deux, et les acheva de coups brutaux. Elles furent courageuses, mais périrent toutes deux en un instant. Que pouvaient-elles faire de plus ? C'était dérisoire.</color>",
+            "info": "<size=36>Un spectre fantomatique qui transperce les barrières avec une force surnaturelle.\n\n<color=black>Dégâts: </color><color=#4B0082>500 (sans morsure)</color>\n<color=black>Robustesse: </color><color=#4B0082>6000</color>\n<color=black>Spécial: </color><color=#4B0082>\n<color=black>•</color> Zombie évolué de Catégorie 2.\n<color=black>•</color> Toutes les 4-8 secondes, se précipite sur un maximum de 2 cases, en ignorant les plantes et en infligeant des dégâts.\n<color=black>•</color> Lorsqu'il est tué par des dégâts, il inflige 250 points de dégâts à toutes les plantes situées dans une zone de 3×3.</color>"
+        },
+        {
+            "theZombieType": 332,
+            "name": "Spectre Eternel",
+            "introduce": "<align=justified><size=36><color=black>Li Chi-hsing, originaire de Fengdu, a dit un jour lorsqu’il était enfant, \"Je vois un sceau de jade là-bas — il appartient à ma famille.\" Tout le monde riait. À 24 ans, en pleine famine, il se rebella et se proclama roi de Fengdu. Lorsqu’il reçut le sceau de jade, celui-ci lui brûla le visage. L’année suivante, une nouvelle famine s’abattit sur le pays. Il fut chassé du pouvoir et échappa de justesse à la mort. La langue meurtrie par le sceau, lorsqu’on lui demanda son nom, il ne put que marmonner : \"Je suis Li..ch..\"</color>",
+            "info": "<size=36>Un spectre qui traverse les plantes et frappe avec la fureur impériale.\n\n<color=black>Dégâts: </color><color=#4B0082>300/1.5s</color>\n<color=black>Robustesse: </color><color=#4B0082>12000</color>\n<color=black>Spécial: </color><color=#4B0082>\n<color=black>•</color> Zombie évolué de Catégorie 3.\n<color=black>•</color> Sur le côté droit de la pelouse, toutes les 4 à 8 secondes, il se déplace par étapes sur un maximum de 4 cases en ignorant les plantes, s'avançant aussi loin que possible dans la rangée et infligeant des dégâts sur son passage. S'il n'y a pas de plantes à contourner, il effectue à la place une ruée vers l'avant d'une case.\n<color=black>•</color> Si vous essayez d'utiliser cette compétence du côté gauche, elle est désactivée.\n<color=black>•</color> Lorsqu'il est tué par des dégâts, il inflige 500 points de dégâts à toutes les plantes situées dans une zone de 3×3.</color>"
         }
     ]
 }
