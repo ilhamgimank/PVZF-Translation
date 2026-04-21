@@ -61,12 +61,6 @@ The Multi-Language version supports the following languages: **English**, **Chin
 The Online English Almanac made by CarrotD1scrd can be found [here](https://carroti4ch.itch.io/almanac). Please be informed that it is updated slowly and what you see in here may not be *as accurate* or *up-to-date* as what's in-game.
 ![The Online English Almanac](https://i.imgur.com/PRcWII0.png)
 
-### Fusion Addons
-***
-Visit our Discord Server to get ~~cheats~~ **Addons** to enhance your gameplay.
-[![https://discord.gg/DPAC5ZVJ8T](https://i.imgur.com/lIcLtqj.png)](https://discord.gg/DPAC5ZVJ8T)
-
-
 ## Credits
 ***
 **蓝飘飘fly's Team** | Original Developers [Link to Bilibili](https://space.bilibili.com/3546619314178489)
