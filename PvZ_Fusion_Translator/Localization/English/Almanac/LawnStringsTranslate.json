@@ -3082,7 +3082,7 @@
         },
         {
             "seedType": 1274,
-            "name": "Blasty-shroom",
+            "name": "Cherry-shroom",
             "introduce": "<align=left><size=36><color=black>The meekest Cherry in the family, no tantrums, no shouting, and loved by many. \"I… kinda want to swear sometimes,\" she admits. \"But… I'm afraid someone might yell back.\"</color>",
             "info": "<size=36>Frightened easily, but causes an explosion when it happens.\n\n<color=black>Damage: </color><color=#8B0000>40/1.5s</color>\n<color=black>Special: </color><color=#8B0000>When scared, hides and sets off a Cherry Bomb blast that deals 600 AoE damage.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Scaredy-shroom + Cherry Bomb</color>"
@@ -3789,9 +3789,9 @@
         },
         {
             "seedType": 1375,
-            "name": "Coldslaw",
-            "introduce": "<align=left><size=36><color=black>\"You have no idea how terrifying that place was,\" Coldslaw says, still shaken. \"A land of extreme cold, where countless plants were frozen forever. If I hadn't risked my life to open the door back outside, we vegetables would've all died in there.\" Oh, he's talking about his adventure inside Dave's refrigerator again.</color>",
-            "info": "<size=36>Lobs frozen cabbages and attacks faster when hitting frozen enemies.\n\n<color=black>Damage: </color><color=#8B0000>40/3s</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Attacks inflict Chill, add 10 Cryo points and deal ×4 damage to frozen zombies.</color>\n<color=black>Special: </color><color=#8B0000>On hitting a Frozen zombie, the projectile can bounce once, and Coldslaw's attack speed is greatly increased for 3s. This effect can only trigger again 1.5s after it ends.</color>",
+            "name": "Coldslaw-pult",
+            "introduce": "<align=left><size=36><color=black>\"You have no idea how terrifying that place was,\" Coldslaw-pult says, still shaken. \"A land of extreme cold, where countless plants were frozen forever. If I hadn't risked my life to open the door back outside, we vegetables would've all died in there.\" Oh, he's talking about his adventure inside Dave's refrigerator again.</color>",
+            "info": "<size=36>Lobs frozen cabbages and attacks faster when hitting frozen enemies.\n\n<color=black>Damage: </color><color=#8B0000>40/3s</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Attacks inflict Chill, add 10 Cryo points and deal ×4 damage to frozen zombies.</color>\n<color=black>Special: </color><color=#8B0000>On hitting a Frozen zombie, the projectile can bounce once, and Coldslaw-pult's attack speed is greatly increased for 3s. This effect can only trigger again 1.5s after it ends.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Ice-shroom + Cabbage-pult</color>"
         },
         {
