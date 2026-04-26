@@ -564,7 +564,7 @@
             "seedType": 305,
             "name": "Supremacy-shroom",
             "introduce": "<align=left><size=36><color=black>Supremacy-shroom hails from the deepest, most crowded abyss and commands the most elusive dreamscapes. In her, the balance of yin and yang is perfectly realized, and even powerful monsters have been tamed by her hand. In private, she is also a veteran collector of zombie figurines.</color>",
-            "info": "<size=36>Summons a hynotized Mini-boss to fight for you.\n\n<color=#4A2900>Usage Condition: Harvest Mode | Legendary Odyssey Plant</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> 1.5s after appearance, randomly summons a hypnotized Mini-boss zombie that fights for you from the following. Summoned hypnotized Mini-boss cannot be pulled back by Mind-blovers or captured by Captivator Pumpkin.\n<color=black>•</color> Abyssal Gargantuar: Also provides a 90% incoming damage reduction for all plants while present.\n<color=black>•</color> Giga Football Striker: Also heals all plants by HP equal to 0.2× their max HP every 3s while present.\n<color=black>•</color> Professor Cherryz: Immobile. Shoots one explosive cherry every 0.1s. Loses his newspaper on appearance and converts up to 30 non-miniboss, non-gargantuar zombies on the field from both sides into enraged hypnotized Gatling Cherry Newspaper Zombies.</color>",
+            "info": "<size=36>Summons a hynotized Mini-boss to fight for you.\n\n<color=#4A2900>Usage Condition: Harvest Mode | Legendary Odyssey Plant</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> 1.5s after appearance, randomly summons a hypnotized Mini-boss zombie that fights for you from the following. Summoned hypnotized Mini-boss cannot be pulled back by Mind-blovers or captured by Pumpkaptivator.\n<color=black>•</color> Abyssal Gargantuar: Also provides a 90% incoming damage reduction for all plants while present.\n<color=black>•</color> Giga Football Striker: Also heals all plants by HP equal to 0.2× their max HP every 3s while present.\n<color=black>•</color> Professor Cherryz: Immobile. Shoots one explosive cherry every 0.1s. Loses his newspaper on appearance and converts up to 30 non-miniboss, non-gargantuar zombies on the field from both sides into enraged hypnotized Gatling Cherry Newspaper Zombies.</color>",
             "cost": "\n"
         },
         {
@@ -649,7 +649,7 @@
             "name": "Laser Pumpkin",
             "introduce": "<align=left><size=36><color=black>\"Magnet-shroom's power remains unmatched,\" said Laser Pumpkin. \"After all, composite armor, electromagnetic catapults, and plasma guns came nearly a century after aircraft carriers.\" Other plants envied Laser Pumpkin's high-tech gear, but only Magnet-shroom knew his power came from a Magnetar meteorite.</color></size>",
             "info": "<size=36>Spawns laser drones that home in on enemies.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Damage: </color><color=#8B0000>200/1.5s (Drone)\n200/1s (Wingman)\n<color=black>Toughness: </color><color=#8B0000>16000</color>\n<color=#666699>Magnetic System:</color> <color=#8B0000>When part of a Magnetic System with a Omni Pumpkin or any Metal-infused Pumpkin (including the Joker Pumpkin part of Pumpkin Bunker), gains their special traits. Additionally, assimilates all but one Omni Pumpkin in the same system into a Laser Pumpkins every 30s (first time 10s).</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Always has a Laser Drone wingman with him when he appears. Generates a Laser Drone on top of a tile around a 3×3 area every 30s (first time 10s).\n<color=black>•</color> Reflects 100 damage back to zombies biting it.\n<color=black>Odyssey Modifiers:\n</color><color=#8B0000>1. Wingmen Amount → 3\n2. Wingmen & drones damage ×3</color></size>",
-            "cost": "<size=35>\nFusion Recipe: <color=#8B0000>Magnet Blover > Carrier Pumpkin</color>"
+            "cost": "<size=35>\nFusion Recipe: <color=#8B0000>Magnet Blover > Pumpkarrier</color>"
         },
         {
             "seedType": 912,
@@ -1038,9 +1038,9 @@
         },
         {
             "seedType": 967,
-            "name": "Captivator Pumpkin",
-            "introduce": "<align=left><size=36><color=black>As zombie numbers continued to rise, how to stay popular among zombies became a hot topic. \"Relying on traditional communication alone is no longer enough,\" says Captivator Pumpkin. \"I will use a brand-new radio-wave microphone to deliver my music and feelings to a wider audience of zombies.\" With this move, she ushered in a new trend in zombie culture.</color>",
-            "info": "<size=36>Charisma aeterna.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable With Charmatron</color>\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Subspecies of Charmatron.\n<color=black>•</color> Zombies that try to bite it are hypnotized instead.\n<color=black>•</color> Captures 1 non-flying, non-miniboss hypnotized zombie that passes through, preventing it from leaving the tile and having it absorb damage for the Captivator Pumpkin.\n<color=black>•</color> Deals damage equal to 0.1× max HP per second to the captured hypnotized zombie and gains 4 energy stacks.\n<color=black>•</color> When energy stack is ≥0/50/100, Charge Level is at 1/2/3, draining 1/2/2 energy per second respectively. Charge Level is locked behind a Modifier.\n<color=black>•</color> At charge levels 1/2/3, every 15/10/6s, hypnotizes 1 non-flying, non-miniboss zombie within a 1.5-tile radius. On success, the plant inside the shell gains a damage boost of (60% × Charge Level) for 1s. Every time a Captivator Pumpkin activates this effect, Laser Pumpkins and Blast Pumpkins in the same Magnetic system resonate and trigger the same effect simultaneously.\n<color=black>•</color> While a Charmatron is inside, the Charmatron always benefits from the same damage boost of (60% × Charge Level).</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. Damage to captured hypnotized Zombies halved</color>\n<color=#8B0000>2. Charge Level 3 unlocked</color>",
+            "name": "Pumpkaptivator",
+            "introduce": "<align=left><size=36><color=black>As zombie numbers continued to rise, how to stay popular among zombies became a hot topic. \"Relying on traditional communication alone is no longer enough,\" says Pumpkaptivator. \"I will use a brand-new radio-wave microphone to deliver my music and feelings to a wider audience of zombies.\" With this move, she ushered in a new trend in zombie culture.</color>",
+            "info": "<size=36>Charisma aeterna.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable With Charmatron</color>\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Subspecies of Charmatron.\n<color=black>•</color> Zombies that try to bite it are hypnotized instead.\n<color=black>•</color> Captures 1 non-flying, non-miniboss hypnotized zombie that passes through, preventing it from leaving the tile and having it absorb damage for the Pumpkaptivator.\n<color=black>•</color> Deals damage equal to 0.1× max HP per second to the captured hypnotized zombie and gains 4 energy stacks.\n<color=black>•</color> When energy stack is ≥0/50/100, Charge Level is at 1/2/3, draining 1/2/2 energy per second respectively. Charge Level is locked behind a Modifier.\n<color=black>•</color> At charge levels 1/2/3, every 15/10/6s, hypnotizes 1 non-flying, non-miniboss zombie within a 1.5-tile radius. On success, the plant inside the shell gains a damage boost of (60% × Charge Level) for 1s. Every time a Pumpkaptivator activates this effect, Laser Pumpkins and Blast Pumpkins in the same Magnetic system resonate and trigger the same effect simultaneously.\n<color=black>•</color> While a Charmatron is inside, the Charmatron always benefits from the same damage boost of (60% × Charge Level).</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. Damage to captured hypnotized Zombies halved</color>\n<color=#8B0000>2. Charge Level 3 unlocked</color>",
             "cost": "<size=36>Conversion Recipe: <color=#8B0000>Shovel <-> Glove the Charmatron onto a Pumpkin</color>"
         },
         {
@@ -1934,10 +1934,10 @@
         },
         {
             "seedType": 1110,
-            "name": "Carrier Pumpkin",
-            "introduce": "<align=left><size=36><color=black>Carrier Pumpkin always kept three books on its shelf, their titles concealed from the curious eyes of the other plants. One day, a Cactus Drone's curiosity led it into the study, where it uncovered the titles: \"Guide to Succulent Plant Cultivation,\" \"Postpartum Care for Pumpkins,\" and \"30-Second Cactus Quick Flight Tutorial.\" The Cactus Drone chuckled at the unexpected collection.</color></size>",
+            "name": "Pumpkarrier",
+            "introduce": "<align=left><size=36><color=black>Pumpkarrier always kept three books on its shelf, their titles concealed from the curious eyes of the other plants. One day, a Cactus Drone's curiosity led it into the study, where it uncovered the titles: \"Guide to Succulent Plant Cultivation,\" \"Postpartum Care for Pumpkins,\" and \"30-Second Cactus Quick Flight Tutorial.\" The Cactus Drone chuckled at the unexpected collection.</color></size>",
             "info": "<size=36>Spawns a Cactus Drone that moves around the field to attack flying zombies.\n\n<color=black>Damage: </color><color=#8B0000>30×2/1.5s (Drone), 30×2/1s (Wingman)\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>Inherits Thorny Pumpkin traits. Always has a Cactus Drone wingman with him when he appears. Generates a Cactus Drone on top of a 3×3 area every 30s (first time 10s).</color></size>",
-            "cost": "<size=36>Fusion Recipe: <color=#8B0000>Cactus > Blover > Pumpkin OR Blover > Cactus > Pumpkin</color>"
+            "cost": "<size=36>Fusion Recipe: <color=#8B0000>Cactus > (Blover > Pumpkin) OR Blover > (Cactus > Pumpkin)</color>"
         },
         {
             "seedType": 1111,
@@ -3082,7 +3082,7 @@
         },
         {
             "seedType": 1274,
-            "name": "Blasty-shroom",
+            "name": "Cherry-shroom",
             "introduce": "<align=left><size=36><color=black>The meekest Cherry in the family, no tantrums, no shouting, and loved by many. \"I… kinda want to swear sometimes,\" she admits. \"But… I'm afraid someone might yell back.\"</color>",
             "info": "<size=36>Frightened easily, but causes an explosion when it happens.\n\n<color=black>Damage: </color><color=#8B0000>40/1.5s</color>\n<color=black>Special: </color><color=#8B0000>When scared, hides and sets off a Cherry Bomb blast that deals 600 AoE damage.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Scaredy-shroom + Cherry Bomb</color>"
@@ -3789,9 +3789,9 @@
         },
         {
             "seedType": 1375,
-            "name": "Coldslaw",
-            "introduce": "<align=left><size=36><color=black>\"You have no idea how terrifying that place was,\" Coldslaw says, still shaken. \"A land of extreme cold, where countless plants were frozen forever. If I hadn't risked my life to open the door back outside, we vegetables would've all died in there.\" Oh, he's talking about his adventure inside Dave's refrigerator again.</color>",
-            "info": "<size=36>Lobs frozen cabbages and attacks faster when hitting frozen enemies.\n\n<color=black>Damage: </color><color=#8B0000>40/3s</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Attacks inflict Chill, add 10 Cryo points and deal ×4 damage to frozen zombies.</color>\n<color=black>Special: </color><color=#8B0000>On hitting a Frozen zombie, the projectile can bounce once, and Coldslaw's attack speed is greatly increased for 3s. This effect can only trigger again 1.5s after it ends.</color>",
+            "name": "Coldslaw-pult",
+            "introduce": "<align=left><size=36><color=black>\"You have no idea how terrifying that place was,\" Coldslaw-pult says, still shaken. \"A land of extreme cold, where countless plants were frozen forever. If I hadn't risked my life to open the door back outside, we vegetables would've all died in there.\" Oh, he's talking about his adventure inside Dave's refrigerator again.</color>",
+            "info": "<size=36>Lobs frozen cabbages and attacks faster when hitting frozen enemies.\n\n<color=black>Damage: </color><color=#8B0000>40/3s</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Attacks inflict Chill, add 10 Cryo points and deal ×4 damage to frozen zombies.</color>\n<color=black>Special: </color><color=#8B0000>On hitting a Frozen zombie, the projectile can bounce once, and Coldslaw-pult's attack speed is greatly increased for 3s. This effect can only trigger again 1.5s after it ends.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Ice-shroom + Cabbage-pult</color>"
         },
         {
