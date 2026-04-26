@@ -31,32 +31,32 @@
     },
     "BigWallNut": {
         "achievement": 6,
-        "Name": "Placez un Noix sur un autre Noix.",
+        "Name": "Placez une Noix sur une autre Noix.",
         "Text": "Comment s'est-il enfui ?"
     },
     "CherryPaper95": {
         "achievement": 9,
-        "Name": "Rencontrez le Zombie Journal Pisto-cerise.",
+        "Name": "Rencontrez le Zombie-cerise-sulfateuse à Journal.",
         "Text": "Grosse promo sur les cerises !"
     },
     "Puff": {
         "achievement": 7,
-        "Name": "Utilisez un Champi-peureux ou un Champi-fumée pour tartiner le Champi-gnon.",
+        "Name": "Utilisez un Champi-peureux ou un Champi-fumée pour propager un Champi-gnon.",
         "Text": "D'où est-ce que je viens ?"
     },
     "SunBomb": {
         "achievement": 8,
-        "Name": "Utilisez Sun Bomb pour faire exploser 10 zombies à la fois.",
-        "Text": "Une lumière par jour"
+        "Name": "Utilisez Bombe Solaire pour faire exploser 10 zombies à la fois.",
+        "Text": "Un flash, un jour"
     },
     "BigWallNut2": {
         "achievement": 10,
-        "Name": "Utilisez une Noix pour écraser 10 zombies à la fois.",
+        "Name": "Utilisez une Noix Géante pour écraser 10 zombies à la fois.",
         "Text": "Boule de destruction"
     },
     "BigWallNut3": {
         "achievement": 11,
-        "Name": "Utilisez une Noix pour infliger 20 000 dégâts au même zombie.",
+        "Name": "Utilisez une Noix Géante pour infliger 20 000 dégâts au même zombie.",
         "Text": "Noix roulante"
     },
     "HypnoShroom": {
@@ -67,7 +67,7 @@
     "JacksonZombie": {
         "achievement": 13,
         "Name": "Rencontrez Michael Zombie",
-        "Text": "Michael est là aussi"
+        "Text": "Thriller"
     },
     "ScaredyHypno": {
         "achievement": 14,
@@ -81,43 +81,43 @@
     },
     "LilyPad": {
         "achievement": 16,
-        "Name": "Faire en sorte que Lily Pad produise une plante",
-        "Text": "Le jeune lotus vient de montrer son premier bourgeon."
+        "Name": "Faire en sorte qu'un Nénuphar produise une plante",
+        "Text": "Le jeune lotus montre ses bourgeons"
     },
     "ThreePeater": {
         "achievement": 17,
-        "Name": "Plantez un Triple Pisto-pois en bordure des allées en lui faisant tirer 2 pois par rang dans son allée.",
+        "Name": "Plantez un Triple Pisto-pois sur les bandes latérales, lui permettant de tirer 2 pois dans sa ligne par attaque.",
         "Text": "La trajectoire penche vers la gauche."
     },
     "SquashKelp": {
         "achievement": 18,
-        "Name": "Découvrez le Kelp Mangle",
+        "Name": "Découvrez Algue Étrangleuse",
         "Text": "Créature des profondeurs"
     },
     "ThreeSpike": {
         "achievement": 19,
-        "Name": "Utilisez un épandeur de mauvaises herbes pour faire éclater les pneus.",
-        "Text": "Pourquoi avons-nous encore besoin de Pic-roche ?"
+        "Name": "Utilisez Triple Ortie pour faire éclater des pneus.",
+        "Text": "Chute de pneu"
     },
     "SunSeaShroom": {
         "achievement": 20,
-        "Name": "Découvrez le champignon du soleil marin",
-        "Text": "Ce n'est pas un Soleil-Pousse ?"
+        "Name": "Découvrez Champi-soleil Marin ",
+        "Text": "Soleil dans la piscine"
     },
     "StarBlover": {
         "achievement": 21,
-        "Name": "Utilisez Starblover pour attirer les projectiles étoiles.",
-        "Text": "Attracteur d'étoiles"
+        "Name": "Utilisez Troufle d'Étoiles pour attirer les projectiles étoiles.",
+        "Text": "Manoeuvre gravitationnelle"
     },
     "MagnetShroom": {
         "achievement": 22,
         "Name": "Utilisez le système magnétique.",
-        "Text": "Recherche en largeur"
+        "Text": "Algorithme de parcours en largeur"
     },
     "CornCabbage": {
         "achievement": 23,
-        "Name": "Découvrez Taco-pult.",
-        "Text": "Le Taco-pulte est un mensonge"
+        "Name": "Découvrez Lance-taco.",
+        "Text": "Lance-Taco c'est ton mensonge"
     },
     "GarlicCorn": {
         "achievement": 24,
@@ -126,73 +126,73 @@
     },
     "CabbageUmbrella": {
         "achievement": 25,
-        "Name": "Utilisez Umbrella Kale pour faire rebondir les projectiles de la catapulte.",
-        "Text": "Rebond amusant"
+        "Name": "Utilisez Ombrelle Chou pour faire rebondir les projectiles d'une catapulte.",
+        "Text": "Jongleuse"
     },
     "GoldMelon": {
         "achievement": 26,
-        "Name": "Qu'une pluie de melon doré tombe du ciel.",
+        "Name": "Laisse une pluie de pastèques dorés tomber du ciel.",
         "Text": "Une pluie de pastèques"
     },
     "SquashTorch": {
         "achievement": 27,
         "Name": "Utilisez Écras-torche pour fabriquer un Écraseur.",
-        "Text": "Écraseur flamboyant"
+        "Text": "C'est chaud"
     },
     "UltimateTorch": {
         "achievement": 28,
-        "Name": "Découvrez Écraseur Calcifer.",
-        "Text": "Cet Écraseur épicé est brûlant"
+        "Name": "Découvrez Écraseur Infernal.",
+        "Text": "Cuisine de l'enfer"
     },
     "Superkelp": {
         "achievement": 29,
-        "Name": "Découvrez Algue Cerbère.",
-        "Text": "Écraseur s'est renforcé"
+        "Name": "Découvrez Algue Hydre.",
+        "Text": "Horreur venue des profondeurs"
     },
     "DarkThreePeater": {
         "achievement": 30,
         "Name": "Essayez d'allumer un Triple Pisto-pois.",
-        "Text": "Danse avec le feu"
+        "Text": "Danser avec le feu"
     },
     "AshThreePeater": {
         "achievement": 31,
-        "Name": "Allumez un autre feu sur Scorched Triple Pisto-pois.",
-        "Text": "Bâton ardent"
+        "Name": "Fusinner un Jalapeño avec un Triple Pisto-pois Brûlé.",
+        "Text": "Terre brûler"
     },
     "SuperThreePeater": {
         "achievement": 32,
-        "Name": "Laissez Triple Pisto-pois renaître de ses cendres.",
-        "Text": "Renaissance des flammes"
+        "Name": "Laissez Triple Pisto-pois renaitre de ses cendres.",
+        "Text": "Renaissance dans les flammes"
     },
     "MagnetCactus": {
         "achievement": 33,
-        "Name": "Utilisez Cactus Magnétique pour écraser des dirigeables.",
-        "Text": "Croiseur Aegis"
+        "Name": "Utilisez Cactus Magnétique pour faire s'écraser des dirigeables.",
+        "Text": "Utilise la Force"
     },
     "SuperStar": {
         "achievement": 34,
-        "Name": "Regardez un météore tomber du ciel.",
-        "Text": "Quand le ciel bouge, tout suit"
+        "Name": "Regardez une étoile filante tomber du ciel.",
+        "Text": "Laisse tombé le ciel"
     },
     "UltimateStar": {
         "achievement": 35,
-        "Name": "Découvrez Magnétar.",
+        "Name": "Découvrez Étoile polaire.",
         "Text": "Niveau 1436"
     },
     "MagnetShroom2": {
         "achievement": 36,
         "Name": "Connectez 50 plantes dans un système magnétique.",
-        "Text": "Magnéto"
+        "Text": "Magnétosphère"
     },
     "UltimateStar2": {
         "achievement": 37,
-        "Name": "Les dégâts de l'étoile de Magnetar dépassent plus de 1 800.",
-        "Text": "Enfant des étoiles"
+        "Name": "Faire dépasser les dégâts de l'Étoile Polaire au dessus de 1 800.",
+        "Text": "Construction d'étoiles"
     },
     "HypnoMagnet": {
         "achievement": 38,
-        "Name": "Invoquez un Mecha Gargantuar à partir d’un aimant hypnotique.",
-        "Text": "Flot d'acier"
+        "Name": "Invoquez un Gargantua Mecha à partir d’un Aimant Charment.",
+        "Text": "Torrent d'acier"
     },
     "SunMagnet": {
         "achievement": 39,
@@ -201,73 +201,73 @@
     },
     "SuperCherryShooter": {
         "achievement": 40,
-        "Name": "Découvrez Explod-o-shooter.",
-        "Text": "A-t-il lancé une bombe cerise ?"
+        "Name": "Découvrez Pisto-grenade.",
+        "Text": "Repose en pièces"
     },
     "UltimateGatling": {
         "achievement": 41,
-        "Name": "Découvrez Gatling Cherrybomber.",
+        "Name": "Découvrez la Sulfateuse à Grenades.",
         "Text": "Bombardier de pelouse"
     },
     "HypnoEmperor": {
         "achievement": 42,
-        "Name": "Découvrez Impératrice-Champignon.",
-        "Text": "Impératrice magique"
+        "Name": "Découvrez l'Impécratrice-champi.",
+        "Text": "C'est une sorte de magie."
     },
     "CobCannon": {
         "achievement": 43,
-        "Name": "Découvrez Cob Cannon",
-        "Text": "Le calme de l'ancienne génération"
+        "Name": "Découvrez Canon à Epi",
+        "Text": "Plus affûté que jamais"
     },
     "IceCannon": {
         "achievement": 44,
-        "Name": "Utilisez Cryo Cannon pour fusionner des plantes.",
+        "Name": "Utilisez Cannon Arctique pour fusionner des plantes.",
         "Text": "Gelé"
     },
     "FireCannon": {
         "achievement": 45,
-        "Name": "Utilisez Pyro Cannon pour fusionner des plantes.",
-        "Text": "Brûlé"
+        "Name": "Utilisez Canon Volcanique pour fusionner des plantes.",
+        "Text": "Regarde le monde brûlé"
     },
     "UltimateCannon": {
         "achievement": 46,
-        "Name": "Découvrez Cata-fléau.",
-        "Text": "Frappe nucléaire"
+        "Name": "Découvrez Canon Apocalyptique.",
+        "Text": "Je suis devenu la mort"
     },
     "SuperUmbrella": {
         "achievement": 47,
-        "Name": "Gagnez de l'argent avec Parapluie de Diamant.",
+        "Name": "Gagnez de l'argent avec Ombrelle Alchimiste.",
         "Text": "Transmutation"
     },
     "EmeraldUmbrella": {
         "achievement": 48,
-        "Name": "Utilisez Midas Umbrella pour vous moquer du trident.",
-        "Text": "Viens me frapper !"
+        "Name": "Utilisez Ombrelle de Midas pour provoquer Zombie Trident.",
+        "Text": "Viens et frappe moi !"
     },
     "RedEmeraldUmbrella": {
         "achievement": 49,
-        "Name": "Utilisez Aegis Umbrella pour refléter les projectiles de zombies.",
-        "Text": "Désolé ! Ça ne marche pas tous les jours !"
+        "Name": "Utilisez Ombrelle Égide pour renvoyer les projectiles de zombies.",
+        "Text": "Retour à l'expediteur"
     },
     "Plantern": {
         "achievement": 50,
-        "Name": "Rendre le niveau de lumos d'une plante supérieur à 10.",
+        "Name": "Augmenter le niveau d'une plante Lumos à plus de 10.",
         "Text": "Brillamment éclairé."
     },
     "SuperFume": {
         "achievement": 51,
-        "Name": "Découvrez Champi-glacier",
-        "Text": "Champignon sombre"
+        "Name": "Découvrez le Champi-glace maudit",
+        "Text": "Champignon Sombre"
     },
     "UltimateFume": {
         "achievement": 52,
-        "Name": "Découvrez le champignon Doominator",
-        "Text": "Champignons ! Je suis de retour !"
+        "Name": "Découvrez le Champi-nator",
+        "Text": "Domination"
     },
     "UltimteGloom": {
         "achievement": 53,
-        "Name": "Découvrez le champignon Oblivion",
-        "Text": "Un champignon, cinq lignes"
+        "Name": "Découvrez le Champi-mageddon",
+        "Text": "Radioactive"
     },
     "CattailPlant": {
         "achievement": 54,
@@ -276,58 +276,58 @@
     },
     "CattailGirl": {
         "achievement": 55,
-        "Name": "Découvrez Cattail Girl.",
-        "Text": "Cette plante est une fille ?"
+        "Name": "Découvrez Nénu-chan.",
+        "Text": "Il y a une petite fille sur ta pelouse"
     },
     "Cattailour": {
         "achievement": 56,
         "Name": "Découvrez Aristochat.",
-        "Text": "C'est une cat-astrophe !"
+        "Text": "C'est une chat-astrophe !"
     },
     "WallNut": {
         "achievement": 57,
-        "Name": "Utilisez Noix pour vous défendre contre les zombies.",
-        "Text": "Accrocheur"
+        "Name": "Utilisez une Noix pour vous défendre contre les zombies.",
+        "Text": "VOUS NE PASSEREZ PAS !"
     },
     "SuperChomper": {
         "achievement": 58,
-        "Name": "Découvrez Chewzilla",
-        "Text": "N'a pas l'air facile à intimider."
+        "Name": "Découvrez Mordzilla",
+        "Text": "Dur à cuir."
     },
     "UltimateChomper": {
         "achievement": 59,
-        "Name": "Découvrez Cherryzilla",
-        "Text": "Bête écarlate"
+        "Name": "Découvrez Cerizilla",
+        "Text": "Dieu de la guerre"
     },
     "UltimateTallNut": {
         "achievement": 60,
-        "Name": "Utilisez Obsidian-nut pour vous défendre contre les explosions.",
-        "Text": "Défi du seau de glace"
+        "Name": "Utilisez Noix d’Obsidienne pour vous défendre contre les explosions.",
+        "Text": "Ice Bucket Challenge"
     },
     "SuperMachineNut": {
         "achievement": 61,
         "Name": "Soignez Méga Mecha-noix jusqu'à ce que sa santé dépasse 1 million.",
-        "Text": "C'est une boulette de poisson ?"
+        "Text": "Méga ex Machina"
     },
     "SuperSunNut": {
         "achievement": 62,
-        "Name": "Générez une noix géante à partir de Twin Solar-nut.",
-        "Text": "Donne-moi un peu de soleil."
+        "Name": "Générez Noix Solaire Géante à partir de Double Noix-solaire.",
+        "Text": "Voici le soleil."
     },
     "UltimatePumpkin": {
         "achievement": 63,
-        "Name": "Utilisez Laser Pumpkin pour vous défendre contre les zombies aéroportés.",
-        "Text": "Citrouille puissante"
+        "Name": "Utilisez Citrouille-laser pour vous défendre contre les zombies aériens.",
+        "Text": "Je ne rate jamais"
     },
     "MelonJump": {
         "achievement": 64,
-        "Name": "Utilisez une plante parapluie pour faire rebondir un zombie Pogo Melon vers le sol.",
+        "Name": "Utilisez une plante Ombrelle pour faire rebondir un Zombie Pogo Pastèque vers le sol.",
         "Text": "Ciel et Terre"
     },
     "IronNut": {
         "achievement": 65,
-        "Name": "Découvrez Buck-nut",
-        "Text": "Vas-y, amène-toi."
+        "Name": "Découvrez Noix Renforcée",
+        "Text": "Equipement Acquis"
     },
     "Sub": {
         "achievement": 999,
@@ -341,18 +341,18 @@
     },
     "Travel": {
         "achievement": 1001,
-        "Name": "Terminer Odyssée : Survie.",
-        "Text": "Il est temps de voyager"
+        "Name": "Terminer Odyssée : Classiques.",
+        "Text": "Il est temps de voyager."
     },
     "Travel2": {
         "achievement": 1002,
-        "Name": "Terminer Odyssée : Last Stand.",
-        "Text": "Attractions populaires"
+        "Name": "Terminer l'Odyssée : Dernier Combat.",
+        "Text": "Lieux touristiques populaires."
     },
     "Travel3": {
         "achievement": 1003,
         "Name": "Terminer Odyssée : Purgatoire.",
-        "Text": "Un cheveu près de la mort."
+        "Text": "Avons-nous trouvé le paradis."
     },
     "Travel_noBuff": {
         "achievement": 1004,
@@ -361,13 +361,13 @@
     },
     "Travel_noNut": {
         "achievement": 1005,
-        "Name": "Terminez le mode Odyssée sans utiliser Cherryzilla, Obsidian-nut, Méga Mecha-noix et Twin Solar-nut.",
-        "Text": "La meilleure défense, c'est l'attaque"
+        "Name": "Terminez Odyssey : Classique sans utiliser Noix ni ses fusions.",
+        "Text": "Combat à mains nues"
     },
     "Travel_sun": {
         "achievement": 1006,
         "Name": "Dépensez plus d'un million de Soleils en un seul tour du mode Odyssée.",
-        "Text": "Soleil radieux"
+        "Text": "Dépenser le Sun"
     },
     "Travel_fast": {
         "achievement": 1007,
@@ -376,12 +376,12 @@
     },
     "SuperMachineNut_health": {
         "achievement": 1008,
-        "Name": "Soignez Méga Mecha-noix jusqu'à ce que sa santé dépasse 100 millions.",
-        "Text": "Pourquoi fais-tu ça alors que tu n’as rien à faire ?"
+        "Name": "Soignez Méga Mécha-noix jusqu'à ce que sa santé dépasse 100 millions.",
+        "Text": "Juste pourquoi"
     },
     "SuperDamage": {
         "achievement": 1009,
-        "Name": "Éliminez un Gargantuar abyssal en moins de 10 secondes sans buff de corruption.",
+        "Name": "Éliminez un Gargantua Abyssal en moins de 10 secondes sans buff de corruption.",
         "Text": "Puissance absolue"
     }
 }

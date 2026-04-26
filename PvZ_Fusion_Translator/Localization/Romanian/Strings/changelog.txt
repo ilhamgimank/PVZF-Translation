@@ -1,0 +1,83 @@
+<align=center><size=20>Avertisment</size></align>
+Sursa oficiala a Pvz Fuziune e doar pe autor, Bilibili a lui 蓝飘飘fly.</color>
+Singura sursa valida a traducerii e din aceasta comunitate: <color=#64DD17>discord.gg/DPAC5ZVJ8T</color> si paginile asociate GitHub.
+Stati departe de alte surse precum <color=#8B0000>pvzfusion.net</color> sau <color=#8B0000>pvzfusion.pro</color> deoarece acestea redistribuie munca noastra fara permisiune.
+Va rugam sa vizitati comunitatea noastra pentru actualizari viitoare si suport.
+
+<align=center><size=130%>Plante VS. Zombii: Fuziune - Update 3.3.1 Jurnalul Modificarilor</size></align>
+
+1. Nou Mod - Adventura Stelara
+- Accesat prin meniul Modului Provocare.
+- Progreseaza prin povestea principala pentru a debloca plante de baza. Indeplineste misiuni secundare pentru a debloca plante imbunatatite (carti mov) si plante utilitare (carti albe). Combina strategie efectele recompensei sarcinilor pentru a cuceri nivelurile de mare dificultate!
+- Acest mod include 5 capitole (Zi - Acoperis), fiecare continand  niveluri de baza de poveste si 6 niveluri secundare de poveste. Completeaza povestea principala si aduna 6 stele din povestea secundara pentru a debloca urmatorul capitol.
+- In povestea de baza, alege intre 2 sarcini de completat si castiga recompense. Poti relus nivelurile pentru a debloca ambele recompense si a comuta intre ele.
+- Stelele obtinute din misiunile secundare pot fi folosite pentru a debloca Upgrade-uri Stelare.
+- Zombii pot aparea in niveluri superioare. Fiecare nivel superior le creste puterea de atac si duritatea, iar cu cat avansezi, cu atat vei intalni zombie de nivel superior.
+- *Observatie: Va este recomandat sa completati Aventura normala mai intai inainte de a progresa la Aventura Stelara. 
+
+2. Noi Plante
+- Fuziuni de Baza:
+  - Ciuperca-Fascicul (Ciuperca-Vapor + Planterna)
+  - Aruncator de Verze (Sufloi + Varza-pulta)
+  - Aruncator de Unt (Sufloi + Porumb-pulta)
+  - Aruncator de Lubenite (Sufloi + Lubeni-pulta)
+  - Ciuperca-Amidon (Mina de Cartof + Ciuperca-Vapor)
+  - Grovle-pulta (Dovlecel + Porumb-pulta)
+  - Mina-Mortii (Mina de Cartof + Ciuperca-Mortii)
+  - Ciuperca-Zodiac (Hipno-ciuperca + Steafruct)
+  - Dovlecel Mazare (Impuscator de Mazare + Dovlecel)
+  - Ciuperca-de-Gheata Argintie (Ciuperca-de-Gheata + Marigold)
+  - Ciuperca-de-Gheata Aurie (Ciuperca-de-Gheata Argintie + Boaba de Cafea, Costa: 3000 de Monede)
+- Fuziuni de Odisee/Supreme:
+  - Comun:
+    - Ceapiepurele Tunetului (Aristomata cu Coada + Ceapa Fulger)
+    - Magnet Dyson (Magnet Tesla + Floarea-Soarelui)
+  - Epic:
+    - Nimic
+  - SP:
+    - Mitraliera Mortii Epica (Ciuperca-Mortii > Mitraliera Mortii, Ciuperca-Frenezie Mitraliera Epica + Impuscator de Mazare)
+    - Ciuperca-Frenezie Mitraliera Epica (Ciuperca-Mortii > Ciuperca-Frenezie Mitraliera, Mitraliera Mortii Epica + Ciuperca-Fricoasa)
+- Plante Unice/Diverse:
+  - Marul Protector
+
+3. Noi Zombii
+- Comun:
+  - Zombi cu Nuca-Inalta Inflacarata
+  - Zombi de Saritura cu Prajina Olimpica
+  - Zombi cu Nuca-Solara
+- Oisee:
+  - Gargantuar Trident cu Nuca-Fortareata
+  - Celestial Gargantuar
+  - Zombi Ziar cu Mitraliera Mortii
+- Special:
+  - Zombii cu Nuca-Inalta Obsidiana
+  - Zombii cu Nuca-Solara Geamana
+
+4. Noi Aspecte
+- Mosuflacara (pentru Endoflacara)
+- Dovlecel Inocent (Dovlecel Miau)
+
+5. Noua Harta - Lava
+- Harta cu 6 Benzi: Benzile 1, 2, 5 si 6 sunt expuse pietrelor vulcanice; benzile 3 si 4 sunt benzi de lava.
+- Plantele acvatice pot fi plasate pe lava dar vor acumula daune continue.
+- La fiecare 60 de secunde, lava dintr-o locatie aleatorie va erupe, provocand daune masive plantelor dintr-o zona 3x3. Ciupercile-de-Gheata pot suprima activitatea lavei.
+
+6. Nou Nivel - Zeii 8: Incercarea Aclimatizarii
+- Modificatori Initiali:
+  - Sinergia Vultun + Nuca-Infern Geamana Epica 
+  - Ambii Modificatori ai Buruienii Lipalunecoasa
+- Foloseste plantele data pentru a omora zombie pentru a primi Soare, care poate fi folosit pentru upgradarea plantelor sau reinvierea plantelor pierdute.
+- Invinge Arhiducele Razbunator si lupta-ti drumul spre victorie!
+- *Observatie: Plantele sunt imbunatatite semnificativ la acest nivel.
+
+7. Nou Sef Mic
+- Achizitioneaza un nou modificator pentru a debloca Prototipul Iceborg si pune-o sa lupte alaturi de tine in rundele tale Odisee!
+
+8. Ajustarea Echilibrului
+- Debuff-ul "Jaratic" imbunatateste alte efecte de stare".
+  - Jaratic + Iute: Reduce viteza zombiului cu inca 10%
+  - Jaratic + Otrava: Durata otravii → ∞
+  - Jaratic + Inflamat: Daunele marite de la inflamat sunt crescute cu 10%
+
+9. Diverse remedieri de erori.
+

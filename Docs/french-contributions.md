@@ -17,9 +17,9 @@ Ce document a pour objectif de reconnaître et valoriser les personnes impliqué
 
 **Récapitulatif des contributions**
 
-* Nouvelles traductions : **187**
-* Traductions ajustées : **113**
-* Reviews effectuées : **197**
+* Nouvelles traductions : **259**
+* Traductions ajustées : **136**
+* Reviews effectuées : **556**
 
 **Réseaux & contacts**
 
@@ -36,8 +36,8 @@ Ce document a pour objectif de reconnaître et valoriser les personnes impliqué
 
 **Statistiques de contribution**
 
-* Nouvelles traductions : **10**
-* Traductions ajustées : **76**
+* Nouvelles traductions : **24**
+* Traductions ajustées : **108**
 
 **Réseaux & contacts**
 
@@ -49,8 +49,8 @@ Ce document a pour objectif de reconnaître et valoriser les personnes impliqué
 
 **Statistiques de contribution**
 
-* Nouvelles traductions : **14**
-* Traductions ajustées : **33**
+* Nouvelles traductions : **108**
+* Traductions ajustées : **47**
 
 **Réseaux & contacts**
 
@@ -62,8 +62,8 @@ Ce document a pour objectif de reconnaître et valoriser les personnes impliqué
 
 **Statistiques de contribution**
 
-* Nouvelles traductions : **3**
-* Traductions ajustées : **18**
+* Nouvelles traductions : **36**
+* Traductions ajustées : **96**
 
 **Réseaux & contacts**
 
@@ -72,21 +72,111 @@ Ce document a pour objectif de reconnaître et valoriser les personnes impliqué
 
 ---
 
-### [Ink Stolas](./french-contributor/ink-stolas.md)
+### [Barbie917](./french-contributor/barbie917.md)
 
 **Statistiques de contribution**
 
-* Nouvelles traductions : **0**
+* Nouvelles traductions : **64**
 * Traductions ajustées : **2**
 
 **Réseaux & contacts**
 
-* **Email** : [argoss.secrets@gmail.com](mailto:argoss.secrets@gmail.com)
-* **GitHub** : [ink-stolas](https://github.com/ink-stolas)
+* **Discord** : *kipy54*
+* **GitHub** : [Barbie917](https://github.com/Barbie917)
 
 ---
 
-### [Lyolia](./french-contributor/lyolia.md)
+### [Capitain Artex](./french-contributor/artex2000.md)
+
+**Statistiques de contribution**
+
+* Nouvelles traductions : **4**
+* Traductions ajustées : **15**
+
+**Réseaux & contacts**
+
+* **Discord** : *artex2000*
+
+---
+
+### [Cinnamon Stick](./french-contributor/goofgedebunkers.md)
+
+**Statistiques de contribution**
+
+
+* Nouvelles traductions : **23**
+* Traductions ajustées : **1**
+
+**Réseaux & contacts**
+
+* **GitHub** : [Cinnamon Stick](https://github.com/Goofgedebunkers)
+
+---
+
+### [Lafourmie](./french-contributor/lafourmiedugaming-collab.md)
+
+**Statistiques de contribution**
+
+
+* Nouvelles traductions : **31**
+* Traductions ajustées : **0**
+
+**Réseaux & contacts**
+
+* **GitHub** : [lafourmiedugaming-collab](https://github.com/lafourmiedugaming-collab)
+
+---
+
+### [Kurodaten Shi](./french-contributor/kurodaten_shi.md)
+
+**Statistiques de contribution**
+
+* Nouvelles traductions : **20**
+* Traductions ajustées : **11**
+
+**Réseaux & contacts**
+
+* **GitHub** : [Kurodatenshi](https://github.com/Kurodatenshi)
+* **Discord** : *kurodaten_shi*
+
+---
+
+### [Chombi Pr.A.A.L](./french-contributor/chombi_pr.a.a.l.md)
+
+**Statistiques de contribution**
+
+* Traduction testé : **51**
+
+**Réseaux & contacts**
+
+* **GitHub** : [Chombi Pr.A.A.L](https://github.com/ChmobiPraal)
+
+---
+
+## Contributeur Innactif
+
+* Erwandawa123
+* Grymm80
+* Jedi
+* Ronny
+* [Mamoru-kun](https://github.com/Nanami-Houko)
+
+---
+
+### [Shrimpnos Prime](./french-contributor/old/dead130000.md)
+
+**Statistiques de contribution**
+
+* Nouvelles traductions : **0**
+* Traductions ajustées : **1**
+
+**Réseaux & contacts**
+
+* **Discord** : *dead130000*
+
+---
+
+### [Lyolia](./french-contributor/old/lyolia.md)
 
 **Statistiques de contribution**
 
@@ -99,7 +189,7 @@ Ce document a pour objectif de reconnaître et valoriser les personnes impliqué
 
 ---
 
-### [ItGourmand](./french-contributor/itgroumand.md)
+### [ItGourmand](./french-contributor/old/itgroumand.md)
 
 **Statistiques de contribution**
 
@@ -112,26 +202,17 @@ Ce document a pour objectif de reconnaître et valoriser les personnes impliqué
 
 ---
 
-### [Capitain Artex](./french-contributor/artex2000.md)
+### [Ink Stolas](./french-contributor/old/ink-stolas.md)
 
 **Statistiques de contribution**
 
-* Nouvelles traductions : **2**
-* Traductions ajustées : **12**
+* Nouvelles traductions : **0**
+* Traductions ajustées : **2**
 
 **Réseaux & contacts**
 
-* **Discord** : *artex2000*
-
----
-
-## Contributeur Innactif
-
-* Erwandawa123
-* Grymm80
-* Jedi
-* Ronny
-* [Mamoru-kun](https://github.com/Nanami-Houko)
+* **Email** : [argoss.secrets@gmail.com](mailto:argoss.secrets@gmail.com)
+* **GitHub** : [ink-stolas](https://github.com/ink-stolas)
 
 
 ---

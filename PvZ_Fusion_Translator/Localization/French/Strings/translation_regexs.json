@@ -96,5 +96,20 @@
   "^坚果台球(\\d+)": "Wall-nut Billiards {0}",
   "^旅行冒险：第(\\d+)关": "Odyssey Adventure: Level {0}",
   "^剩余积分：(\\d+)点": "Remaining Points: {0}",
-  "-------Outdated Regex Below": "You Can Safely Ignore or Delete-------"
+  "-------Outdated Regex Below": "You Can Safely Ignore or Delete-------",
+  "(\\d+)%生命值上限提高": "{0}% Augmentation de la Robustesse MAX",
+  "(\\d+)%减伤穿透": "{0}% Réduction des dégâts pénétrants",
+  "(\\d+)%伤害减免": "{0}% Réduction des dégâts",
+  "(\\d+)(%基础伤害)$": "{0}% Dégâts de base",
+  "(\\d+)上限，(\\d+)%效率": "{0} Augmentation des capacités, {1}% Amélioration de la production",
+  "^([^(]+)\\((\\d+)\\)：\\n<color=>(\\d+)/(\\d+)": "{0}({1}):\n{2}/{3}",
+  "【([^\\s]+)】_IV": "[{0}]",
+  "需要(\\d+)点阳光": "{0} Soleil requis!",
+  "^：(\\d+)$": ": {0}",
+  "^支线(\\d+)": "Histoire Secondaire {0}",
+  "^(\\d+)级$": "Niveau {0}",
+  "([^\\s]+)，推荐难度：(\\d+)": "{0}, Difficulté Recommander: {1}",
+  "^HP：(\\d+)/(\\d+)$": "PV: {0}/{1}",
+  "^\n价格：(\\d+)$": "\nCoût: {0} ",
+  "^烈焰战士([^\\s]+)$": "Artificiers {0}"
 }

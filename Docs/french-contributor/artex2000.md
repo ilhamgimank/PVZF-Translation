@@ -1,6 +1,6 @@
-# 📊 Détail des contributions — Ink Stolas
+# 📊 Détail des contributions — Capitain Artex
 
-Ce document retrace l’ensemble des contributions effectuées par **Ink Stolas** au sein du pôle francophone. Il a vocation à fournir une vision claire, chronologique et transparente de son implication dans le projet.
+Ce document retrace l’ensemble des contributions effectuées par **Capitain Artex** au sein du pôle francophone. Il a vocation à fournir une vision claire, chronologique et transparente de son implication dans le projet.
 
 ---
 
@@ -21,14 +21,37 @@ Ce document retrace l’ensemble des contributions effectuées par **Ink Stolas*
 
 > Statistiques cumulées sur l’ensemble de la période.
 
-* Nouvelles traductions : **2**
-* Traductions ajustées : **12**
+* Nouvelles traductions : **4**
+* Traductions ajustées : **15**
 
 ---
 
 ## 🗓️ Historique des contributions
 
 > Les contributions sont regroupées par semaine civile (ISO).
+
+---
+
+### 📅 Semaine — `19/01/26 → 24/01/26`
+> [PR#70](https://github.com/Teyliu/PVZF-Translation/pull/70) 
+
+**Résumé de la semaine**
+
+* Nouvelles traductions : **2**
+* Traductions ajustées : **3**
+
+---
+
+#### Détail
+
+## 🧟‍♂️ **Newly Added Zombie Translations**
+* **Lance-neige de la Légion** (`theZombieType: 49`)
+* **Porte-bouclier de la Légion** (`theZombieType: 50`)
+
+## 🛠️ **Modified Zombies**
+* **Zombie Seau-licopter** (`theZombieType: 29`)
+* **Zombie Catapulte** (`theZombieType: 31`)
+* **Zombie Diable à ressort** (`theZombieType: 24`)
 
 ---
 

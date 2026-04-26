@@ -1,0 +1,29 @@
+{
+    "advancedBuffs": {
+        "0": "Pasukan Instan: Durasi pemanggilan Ratu Hipno dan subspesiesnya berkurang 30 detik -> 10 detik, serta membuka akses untuk fusi Ratu Hipno",
+        "1": "Prajurit Elit: Ratu Hipno dan subspesiesnya dapat memanggil Zombi Boss",
+        "2": "Siap Tempur: Kipli Gatling Nuklir dan subspesiesnya tidak akan beristirahat dan membuka akses untuk fusi Jamur Tentara Nuklir",
+        "3": "Deterensi Nuklir: Jumlah peluru yang dibutuhkan Kipli Gatling Nuklir dan subspesiesnya untuk menembakkan peluru Nuklir besar dikurangi dari 16 menjadi 4. Efek ini juga berlaku untuk bentuk lanjutannya.",
+        "4": "Sentuhan Penyembuh: Biaya Matahari saat klik Kacang Matahari Kembar berkurang 40% dan jumlah pemulihan HP subspesies Kacang Api Kembar berlipat ganda. Efek ini juga berlaku untuk lanjutannya.",
+        "5": "Kebal Damage: Damage yang diterima Kacang Matahari Kembar dikurangi 10, dan membuka akses fusi Kacang Api Kembar, dan konsumsi HP saat klik subspesies tersebut berkurang menjadi 40%. Efek ini juga berlaku untuk lanjutannya.",
+        "6": "Jalur Kematian: Damage Duri Obsidian dan subspesiesnya dikali 5, serta membuka akses subspesies Kacang Duri Obsidian",
+        "7": "Ditempa Jadi Baja: Damage yang diterima Duri Obsidian dan subspesiesnya dikurangi 95%",
+        "8": "Tembusan Seratus Langkah: Peluru phoenix penetrasi tak terbatas & bonus damage ledakan. Buka sub-spesies Trikipli Phoenix Terbang.",
+        "9": "Amarah Membara: Peluru api memberikan status Overheat; Bonus damage Overheat +100%.",
+        "10": "Tak Terhentikan: Peluru dari Kipli Gatling Bocil Es dan subspesies mataharinya dapat menembus zombi tak terbatas. peluru horizontal terpecah menjadi dua peluru diagonal setelah mengenai zombie sebanyak lima kali pertama.",
+        "11": "Beku Sampai Jantung: Damage ke zombie beku x12; Buka sub-spesies Bocil Gatling Matahari.",
+        "12": "Makin Murah: Batas harga peningkatan Pot Silver ke Pot Emas tidak akan melebihi 8.000 koin",
+        "13": "Perbandingan Setara: Koin yang mencapai batas maksimum akan diubah menjadi Matahari dengan rasio 2:1",
+        "14": "Pertahanan Diri: Payung Zamrud nyalain skill disaat Zombi mendekatinya dan sub-spesies King Payung Rubi terbuka",
+        "15": "Makin Sakit: Damage yang dihasilkan Payung Zamrud 100% → 300%",
+        "16": "Amunisi Khusus: Damage dari Meriam ×3 | Meriam yang dimunculkan dengan bantuan Bawang Kelinci is akan menembak 60 peluru dengan normal",
+        "17": "Satu Komentar: Damage dari Kucing Ajaib ×5 | Damage dari Bawang Kelinci ×3 | Subspesies Bawang Kelinci terbuka",
+        "18": "Nuklir Terkontol: Semua ledakan nuklir yang meledak tidak akan meninggalkan kawah dan membuka subspesies Ratu Jamur Halusinasi",
+        "19": "Cari Pasukan: Ratu Jamur Halusinasi memanggil 3 Zombi Raksasa terhipnotis dan Zomboni saat meledak",
+        "20": "Miliarder: Untuk setiap 1000 koin yang dimiliki, damage peluru Kayu Bakar Uang dan Trilampu Kaya meningkat sebesar 1%",
+        "21": "Foya-foya: Peluru dari Kayu Bakar Uang memiliki efek percikan yang mirip dengan peluru api, dan subspesies Trilampu Kaya terbuka.",
+        "22": "Perisai Kuantum: Membuka subspesies Ratu Lampu Kristal. Energi maksimum Ratu Payung Lampu Bercahaya meningkat 10, regenerasi energi meningkat 20, dan kecepatan penyembuhan meningkat 2. Damage Ratu Lampu Kristal selama fase penyebaran meningkat secara linear menjadi 4 kali lipat, dan damagenya selama fase pemfokusan meningkat 4 kali lipat.",
+        "23": "Sinar Bertekanan Tinggi: Laser Ratu Payung Lampu memberikan kerusakan x3, meledak untuk memberikan kerusakan 10x, dan mengurangi waktu pendinginan menjadi 2 detik. Sinar selama fase pemfokusan Ratu Lampu Kristal Beku menimbulkan efek pembekuan selama 1 detik.",
+        "24": "Headshot Terus: Interval serangan Pasukan Bocil Besi diubah menjadi 7,5 detik, tetapi headshot dijamin, dan ada peluang 1/3 untuk langsung menembak beberapa kali setelah setiap tembakan. Kerusakan Subspesies Pasukan Bocil Besi x3"
+    }
+}

@@ -445,6 +445,24 @@
             "info": "<size=36>Nhảy cực xa\n\n<color=black>Máu: </color><color=#4B0082>1350</color>\n<color=black>Khả Năng: </color><color=#4B0082>\n<color=black>•</color> Sau khi ra sân, nó sẽ lấy đà chạy. Khi nhảy, nó sẽ nhảy qua cây 3 ô.\n<color=black>•</color> Sau khi lấy đà trong 8 giây, khi nhảy nó có thể nhảy qua cây cao.</color>"
         },
         {
+            "theZombieType": 78,
+            "name": "Zombie Bầu Dục Trắng",
+            "introduce": "<size=36><color=black>Sự nghiệp của Zombie Bầu Dục Trắng chưa từng nếm mùi thất bại, điều mà rất nhiều Zombie Bầu Dục khác đều mến mộ. Cách chiến thắng của cậu ta cũng rất đơn giản: chỉ cần thay sang đồng phục của đối thủ ngay khi đối thủ chiến thắng.</color>",
+            "info": "<size=36>Zombie bầu dục nhưng theo đội nào mạnh nhất.\n\n<color=black>Máu: </color><color=#4B0082>270+1400 (Giáp cấp 1)</color>\n<color=black>Khả Năng: </color><color=#4B0082>\n<color=black>•</color> Sau 15 giây mà còn mũ bầu dục, biến thành Zombie Bầu Dục.\n<color=black>•</color> Sau 15 giây mà không còn mũ bầu dục, biến thành Zombie Bầu Dục Vàng.\n<color=black>•</color> Nếu ra sân mà chết trong 3 giây đầu tiên, biến thành Zombie Hắc Bầu Dục</color>"
+        },
+        {
+            "theZombieType": 79,
+            "name": "Zombie Bầu Dục Vàng",
+            "introduce": "<size=36><color=black>Cậu ta thay vì xông qua cản phá đối phương thì cậu ta chọn đi ngang qua nó. Điều khó hiểu là mặc dù cậu ta có thể đi qua mọi vật cản nhưng không thể chạy qua cái máy cắt cỏ kia.</color>",
+            "info": "<size=36>Đi xuyên qua mọi đối thủ, kể cả cây.\n\n<color=black>Máu: </color><color=#4B0082>270+1400 (Giáp cấp 1)</color>\n<color=black>Khả Năng: </color><color=#4B0082>Nếu mang mũ bầu dục, Zombie Bầu Dục Vàng sẽ đi xuyên cây.\n<color=black>Điểm Yếu:</color><color=#4B0082> Nấm Nam Châm</color></color>"
+        },
+        {
+            "theZombieType": 80,
+            "name": "Zombie Đu Xà Thời Không",
+            "introduce": "<size=36><color=black>Nhờ khả năng dịch chuyển tức thời, cậu ta có thể nhảy qua bất kỳ thứ gì, chỉ là, cậu ta không thể kiểm soát nơi mình tiếp đất.</color>",
+            "info": "<size=36>Nhảy qua cây 1 cách bất định.\n\n<color=black>Máu: </color><color=#4B0082>720+1400 (Giáp cấp 1)</color>\n<color=black>Khả Năng: </color><color=#4B0082>Sau khi nhảy qua cây, nó sẽ nhảy lên phía trước, sau, hoặc trên dưới hàng của nó. Khi bị tiêu diệt sẽ rớt ra Mảnh Vỡ Thời Không.</color></color>"
+        },
+        {
             "theZombieType": 100,
             "name": "Zombie Đậu Hà Lan",
             "introduce": "<size=36><color=black>Khả năng chiến đấu từ xa của zombie đậu hà lan thường khiến cây sợ hãi, nhưng những zombie mặt khác luôn sợ hãi vì chúng luôn sợ rằng nó sẽ tấn công chúng từ phía sau.</color>",
@@ -742,7 +760,7 @@
             "theZombieType": 219,
             "name": "<u>Cỗ Máy Huỷ Diệt<u>",
             "introduce": "<size=36><color=black>Cỗ Máy Huỷ Diệt được cho là một Thuỷ Quái Cơ Khí nhỏ hơn và chính xác hơn, nhưng một bản thiết kế bị nhầm lẫn đã làm cho nó lớn hơn nhiều. Các kỹ sư đã nhận ra quá muộn—vậy nên họ đã <i>lăn</i> cùng với nó.</color>",
-            "info": "<size=36>Lăn về phía trước\n\n<color=black>Máu: </color><color=#4B0082>300000</color>\n<color=black>Đặc Điểm:  </color><color=#4B0082>\n<color=black>•</color> Xuất hiện trong Luyện Ngục khi bạn chọn Debuff của nó.\n<color=black>•</color> Miễn nhiễm với thôi miên và nuốt chửng.\n<color=black>•</color> Chỉ nhận tối đa 300 sát thương mỗi lần.\n<color=black>•</color> Chịu sát thương cho toàn bộ Zombie. \n<color=black>•</color> Khi bị tiêu diệt thì sẽ rớt ra Mảnh Vỡ Cao Cấp</color>"
+            "info": "<size=36>Lăn về phía trước\n\n<color=black>Máu: </color><color=#4B0082>300000</color>\n<color=black>Đặc Điểm:  </color><color=#4B0082>\n<color=black>•</color> Xuất hiện trong Luyện Ngục khi bạn chọn Debuff của nó.\n<color=black>•</color> Miễn nhiễm với thôi miên và nuốt chửng.\n<color=black>•</color> Chỉ nhận tối đa 300 sát thương mỗi lần.\n<color=black>•</color> Chịu sát thương cho toàn bộ Zombie. \n<color=black>•</color> Khi bị tiêu diệt thì sẽ rớt ra Mảnh Vỡ Cao Cấp.\n<color=black>Buff Luyện Ngục: </color><color=#4B0082>Cho mỗi 100 lần bị tấn công đầu tiên, Zombie khi bị sát thương sẽ được 0.1 giây bất tử</color>"
         },
         {
             "theZombieType": 220,
@@ -784,7 +802,7 @@
             "theZombieType": 226,
             "name": "Đội Đặc Nhiệm Alpha",
             "introduce": "<size=36><color=black>Đội đặc nhiệm tinh nhuệ nhất tạo bởi tiến sĩ Zomboss trong các nhiệm vụ ám sát, tuy nhiên có 1 điều khá kì lạ là họ lại rất sợ đá quý, khó hiểu thật đấy.</color>",
-            "info": "<size=36>Luôn đi theo nhóm 2 người, với nhóm tinh nhuệ là cả tiểu đội!\n\n<color=black>Sát Thương:</color><color=#4B0082> 500x2</color>\n<color=black>Máu: </color><color=#4B0082>6000+6000 (Giáp cấp 2)</color>\n<color=black>Kĩ Năng:</color><color=#4B0082> \n<color=black>•</color> Miễn nhiễm với thôi miên. \n<color=black>•</color> Sẽ luôn đi theo nhóm 2 người, khi kích hoạt buff luyện ngục tương ứng thì sẽ đi theo nhóm 5 người, và máu x5. \n<color=black>•</color> Khi nhận sát thương chí mạng sẽ rơi vào trạng thái hấp hối (bất động và không bị chỉ định tấn công lẫn có thể chặn đạn). \n<color=black>•</color> Sau trạng thái hấp hối 10 giây thì sẽ hồi phục đầy máu, lướt tới trước 2.5 ô gây 500 sát thương cho những cây mà nó đi qua và đặt một quả bom, sau đó quả bom này sẽ phát nổ như bom hề.\n<color=black>•</color> Nếu 1 trong 2 bị tiêu diệt lập tức bởi Dù Lục Bảo/Ruby hoặc Hoa Ăn Thịt, cả 2 đều chết.\n<color=black>Buff Luyện Ngục 1: </color><color=#4B0082>Đội Đặc Nhiệm Alpha sẽ xuất hiện dưới nhóm 5 người, máu x5</color>\n<color=black>Buff Luyện Ngục 2: </color><color=#4B0082>Đặc Nhiệm Alpha có thể ở trạng thái hấp hối không giới hạn.</color>\n<color=black>Điểm Yếu: </color><color=#4B0082>Dù Lục Bảo/Dù Ruby và Hoa Ăn Thịt</color></size>"
+            "info": "<size=36>Luôn đi theo nhóm 2 người, với nhóm tinh nhuệ là cả tiểu đội!\n\n<color=black>Sát Thương:</color><color=#4B0082> 500x2</color>\n<color=black>Máu: </color><color=#4B0082>6000+6000 (Giáp cấp 2)</color>\n<color=black>Kĩ Năng:</color><color=#4B0082> \n<color=black>•</color> Miễn nhiễm với thôi miên. \n<color=black>•</color> Sẽ luôn đi theo nhóm 2 người. \n<color=black>•</color> Khi nhận sát thương chí mạng sẽ rơi vào trạng thái hấp hối (bất động và không bị chỉ định tấn công lẫn có thể chặn đạn). \n<color=black>•</color> Sau trạng thái hấp hối 10 giây thì sẽ hồi phục đầy máu, lướt tới trước 2.5 ô gây 500 sát thương cho những cây mà nó đi qua và đặt một quả bom, sau đó quả bom này sẽ phát nổ như bom hề.\n<color=black>•</color> Nếu 1 trong 2 bị tiêu diệt lập tức bởi Dù Lục Bảo/Ruby hoặc Hoa Ăn Thịt, cả 2 đều chết.\n<color=black>Buff Luyện Ngục 1: </color><color=#4B0082>Đội Đặc Nhiệm Alpha sẽ xuất hiện dưới nhóm 5 người, máu x5</color>\n<color=black>Buff Luyện Ngục 2: </color><color=#4B0082>Đặc Nhiệm Alpha có thể ở trạng thái hấp hối không giới hạn.</color>\n<color=black>Điểm Yếu: </color><color=#4B0082>Dù Lục Bảo/Dù Ruby và Hoa Ăn Thịt</color></size>"
         },
         {
             "theZombieType": 227,
@@ -881,6 +899,30 @@
             "name": "Liên Báo Hủy Diệt",
             "introduce": "<size=36><color=black>Liên Báo Hủy Diệt có kiến thức chuyên ngành về chất nổ và vật lý hạt nhân. Sau nửa đời cống hiến cho khoa học, giờ đây hắn chọn ẩn danh và chỉ muốn yên tĩnh chơi Sudoku. Nhưng nếu ai đó dám làm phiền giờ nghỉ ngơi của hắn thì hắn cũng không ngại phô diễn tí nấm đâu.</color>",
             "info": "<size=36>Khả năng siêu phục hồi cùng với sát thương cực mạnh.\n\n<color=black>Sát thương:</color><color=#4B0082> 400</color>\n<color=black>Sát Thương Đạn:</color><color=#4B0082> 1000</color>\n<color=black>Máu: </color><color=#4B0082>1500+1500 (Giáp cấp 2)</color>\n<color=black>Khả Năng: </color><color=#4B0082>\n<color=black>•</color> Khi cầm tờ báo, bản thân sẽ không bị bất kì sát thương xuyên giáp nào.\n<color=black>•</color> Sau khi tờ báo mất, nó tạm thời bất tử, rồi bắn ra 4 đạn nguyên tử mỗi 0.5 giây.\n<color=black>•</color> Mỗi lần gây sát thương, hồi máu bằng lượng sát thương gây ra, nhưng máu tối đa giảm 1%.\n<color=black>Điểm Yếu:</color><color=#4B0082> Dù Ruby</color></color></color></size>"
+        },
+        {
+            "theZombieType": 243,
+            "name": "<u>Tiểu Đoàn Đặc Nhiệm Alpha<u>",
+            "introduce": "<size=36><color=black>Lưỡi dao của họ có thể xuyên thủng mọi thứ, họ có thể thâm nhập mọi tuyến phòng thủ. Sự phối hợp và ăn ý giữa họ đã đạt đến đỉnh cao. Khi xuất quân, họ trở thành 1 địch vạn người, không cây nào có thể ngăn cản bọn họ tiến công, trừ xe cắt cỏ.</color>",
+            "info": "<size=36>Đi theo nhóm 5 người, tinh anh của cả quân đoàn Z!\n\n<color=black>Sát Thương:</color><color=#4B0082> 500x2</color>\n<color=black>Máu: </color><color=#4B0082>30000+30000 (Giáp cấp 2)</color>\n<color=black>Kĩ Năng:</color><color=#4B0082> \n<color=black>•</color> Miễn nhiễm với thôi miên và nuốt chửng. \n<color=black>•</color> Đi theo nhóm 5 người \n<color=black>•</color> Khi nhận sát thương chí mạng sẽ rơi vào trạng thái hấp hối (bất động và không bị chỉ định tấn công lẫn có thể chặn đạn). \n<color=black>•</color> Sau trạng thái hấp hối 10 giây thì sẽ hồi phục đầy máu, lướt tới trước 2.5 ô gây 500 sát thương cho những cây mà nó đi qua và đặt một quả bom, sau đó quả bom này sẽ phát nổ như bom hề.</color></size>"
+        },
+        {
+            "theZombieType": 244,
+            "name": "<u>Thánh Long Vạn Niên<u>",
+            "introduce": "<size=36><color=black>Vào một mùa thu yên bình, có một con rồng giáng thế xuống trần gian. Thân nó kết từ dây leo, lấy xác làm thị giả, dựng kiếm làm quan quách. Thấy cỏ cây xanh tốt lạ thường, nó phán: “Vạn năm trước khi ta đắc đạo, chưa từng thấy dị tượng này.” Lật tức vung tay, toàn bộ khu vực xung quanh đều bị phá hủy. Người đời chẳng rõ nó là cây hay Zom, chỉ gọi nó là: Thánh Long Vạn Niên.",
+            "info": "<size=36>Người bảo hộ vùng đất hàng vạn năm.\n\n<color=black>Máu: </color><color=#4B0082>15000*4</color>\n<color=black>Đặc Điểm: </color><color=#4B0082>\n<color=black>•</color> Miễn nhiễm với mọi hiệu ứng bất lợi.\n<color=black>•</color> Chỉ nhận tối đa 5000 sát thương từ hành quyết.\n<color=black>•</color> Zombie thôi miên khi lại gần sẽ bị tiêu diệt ngay lập tức bằng vụ nổ hề trong bán kính 5x3 ô.\n<color=black>•</color> Có 4 dạng, mỗi dạng sẽ có 15000 máu. Khi máu xuống 0, chuyển đổi sang dạng tiếp theo.\n<color=black>Dạng 1:</color> Đánh cắp búa của người chơi. Tấn công toàn bộ cây trên sân, gây 1000 sát thương. (100 nếu không phải chế độ Du Lịch) Sau đó sẽ chỉ tấn công lên cây có lượng máu cao nhất trên sân.\n<color=black>Dạng 2:</color> Đánh cắp găng tay của người chơi. Mỗi 4 giây sẽ di chuyển Zombie không phải Zombie bay và miniboss gần nhà nhất thêm 2 ô mỗi hàng.\n<color=black>Dạng 3:</color> Đánh cắp xẻng của người chơi. Mỗi 5 giây sẽ xẻng cây có giá trị mặt trời thấp nhất trên sân.\n<color=black>Dạng 4:</color> Có toàn bộ khả năng của 3 dạng trước. Khi bị tiêu diệt sẽ rớt ra toàn bộ thẻ cây mà nó đã xẻng.</color></size>"
+        },
+        {
+            "theZombieType": 245,
+            "name": "Đĩa Bay Hủy Diệt",
+            "introduce": "<size=36><color=black>Đĩa bay này đã được nâng cấp vô số tính năng, độ cơ động, độ bền. Khi người ta hỏi tiến sĩ Zomboss, hắn chỉ bảo rằng: 'À thì ta chỉ loại bỏ mọi khuyết điểm, kể cả phi công'</color>",
+            "info": "<size=36>Năng lượng từ trường lên mọi vật thể.\n\n<color=black>Máu: </color><color=#4B0082>4500</color>\n<color=black>Khả Năng: </color><color=#4B0082>\n<color=black>•</color> Cây dưới nó sẽ không thể được các cây khác nhận sát thương thay trong 1 giây.\n<color=black>•</color> Tăng 100 giáp cho Zombie dưới nó.\n<color=black>•</color>Zombie khi có giáp sẽ giảm 50% sát thương nhận vào.</color></size>"
+        },
+        {
+            "theZombieType": 246,
+            "name": "Xạ Thủ Alpha",
+            "introduce": "<size=36><color=black>Hắn ta là 1 xạ thủ ẩn thân chờ thời, hắn lẫn trốn ở nhưng nơi tối tăm, mang tới tử thần tới mục tiêu của hắn, là nang vuốt sắc nhọn cửa sư đoàn Alpha tinh nhuê. Hắn ta chính là tử thần xác sống.</color>",
+            "info": "<size=36>Tiêu diệt mục tiêu ở khoảng cách cực xa.\n\n<color=black>Sát Thương:</color><color=#4B0082> 500/2 giây</color>\n<color=black>Máu: </color><color=#4B0082>3000+3000 (Giáp cấp 2)</color>\n<color=black>Kĩ Năng:</color><color=#4B0082> \n<color=black>•</color> Khi ra sân, tấn công vào cây đầu tiên trên hàng. Tốc độ bắn có thể bị ảnh hưởng bởi hiệu ứng làm chậm và không thể tấn công xuyên quá bí ngô.\n<color=black>•</color> Mỗi 6 phát sẽ hành quyết mục tiêu (gây 1 triệu sát thương), đòn này xuyên giáp và mọi hiệu ứng giới hạn hoặc nhận thay sát thương. \n<color=black>•</color> Khi bị buộc phải chuyển hàng, làm lại số phát cần đề hành quyết.</color></size>"
         },
         {
             "theZombieType": 300,

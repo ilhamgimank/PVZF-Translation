@@ -1,0 +1,387 @@
+{
+    "Welcome": {
+        "achievement": 0,
+        "Name": "<color=#3B3B65>Încearca mecanismul de baza al jocului.</color>",
+        "Text": "Plants vs Zombies: Fuziune"
+    },
+    "PeaSunflower": {
+        "achievement": 1,
+        "Name": "<color=#3B3B65>Descopera Impuscatorul-Solar.</color>",
+        "Text": "Era Fuziunii"
+    },
+    "GatlingPea": {
+        "achievement": 2,
+        "Name": "<color=#3B3B65>Descopera Mazarea-Mitraliera.</color>",
+        "Text": "Obtinerea unui Upgrade"
+    },
+    "TwinFlower": {
+        "achievement": 3,
+        "Name": "<color=#3B3B65>Descopera Floarea-Soarelui Geamana.</color>",
+        "Text": "Nu este Floarea-Soarelui Geamana?"
+    },
+    "SuperGatling": {
+        "achievement": 4,
+        "Name": "<color=#3B3B65>Descopera Furtu-mazarea Comando.</color>",
+        "Text": "Fratele mai Mare e Foarte Nervos"
+    },
+    "CherryPaper": {
+        "achievement": 5,
+        "Name": "<color=#3B3B65>Sa ai 4 sau mai multe plante distruse de o singura Bomba Cireasa.</color>",
+        "Text": "Expert in Demolare."
+    },
+    "BigWallNut": {
+        "achievement": 6,
+        "Name": "<color=#3B3B65>Plaseaza o nucă de perete deasupra altei nuci de perete.</color>",
+        "Text": "Cum a Fugit Departe?"
+    },
+    "CherryPaper95": {
+        "achievement": 9,
+        "Name": "<color=#3B3B65>Intalnire cu Zombi cu Ziar cu Mitraliera Cireasa.</color>",
+        "Text": "Mare Vanzare de Ciresi!"
+    },
+    "Puff": {
+        "achievement": 7,
+        "Name": "<color=#3B3B65>Foloseste o Ciuperca-Fricoasa ori Ciuperca-Vapor pentru a imprastia Ciupercuta-Puf.</color>",
+        "Text": "De Unde am Venit?"
+    },
+    "SunBomb": {
+        "achievement": 8,
+        "Name": "<color=#3B3B65>Explodeaza 10 Zombi Simultan cu o Bomba Solara.</color>",
+        "Text": "O Stralucire pe Zi"
+    },
+    "BigWallNut2": {
+        "achievement": 10,
+        "Name": "<color=#3B3B65>Fa o Nuca Uriasa sa zdrobeasca 10 zombi deodata.</color>",
+        "Text": "Rola cu Aburi"
+    },
+    "BigWallNut3": {
+        "achievement": 11,
+        "Name": "<color=#3B3B65>Fă-i pe Nucii tăi Uriași să provoace 20.000 de daune aceluiași zombi.</color>",
+        "Text": "Invarte si Repeta"
+    },
+    "HypnoShroom": {
+        "achievement": 12,
+        "Name": "<color=#3B3B65>Foloseste Hipno-ciupercă pentru a hipnotiza un zombi.</color>",
+        "Text": "Nu Azi!"
+    },
+    "JacksonZombie": {
+        "achievement": 13,
+        "Name": "<color=#3B3B65>Intalnire cu Michael Zombi.</color>",
+        "Text": "Si Michael e Aici"
+    },
+    "ScaredyHypno": {
+        "achievement": 14,
+        "Name": "<color=#3B3B65>Foloseste Obscur-ciuperca pentru a hipnotiza zombii fortat.</color>",
+        "Text": "Concept de Zeu"
+    },
+    "HypnoNut": {
+        "achievement": 15,
+        "Name": "<color=#3B3B65>Invoca un Zombi al Cutiei Misterioase de Aur din Hipno-nuca.</color>",
+        "Text": "Cine Sunt?"
+    },
+    "LilyPad": {
+        "achievement": 16,
+        "Name": "<color=#3B3B65>Produ o planta prin Nufar.</color>",
+        "Text": "Varful Ascutit al unui Lotus Tanar"
+    },
+    "ThreePeater": {
+        "achievement": 17,
+        "Name": "<align=justified><size=27><color=#3B3B65>Planteaza un Trepetor pe marginea benzilor. Fa-l sa loveasca 2 boabe in culoarul sau pe atac.</color></size>",
+        "Text": "Traiectoria e Inclinata spre Stanga"
+    },
+    "SquashKelp": {
+        "achievement": 18,
+        "Name": "<color=#3B3B65>Descopera Varecul Sugrumat.</color>",
+        "Text": "Creatura din Adancuri"
+    },
+    "ThreeSpike": {
+        "achievement": 19,
+        "Name": "<color=#3B3B65>Folseste imprastietor de buruieni pentru a sparge cauciucurile.</color>",
+        "Text": "Roata Azvarlita"
+    },
+    "SunSeaShroom": {
+        "achievement": 20,
+        "Name": "<color=#3B3B65>Descopera Rasari-ciupercuta.</color>",
+        "Text": "Rasarit in Piscina"
+    },
+    "StarBlover": {
+        "achievement": 21,
+        "Name": "<color=#3B3B65>Foloseste Strifoiul pentru a atrage proiectilele stea.</color>",
+        "Text": "Manevra cu Prastia"
+    },
+    "MagnetShroom": {
+        "achievement": 22,
+        "Name": "<color=#3B3B65>Utilizeaza Sistemul Magnetic.</color>",
+        "Text": "Algoritm de Cautare pe latime"
+    },
+    "CornCabbage": {
+        "achievement": 23,
+        "Name": "<color=#3B3B65>Descopera Taco-pulta.</color>",
+        "Text": "Taco-pulta e Minciuna Ta"
+    },
+    "GarlicCorn": {
+        "achievement": 24,
+        "Name": "<color=#3B3B65>Otraveste un Zombi.</color>",
+        "Text": "Cine Mananca Usturoi?"
+    },
+    "CabbageUmbrella": {
+        "achievement": 25,
+        "Name": "<color=#3B3B65>Foloseste Umbrela Varza pentru a topai proiectile de catapulta.</color>",
+        "Text": "Jongler"
+    },
+    "GoldMelon": {
+        "achievement": 26,
+        "Name": "<color=#3B3B65>Lasa o ploaie de pepeni de aur sa cada din cer.</color>",
+        "Text": "O grindina de Pepeni"
+    },
+    "SquashTorch": {
+        "achievement": 27,
+        "Name": "<color=#3B3B65>Folositi Dovlemnul pentru a produce un Dovleac.</color>",
+        "Text": "Lucruri Fierbinti"
+    },
+    "UltimateTorch": {
+        "achievement": 28,
+        "Name": "<color=#3B3B65>Descopera Dovlemnul Infernal.</color>",
+        "Text": "Bucataria Iadului"
+    },
+    "Superkelp": {
+        "achievement": 29,
+        "Name": "<color=#3B3B65>Descopera Varecul Sumbru.</color>",
+        "Text": "Oroare din Adancuri"
+    },
+    "DarkThreePeater": {
+        "achievement": 30,
+        "Name": "<color=#3B3B65>Incearca sa aprinzi un Trepetor.</color>",
+        "Text": "Dansand cu Focul"
+    },
+    "AshThreePeater": {
+        "achievement": 31,
+        "Name": "<color=#3B3B65>Aprinde un alt foc pe Trepetorul Ars.</color>",
+        "Text": "Pamant Ars"
+    },
+    "SuperThreePeater": {
+        "achievement": 32,
+        "Name": "<color=#3B3B65>Lasa Trepetorul sa se ridice din cenusa.</color>",
+        "Text": "Renasterea din Flacari"
+    },
+    "MagnetCactus": {
+        "achievement": 33,
+        "Name": "<color=#3B3B65>Foloseste Magnespinul pentru a distruge dirijabilii.</color>",
+        "Text": "Foloseste Forta"
+    },
+    "SuperStar": {
+        "achievement": 34,
+        "Name": "<color=#3B3B65>Vezi cum un meteorit cade din cer.</color>",
+        "Text": "Lasa Cerul sa Cada"
+    },
+    "UltimateStar": {
+        "achievement": 35,
+        "Name": "<color=#3B3B65>Descopera Astrofructul.</color>",
+        "Text": "Nivel 1436"
+    },
+    "MagnetShroom2": {
+        "achievement": 36,
+        "Name": "<color=#3B3B65>Conecteaza 50 de Plante intr-un Sistem Magnetic.</color>",
+        "Text": "Magnetosfera"
+    },
+    "UltimateStar2": {
+        "achievement": 37,
+        "Name": "<color=#3B3B65>Faceti ca daunele meteoritulul Astrofructului sa depaseasca 1800.</color>",
+        "Text": "Starcraft"
+    },
+    "HypnoMagnet": {
+        "achievement": 38,
+        "Name": "<color=#3B3B65>Invoca un Gargantuar Mecanic dintr-un Hipno-Magnet.</color>",
+        "Text": "Torent de Otel"
+    },
+    "SunMagnet": {
+        "achievement": 39,
+        "Name": "<color=#3B3B65>Foloseste Magnetul Solar pentru a produce un obiect de metal.</color>",
+        "Text": "Suficient de la Sine"
+    },
+    "SuperCherryShooter": {
+        "achievement": 40,
+        "Name": "<color=#3B3B65>Descopera Exploz-o-impuscatorul.</color>",
+        "Text": "Odihneste-te in Bucati"
+    },
+    "UltimateGatling": {
+        "achievement": 41,
+        "Name": "<color=#3B3B65>Descopera Cherrybomber-ul Mitraliera.</color>",
+        "Text": "Bombardier Intensiv"
+    },
+    "HypnoEmperor": {
+        "achievement": 42,
+        "Name": "<color=#3B3B65>Descopera Ciuperca-Imparateasa.</color>",
+        "Text": "E un Fel de Magie"
+    },
+    "CobCannon": {
+        "achievement": 43,
+        "Name": "<color=#3B3B65>Descopera Porumb-Tunul.</color>",
+        "Text": "Inca Foarte Atent"
+    },
+    "IceCannon": {
+        "achievement": 44,
+        "Name": "<color=#3B3B65>Foloseste Crio-Tunul pt. a fuziona Plante.</color>",
+        "Text": "Inghetat"
+    },
+    "FireCannon": {
+        "achievement": 45,
+        "Name": "<color=#3B3B65>Foloseste Piro-Tunul pt. a fuziona Plante.</color>",
+        "Text": "Vezi cum Arde Lumea"
+    },
+    "UltimateCannon": {
+        "achievement": 46,
+        "Name": "<color=#3B3B65>Descopera Porumb-verizatorul.</color>",
+        "Text": "Am Devenit Moarte"
+    },
+    "SuperUmbrella": {
+        "achievement": 47,
+        "Name": "<color=#3B3B65>Fa bani folosind Umbrela Alchimista.</color>",
+        "Text": "Transmutatie"
+    },
+    "EmeraldUmbrella": {
+        "achievement": 48,
+        "Name": "<color=#3B3B65>Foloseste Umbrela Midas pentru a provoca zombii cu trident.</color>",
+        "Text": "Vino si Loveste-ma!"
+    },
+    "RedEmeraldUmbrella": {
+        "achievement": 49,
+        "Name": "<color=#3B3B65>Foloseste Umbrela Aegis pentru a reflecta proiectilele zombilor.</color>",
+        "Text": "Inapoi la Destinatar"
+    },
+    "Plantern": {
+        "achievement": 50,
+        "Name": "<color=#3B3B65>Fa Nivelul Lumos al unei Plante mai mare decat 10.</color>",
+        "Text": "Luminat Puternic"
+    },
+    "SuperFume": {
+        "achievement": 51,
+        "Name": "<color=#3B3B65>Descopera Ciuperca-Morturture.</color>",
+        "Text": "Observator de Noapte al Ciupercilor"
+    },
+    "UltimateFume": {
+        "achievement": 52,
+        "Name": "<color=#3B3B65>Descopera Ciuperca-Ucinator.</color>",
+        "Text": "Dominion"
+    },
+    "UltimteGloom": {
+        "achievement": 53,
+        "Name": "<color=#3B3B65>Discover Ciupermagedonul</color>",
+        "Text": "Radioactive"
+    },
+    "CattailPlant": {
+        "achievement": 54,
+        "Name": "<color=#3B3B65>Pune Fertilizator pe un Nufar.</color>",
+        "Text": "Pisicii au 9 Vieti"
+    },
+    "CattailGirl": {
+        "achievement": 55,
+        "Name": "<color=#3B3B65>Descopera Fata cu Coada de Pisica.</color>",
+        "Text": "E o Mica Fata pe Gazonul tau"
+    },
+    "Cattailour": {
+        "achievement": 56,
+        "Name": "<color=#3B3B65>Descopera Aristopisica cu Coada.</color>",
+        "Text": "Este o Pisi-catastrofa!"
+    },
+    "WallNut": {
+        "achievement": 57,
+        "Name": "<color=#3B3B65>Foloseste Nuca-Perete pentru aparare impotriva Zombilor.</color>",
+        "Text": "Tu nu vei Trece"
+    },
+    "SuperChomper": {
+        "achievement": 58,
+        "Name": "<color=#3B3B65>Descopera Muscazilla.</color>",
+        "Text": "Tip Dur"
+    },
+    "UltimateChomper": {
+        "achievement": 59,
+        "Name": "<color=#3B3B65>Descopera Cirezilla.</color>",
+        "Text": "Zeu de Razboi"
+    },
+    "UltimateTallNut": {
+        "achievement": 60,
+        "Name": "<color=#3B3B65>Foloseste Nuca-Perete Obsidiana pentru aparare impotriva exploziilor.</color>",
+        "Text": "Provocarea Galetii de Gheata"
+    },
+    "SuperMachineNut": {
+        "achievement": 61,
+        "Name": "<color=#3B3B65>Vindeca Giga Nuca-Meca pana cand sanatatea lui depaseste 1 milion.</color>",
+        "Text": "Giga ex Machina"
+    },
+    "SuperSunNut": {
+        "achievement": 62,
+        "Name": "<color=#3B3B65>Naste o Nuca-Solara Uriasa din Nuca-Solara Geamana.</color>",
+        "Text": "Iata ca Vine Soarele"
+    },
+    "UltimatePumpkin": {
+        "achievement": 63,
+        "Name": "<color=#3B3B65>Foloseste Dov-laserul pentru aparare impotriva Zombiilor aerieni.</color>",
+        "Text": "Nu Ratez Niciodata"
+    },
+    "MelonJump": {
+        "achievement": 64,
+        "Name": "<color=#3B3B65>Foloseste o Planta Umbrela pentru a ricosa un zombi Pogo Melon înapoi la pamant.</color>",
+        "Text": "Rai si Pamant"
+    },
+    "IronNut": {
+        "achievement": 65,
+        "Name": "<color=#3B3B65>Descopera Nuca-Buck</color>",
+        "Text": "Hardware Obtinut"
+    },
+    "Sub": {
+        "achievement": 999,
+        "Name": "<color=#3B3B65>Ramai pe receptie pentru urmatoarele update-uri!</color>",
+        "Text": "Ramai pe Receptie!"
+    },
+    "WelcomeChallenge": {
+        "achievement": 1000,
+        "Name": "<color=#3B3B65>Iata cateva provocari avansate.</color>",
+        "Text": "Mergi Mai Departe Curajos"
+    },
+    "Travel": {
+        "achievement": 1001,
+        "Name": "<color=#3B3B65>Completeaza Odiseea: Supravietuire.</color>",
+        "Text": "Timp de Aventura"
+    },
+    "Travel2": {
+        "achievement": 1002,
+        "Name": "<color=#3B3B65>Completeaza Odiseea: Ultima Lupta.</color>",
+        "Text": "Destinatii Turistice Fierbinti"
+    },
+    "Travel3": {
+        "achievement": 1003,
+        "Name": "<color=#3B3B65>Completeaza Odiseea: Purgatoriu.</color>",
+        "Text": "Am aflat Paradis?"
+    },
+    "Travel_noBuff": {
+        "achievement": 1004,
+        "Name": "<color=#3B3B65>Completeaza Modul Odisee fara selectarea modificatorilor.</color>",
+        "Text": "Maestrul Odiseei"
+    },
+    "Travel_noNut": {
+        "achievement": 1005,
+        "Name": "<size=27><color=#3B3B65>Completeaza Modul Odisee fara utilizarea Cirezillei, Inaltei-Nuci Obsidiene, Giga Meca-nucii, si Solar-Nucii Gemene.</color></size>",
+        "Text": "Lupta Simpla"
+    },
+    "Travel_sun": {
+        "achievement": 1006,
+        "Name": "<color=#3B3B65>Cheltuieste mai mult de 1 milion de Soare intr-o singura runda a Modului Odisee.</color>",
+        "Text": "Cheltuind Soarele"
+    },
+    "Travel_fast": {
+        "achievement": 1007,
+        "Name": "<color=#3B3B65>Completeaza Modul Odisee in mai putin de 40 de minute.</color>",
+        "Text": "Speedrunner"
+    },
+    "SuperMachineNut_health": {
+        "achievement": 1008,
+        "Name": "<color=#3B3B65>Vindeca Giga Nuca-Meca pana cand sanatatea ei depaseste 100 de milioane.</color>",
+        "Text": "De ce?"
+    },
+    "SuperDamage": {
+        "achievement": 1009,
+        "Name": "<color=#3B3B65>Doboara un Gargantuar Abisal sub 10 secunde fara Puterea Coruptiet.</color>",
+        "Text": "Putere Absoluta"
+    }
+}

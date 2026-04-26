@@ -1,1 +1,24 @@
-Trang Chủ-深渊
+<align=center><size=20>Xin Lưu Ý</size></align>
+Bản Fusion gốc chỉ có thể tìm thấy tại: 蓝飘飘fly's Bilibili</color>
+Nguồn chính thống có thể truy cập từ link server: <color=#64DD17>discord.gg/DPAC5ZVJ8T</color> va trang GitHub.
+Xin hãy tránh khỏi các trang tải game như <color=#8B0000>pvzfusion.net</color> hay <color=#8B0000>pvzfusion.pro</color> vì bọn họ đã phân phối lại bản mod mà không có sự cho phép chính thức. 
+Bản Việt Hóa được làm bởi team CBD và team Bloom.
+
+<align=center><size=130%>PvZ Fusion 3.5 Changelog</size></align>
+
+1. Chế độ chỉnh sửa màn chơi cùng với giao diện mới
+- Chế độ siêu chỉnh sửa lần này mang tới nhiều cơ chế mới giúp chỉnh sửa màn chơi 1 cách toàn diện nhất.
+- Bao gồm các cài đặt cơ bản, chế độ chơi, cây và Zombie, điều kiện chiến thắng, chế độ Thần, Gacha thậm chỉ là Zombie spawn
+
+2. Màn chơi mới
+- 3 màn Chế Độ Đập Bình mới, hoàn thành cả 3 sẽ nhận Bình Vàng
+- Minigame mới: Dò Mìn
+- Gacha Hỗn Loạn
+- Tôi là Zombie Phiêu Lưu chương 4
+- Màn chơi giới thiệu công thức mới
+- Chế độ Hồ Bơi Vô Tận
+
+3. Buff Gacha
+- Chỉ có thể kích hoạt khi chơi chế độ gacha
+
+4. Chỉnh sửa bug và tối ưu game

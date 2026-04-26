@@ -1,0 +1,59 @@
+name: Keyword Moderator
+
+on:
+  issues:
+    types: [opened, edited]
+  issue_comment:
+    types: [created, edited]
+
+jobs:
+  moderate:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+
+    steps:
+      - uses: actions/github-script@v7
+        with:
+          script: |
+            const forbiddenWord = /\bdownload\b/i;
+
+            const owner = context.repo.owner;
+            const repo = context.repo.repo;
+            const latestReleaseLink = `https://github.com/${owner}/${repo}/releases/latest`;
+
+            const message = `Get the newest version here:\n${latestReleaseLink}`;
+
+            const payload = context.payload;
+
+            if (payload.issue && payload.issue.body) {
+              if (forbiddenWord.test(payload.issue.body)) {
+
+                await github.rest.issues.createComment({
+                  owner,
+                  repo,
+                  issue_number: payload.issue.number,
+                  body: message
+                });
+
+                await github.rest.issues.update({
+                  owner,
+                  repo,
+                  issue_number: payload.issue.number,
+                  state: 'closed'
+                });
+
+                return;
+              }
+            }
+
+            if (payload.comment && payload.comment.body) {
+              if (forbiddenWord.test(payload.comment.body)) {
+                await github.rest.issues.deleteComment({
+                  owner,
+                  repo,
+                  comment_id: payload.comment.id
+                });
+              }
+            }
+

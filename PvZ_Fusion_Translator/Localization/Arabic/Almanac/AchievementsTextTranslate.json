@@ -6,7 +6,7 @@
     },
     "PeaSunflower": {
         "achievement": 1,
-        "Name": "Discover Pea Sunflower.",
+        "Name": "Discover Solar-shooter.",
         "Text": "The Age of Fusion"
     },
     "GatlingPea": {
@@ -21,7 +21,7 @@
     },
     "SuperGatling": {
         "achievement": 4,
-        "Name": "Discover Pea Commando.",
+        "Name": "Discover Pea-storm Commando.",
         "Text": "Big Brother is Very Angry"
     },
     "CherryPaper": {
@@ -47,7 +47,7 @@
     "SunBomb": {
         "achievement": 8,
         "Name": "Make one Solar Bomb explode 10 zombies at once.",
-        "Text": "One Light a Day"
+        "Text": "One Flash a Day"
     },
     "BigWallNut2": {
         "achievement": 10,
@@ -82,7 +82,7 @@
     "LilyPad": {
         "achievement": 16,
         "Name": "Make Lily Pad produce a plant.",
-        "Text": "The Young Lotus Has Just Revealed its Pointed Tip"
+        "Text": "Young Lotus' \nPointed Tip"
     },
     "ThreePeater": {
         "achievement": 17,
@@ -91,17 +91,17 @@
     },
     "SquashKelp": {
         "achievement": 18,
-        "Name": "Discover Mangle Kelp.",
+        "Name": "Discover Strangle Kelp.",
         "Text": "Creature from the Deep"
     },
     "ThreeSpike": {
         "achievement": 19,
         "Name": "Use Weed-spreader to burst tires.",
-        "Text": "Who Needs Spikerock?"
+        "Text": "Tumble Tire"
     },
     "SunSeaShroom": {
         "achievement": 20,
-        "Name": "Discover the Sea Sun-shroom.",
+        "Name": "Discover the Sunset-shroom.",
         "Text": "Sunshine in the Pool"
     },
     "StarBlover": {
@@ -132,21 +132,21 @@
     "GoldMelon": {
         "achievement": 26,
         "Name": "Let a rain of golden melon fall from the sky.",
-        "Text": "A Hail of Melons."
+        "Text": "A Hail of Melons"
     },
     "SquashTorch": {
         "achievement": 27,
-        "Name": "Use Squashed Torchwood to produce a Squash.",
+        "Name": "Use Squashwood to produce a Squash.",
         "Text": "Hot Stuff"
     },
     "UltimateTorch": {
         "achievement": 28,
-        "Name": "Discover Squashed Infernowood.",
+        "Name": "Discover Infernal Squashwood.",
         "Text": "Hell's Kitchen"
     },
     "Superkelp": {
         "achievement": 29,
-        "Name": "Discover Krakerberus.",
+        "Name": "Discover Hydra Kelp.",
         "Text": "Horror from the Deep"
     },
     "DarkThreePeater": {
@@ -231,7 +231,7 @@
     },
     "UltimateCannon": {
         "achievement": 46,
-        "Name": "Discover Cob-livion Cannon.",
+        "Name": "Discover Cob-literator.",
         "Text": "I am Become Death"
     },
     "SuperUmbrella": {
@@ -256,17 +256,17 @@
     },
     "SuperFume": {
         "achievement": 51,
-        "Name": "Discover Doomberg-shroom",
+        "Name": "Discover Doomspike-shroom",
         "Text": "Mushroom Nightwatcher"
     },
     "UltimateFume": {
         "achievement": 52,
-        "Name": "Discover Doominator-shroom",
+        "Name": "Discover Doominator",
         "Text": "Dominion"
     },
     "UltimteGloom": {
         "achievement": 53,
-        "Name": "Discover Oblivion-shroom",
+        "Name": "Discover Shroomageddon",
         "Text": "Radioactive"
     },
     "CattailPlant": {
@@ -281,7 +281,7 @@
     },
     "Cattailour": {
         "achievement": 56,
-        "Name": "Discover Magicat Nettle.",
+        "Name": "Discover Aristocattail.",
         "Text": "This is a Cat-astrophe!"
     },
     "WallNut": {
@@ -311,8 +311,8 @@
     },
     "SuperSunNut": {
         "achievement": 62,
-        "Name": "Spawn a Giant-nut from Twin Solar-nut.",
-        "Text": "Give Me Some Sunshine"
+        "Name": "Spawn a Giant Solar-nut from Twin Solar-nut.",
+        "Text": "Here Comes the Sun"
     },
     "UltimatePumpkin": {
         "achievement": 63,
@@ -341,7 +341,7 @@
     },
     "Travel": {
         "achievement": 1001,
-        "Name": "Finish Odyssey: Survival.",
+        "Name": "Finish Odyssey: Classic.",
         "Text": "Adventuring Time"
     },
     "Travel2": {
@@ -356,12 +356,12 @@
     },
     "Travel_noBuff": {
         "achievement": 1004,
-        "Name": "Finish Odyssey Mode without selecting any modifiers.",
+        "Name": "Finish Odyssey: Classic without selecting any modifiers.",
         "Text": "Odyssey Master"
     },
     "Travel_noNut": {
         "achievement": 1005,
-        "Name": "Finish Odyssey Mode without using Cherrizilla, Obsidian Tall-nut, Giga Mecha-nut, and Twin Solar-nut.",
+        "Name": "Finish Odyssey: Classic without using any Wall-nut or his fusions.",
         "Text": "Bare Fight"
     },
     "Travel_sun": {
@@ -371,7 +371,7 @@
     },
     "Travel_fast": {
         "achievement": 1007,
-        "Name": "Finish Odyssey Mode in under 40 minutes.",
+        "Name": "Finish Odyssey: Classic in under 40 minutes.",
         "Text": "Speedrunner"
     },
     "SuperMachineNut_health": {

@@ -1,0 +1,1132 @@
+{
+    "zombies": [
+        {
+            "theZombieType": 0,
+            "name": "Zombi",
+            "introduce": "<align=justified><size=36><color=black>Lui Zombi ii displace faptul ca numele lui il face sa para un zombi obisnuit, ei bine, zombi. Nu se considera un dusman fara nume sau doar un cadavru obisnuit. E un individ, la naiba! Si va face ceva extraordinar, chiar daca te va ucide.</color>",
+            "info": "<size=36>Zombi obisnuit de tip Garden-variety.\n\n<color=black>Daune: </color><color=#4B0082>50/0.5 (mestecare)</color>\n<color=black>Duritate: </color><color=#4B0082>270</color>"
+        },
+        {
+            "theZombieType": 1,
+            "name": "Zombi cu Steag",
+            "introduce": "<align=justified><size=36><color=black>Sa fim siguri, ombiului cu Steag ii plac creierele, dar la un moment dat a devenit si fascinat de steaguri. Poate pentru ca steagurile au intotdeauna creiere pe ele. Greu de spus.</color>",
+            "info": "<size=36>Zombiul cu Steag marcheaza sosirea unei gramezi uriase sau a unui \"val\" de zombii.\n\n<color=black>Duritate: </color><color=#4B0082>270\n<color=black>Trasaturi: </color><color=#4B0082>Apare implicit doar in valuri de steaguri, putin mai rapid decat zombii obisnuiti.</color>"
+        },
+        {
+            "theZombieType": 2,
+            "name": "Zombi Cap-de-Con",
+            "introduce": "<align=justified><size=36><color=black>Zombiul Cap-de-Con habar n-are ce e un con de circulatie. I se pare ca e un cornet de inghetata, iar cand afla ca nu-l poate manca, si-l pune pur si simplu pe cap.</color>",
+            "info": "<size=36>Coafura sa cu con de trafic il face de doua ori mai rezistent decat zombii obisnuiti.\n\n<color=black>Duritate: </color><color=#4B0082>270 + 370 (Tip 1)</color>"
+        },
+        {
+            "theZombieType": 3,
+            "name": "Zombi cu Prajina",
+            "introduce": "<align=justified><size=36><color=black>Candva cel mai bun saritor in inaltime din orasul sau, cariera lui Zombi cu Prajina a luat o intorsatura in ziua in care a uitat sa monteze pernele din spatele tribunei pentru saritura in inaltime.</color>",
+            "info": "<size=36>Zombi cu Prajina sare cu o prajina.\n\n<color=black>Duritate: </color><color=#4B0082>720</color>\n<color=black>Traits: </color><color=#4B0082>Sare peste prima planta de care da peste. Poate fi blocat de plante inalte.</color>"
+        },
+        {
+            "theZombieType": 4,
+            "name": "Zombi Cap-de-Galeata",
+            "introduce": "<align=justified><size=36><color=black>A fost odata ca niciodata, Zombi Cap-de-Galeata, care era doar un pictor, aclamat ca un geniu printre zombi pentru modul sau creativ de a folosi o galeata.. Au trecut ani, iar acum zombii se întreaba daca mai are în maneca niste trucuri secrete ale ucigasului. Ramane fara idei sau ascunde ceva? Cine stie?</color>",
+            "info": "<size=36>Palaria lui tip galeata il face extrem de rezistent la daune.\n\n<color=black>Duritate: </color><color=#4B0082>270 + 1100 (Tip 1)</color>\n<color=black>Trasaturi: </color><color=#4B0082>Galeata poate fi indepartata de Ciupercile-Magnet.</color>"
+        },
+        {
+            "theZombieType": 5,
+            "name": "Zombi Ziar",
+            "introduce": "<align=justified><size=36><color=black>\"Nu-l poti invinovati pentru frustrare; era pe punctul de a termina rebusul (cuvantul vertical numarul 23 este „Creier”), ceea ce explica de ce ținea hartia cu susul in jos..\"</color>",
+            "info": "<size=36>Ziarul lui ofera aparare limitata.\n\n<color=black>Duritate: </color><color=#4B0082>270 + 200 (Tip 2)</color>\n<color=black>Trasaturi: </color><color=#4B0082>La inceput se deplaseaza normal, dar accelereaza dupa ce iși pierde ziarul (viteza de miscare ×2,5, viteza de atac ×1,5).</color>"
+        },
+        {
+            "theZombieType": 6,
+            "name": "Zombi Dansator cu Prajina",
+            "introduce": "<align=justified><size=36><color=black>Abilitatile atletice ale Dansatorului cu Prajina sunt medii dupa standardele zombilor. La sfatul rezervatilor saritori cu prajina, a decis sa urmeze calea idolului. Acum, cantecul lui pop \"Doar Creier,\" o colaborare cu Michael Jackson, devine un hit.</color>",
+            "info": "<size=36>Dupa ce sare peste, isi invoca Saritorii de Rezerva cu Prajina.\n\n<color=black>Duritate: </color><color=#4B0082>720</color>\n<color=black>Trasaturi: </color><color=#4B0082>Invoca 4 Saritori de Rezerva cu Prajina dupa saritura. Nu invoca daca saritura este blocata.</color>"
+        },
+        {
+            "theZombieType": 7,
+            "name": "Saritor de Rezerva cu Prajina",
+            "introduce": "<align=justified><size=36><color=black>Cei 4 frati, odata orfani cu probleme, si-au dezvoltat personalitati distorsionate si i-au agresat pe altii la Academia Zombi. Intr-o zi, l-au vazut pe Dansatorul cu Prajina interpretand cu bucurie pe scena si asta i-a schimbat. Din acel moment, i s-au alaturat pentru a canta impreuna pe scena.</color>",
+            "info": "<size=36>Urca peste o planta.\n\n<color=black>Duritate: </color><color=#4B0082>270</color>\n<color=black>Trasaturi: </color><color=#4B0082>Sare peste prima planta de care da peste. Poate fi blocat de plante inalte.</color>"
+        },
+        {
+            "theZombieType": 8,
+            "name": "Zombi cu Sita de Usa",
+            "introduce": "<align=justified><size=36><color=black>Zombi cu Sita de Usa, fost membru al fortei operative FBI, cu un temperament urat, dar o inima dreapta, nu a negociat niciodata cu hotii - pur și simplu a spart usi ca sa salveze ostatici. Dupa ce a devenit un zombi, inima lui buna a ramas la fel. Cand a vazut zombii rapind un mic zombi fantoma, a incercat sa intre prin efractie, dar acestia au lipit usa, prinzandu-i mana.</color>",
+            "info": "<size=36>Poate bloca gloantele care vin din fata.\n\n<color=black>Duritate: </color><color=#4B0082>270 + 1100 (Tip 2)</color>\n<color=black>Trasaturi: </color><color=#4B0082>Sita de Usa poate fi eliminata de Ciupercii-Magnet.</color>"
+        },
+        {
+            "theZombieType": 9,
+            "name": "Zombi Fotbalist",
+            "introduce": "<align=justified><size=36><color=black>Zombiul Fotbalist este o vedeta sportiva printre zombii, admirat de multi pentru prezenta sa eroica pe teren. Multe companii vor sa il angajeze, dar cerintele sale salariale sunt mari - un salariu anual de 10.000 de creiere.</color>",
+            "info": "<size=36>Fuge super repede.\n\n<color=black>Duritate: </color><color=#4B0082>270 + 1400  (Tip 1)</color>\n<color=black>Trasaturi: </color><color=#4B0082>Casca de Fortbal poate fi eliminata de Ciupercile-Magnet."
+        },
+        {
+            "theZombieType": 10,
+            "name": "Michael Zombie",
+            "introduce": "<align=justified><size=36><color=black>Costum negru, pakarie neagra—nu e aici pentru o inmormantare. E doar un dansator, si il poti numi Michael Zombie.</color>",
+            "info": "<size=36>Conduce atacul cu miscarile sale de dans supreme.\n\n<color=black>Duritart: </color><color=#4B0082>720</color>\n<color=black>Traits: </color><color=#4B0082>Invoca 4 Dansatori cu Prajina simultan, continua sa invoce daca un Dansator cu Prajina moare. Nu invoca în timp ce mananca.</color>"
+        },
+        {
+            "theZombieType": 11,
+            "name": "Zombi cu Rata Gonflabila",
+            "introduce": "<align=justified><size=36><color=black>E nevoie de un anumit tip de zombi ca sa fie unul cu Rata Gonflabila. Nu orice zombi poate face fata. Unii cedau. Nu pot suporta. Pleaca si renunța la creier pe vecie.</color>",
+            "info": "<size=36>Poate inota in alei de apa.\n\n<color=black>Duritate: </color><color=#4B0082>270</color>"
+        },
+        {
+            "theZombieType": 12,
+            "name": "Zombi Cap-de-Con cu Rata Gonflabila",
+            "introduce": "<align=justified><size=36><color=black>Se spune ca elevii rai au mereu rechizite sofisticate, dar Capul-de-Con cu Rata Gonflabila nu e de acord. La urma urmei, refuza sa recunoasca faptul ca e unul dintre ei.</color>",
+            "info": "<size=36>Poate inota in alei de apa.\n\n<color=black>Duritate: </color><color=#4B0082>270 + 370 (Tip 1)</color>"
+        },
+        {
+            "theZombieType": 13,
+            "name": "Zombi Cap-de-Galeata cu Rata Gonflabila",
+            "introduce": "<align=justified><size=36><color=black>Capul-de-Galeata cu Rata Gonflabila n-a vrut niciodata sa poarte inelul ala care pluteste... dar ce poate face? Galeata ruginita de pe capul lui nu e tocmai impermeabila.</color>",
+            "info": "<size=36>Poate inota in alei de apa.\n\n<color=black>Duritate: </color><color=#4B0082>270 + 1100 (Tip 1)</color>"
+        },
+        {
+            "theZombieType": 14,
+            "name": "Zombarin",
+            "introduce": "<align=justified><size=36><color=black>Formidabilul Zombarin, proiectat pe baza principiilor bionice, este atat maiestoasa, cat si intimidanta - o arma de război ravnita de zombi. \"Acum trebuie doar sa abordam problema algelor marine care se incurca in elice,\" a spus Dr. Edgar.</color>",
+            "info": "<size=36>Principalul vehicul al zombilor impotriva plantelor acvatice.\n\n<color=black>Duritate: </color><color=#4B0082>1350</color>\n<color=black>Trasaturi: </color><color=#4B0082>Se misca rapid si scufunda orice planta cu care intra in contact, provocand 500 de daune plantelor anti-zdrobire."
+        },
+        {
+            "theZombieType": 15,
+            "name": "Savantul Zombi",
+            "introduce": "<align=justified><size=36><color=black>Ca o autoritate de marca in domeniul academic, Savantul Zombi e frecvent vazut in biblioteca. Pasiunea sa pentru lectura e profunda, iar deranjarea lui in timp ce citeste ii poate starni furia. Acest domn in varsta se va asigura ca intelegi adevaratul sens al \"cunostiintei e putere.\"</color>",
+            "info": "<size=36>Provoaca daune uriase alaturi de catrțile sale robuste.\n\n<color=black>Damage: </color><color=#4B0082>400</color>\n<color=black>Duritate: </color><color=#4B0082>720 +1100 (Tip 2)</color>\n<color=black>Trasaturi: </color><color=#4B0082>Invincibilitate pe termen scurt si viteza crescuta (viteza de miscare ×10, viteza de atac ×3) dupa ce cartea sa este crapata.</color>"
+        },
+        {
+            "theZombieType": 16,
+            "name": "Zomboni",
+            "introduce": "<align=justified><size=36><color=black>Soferul zombilor este excelent, mai ales avand in vedere ca putini zombi pot naviga de la patinoar la terenul cu iarba. Acum, trebuie sa plateasca amenda. Masina de gheata pe care o foloseste nu este o Zamboni; este o Zomboni(o masina de gheata condusa de un zombi) produsa de Compania B.</color>",
+            "info": "<size=36>Zomboni aplica gheata, abur si presiune plantelor tale.\n\n<color=black>Duritate: </color><color=#4B0082>1350</color>\n<color=black>Trasaturi: </color><color=#4B0082>Imun la Frig si Frigul Profund."
+        },
+        {
+            "theZombieType": 17,
+            "name": "Zombi cu Tub de Respirat",
+            "introduce": "<align=justified><size=36><color=black>Zombi cu Tub de Respirat poate avea o masca rupta, dar asta nu-i impiedica sa se scufunde si sa pluteasca in apa. Asa numita lui \"scufundare\" nu e datorita abilitatilor lui de scufundare; pur si simplu nu-i trebuie aer sa respire.</color>",
+            "info": "<size=36>Zombi cu Tub de Respirat poate inota sub apa.\n\n<color=black>Duritate: </color><color=#4B0082>270</color>\n<color=black>Trasaturi: </color><color=#4B0082>Se scufunda pentru a evita atacurile cu proiectile cu tragere directa.</color>"
+        },
+        {
+            "theZombieType": 18,
+            "name": "Zomboni Bobslei",
+            "introduce": "<align=justified><size=36><color=black>Aceasta mașina, proiectata de pasionatii de schi, se conduce lin pe zapada si gheata, atingand chiar si viteze mai mari decat pe iarba. Din pacate, are un defect: poate fi pornita doar pe suprafete inghetate.</color>",
+            "info": "<size=36>Apare numai cand exista gheata pe teren.\n\n<color=black>Duritate: </color><color=#4B0082>2700</color>\n<color=black>Trasaturi: </color><color=#4B0082>Se misca foarte repede cand e pe gheata. Imun la Frig si Frigul Profund.</color>"
+        },
+        {
+            "theZombieType": 19,
+            "name": "Zombi Calaret de Delfini",
+            "introduce": "<align=justified><size=36><color=black>Zombiul Calaret de Delfini este artist part-time si ingrijitor de delfini la un acvariu. Delfinul pe care il calareste este un zombi, dar spre deosebire de zombii tipici, acest \"delfin zombi\" nu are pofta de creier.</color>",
+            "info": "<size=36>Zombii Calareti de Delfini folosesc delfinii pentru a trece de apararile tale.\n\n<color=black>Duritate: </color><color=#4B0082>720</color>\n<color=black>Trasaturi: </color><color=#4B0082>Sare peste prima planta de care da peste. Poate fi blocat de plantele inalte.</color>"
+        },
+        {
+            "theZombieType": 20,
+            "name": "Zombi cu Trident",
+            "introduce": "<align=justified><size=36><color=black>Zombi cu Trident a fost initial doar un aruncator obisnuit de sulita, care a devenit pescar dupa ce s-a retras. Cu toate acestea, cand s-a dus la rau sa pescuiasca, s-a scufundat pentru ca nu putea inota. Cand a ajuns la tarm, și-a dat seama ca devenise ceea ce este acum.</color>",
+            "info": "<size=36>Aruca un trident pentru a-ti ataca plantele.\n\n<color=black>Duritate: </color><color=#4B0082>720</color>\n<color=black>Trasaturi: </color><color=#4B0082>La 6-9 secunde dupa intrare sau cand e blocat, arunca un trident, provocand daune plantelor egale cu 20% (minim 60) din HP-ul lor actual.</color>\n<color=black>Distanta de Cautare Minima: </color><color=#4B0082>3.5 Piese in Fata</color>"
+        },
+        {
+            "theZombieType": 21,
+            "name": "Zombi cu Cutie-Diamant",
+            "introduce": "<align=justified><size=36><color=black>In aceasta seara, Zombii cu Cutie-Diamant isi vor dezvalui lumea orbitoare. Ochii lor stralucesc precum cele mai stralucitoare stele de pe cerul noptii, iar lumina aurie pare sa curga precum un rau prin timp, luminand calea incerta din fata. De fiecare data cand capacul cutiei este deschis usor, se simte ca si cum ai debloca o usa catre un alt taram.</color>",
+            "info": "<size=36ip>Este acesta.. un Zombi Cap-de-Con? \n\n<color=black>Duritate: </color><color=#4B0082>2000 + 4400 (Tip 1)</color>\n<color=black>Trasaturi: </color><color=#4B0082>Se transforma intr-un Zombi cu Cutie-Aurie dupa ce isi pierde armura.</color>"
+        },
+        {
+            "theZombieType": 22,
+            "name": "Zombi cu Cutie-Aurie",
+            "introduce": "<align=justified><size=36><color=black>\"Sub cutia aurie, te asteapta alte cutii in culori diferite. Poti ghici din ce este facuta cutia dinauntru?\"</color>",
+            "info": "<size=36>Este acesta.. un Zombi Cap-de-Con? \n\n<color=black>Duritate: </color><color=#4B0082>2000 + 2200 (Tip 1)</color>\n<color=black>Trasaturi: </color><color=#4B0082>Se transforma intr-un Zombi cu Cutie-Argintie dupa ce isi pierde armura.</color>"
+        },
+        {
+            "theZombieType": 23,
+            "name": "Zombi cu Cutie-Argintie",
+            "introduce": "<align=justified><size=36><color=black>Zombiul cu Cutie-Argintie se gandeste la cutia de pe capul lui ca la o oala, deci trebuie sa fie una. Avand in vedere modul lui de gandire, de ce nu-i intelegi perspectiva? Si chiar vezi semnul exclamarii pe cutia lui, nu-i asa?</color>",
+            "info": "<size=36>Este acesta.. un Zombi Cap-de-Con? \n\n<color=black>Duritate: </color><color=#4B0082>2000 + 1100 (Tip 1)</color>\n<color=black>Trasaturi: </color><color=#4B0082>Se transforma intr-un Zombi Cap-de-Con dupa ce isi pierde armura.</color>"
+        },
+        {
+            "theZombieType": 24,
+            "name": "Zombi de tip Jack-in-Cutie",
+            "introduce": "<align=justified><size=36><color=black>Desi Zombiul de tip Jack-in-Cutie este un pacient mental, circul l-a primit cu bratele deschise cererea. Fii atent la ce se afla în cutia lui de jucarii; sigur te va speria.</color>",
+            "info": "<size=36>Acest zombi cara o surpriza exploziva.\n\n<color=black>Daunele Exploziei: </color><color=#4B0082>1 Milion</color>\n<color=black>Raza Exploziei: </color><color=#4B0082>1.375 Piese (≈ 3×3)</color>\n<color=black>Duritate: </color><color=#4B0082>720</color>\n<color=black>Trasaturi: </color><color=#4B0082>Uneori va exploda si va ucide instantaneu plantele din jur.</color>"
+        },
+        {
+            "theZombieType": 25,
+            "name": "Zombi cu Balon",
+            "introduce": "<align=justified><size=36><color=black>Zombiul cu Balon, unul din creatorii Zompelinului, este intrebat frecvent de ce si-a legat baloane de el. Raspunsul lui obisnuit este, \"Asta a fost concluzia mea.\" Totusi, adevarul este ca baloanele s-au încurcat pur si simplu din întamplare.</color>",
+            "info": "<size=36>Zombiul cu Balon pluteste deasupra luptei, imun la majoritatea atacurilor.\n\n<color=black>Duritate: </color><color=#4B0082>270 + 20 (Tip 1)</color>\n<color=black>Trasaturi: </color><color=#4B0082>Nu poate fi deteriorat de majoritatea plantelor in timpul zborului.</color>"
+        },
+        {
+            "theZombieType": 26,
+            "name": "Zompelin",
+            "introduce": "<align=justified><size=36><color=black>Zompelinul, cea mai recenta creatie a Dr-ului Edgar, devine rapid aliatul de incredere al zombilor. Speculatiile abunda despre cine va pilota aceasta arma puternica - poate spiridusul sau chiar dirijabilul in sine? \"Este doar un balon,\" a remarcat Dr. Edgar . \"Zombii trebuie sa tina pasul cu vremurile. Ma gandesc chiar sa-l transform intr-o drona ca sa nu fiu jenat cand sunt invins de plante.\"</color>",
+            "info": "<size=36>Lanseaza bombe mortale in timp ce zboara peste plantele tale.\n\n<color=black>Daunele Bombei: </color><color=#4B0082>500</color>\n<color=black>Duritate: </color><color=#4B0082>1350</color>\n<color=black>Trasaturi: </color><color=#4B0082>Lanseaza bombe Jack-in-Cutie la fiecare 3 secunde catre planta de dedesubt. Poate fi impinsa înapoi cu o jumatate de piesa de catre Sufloi.</color>"
+        },
+        {
+            "theZombieType": 27,
+            "name": "Yeti Calaret de Balene",
+            "introduce": "<align=justified><size=36><color=black>Balena albă pe care o călărește Yeti Zombi are abilități de săritură impresionante. Zombiul Calaret de Delfini este destul de invidios si a vrut mereu sa o imprumute pentru o plimbare, dar Yeti Zombi refuza de fiecare data. \"Zombiul Yeti nu are control asupra balenei lui albe,\" a spus Dr. Edgar. \"Ea vrea mereu sa se ascunda in spatele meu, dar balena alba ajunge sa mearga in direcția opusa.\"</color>",
+            "info": "<size=36>Sare inainte trei piese si se intoarce, atacand plantele din spate.\n\n<color=black>Duritate: </color><color=#4B0082>720</color>\n<color=black>Trasaturi: </color><color=#4B0082>Nu poate fi blocat de plantele inalte.</color>"
+        },
+        {
+            "theZombieType": 28,
+            "name": "Zombi Sapator",
+            "introduce": "<align=justified><size=36><color=black>Acum mult timp in urma, Zombii Sapatori au detestat Ciupercile-Magnet pentru confiscarea constanta a instrumentelor zombilor. Acum, ei urasc si mai mult Dovlecii Miner. \"Capul meu este lovit incontinuu, ceea ce ma face sa ma simt si mai rau,\" se plange el.</color>",
+            "info": "<size=36>Acest zombi sapa pentru a ocoli apararea ta.\n\n<color=black>Duritate: </color><color=#4B0082>720</color>\n<color=black>Trasaturi: </color><color=#4B0082>Sapa subteran si apare in partea stanga a peluzei. Vulnerabil la Ciupercile-Magnet si Minele de Cartof complet inarmate.</color>"
+        },
+        {
+            "theZombieType": 29,
+            "name": "Zombi Elicopter-de-Fier",
+            "introduce": "<align=justified><size=36><color=black>\"Prieteni, stiati despre dirijabilul Berlin? Mi-a inspirat designul...\" Toți zombii vor să se ascundă de Zombi Elicopter-de-Fier, nu doar pentru ca vorbeste prea mult despre dirijabil, ci si pentru ca zgomotul elicei balonului sau este insuportabil. </color>",
+            "info": "<size=36>Zombiul Elicopter-de-Fier e imun la Sufloi!\n\n<color=black>Duritate: </color><color=#4B0082>270 + 500 (Tip 1)</color>\n<color=black>Trasaturi: </color><color=#4B0082>Imun la Sufloi. Obtine o casca Bucknut de tip 1 cu 2200 Duritate la atingerea solului.</color>"
+        },
+        {
+            "theZombieType": 30,
+            "name": "Zombi Clovn-in-Cutie",
+            "introduce": "<align=justified><size=36><color=black>Pentru fiecare zombi clovn, autodistrugerea este cea mai inalta forma de arta, iar Zombiul Clovn-în-Cutie exceleaza mai presus de toate. \"Zombiul Clovn-în-Cutie nu-si va scoate niciodata masca si nici nu va da drumul cutiei de cadouri din mana!\"</color>",
+            "info": "<size=36>Zombiul Clovn-în-Cutie ar putea exploda dupa moartea lui!\n\n<color=black>Duritare: </color><color=#4B0082>720 + 370 (Tip 1)</color>\n<color=black>Trasaturi: </color><color=#4B0082>Devine violent dupa ce explodeaza, dublandu-si viteza. La înfrangere, are sansa de a exploda si de a se transforma într-un Zombi de tip Jack-in-Cutie. Cu cat sta mai mult pe gazon, cu atat este mai mare sansa.</color>"
+        },
+        {
+            "theZombieType": 31,
+            "name": "Zombi Catapulta",
+            "introduce": "<align=justified><size=36><color=black>Nimeni nu stie cum reuseste Zombiul Catapulta sa arunce cu atata precizie, dar un lucru e sigur - daca il vezi, acopera-ti capul repede!</color>",
+            "info": "<size=36>Catapulteaza mingi de baschet pentru a ataca plantele tale.\n\n<color=black>Daune: </color><color=#4B0082>60/3s</color>\n<color=black>Duritate: </color><color=#4B0082>850</color>\n<color=black>Trasaturi: </color><color=#4B0082>Arunca mingi de baschet spre planta din stanga, in culoarul sau. Cand toate cele 25 de mingi de baschet sunt folosite, avanseaza si zdrobeste plantele.</color>"
+        },
+        {
+            "theZombieType": 32,
+            "name": "Zombi Pogo",
+            "introduce": "<align=justified><size=36><color=black>Sproing! Sproing! Sproing! Asta e sunetul unui zombi puternic si eficient facand ceea ce stie cel mai bine.</color>",
+            "info": "<size=36>Un zombi care poate sari peste apararile tale.\n\n<color=black>Duritate: </color><color=#4B0082>720</color>\n<color=black>Trasaturi: </color><color=#4B0082>Poate sari peste plantele tale. Batul Pogo poate fi eliminat de Ciupercile-Magnet.</color>"
+        },
+        {
+            "theZombieType": 33,
+            "name": "Zombi cu Scara",
+            "introduce": "<align=justified><size=36><color=black>Zombiul cu Scar a auzit online ca, cu o scara si niste haine de lucru, putea trece pe furis de orice aparare. Inarmat cu o scara si îmbracat ca un muncitor, porneste sa cucereasca apararea fabricii.\nComentariul lui Peashooter: \"Nu i-a spus nimeni ca pielea lui de zombi e mult prea vizibila...?\"</color>",
+            "info": "<size=36>Acest zombi foloseste o scara pentru a ocoli obstacolele.\n\n<color=black>Duritate: </color><color=#4B0082>720 + 720 (Tip 2)</color>\n<color=black>Trasaturi: </color><color=#4B0082>Poate folosi scara pentru a ignora apararea plantelor. Plantele montate pe scara nu pot fi mutate de Manusa. Scarile pot fi distruse de Crematori. Scara poate fieliminata de Ciupercile-Magnet.</color>"
+        },
+        {
+            "theZombieType": 34,
+            "name": "Zombi cu Pogo-de-Pepene",
+            "introduce": "<align=justified><size=36><color=black>Quote: \"Este foarte putin probabil ca obuzele sa explodeze de doua ori in același crater! Asta afirmă 'Teoria Craterelor'.\" spune Zombi cu Pogo-de-Pepene in timp ce isi aranjeaza palaria in forma de coaja de pepene. Totusi, nimeni nu i-a spus ca schema sa de culori rosu-verde iese putin prea mult in evidenta intr-o multime de zombi.</color>",
+            "info": "<size=36>Acest zombi se incarca si sare in apararea ta!\n\n<color=black>Duritate: </color><color=#4B0082>270 + 2200 (Tip 1)</color>\n<color=black>Trasaturi: </color><color=#4B0082>Daca se afla in partea dreapta a peluzei, se incarca timp de 5 secunde, apoi executa o saritura mare (lungimea a aproximativ 4 piese). Face asta o singura data.\n<color=black>Slabiciune: </color><color=#4B0082>Fuziuni de Umbrela</color>"
+        },
+        {
+            "theZombieType": 35,
+            "name": "Gargantuar",
+            "introduce": "<align=justified><size=36><color=black>Gargantuarul e precum o bestie neindemanatica masiva, dimensiunea sa, un avantaj in detrimentul inteligentei. Nu intelege plantele sau creierii; stie doar sa mearga înainte, neobosit. </color>",
+            "info": "<size=36>Un zombi masiv, care se misca lent, care zdrobeste tot ce ii sta in cale cu dimensiunea sa enorma.\n\n<color=black>Duritate: </color><color=#4B0082>3000</color>\n<color=black>Trasaturi: </color><color=#4B0082>Arunca un Copil la jumatate din viata. Provoaca 500 de daune plantelor anti-zdrobire, 50 daune Pietritepelor si 1800 de daune zombilor hipnotizati la fiecare lovitura.</color>"
+        },
+        {
+            "theZombieType": 36,
+            "name": "Gargantuar Giga",
+            "introduce": "<align=justified><size=36><color=black>Desi Gargantuarul Giga face ravagii pe campul de lupta, ochii sai rosii ca sangele insufland frica tuturor celor care il înfrunta, exista un secret putin cunoscut: monstrul este perpetuu iritabil din cauza lipsei cronice de somn.</color>",
+            "info": "<size=36>Gargantuarul infuriat zdrobeste tot ce-i sta in cale cu o forta înspaimantatoare.\n\n<color=black>Duritate: </color><color=#4B0082>6000</color>\n<color=black>Trasaturi: </color><color=#4B0082>Mosteneste toate trasaturile Gargantuarilor obisnuiti.</color>"
+        },
+        {
+            "theZombieType": 37,
+            "name": "Copil",
+            "introduce": "<align=justified><size=36><color=black>Copiilor le place sa se strecoare prin spatii inguste, adesea provocand nazbatii. Nu fi surprins daca vezi unul sarind pe neasteptate!</color>",
+            "info": "<size=36>Mic si viclean, Copilului ii place sa se strecoare in spatii inguste, ceea ce il face agil si mai greu de tintit.\n\n<color=black>Duritate: </color><color=#4B0082>270</color>\n<color=black>Trasaturi: </color><color=#4B0082>In timp ce se afla in aer, poate fi aruncat in afara ecranului de miscarile supreme ale unor fuziuni Umbrela.</color>"
+        },
+        {
+            "theZombieType": 38,
+            "name": "Gargantuar Mecanic",
+            "introduce": "<align=justified><size=36><color=black>Un zombi din popularul Plant Girls vs Zombies.</color>",
+            "info": "<size=36>O alta inventie a Dr. Gargantuar, complet metalica, iti va calca in picioare apărarea fara ezitare.\n\n<color=black>Duritate: </color><color=#4B0082>3000</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Imun la majoritatea efectelor de stare.\n<color=black>•</color> Zdrobeste plantele, provoaca 500 de daune plantelor anti-zdrobire si 150 de daune Pietritepelor. Provoaca 1000 de  daune zombilor hipnotizati in fiecare secunda.\n<color=black>Slabiciune: </color><color=#4B0082>Ciupercile-Magnet</color>"
+        },
+        {
+            "theZombieType": 39,
+            "name": "Gargantuar Mecanic Giga",
+            "introduce": "<align=justified><size=36><color=black>Un zombi din popularul Plant Girls vs Zombies.</color>",
+            "info": "<size=36>O ultima creatie a Dr-ului Gargantuar, aceasta masinarie a dezastrului se apropie incet cu pasi siguri.\n\n<color=black>Duritate: </color><color=#4B0082>6000</color>\n<color=black>Trasaturi: </color><color=#4B0082>Mosteneste toate trasaturile Gargantuarului Mecanic obisunit.</color>"
+        },
+        {
+            "theZombieType": 40,
+            "name": "Zombi Nuca-Mecanica",
+            "introduce": "<align=justified><size=36><color=black>Zombiul Nuca-Mecanica nu are timp de conversatie superficiala – la propriu. Cu fiecare viraj, accident si sprint cu asistenta pe panta, totul se rezuma la impuls. \"Trebuie sa continui, trebuie sa continui sa zdrobesti,\" mormaie cu o voce metalica, robotica, abur suierand din incheieturi. Plante suficient de ghinioniste incat sa-i stea in cale? Aplatizate. Dar chiar si masinile au limite - cand in sfarsit se opreste, Copii dinauntru ies afara, gata sa reia de unde a ramas fortareata lor rostogolitoare.",
+            "info": "<size=36>O minge de bowling care se rostogoleste pe partea zombilor.\n\n<color=black>Duritate: </color><color=#4B0082>1350</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Schimba banda cand loveste plantele, accelereaza pe pante. Incetineste dupa schimbarea benzilor.\n<color=black>•</color>Zdrobeste plante cu o rezistenta mai mica sau egala cu 1000 si provoaca 1000 de daune plantelor mai rezistente.\n<color=black>•</color> Invoca 5 Copii la moarte.\n<color=black>•</color> Are probabilitati egale de a scapa o minge de gheaață, o minge de foc sau un fragment Mecanic.\n<color=black>•</color> Mingile pot zdrobi plantele, blocheaza pana la 30 de gloante, si dureaza 30 de secunde. Poate fi contracarat de fuziuni bazate pe Gheata-/Foc.\n<color=black>Slabiciune: </color><color=#4B0082>Fuziuni Umbrela</color>"
+        },
+        {
+            "theZombieType": 41,
+            "name": "Statuie Zombi de Argint",
+            "introduce": "<align=justified><size=36><color=black>Un zombi invelit in argint pur, vandut in magazinul de suveniruri din gradina pentru doar doua monede de argint. \"Evident, zombiul din interior scade valoarea stratului de argint pur,\" comenteaza Dr-ul Edgar Zomboss.",
+            "info": "<size=36>Un zombi transformat intr-o statuie de argint.\n\n<color=black>Duritate: </color><color=#4B0082>200</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Imobil. Nu poate fi redirectionata. Nu poate fi respinsa de abilitatile supreme Umbrela.\n<color=black>•</color> Incepe sa piarda rapid 15 puncte de viata dupa aparitie.\n<color=black>•</color> Elibereaza 1 Diamant (1k Monede) la moarte.</color>"
+        },
+        {
+            "theZombieType": 42,
+            "name": "Statuie Zombi de Aur",
+            "introduce": "<align=justified><size=36><color=black>Un zombi invelit in aur. Comparativ cu vanzarea ca suvenir, este mai popular in evenimentul Golden Egg Smash. \"Sparge-l cu mazare. Recompensele obisnuite sunt monede si diamante, in timp ce marele premiu ascuns este un zombi,\" explica Dr. Edgar Zomboss. Pana acum, nimeni nu a obțtinut marele premiu ascuns.",
+            "info": "<size=36>O statuie zombi de aur, un simbol al bogatiei!\n\n<color=black>Duritate: </color><color=#4B0082>300</color>\n<color=black>Trasaturis: </color><color=#4B0082>\n<color=black>•</color> Imobil. Nu poate fi redirectionata. Nu poate fi respinsa de abilitatile supreme Umbrela.\n<color=black>•</color> Incepe sa piarda rapid 15 puncte de viata dupa aparitie.\n<color=black>•</color> Elibereaza 3 Diamante (3k Monede) la moarte.</color>"
+        },
+        {
+            "theZombieType": 43,
+            "name": "Gargantuar Armat",
+            "introduce": "<align=justified><size=36><color=black>Gargantuarul Armat e un mare fan al unei piele numite 'Cavaler' din jocul lui favorit. Asa ca a cheltuit o avere comandand o armura medievala croita special pentru el. Cu toate acestea, cand a încercat sa o dea jos, a constatat ca era blocata definitiv... Si asa a ajuns sa aiba o piele permanenta de 'Cadavelier'.</color>",
+            "info": "<size=36>Genera Copii de fiecare data cand loveste cu buzduganul sau!\n\n<color=black>Duritate: </color><color=#4B0082>8000 + 24000 (Tip 1)</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Se misca cu jumatate din viteza Gargantuarilor obisnuiti.\n<color=black>•</color> Primeste maximum 5000 de daune pe lovitura inainte de calculele de reducere a daunelor.\n<color=black>•</color> Imun la hipnotizare, devorare si doborare, alte efecte de stare dureaza doar pe jumatate.\n<color=black>•</color> Arunca o bila de Nuca-Mecanica cand rezistenta sa este la jumatate, generand 5 Copii cand se sparge.\n<color=black>•</color> Invoca 1-3 Copii de fiecare data cand loveste cu buzduganul sau.</color>"
+        },
+        {
+            "theZombieType": 44,
+            "name": "<u><i>Dr. Zomboss</u></i>",
+            "introduce": "<align=justified><size=36><color=black>Edgar George Zomboss si-a obținut doctoratul in tanatologie in doar doi ani. Stapanind rapid tehnologia tanatologica, si-a construit temutul Zombot si a inceput sa-si stabileasca dominatia absoluta asupra subdiviziunii sale locale.</color>",
+            "info": "<size=36>Dr-ul Zomboss ii conduce pe toti.\n\n<color=black>Duritate: </color><color=#4B0082>60000</color>\n<color=black>Trasaturi: </color><color=#4B0082>Arunca un trofei la invingerea lui. Daunele primite sunt limitate la 5000 inainte de reducere. Imunitate la majoritatea efectelor de stare, cu exceptia Rece, Ingheț si Inflamat. Are mai multe moduri de atac:\n<color=black>•</color> Plaseaza zombi obisnuiti in jumatatea dreapta a peluzei.\n<color=black>•</color> Calca in picioare plantele din cele mai din dreapta 4 coloane.\n<color=black>•</color> Elibereaza gheata rostogolita si bile de foc care zdrobesc plantele de pe o banda.\n<color=black>•</color> Lanseaza 3 zombi Bungee pe jumatatea stanga a peluzei.\n<color=black>•</color> La jumatate din viata, incepe sa arunce caravane care zdrobesc toate plantele dintr-o zona 2x3.</color>"
+        },
+        {
+            "theZombieType": 45,
+            "name": "Zombi Bungee",
+            "introduce": "<align=justified><size=36><color=black>Zombiul Bungee iubeste sa-si asume riscuri. La urma urmei, care e rostul sa fii mort daca nu traiesti putin?</color>",
+            "info": "<size=36>Coboara din cer si fura o planta. Prioritizeaza dovlecii..\n\n<color=black>Duritate: </color><color=#4B0082>720</color>\n<color=black>Slabiciune: </color><color=#4B0082>Umbrele</color>\n<color=black>Modificator de Odisee:\n</color><color=#4B0082>Obtine o reducere de 90% a daunelor si acum poate plasa zombi Supremi panala coloana 4 (excluzand cei de tip Diamond Mystery-box și mini-sefi).</color>"
+        },
+        {
+            "theZombieType": 46,
+            "name": "<u><i>Dr. Zomboss de Aur</u></i>",
+            "introduce": "<align=justified><size=36><color=black>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In non consectetur odio, ac consectetur dui.</color>",
+            "info": "<size=36>Te urmaresc la fiecare pas.\n\n<color=black>Duritate: </color><color=#4B0082>60000</color>\n<color=black>Trasaturi: </color><color=#4B0082>Mosteneste toate trasaturile Dr-ului Zomboss. In plus, dezactiveaza manusile si ciocanul jucatorului la aparitie. Ciocanul este deblocat la 2/3 din viata. Manusile se deblocheaza la 1/3 din viata. Rulotele aruncate elibereaza si banda rulanta.</color>\n<size=36>Formula Fuziunii: <color=#4B0082>Dr. Zomboss + Trofeu</color>"
+        },
+        {
+            "theZombieType": 47,
+            "name": "Zombi Yeti",
+            "introduce": "<align=justified><size=36><color=black>Multe detalii despre Yeti Zombi raman invaluite in mister. Trecutul lui? Secret. His motives? Necunoscut. Singurele lucruri inregistrate? Numele sau, data nasterii, numarul de asigurari sociale, educatia, istoricul profesional... si o pasiune neclintita pentru sandvisurile cu friptura de vita.</color>",
+            "info": "<size=36>Zombi Yeti poate fugi uneori departe.\n\n<color=black>Duritate: </color><color=#4B0082>1350</color>\n<color=black>Trasaturi: </color><color=#4B0082>Ingheata plantele intr-o zona 3x3 in jurul sau. Ardeii Iuti, Lemnele-Torta si Ciupercile-de-Gheata sunt imune la acest efect. Pot purta piese de puzzle in Odisee: Evoluat.</color>"
+        },
+        {
+            "theZombieType": 48,
+            "name": "Zombi Nian",
+            "introduce": "<align=justified><size=36><color=black>Pentru a sarbatori Anul Nou, petrecerea zombilor il trimite pe Zombi Nian, intruchiparea spiritului festiv.\n\n\"Uitati-va la hainele mele noi! Nu-i asa ca arat exact ca un dansator de leu? Destul de frumos, nu? Acum e timpul sa transmit urarile mele de Anul Nou plantelor!\"\n\nDin pacate pentru el, plantele au fost prea politicoase. Dupa o avalansa de \"mulțumiri\" vesele, Zombiul Nian s-a trezit imediat coplesit de val, fie ca i-a placut, fie ca nu.",
+            "info": "<size=36>Zombii Nian au armura foarte puternica.\n\n<color=black>Duritate: </color><color=#4B0082>8888 + 8888 (Tip 1)</color>\n<color=black>Slabiciune: </color><color=#4B0082>Iuciracheta provoaca 15× Daune to Zombiilor Nian.</color>"
+        },
+        {
+            "theZombieType": 49,
+            "name": "Lansator cu Tun de Mingi de Zapada",
+            "introduce": "<align=justified><size=36><color=black>\"Lupta cu bulgari de zapada!\" Lansatorul cu Tun de Mingi de Zapada se trezeste din somnul sau inghetat, aruncand bulgari de zapada cu salbaticie in toate directiile.\n\n\"Sa ii spunem?\"\n\"Nah, sa vedem cat ii ia sa-si dea seama.\"\n\nSMACK!—Un alt bulgar de zapada aterizeaza.\n\n\"Asta face 14.\"</color>",
+            "info": "<size=36>Lansatorul cu Tun de Mingi de Zapada poate ataca plantele cu bulgari de zapada si le poate ingheta.\n\n<color=black>Duritate: </color><color=#4B0082>720</color>\n<color=black>Daune: </color><color=#4B0082>20/2s</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Imun la Frig si Inghet. Vulnerabil la Frig Profund.\n<color=black>•</color> Dupa aparitie, va lansa incontinuu bulgari de zăpada asupra plantelor, care vor provoca 20 de daune si vor exploda la impact, dezactivand plantele timp de 5 secunde pe o raza de 3×3. Bulgarii de zăpadă provoaca 10 puncte Crio zombilor hipnotizati afectati.</color>\n<color=black>Slabiciune: </color><color=#4B0082>Coaja de Umbrela</color>"
+        },
+        {
+            "theZombieType": 50,
+            "name": "Zombi cu Scut de Zapada",
+            "introduce": "<align=justified><size=36><color=black>Zombiul cu Scut de Zapada a fost odata un soldat de elita pe campul de lupta. Acum retras, este campionul en-titre al turneului de lupte cu bulgari de zăpada din cimitir. Pretuieste scutul care i-a adus atata glorie, verificandu-l constant pentru zgarieturi - deși unii spun ca tocmai acest obicei l-ar putea accidenta si l-a retras in primul rand.</color>",
+            "info": "<size=36>Purtator de scut din campiile înzapezite, el deviaza proiectilele tinta direct si le returneaza sub forma de bulgări de zapada.\n\n<color=black>Duritate: </color><color=#4B0082>720 + 2200 (Tip 2)</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Imun la Frig si Inghet. Vulnerabil la Frig Profund.\n<color=black>•</color> Ridica scutul la fiecare 1.5 secunde pentru a reflecta proiectilele tragatoare drept bulgari de zapada. Primeste 20 daune cand se reflecta si nu blocheaza proiectilul. Provoaca lovituri puternice in loc sa muste atunci cand tine scutul, provocand 50 daune.</color>"
+        },
+        {
+            "theZombieType": 51,
+            "name": "Zombi Aruncator de Trident de Gheata",
+            "introduce": "<align=justified><size=36><color=black>La cea de-a 5-a editie a Jocurilor Olimpice de Iarna ale Nemortilor, care se desfasoara in prezent, Zombiul Aruncator de Trident de Gheata acaparează toată lumina reflectoarelor. El planuieste sa-si utilizeze  premiul in bani pentru a cumpara o sanie noua pentru el si echipa sa-si poate sa le ofere un masaj luxos la picioare pentru a compensa toate daunele provocate de calcarea pe Buruienile Tepoase.</color>",
+            "info": "<size=36>Din câmpiile înzăpezite vine Zombiul Aruncator de Trident de Gheata — reducand la tacere inamicii cu fiecare aruncare inghetata!\n\n<color=black>Duritate: </color><color=#4B0082>720</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Imun la Frig si Inghet. Vulnerabil la Frig Profund.\n<color=black>•</color> Mosteneste trasaturile Zombiului Trident. Tridentii de gheata nu sunt atrasi de umbrele si aplica Tacere timp de 5 secunde la lovire.</color>"
+        },
+        {
+            "theZombieType": 52,
+            "name": "Zombi cu Portal Temporal",
+            "introduce": "<align=justified><size=36><color=black>Ce se afla mai exact in spatele portalului detinut de Zombiul cu Portal Temporal? Niciun zombi nu stie cu adevarat - si nici nu le pasa sa afle. Dar cand vechii lor prieteni incep sa iasa afara unul cate unul, sunt mai mult decat fericiti sa intervina si sa intrebe daca exista vreo minte proaspata inauntru.</color>",
+            "info": "<size=36>O forta dincolo de timp si spatiu, trasa din marginile realitatii însasi.\n\n<color=black>Daune: </color><color=#4B0082>20/1.5s</color>\n<color=black>Duritate: </color><color=#4B0082>270 + 200 (Tip 2)</color>\n<color=black>Trasaturi: </color><color=#4B0082>Lanseaza crono mazare in apararea ta. La fiecare 6 secunde, invoca aleatoriu un zombi obisnuit, Cap-de-Con, Cap-de-Galeata, sau cu Sita de Usa din portal. Elibereaza un Nucleu Crono la moarte.</color>"
+        },
+        {
+            "theZombieType": 53,
+            "name": "Disc de congelare al Legiunii de Inghet",
+            "introduce": "<align=justified><size=36><color=black>Inainte de fiecare decolare, echipajul Discului Congelator petrece o jumatate de ora curatand zapada si gheata — si scotand blanosii de zapada care se ascund in colturi. \"Ridicarea acestei bucati inghetate de pe sol consuma o cantitate ridicola de combustibil,\" bombane pilotul.</color>",
+            "info": "<size=36>Ninge! Acest oaspete inghetat se aduna cu fulgi de zapada, reduce la tacere plantele si pleaca cu ajutor.\n\n<color=black>Duritare: </color><color=#4B0082>720</color>\n<color=black>Trasaturi: </color><color=#4B0082>Imun la Sufloi. Creeaza fulgi de zapada in timp ce se misca, reducand la tacere plantele de dedesubt. Incetineste in timp — cand viteza ajunge la zero, inverseaza directia. La iesire, invoca o echipa a Legiunii de Inghet: cate un zombi din fiecare: cu Scut de Zapada, cu Tun de Mingi de Zapada, Aruncator de Trident de Gheata.</color>"
+        },
+        {
+            "theZombieType": 54,
+            "name": "Zombi Marioneta",
+            "introduce": "<align=justified><size=36><color=black>Nu pot muri.</color>",
+            "info": "<size=36>Doar o marioneta de testare.\n\n<color=black>Duritate: </color><color=#4B0082>10000 (Invincibil)</color>\n<color=black>Trasaturi: </color><color=#4B0082>Arata ultimele daune primite, dps-ul primit si daunele totale primite.</color>"
+        },
+        {
+            "theZombieType": 55,
+            "name": "Zombi Neghiob al Legiunii de Inghet",
+            "introduce": "<align=justified><size=36><color=black>\"In campiile inzapezite si inghetate, e esential sa te incălzesti. De fapt, gheata este un excelent izolator,\" Zombi Neghiob le spune cu mandrie celorlalti - dar nimeni nu-i urmeaza sfatul. Se pare ca nu observa ca gheata este si un material excelent pentru izolarea fonica.</color>",
+            "info": "<size=36>Un zombi legionar purtand o casca de bloc de gheata.\n\n<color=black>Duritate: </color><color=#4B0082>500 + 370 (Tip 1)</color>\n<color=black>Trasaturi: </color><color=#4B0082>Imun la Frig si Inghet. Vulnerabil la Frig Profund.</color>"
+        },
+        {
+            "theZombieType": 56,
+            "name": "Blanosul Zapezii",
+            "introduce": "<align=justified><size=36><color=black>Cercetarile privind clasificarea biologica a Blanosilor Zapezii au inregistrat putine progrese. La urma urmei, nu te poti astepta ca zombii - carora le lipseste creierul - sa fie perspicace din punct de vedere academic. Majoritatea nici macar nu pot deosebi un Blanos de Zapada adevarat de un Zombi Yeti intr-o blana de zapada. Din fericire, Dr. Edgar a oferit o metoda geniala: 'Cel care arata mai elegant este Blanosul Zapezii.'</color>",
+            "info": "<size=36>O creatura ostila, originara din campiile inzapezite.\n\n<color=black>Duritate: </color><color=#4B0082>1350</color>\n<color=black>Trasaturi: </color><color=#4B0082>Cand zombii distrug un Bloc de Gheata fara Zombotany corespunzator, apare o Blana de Zapada. Se miscafoarte incet, zdrobeste plantele, dar nu ataca direct.</color>"
+        },
+        {
+            "theZombieType": 57,
+            "name": "Blanosul Zapezii Parinte",
+            "introduce": "<align=justified><size=36><color=black>Mai puternic, mai intelept si cu o coada mai grea decat alte bestii de zapada, ceea ce l-a facut cu adevarat lider a fost saltul sau remarcabil - ghidandu-si rudele spre izvorul cascadei inghetate.</color>",
+            "info": "<size=36>Varful campiilor inzapezite.\n\n<color=black>Duritate: </color><color=#4B0082>3000</color>\n<color=black>Trasaturi: </color><color=#4B0082>Cand zombii distrug un bloc de gheata fara Zombotany corespunzator, un Blanos de Zapada apare, cu o sansa de 1/4 sa fie o Blana de Zapada Parinte. Se misca foarte incet si zdrobeste plantele. Se misca rapid cu 2 piese inainte cand apare, ignorand plantele.</color>"
+        },
+        {
+            "theZombieType": 58,
+            "name": "Zombi Miner",
+            "introduce": "<align=justified><size=36><color=black>\"Nu vreau sa traiesc in lumea asta,\" se plange Zombiul Miner, negasind nicio bucurie in viata sa monotona. El vrea doar sa dezgroape suficient obsidian pentru a construi un portal si a pleca. Ca sa nu mai vorbim de faptul ca cealalta parte a portalului este si mai periculoasa si monotona, nu are nicio sansa sa aprinda portalul. Singurul instrument de aprindere cunoscut este pazit adanc in interiorul unor piramide antice care se gasesc in doar 2 locatii din lume, unde cutreiera zombi purtatori de torte.</color>",
+            "info": "<size=36>Manuieste un tarnacop aleatoriu pentru a-l mina prin apararea ta.\n\n<color=black>Daune: </color><color=#4B0082>50 (non-mestecare)</color>\n<color=black>Duritate: </color><color=#4B0082>720 + 1400 (Tip 1)</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Atacurile acumuleaza progresul mineritului impotriva plantelor defensive, ucigand instantaneu planta cand ajunge la 100%. \n<color=black>•</color> Progres in Minerit = (nr. de atacuri × daunele tarnacopului) / HP-ul plantei.\n<color=black>•</color> La aparitie, primeste aleatoriu un tarnacop cu puteri diferite ale tarnacopului. Cand tintesc plante cu o Duritate mai mica decat puterile lor ale tarnacopului, daunele tarnacopului sunt multiplicate cu 5.\n<color=black>•</color>Tipuri de Tarnacop:\n\tTarnacop de Aur: 150 daune | 4000 putere\n\tTarnacop de Fier: 50 daune | 16000 putere\n\tTarnacop de Diamant: 100 daune | 32000 putere\n<color=black>•</color> Plante Defensive: Nuci, Dovleci, Tragatori de Burgeri, Pariglaciar.</color>"
+        },
+        {
+            "theZombieType": 59,
+            "name": "Zombi Ziar cu Cap de Delfin",
+            "introduce": "<align=justified><size=36><color=black>He once dreamed of becoming a mermaid, but the surgeon who was supposed to fix him got his top and bottom halves completely mixed up.</color>",
+            "info": "<size=36>Gets angry when his reading is interrupted... then goes home to fetch another tabloid.\n\n<color=black>Toughness: </color><color=#4B0082>720 + 720 (Type 2)</color>\n<color=black>Traits: </color><color=#4B0082>After losing his tabloid, greatly increases speed and reverses direction. Upon exiting on the right, spawns a brand new Dolphinhead Newspaper Zombie. This does not trigger if he's hypnotized.</color>"
+        },
+        {
+            "theZombieType": 60,
+            "name": "Racheta Boomer",
+            "introduce": "<align=justified><size=36><color=black>Boom!</color>",
+            "info": "<size=36>Eu bomba. Eu explodez.\n\n<color=black>Duritate: </color><color=#4B0082>1000</color>\n<color=black>Trasaturi: </color><color=#4B0082>Poate fi vizat doar de atacuri antiaeriene. Rachetele lansate de Boomere pot fi, de asemenea, respinse de Sufloi.</color>"
+        },
+        {
+            "theZombieType": 61,
+            "name": "Zombii Fotbal cu Cap de Delfin",
+            "introduce": "<align=justified><size=36><color=black>Tipul asta se misca ca pestele in apa pe terenul de fotbal. Stai! Se presupune ca e o metafora! Cine a spus ca poti inunda gazonul!?</color>",
+            "info": "<size=36>Se misca pe teren cu pasi agili, nerabdator sa-si etaleze casca eleganta.\n\n<color=black>Duritate: </color><color=#4B0082>720 + 1400 (Tip 1)</color>\n<color=black>Trasaturi: </color><color=#4B0082>Imun la efectele imobilizarii. Ignora coliziunea cu plantele in timp ce poarta casca. La atingerea primei coloane sau a marginii peluzei, isi restabileste toate punctele de viata, isi echipeaza o cască noua si isi inverseaza directia.</color>"
+        },
+        {
+            "theZombieType": 62,
+            "name": "Pui de Blanos al Zapezii",
+            "introduce": "<align=justified><size=36><color=black>Desi este doar un pui, Puiul de Blanos al Zapezii are vise mari — sa domine tundra precum puternicul Blanosul Zapezii Parinte, nu sa stea de vorba cu zombii nazdravani. A fugit din tabara ca sa-si faca un nume... si s-a rostogolit din greseala pe teritoriul plantelor. Of!</color>",
+            "info": "<size=36>Un Pui de Blanos al Zapezii care iubeste sa se rostogoleasca, dar rareori supravietuieste.\n\n<color=black>Duritate: </color><color=#4B0082>300</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Se rostogoleste inainte. La lovirea unei plante, provoaca daune egale cu HP-ul sau actual, apoi moare.\n<color=black>•</color>Are o sansa de 1/3 de a evita orice dauna.</color>"
+        },
+        {
+            "theZombieType": 63,
+            "name": "Zombi Bungee Hot",
+            "introduce": "<align=justified><size=36><color=black>Traind în marime dupa un jaf recent, Zombiul Bungee Hot si-a cumpărat un costum nou pentru a-si etala averea. Nu toate jafurile sunt reusite, dar acolo unde un jaf esueaza, Zombiul Bungee Hot lasa in urma un \"cadou\" pentru peluzele neawteptate care cred ca o singura umbrela e suficienta pentru a salva situatia.\n\n-Scris de Hazy</color>",
+            "info": "<size=36>Transporta obiecte de valoare, dar si cutii misterioase!\n\n<color=black>Duritate: </color><color=#4B0082>1350</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Apare doar in valuri cu steag.\n<color=black>•</color> Daca e respins de o Frunza Umbrela, se intoarce la scurt timp dupa aceea pentru a lasa sa cada un Gargantuar Misterios in partea dreapta a peluzei. Poate fi respinsa din nou si nu se va mai intoarce a doua oara.\n<color=black>•</color> Elibereaza 3 Diamante si 200 de Soare daca e invins.</color>"
+        },
+        {
+            "theZombieType": 64,
+            "name": "Michael Zombie de pe Plaja",
+            "introduce": "<align=justified><size=36><color=black>Michael Zombie de pe Plaja e de neegalat cand vine vorba de descoperirea de relicve ascunse. Mereu iesind pe primul loc in competitii, multi alti zombi ii admira talentul. Doar Dr. Edgar Zomboss considera tulburator faptul ca fiecare relicva seamănă tulburator cu Michael Zombie de pe Plaja.</color>",
+            "info": "<size=36>Michael e in vacanta cu o noua pasiune pentru descoperirea statuilor de piatra din civilizatiile de coasta pierdute!\n\n<color=black>Duritate: </color><color=#4B0082>720</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Invoca 4 Statui Dansatoare cu 500 HP. Daca nu este distrusa dupa 15 secunde, fiecare Statuie se rupe si genereaza un Michael de Plaja cu HP egal cu HP-ul ramas al statuii.\n<color=black>•</color> In modurile non-AT, statuile apar in aceleasi locuri in care un Michael obisnuit ar invoca Dansator cu Prajina.</color>"
+        },
+        {
+            "theZombieType": 65,
+            "name": "Statui Dansatoare de Piatra",
+            "introduce": "<align=justified><size=36><color=black>Moe moai kyee~.</color>",
+            "info": "<size=36>Hm.\n\n<color=black>Duritate: </color><color=#4B0082>500</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Rupe si genereaza un Michael de pe Plaja cu HP egal cu 15 HP ramase ale statuii dupa ce este invocat.\n<color=black>•</color> In modurile non-AT, statuile apar in aceleasi locuri in care un Michael obisnuit ar invoca Dansator cu Prajina.</color>"
+        },
+        {
+            "theZombieType": 66,
+            "name": "Zombii Fotbal cu Steag",
+            "introduce": "<align=justified><size=36><color=black>\"Amandoi purtam uniforme de fotbal si purtam bannere. Dar eu pot sa ma rostogolesc, iar el nu.\" Zombii Fotbal cu Steag se compara serios cu Zombiul Giga cu Nuca-Fotbal si a concluzionat cu incredere ca e mai puternic. Aceasta incredere ajuta - acum fuge mai repede pentru a scapa de urmarirea Zombiul Giga cu Nuca-Fotbal.</color>",
+            "info": "<size=36>Poate efectua rostogoliri pentru evitare.\n\n<color=black>Duritate: </color><color=#4B0082>720 + 1400 (Tip 1)</color>\n<color=black>Trasaturi: </color><color=#4B0082> La primul contact cu o planta, rostogoleste doua piese inainte, ignorand obstacolele.</color>"
+        },
+        {
+            "theZombieType": 67,
+            "name": "Blanos al Nisipului",
+            "introduce": "<align=justified><size=36><color=black>Blanosul Nisipului obisnuia sa fie un Blanos al Zapezii. Intr-o zi, a iesit la joaca si s-a acoperit cu nisip pe plaja, transformându-l în Blanos al Nisipului. \"Uneori, plantele ma ignora pentru ca folosesc nisipul drept camuflaj!\" s-a gandit el.</color>",
+            "info": "<size=36>Se misca ca un cactus rus; dimensiunea sa mica o face mai greu de lovit.\n\n<color=black>Duritate: </color><color=#4B0082>300</color>\n<color=black>Trasaturi: </color><color=#4B0082>Se rostogoleste inainte, ignorand plantele 2/3 din timp (fiecare poate ignora maximum 3 plante). Cand se ciocneste cu o planta, provoaca daune egale cu propria viata si moare. Are o sansa de 1/3 sa evite orice daune.</color>"
+        },
+        {
+            "theZombieType": 68,
+            "name": "Zombi Calaret de Gaina",
+            "introduce": "<align=justified><size=36><color=black>Cu ce ​​ai prefera sa te lupti? Cu 10 pui cat zombii sau cu 100 de zombi cat puii? Ei bine, nu-ti face griji daca nu sti, acum vin spre tine impreuna!</color>",
+            "info": "<size=36>Calareste o gaina care alearga inainte sa ciuguleasca plantele.\n\n<color=black>Duritate: </color><color=#4B0082>500</color>\n<color=black>Trasaturi: </color><color=#4B0082>Se misca si ciuguleste extrem de repede. Cand puiul moare, un Copil cade din spate pe camp.</color>"
+        },
+        {
+            "theZombieType": 69,
+            "name": "Calaretul Zombi",
+            "introduce": "<align=justified><size=36><color=black>Lui Peter ii placea sa citească povesti cu cavaleri in copilarie. Cand a crescut, s-a alaturat cavaleriei doctorului Edgar, atacand cu curaj pe campul de lupta. Nimic nu-l putea opri - nici lipsa de armura, nici teama de durere, nici macar o povară pe spate. Da, Peter este un Cal Zombi.</color>",
+            "info": "<size=36>Calareste un cal de razboi pentru a ataca plantele.\n\n<color=black>Duritate: </color><color=#4B0082>720</color>\n<color=black>Trasaturi: </color><color=#4B0082>Foarte rapid.Imun la respingere. Calca in picioare si zdrobeste prima planta la coliziune. Se opreste cam 3 secunde pentru a se recupera ulterior, inainte de a se reîncarca.</color>"
+        },
+        {
+            "theZombieType": 70,
+            "name": "Capitanul Zombi Cavaler al Fotbalului",
+            "introduce": "<align=justified><size=36><color=black>Jed si calul sau, Spiky, sunt superstaruri in Liga de Fotbal Zombi a celor Sapte Continente Subcontinente. Cu viteza lui Spiky si lansatoarele de mingi de fotbal pe care le-a cumparat la preturi mari de la plante, acestia matura prin teren. Chiar daca e o greseala grava, iar proiectilele nici macar nu sunt mingi de fotbal, nimanui nu-i pasa atata timp cat ii vizeaza pe putinii arbitri care inteleg cu adevarat fotbalul.</color>",
+            "info": "<size=36>Cheama intariri si innebuneste cand calul lui moare. \n\n<color=black>Daune: </color><color=#4B0082>80×4/1.5s</color>\n<color=black>Duritate: </color><color=#4B0082>1800 (zombi) + 1400 (cal)</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Apare doar in valuri de steaguri, imun la respingere.\n<color=black>•</color> Invoca un Calaret Zombi pe fiecare banda cand HP-ul corpului scade la 50%.\n<color=black>•</color> Cat timp e viu, ofera o reducere de 66% a daunelor Calaretilor invocati.\n<color=black>•</color> Calul poate calca in picioare plante si il protejeaza pe calaret ca o Armura de Tip 2.\n<color=black>•</color> Daca calul moare primul, Capitanul descaleca cu HP-ul complet restaurat si incepe sa traga cu mazare de fier la fiecare 0,1 secunde.</color>"
+        },
+        {
+            "theZombieType": 71,
+            "name": "MecaImp",
+            "introduce": "<align=justified><size=36><color=black>Greu de crezut ca o barca rapida atat de mica ar putea avea scurgeri serioase. La ce altceva te astepti cand nu pui in functiune Gfish Corps? Dar nu-ti face griji - producatorul are o solutie excelenta: o transformi intr-un aeroglisor! Consumul de combustibil este mai mare, dar este disponibil si combustibil premium.</color>",
+            "info": "<size=36>Aluneca peste apa cu viteza mare; se ciocneste cu plantele si il ejecteaza pe sofer inainte de autodistrugere.\n\n<color=black>Duritate: </color><color=#4B0082>1350</color>\n<color=black>Trasaturi: </color><color=#4B0082>Extrem de rapid. Zdrobeste prima planta la coliziune, ejecteaza un Imp(Copil) pe terenul din apropiere si se autodistruge.</color>"
+        },
+        {
+            "theZombieType": 72,
+            "name": "Zombi cu Scara Blestemata",
+            "introduce": "<align=justified><size=36><color=black>\"Cei puternici nu se plang niciodata de mediul lor, iar eu nu ma bazez niciodata pe scari!”, spune Zombiul cu Scara Blestemata in timp ce tine scara stransa. \"Acest baiat rau din mana mea e o arma defensiva, iar cea pe care am lasat-o jos e inca arma mea impotriva daunelor!\" El pune jos scara si asculta nucile trosnind.</color>",
+            "info": "<size=36>Manuieste o scara de lemn insuflata cu un blestem.\n\n<color=black>Duritate: </color><color=#4B0082>720 + 1350 (Tip 2)</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Dupa plasarea unei scari, orice daune finale provocate plasatorului sunt transferate complet catre planta din piesa Scarii Blestemate, provocand pierderi egale de HP. Daca daunele transferate depasesc 8k sau plasatorul moare prin ucideri instantanee, scara este distrusa.\n<color=black>•</color> Scara Blestemata nu poate fi atrasa de Ciupercile-Magnet.</color>"
+        },
+        {
+            "theZombieType": 73,
+            "name": "Necroflacara",
+            "introduce": "<align=justified><size=36><color=black>Nimeni nu stie de ce apare printre nemuritori si nici cum poate invoca valuri nesfarsite de zombi. Unii spun ca este piatra funerara a Endoflacarei; altii o numesc o tradatoare printre plante. Oricare ar fi adevarul, Necroflacara il pastreaza adanc ingropat in ea. Poate ca a incercat odata sa explice, dar nimeni nu a putut intelege.</color>",
+            "info": "<size=36>O floare malefica ce invocs zombi si poate inlocui plantele, precum o piatra funerara.\n\n<color=black>Duritate: </color><color=#4B0082>300</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Apare doar in primele 5 coloane din dreapta ale peluzei. Prefera piesele goale; altfel inlocuieste o planta aleatorie.\n<color=black>•</color> Nu poate fi lopatata sau mutata cu manusile. Ignorat de Zombii.\n<color=black>•</color> Absoarbe proiectilele dinspre plante care trec prin ea, suferind 30 de daune de fiecare data.\n<color=black>•</color> La 10 secunde dupa aparitie, invoca un Zombotany aleatoriu; invoca altul la fiecare 15 secunde dupa aceea si inca o data la moarte.\n<color=black>•</color> Cand e fertilizata, elibereaza o Cutie Cadou pentru Plante si dispare.</color>"
+        },
+        {
+            "theZombieType": 74,
+            "name": "Zombi Hipno-Ardei",
+            "introduce": "<align=justified><size=36><color=black>La prima sa aparitie la concursul de frumusete Hypnotized Zombie, Zombiul Hipno-Ardei a castigat laude unanime din partea tuturor juratilor si a ocupat cu usurinta primul loc. Atat juratii cu plante, cat si cei cu zombi au numit-o „sexy” si „picanta”. In afara de cateva concurente disparute in mod misterios, a fost un eveniment impecabil.</color>",
+            "info": "<size=36>Arde Zombii hipnotisati pe aleea ei.\n\n<color=black>Duritate: </color><color=#4B0082>720</color>\n<color=black>Trasaturi: </color><color=#4B0082> Imuna la imobilizari. Se autodistruge dupa un timp, eliberand un sir de flacari care provoaca 1800 daune doar zombilor hipnotizati de pe linia ei.</color>"
+        },
+        {
+            "theZombieType": 75,
+            "name": "Zombi Sapator de tip Hipno-Ardei",
+            "introduce": "<align=justified><size=36><color=black>Sapatorul de tip Hipno-Ardei exceleaza la a se strecura in spatele apararii, folosindu-si tarnacopul infuzat magic pentru a transforma plantele in zombi. Dar acesti zombi nou creati sunt drepti in suflet: nu le plac tacticile de ambuscada si se vor intoarce impotriva ei... fara sa stie ca si ei „intind ambuscada celui care il ataca”.</color>",
+            "info": "<size=36>Isi foloseste tarnacopul pentru a transforma plantele in zombii hipnotizati, apoi le arde cu o flacara autodistrugatoare.\n\n<color=black>Duritate: </color><color=#4B0082>1500</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Imun la imobilizari. If pickaxe hasn't been removed, attacks convert non-defensive plants into random hypnotized zombotanies, or apply 500 mining progress to defensive plants.\n<color=black>•</color>On reaching the backline and emerging, she will self-destruct like the Hypno Pepper Zombie after a short delay, releasing a row of flames that deals 1800 damage only to Hypnotized Zombies in her lane.</color>"
+        },
+      {
+        "theZombieType": 76,
+        "name": "Gargantuar Trident",
+        "introduce": "<align=justified><size=36><color=black>Zombii cu o cantitate mai mare de grasime corporala plutesc mai usor, dar Zombiul Gargantuar Trident, convins ca e un descendent al legendarului Pozeidon, sustine ca in cazul sau e vorba de o favoare divina. Acestea fiind spuse, avand in vedere dimensiunea sa, nici mersul drept pe fundul apei nu ar fi dificil…</color>",
+        "info": "<size=36>Un zombi acvatic Gargantuar care arunca tridente în loc de zombi Copii.\n\n<color=black>Duritate: </color><color=#4B0082>3000</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Immune to Drowning.\n<color=black>•</color> Arunca 4 Tridente cand atinge jumătate din viata lui, fiecare provocand daune plantelor egale cu 20% (minim 60) din viata lor actuala. Zdrobirea provoaca 500 daune plantelor anti-zdrobire, 50 daune Pietritepelor si 1800 daune zombilor hipnotizati fiecare lovitura.</color>"
+      },
+        {
+            "theZombieType": 77,
+            "name": "Zombi Olimpic cu Prajina",
+            "introduce": "<align=justified><size=36><color=black>Forta puternica de explozie e secretul victoriei Zombiului Olimpic cu Prajina. Atata timp cat alearga mai repede un timpul apropierii, poate sari mai departe la decolare - desi pare sa fi uitat ca saritul cu prajina inseamna sa sari sus, nu departe.</color>",
+            "info": "<size=36>Exceleaza la sarituri pe distante lungi si, cu o alergare suficienta, poate depasi obstacolele fara probleme.\n\n<color=black>Duritate: </color><color=#4B0082>1350</color>\n<color=black>Trasaturi: </color><color=#4B0082>Cand intalneste prima planta, sare inainte 3 piese si apoi pierde prajina. Incepe sa accelereze pentru o alergare la intrarea pe teren. Daca alergarea dureaza mai mult de 8 secunde, saritura devine neblocabila de plantele inalte.</color>"
+        },
+        {
+            "theZombieType": 100,
+            "name": "Zombi Impuscator de Mazare",
+            "introduce": "<align=justified><size=36><color=black>Abilitatea Zombiului Impuscator de Mazare de a ataca de la distanta sperie adesea plantele. Cu toate acestea, adevarata panica apartine zombilor, care se tem ca cei care lupta in faaa lui vor fi tintiti din spate.</color>",
+            "info": "<size=36>Trage cu mazare pentru a ataa plantele tale.\n\n<color=black>Daune: </color><color=#4B0082>20/1.5s</color>\n<color=black>Duritate: </color><color=#4B0082>270</color>"
+        },
+        {
+            "theZombieType": 101,
+            "name": "Zombi Cherryshooter",
+            "introduce": "<align=justified><size=36><color=black>Zombiul Cherryshooter e un elev de liceu in varsta de 17 ani, caruia ii creste o planta pe gat. Fructul sau preferat sunt ciresele, iar datorita originii sale din familia papala, zombii il numesc cu afecțiune \"Regele Frunza.\"</color>",
+            "info": "<size=36>Trage cu gloantele cireasa pentru a ataca plantele tale.\n\n<color=black>Daune: </color><color=#4B0082>60/1.5s</color>\n<color=black>Duritate: </color><color=#4B0082>500</color>"
+        },
+        {
+            "theZombieType": 102,
+            "name": "Zombi Exploz-o-impuscator",
+            "introduce": "<align=justified><size=36><color=black>Zombi Exploz-o-impuscator adora sa asculte cantecul \"Bomba Cireasa\" de Runaways, ceea ce ar putea explica pasiunea sa arzatoare. Cu toate acestea, nimeni nu stie cum a invatat sa aprinda artificii cu gura.</color>",
+            "info": "<size=36>Trage cu cirese explozive pentru a ataca plantele tale.\n\n<color=black>Daune: </color><color=#4B0082>1000/10s</color>\n<color=black>Duritate: </color><color=#4B0082>500</color>"
+        },
+        {
+            "theZombieType": 103,
+            "name": "Zombi cu Nuca-Perete",
+            "introduce": "<align=justified><size=36><color=black>In urma unui atac din partea plantelor, Zombiul cu Nuca-Perete a prezentat urme de muscaturi pe cap in loc de gauri de glont. Cand a fost intervievat, el a spus, \"Poate ca tovarasilor mei le era pur si simplu foame.\"</color>",
+            "info": "<size=36>E o nuca miscatoare.\n\n<color=black>Duritate: </color><color=#4B0082>270 + 1100 (Tip 1)</color>"
+        },
+        {
+            "theZombieType": 104,
+            "name": "<size=30>Zombi Ziar cu Cherryshooter",
+            "introduce": "<align=justified><size=36><color=black>Fructul preferat al acestui zombi sunt ciresele, si chiar si ziarul lui are aroma de cirese. Ziarul pe care il tine in mana este singurul lucru care ii poate calma furia.</color>",
+            "info": "<size=36>Intra intr-un baraj exploziv de cirese cand i se rupe ziarul.\n\n<color=black>Daune: </color><color=#4B0082>1000 (cirese explozive)</color>\n<color=black>Duritate: </color><color=#4B0082>1500 + 200 (Tip 2)</color>\n<color=black>Trasaturi: </color><color=#4B0082>Devine temporar invincibil dupa ce ziarul sau se rupe, apoi incepe sa traga cirese explozive la fiecare 0,75 secunde.</color>\n<color=black>Distanta de Explozie: </color><color=#4B0082>Stropire incrucisata, poate fi absorbita de Nucile-Perete si Dovleci la Dificultate 4 sau mai mica.</color>"
+        },
+        {
+            "theZombieType": 105,
+            "name": "Zombi de tip Mystery-box",
+            "introduce": "<align=justified><size=36><color=black>Zombiul de tip Mystery-box a aparut atunci cnd un zombi modest a pus pe el o cutie de carton zdrentuita. Si-a dat seama rapid ca acolo era un set de haine care asteptau sa fie folosite, dar nu le-a putut îmbraca pentru ca cutia nu avea gauri pentru ochi.\n\n- Scris de Hazy</color>",
+            "info": "<size=36>Nimeni nu stie ce ascunde in cutie.\n\n<color=black>Duritate: </color><color=#4B0082>270 + 370 (Type 1)</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Dupa ce cade cutia, invoca un zombi aleatoriu non-Odisee cu 20/40/60/80/100/120% din Duritatea zombiului original.\n<color=black>•</color> Este o sansa de 1% ca un Modificator de Odisee aleatoriu sa se elibereze cand cutia lui cade, pana la 1 pe minut.</color>"
+        },
+        {
+            "theZombieType": 106,
+            "name": "Zombi cu Nuca de Fier",
+            "introduce": "<align=justified><size=36><color=black>De ce e capul Zombiului cu Nuca de Fier facut din fier? Asta pentru ca toată lumea spunea ca nucile hranesc creierul, dar el nu si-a dat seama ca nucile pe care le consuma erau pline de prea mult fier. Totusi, s-ar putea sa nu fie chiar atat de rau - cel putin acum si-a dezvoltat un cap de fier.</color>",
+            "info": "<size=36>E o nuca de fier umblatoare.\n\n<color=black>Duritate: </color><color=#4B0082>270 + 2200 (Tip 1)</color>\n<color=black>Trasaturi: </color><color=#4B0082>Drops a Bucket when killed by projectiles.</color>"
+        },
+        {
+            "theZombieType": 107,
+            "name": "Zombi Nuca-Cireasa",
+            "introduce": "<align=justified><size=36><color=black>Barbatii reali nu se intorc niciodata sa priveasca explozii, iar Zombiul Nuca-Cireasa se potriveste cu siguranta, deoarece prinde adesea bombe cu fata.</color>",
+            "info": "<size=36>Are o mica rezistenta impotriva gloantelor explozive.\n\n<color=black>Duritare: </color><color=#4B0082>270 + 1100 (Tip 1)</color>\n<color=black>Trasaturi: </color><color=#4B0082>Primeste 150 daune maxime de la Bombe de Cirese si 1/2 din daunele de la proiectilele explozive de cirese. Imun la inghetarea la moarte a Cireselor Înghețate.</color>"
+        },
+        {
+            "theZombieType": 108,
+            "name": "Zombi Inarmat cu Mazare Gri",
+            "introduce": "<align=justified><size=36><color=black>Anul trecut, Zombiul Inarmat cu Mazare Gri a tras o carte de tarot pe care scria „Imparatul”. De atunci, a putut impusca mazare de fier dupa bunul plac.</color>",
+            "info": "<size=36>Trage gloante cu daune mari.\n\n<color=black>Daun: </color><color=#4B0082>80/1.5s</color>\n<color=black>Duritate: </color><color=#4B0082>1350</color>\n<color=black>Trasaturi: </color><color=#4B0082>Lanseaza mazare de fier in apararea ta, care poate dobora zombii hipnotizati. Lanseaza o galeata cand e ucis de proiectile.</color>"
+        },
+        {
+            "theZombieType": 109,
+            "name": "Zombi de tip Nuca-Fotbal",
+            "introduce": "<align=justified><size=36><color=black>Zombiul de tip Nuca-Fotbal a fost odata doar un zombi de fotbal obisnuit, pana intr-o zi cand s-a ciocnit de o nuca care imprastia ingrasamant. \"I don't know how this guy ended up on my head; it's suffocating me!\" lamented Football-nut Zombie.</color>",
+            "info": "<size=36>Zombi cu armura tare care poate fugi si foarte repede.\n\n<color=black>Duritate: </color><color=#4B0082>270 + 4400 (Tip 1)</color>\n<color=black>Trasaturi: </color><color=#4B0082>Arunca o Casca de Fotbal cand e omorat de proiectile.</color>"
+        },
+        {
+            "theZombieType": 110,
+            "name": "Zombi de tip Mystery-Box de Aur",
+            "introduce": "<align=justified><size=36><color=black>Zombiul de tip Mystery-Box de Aur pur si simplu nu poate hotara. La un moment dat, vrea sa se costumeze in Zombiul cu Nuca de Fier. Apoi, e investit in citit precum Savantul Zombi. Poate ca daca i-ai lovit cutia de pe cap il va ajuta sa ia o decizie...\n\n-Scris de Hazy</color>",
+            "info": "<size=36>Unul de aur!? Ma intreb ce e in aceasta cutie misterioasa...\n\n<color=black>Duritate: </color><color=#4B0082>270 + 720 (Tip 1)</color>\n<color=black>Trasaturi: </color><color=#4B0082>După ce cutia cade, generează un zombi aleatoriu de tip non-Odisee cu Duritate maxima. De asemenea, are sansa de a debloca un Modificator de Odisee cand e invins, pana la 1 pe minut.</color>"
+        },
+        {
+            "theZombieType": 111,
+            "name": "Zombi cu Nuca-Inalta Inghetata",
+            "introduce": "<align=justified><size=36><color=black>Capul Zombiului cu Nuca-Inalta Inghetata a starnit numeroase opinii in lumea zombilor. Unii spun ca-si propune sa se distanteze de lumea rece, in timp ce altii banuiesc ca are legatura cu experimentele nebunesti ale Dr-ului Edgar. Totusi, numai el stie ca aceasta coafura a aparuta dup ce a mancat o anumita ciuperca albastra.</color>",
+            "info": "<size=36>Un zombi robust care poate anula si efectul de racire al proiectilelor de gheata.\n\n<color=black>Duritate: </color><color=#4B0082>270 + 2200 (Tip 1)</color>\n<color=black>Trasaturi: </color><color=#4B0082>Imun la frig si inghetare. Primeste daune reale egale cu 1/3 din HP-ul sau maxim atunci cand e afectat de un Ardei Iute.</color>"
+        },
+        {
+            "theZombieType": 112,
+            "name": "Zombi Exploz-o-pulta",
+            "introduce": "<align=justified><size=36><color=black>Atentie: Daca-l vedeti ca ramane fara mingi de baschet, e deja prea tarziu! Suturile lui explozive nu sunt doar pentru a marca puncte - sunt pentru haos total! Mai bine incepeti sa fugiti!</color>",
+            "info": "<size=36>Arunca mingi de baschet explozive pentru a-ti distruge apararea!\n\n<color=black>Daune: </color><color=#4B0082>60/3s (mingi de baschet), 1000/3s (mingi de baschet de tip cireasa exploziva)</color>\n<color=black>Duritate: </color><color=#4B0082>1350</color>\n<color=black>Trasaturi: </color><color=#4B0082>Arunca 5 mingi de baschet, apoi lanseaza mingi explozive de tip cireasa (are 20 in total). Exploziile provoaca 100 de daune plantelor Imbrela.</color>"
+        },
+        {
+            "theZombieType": 113,
+            "name": "Calaretul Yeti Impuscator de Mazare",
+            "introduce": "<align=justified><size=36><size=36><color=black>Cand a fost intrebat ce-l diferentiaza de Yeti-ul Calaret de Balene, Calaretul Impuscator de Mazare ridica pur si simplu din umeri si zambeste. \"Oh, nimic special. Imi place foarte, foarte mult sa joc Boomerang.\"</color>",
+            "info": "<size=36>O varianta a Yeti-ului Calaret de Balene!\n\n<color=black>Daune: </color><color=#4B0082>20/0.75s</color>\n<color=black>Duritate: </color><color=#4B0082>720</color>\n<color=black>Trasaturi: </color><color=#4B0082>Trage mazare la plante inainte si dupa saritura.</color>"
+        },
+        {
+            "theZombieType": 114,
+            "name": "<size=30>Zombi cu Sita de Usa cu Mazare Gri",
+            "introduce": "<align=justified><size=36><color=black>Zombiului cu Sita de Usa cu Mazare Gri ii place sa adune straturi de echipament de fier, spre marea nedumerire a colegilor sai zombi. \"Daca Ciupercile-Magnet ne pot smulge castile, de ce sa nu purtam MAI MULT metal?\" a argumentat el. Logica lui parea valida - pana cand l-a intalnit pe Sufloiul Magnet si a invatat ca uneori, mai putin inseamna mai mult.</color>",
+            "info": "<size=36>Zombiul Inarmat cu Mazare Gri a achizitionat niste echipamente noi: o gakeata si o sita de usa!\n\n<color=black>Daune: </color><color=#4B0082>80/1.5s</color>\n<color=black>Duritate: </color><color=#4B0082>1350 + 1100 (Tip 1) + 1100 (Tip 2)</color>\n<color=black>Trasaturi: </color><color=#4B0082>Trage constant cu mazare de fier sau gri in plante, avand in acelasi timp o aparare decenta. Acestea pot dobora zombii hipnotizati.</color>"
+        },
+        {
+            "theZombieType": 115,
+            "name": "Zombi Dovlecel",
+            "introduce": "<align=justified><size=36><color=black>\"Hmm? Hmm!\" Acesta e tot avertismentul pe care-l primesti inainte ca Zombii Dovlecei ss se napusteasca, distrugand tot ce le sta-n cale. Alti zombii le admira daruirea, confundand-o cu curaj altruist. De fapt, sunt doar fani infocati ai Dovlecelului Miau - si dupa ce au vazut-o cum a zdrobit Endoflacara, nu au putut rezista tentatiei de a-si copia idolul.</color>",
+            "info": "<size=36>Zdrobeste prima planta din apropiere si moare.\n\n<color=black>Duritate: </color><color=#4B0082>500</color>\n<color=black>Trasaturi: </color><color=#4B0082>Zdrobeste primele plante de care da peste. Se transforma intr-un Zombi Dovlecel Iute cand e afectat de explozia unui Zombi de tip Ardei Iute.</color>"
+        },
+        {
+            "theZombieType": 116,
+            "name": "Zombi Dovlecel Iute",
+            "introduce": "<align=justified><size=36><color=black>Niciun zombi nu e la fel de înflacarat ca Zombiul Dovlecel Iute - la propriu. In secunda in care apare-n scena, ii impinge pe ceilalti la o parte, gata sa se ridice drept si sa declare, \"Cenusa la cenusa!\" Din pacate, capul lui avea alte planuri... si s-a lansat inainte sa poata termina.</color>",
+            "info": "<size=36>Sare si distruge o întreaga alee de plante!\n\n<color=black>Duritate: </color><color=#4B0082>1500</color>\n<color=black>Trasaturi: </color><color=#4B0082>Zdrobeste prima planta pe care o întalneste si da foc intregii benzi, distrugand toate plantele afectate. Nu daunează zombilor hipnotizati si nu curata urmele de gheata.</color>"
+        },
+        {
+            "theZombieType": 117,
+            "name": "Zombi de tip Ardei Iute",
+            "introduce": "<align=justified><size=36><color=black>Cu un salt înflacarat, ghiulelele zombilor de tip Ardei Iute cad in piscina, sfaraind la impact. Ceilalti zombi gem. \"Fantastic. Acum marinam in supa picanta.\"</color>",
+            "info": "<size=36>Acest zombi explodeaza si distruge o intreaga banda de plante dupa un timp.\n\n<color=black>Duritate: </color><color=#4B0082>500</color>\n<color=black>Trasaturi: </color><color=#4B0082>Explodeaza si distruge o intreaga banda de plante dupa un timp (Daune de 1M). Nu provoaca daune zombilor hipnotizati si nu curata urme de gheata.</color>"
+        },
+        {
+            "theZombieType": 118,
+            "name": "Zombi Fotbalist de tip Furtu-Mazare",
+            "introduce": "<align=justified><size=36><color=black>Se spune ca soarta e imprevizibila, iar Zombii Fotbalist de tip Furtu-Mazare ar trebui sa fie de acord. Intr-o secunda, se afla intr-o cusca de batai vegetariana. In următoarea? A inghitit accidental o masina de aruncat mingi de mare putere. Acum, noua lui ne-viata e doar o runda nesfarsita de mazare rapida.</color>",
+            "info": "<size=36>Dezlantuie un baraj neobosit de mazare asupra apararii tale!\n\n<color=black>Daune: </color><color=#4B0082>20/0.1s</color>\n<color=black>Duritate: </color><color=#4B0082>270 + 1400 (Tip 1)</color>\n<color=black>Trasaturi: </color><color=#4B0082>Trage constant salve de mazare asupra plantelor tale.</color>"
+        },
+        {
+            "theZombieType": 119,
+            "name": "Zombi Elicopter Inarmat cu Mazare Gri",
+            "introduce": "<align=justified><size=36><color=black>Confruntat cu îndoielile altor zombi, Elicopter Inarmat cu Mazare Gri a incercat sa-si dovedeasca statutul de veteran cu o veche fotografie de grup. \"Dar… unde esti in asta?\" au intrebat. S-a uitat fix la filmul alb-negru, la fel de nedumerit.</color>",
+            "info": "<size=36>Zombi Inarmat cu Mazare Gri atarnat de un rotor.\n\n<color=black>Daune: </color><color=#4B0082>80/1.5s</color>\n<color=black>Duritate: </color><color=#4B0082>1350 + 500 (Tip 1)</color>\n<color=black>Trasaturi: </color><color=#4B0082>Imun la Sufloi. Lanseaza mazare de fier in apararea ta, acestea pot dobora zombii hipnotizati. </color>"
+        },
+        {
+            "theZombieType": 120,
+            "name": "Zombi Ciuperca-Mortii",
+            "introduce": "<align=justified><size=36><color=black>Zombii s-au saturat sa fie transformati in cenușă de exploziile Moarte. Acum au construit in sfarsit o arma nucleara de contraatac pentru a face plantele sa sufere, pentru o schimbare. Desi corpul unui zombi poate transporta doar o treime din incarcatura completa a Ciupercii-Mortii, e totusi mai bine decat nimic, nu-i asa?\n\n- Scris de D-nul. Etc.</color>",
+            "info": "<size=36>Zombi Ciuperca-Mortii? Aw omule!\n\n<color=black>Duritate: </color><color=#4B0082>1350</color>\n<color=black>Trasaturi: </color><color=#4B0082>Imun la efecte de imobilizare. Se autodistruge dupa un timp si creează o explozie de ciuperca-Mortii care provoaca 1800 de daune plantelor dintr-o zona 3×3.\n<color=black>Slabiciuni: </color><color=#4B0082>Nuca-Mortii</color>"
+        },
+        {
+            "theZombieType": 121,
+            "name": "Gargantuar Misterios",
+            "introduce": "<align=justified><size=36><color=black>Gargantuarul Misterios se împiedica cu o cutie pe cap, poate ca sa te tina-n suspans sau poate ca sa-si protejeze ochii rari, impletiti, de lume. Orice ar fi înauntru, e un mister invaluit intr-o lovitura care asteapta sa se intample.</color>",
+            "info": "<size=36>Cine stie ce ne asteapta sub masca aceea de hartie?\n\n<color=black>Duritate: </color><color=#4B0082>3000 + 1100 (Tip 1)</color>\n<color=black>Trasaturi: </color><color=#4B0082>Zdrobeste plante si se transforma intr-un Gargantuar aleatoriu cand masca îi este distrusa.</color>"
+        },
+        {
+            "theZombieType": 122,
+            "name": "Gargantuar Turbo",
+            "introduce": "<align=justified><size=36><color=black>Gargantuarul Turbo e mereu in avangarda cautarii de noi creiere. Datorita rezultatelor sale remarcabile, Dr-ul Zomboss i-a acordat personal Medalia de Piatra Mormantala de Clasa a Doua. Din pacate, fiind un razboinic exemplar, nu ajunge niciodata sa se alăture paradei zombilor, deoarece pasul sau pur si simplu nu se compara cu cel al celorlalti.</color>",
+            "info": "<size=36>Gargantuar cu miscare rapida.\n\n<color=black>Duritate: </color><color=#4B0082>3000</color>\n<color=black>Trasaturi: </color><color=#4B0082>Are de 2 ori viteza de atac, viteza de miscare si viteza de aruncare a unui Gargantuar obisnuit.</color>"
+        },
+        {
+            "theZombieType": 123,
+            "name": "Gargantuar Cioban",
+            "introduce": "<align=justified><size=36><color=black>Gargantuarul Cioban isi leagana stalpul de electricitate, iar Copii ies in roi de sub pamant. Acesti mici scandalagii aduc multa distractie, dar si dureri de cap in viaaa stapanului lor... mai ales imediat dupa ce a spart o Nuca-Perete.</color>",
+            "info": "<size=36>Gargantuar care invoca Copii cu fiecare zdrobire.\n\n<color=black>Duritate: </color><color=#4B0082>3000</color>\n<color=black>Trasaturi: </color><color=#4B0082>De fiecare data cand reuseste sa distrugă o planta, e invocat un Copil.</color>"
+        },
+        {
+            "theZombieType": 124,
+            "name": "Gargantuar de Volei",
+            "introduce": "<align=justified><size=36><color=black>Gargantuarul de Volei e un descendent al Lenesului Gargantuar din Pesterile Frostbite. Cei dinaintea lui au aruncat diverse lucruri, de la aruncarea cu zombi Jack-in-Cutiela aruncarea altor Gargantuari. S-a gandit ca ar trebui sa se întoarca la radacini si sa arunce mai multi copii, 5 mai exact, o dovada a descendentei sale.\n\n-Scris de Medineer Gaming</color>",
+            "info": "<size=36>Gargantuar cu mai multi Copii ascunsi pe spate.\n\n<color=black>Duritate: </color><color=#4B0082>3000</color>\n<color=black>Trasaturi: </color><color=#4B0082>Arunca 5 Copii deodata.</color>"
+        },
+        {
+            "theZombieType": 125,
+            "name": "Zombiul Parkour",
+            "introduce": "<align=justified><size=36><color=black>E faimos in intreaga lume pentru miscarile sale extravagante si abilitatile magistrale, dar nimic din toate acestea nu conteaza pentru el. La urma urmei, doar oamenii sunt interesati sa acorde titluri elegante pentru faima si talent. Ce legatura are asta cu un zombi?</color>",
+            "info": "<size=36>Un pasionat de parkour dur si increzut care, odata blocat, vireaza si sprinteaza cu o viteza exploziva.\n\n<color=blue>Zombi de Colaborare Xiaoxiaosu, exclusiv Modurilor Gacha si Spargatorului de Vaze</color>\n<color=black>Duritate: </color><color=#4B0082>9527</color>\n<color=black>Trasaturi: </color><color=#4B0082>Schimba banda si accelereaza de 3 ori cand HP-ul scade la 2/3.</color>"
+        },
+        {
+            "theZombieType": 126,
+            "name": "Zombi cu Nuca-Inalta Inflacarata",
+            "introduce": "<align=justified><size=36><color=black>Zombiul cu Nuca-Inalta Inflacarata fierbe de furie, nu pentru ca are un temperament urat sau a participat la un concurs de mancat chili, ci pentru ca s-a certat cu fratele sau, Zombiul cu Nuca-Inalta Inghetata. Fratele sau prefera sa manance ciuperci crude si congelate, in timp ce el insista ca acestea trebuie gatite corespunzator la gratar inainte de a fi consumate..</color>",
+            "info": "<size=36>Neinfricati de incercarile focului, dar deosebit de vulnerabili la frig.\n\n<color=black>Daune: </color><color=#4B0082>100</color>\n<color=black>Duritate: </color><color=#4B0082>270 + 2200 (Tip 1)</color>\n<color=black>Trasaturi: </color><color=#4B0082>Imun la inflamat si unt. Imun la efectele Ardeiului Iute. Primeste daune reale egale cu 1/3 din HP-ul sau maxim atunci cand e afectat de o Ciuperca-de-Gheata. Viteza de miscare creste in timp dupa aparitie, pana la 2x viteza sa initiala.</color>"
+        },
+        {
+            "theZombieType": 127,
+            "name": "Zombi cu Nuca-Inalta Obsidiana",
+            "introduce": "<align=justified><size=36><color=black>Calit atat de inghet, cat si de flacari, capul Zombiului cu Nuca-Inalta Obsidiana a devenit aproape indestructibil!... Adica, atata timp cat temperatura nu se schimba prea repede.</color>",
+            "info": "<size=36>Faurit de gheata si foc intr-o duritate extrema, dar Ardeii Iuti si  Ciupercile-de-Gheața raman slabiciunea lui.\n\n<color=black>Daune: </color><color=#4B0082>200</color>\n<color=black>Duritate: </color><color=#4B0082>1500 + 4500 (Tip 1)</color>\n<color=black>Trasaturi: </color><color=#4B0082>Imun la racire, inghet, inflamat si unt. Are o reducere innascuta a daunelor primite de 90%. Primeste daune reale egale cu 1/3 din HP-ul sau maxim atunci cand e afectat de o Ciuperca-de-Gheata sau un Ardei Iute. Cand un Zombi cu Nuca-Inalta Inghetata si un Zombi cu Nuca-Inalta Inflacarata se afla in aceeasi piesa, acestia fuzioneaza intr-un Zombi cu Nuca-Inalta Obsidiana.</color>"
+        },
+        {
+            "theZombieType": 128,
+            "name": "Zombi cu Nuca-Solara",
+            "introduce": "<align=justified><size=36><color=black>Spre deosebire de alti zombii, Zombiul cu Nuca-Solara isi poate satisface majoritatea nevoilor fiziologice pur si simplu bucurandu-se de lumina soarelui. Cat despre motivul pentru care inca urmareste obsesiv creierele ca orice alt zombi - poate ca pofta de creier inseamna mult mai mult pentru zombi decat ar putea vreodata nevoile obisnuite de supravietuire.</color>",
+            "info": "<size=36>Iti consuma periodic soarele.\n\n<color=black>Duritate: </color><color=#4B0082>270 + 1100 (Tip 1)</color>\n<color=black>Trasaturi: </color><color=#4B0082>Dreneaza 25 de Soare de la jucator la fiecare 15 secunde, fara a fi imobilizat sau inghetat.</color>"
+        },
+        {
+            "theZombieType": 129,
+            "name": "Zombi cu Nuca-Solara Geamana",
+            "introduce": "<align=justified><size=36><color=black>Comparativ cu semenii sai, Zombiul cu Nuca-Solara Geamana se mandreste cu un aspect mai splendid, un cap mai dur si o putere mult mai mare, fiind cu mult superior celorlalti. Dar trasatura de care este cel mai mandru si cea care i-a adus titlul de \"Cel mai Unic Zombi\" la Festivalul Tombstone, este acesta: are patru ochi.</color>",
+            "info": "<size=36>Consuma soarele pentru a reduce daunele primite.\n\n<color=black>Duritate: </color><color=#4B0082>270 + 1100 (Tip 1)</color>\n<color=black>Trasaturi: </color><color=#4B0082>Dreneaza 25 de Soare de la jucator la fiecare 15 secunde, fara a fi imobilizat sau inghetat. Cand sufera daune, anuleaza daunele respective si primeste in schimb o valoare fixa ​​de 20 de daune, in timp ce drenează 5 Soare de la jucator. Cand un Zombi cu Nuca-Perete si un Zombi cu Nuca-Solara sunt in aceeasi piesa, ei fuzioneaza intr-un Zombi cu Nuca-Solara Geamana.</color>"
+        },
+        {
+            "theZombieType": 200,
+            "name": "Rechinmarin",
+            "introduce": "<align=justified><size=36><color=black>\"Un scafandru excelent nu ar trebui doar sa poata scufunda, ci si sa conduca un supersubmarin!\" a declarat Zombiul Rechinmarin in timp ce crestea puterea submarinului cu o treapta de viteza.</color>",
+            "info": "<size=36>Gfishtus Corps prezinta cu mandrie...\n\n<color=black>Duritate: </color><color=#4B0082>3000</color>\n<color=black>Trasaturi: </color><color=#4B0082>Se incarca rapid prin apararea piscinei tale, zdrobind instantaneu plantele care nu sunt imune la aceasta si provocand 500 de daune plantelor anti-zdrobire.</color>\n<color=black>Modificatori de Odisee:\n</color><color=#4B0082>1. Zombarinele si Rechinmarinele au acum viteza de miscare dubla.\n2. Zombarinele si Rechinmarinele obtin acum o Reducere de 50% a Daunelor.</color>"
+        },
+        {
+            "theZombieType": 201,
+            "name": "Michael Zomboni",
+            "introduce": "<align=justified><size=36><color=black>Michael Zomboni Nu este doar un numar cu un singur zombi - este nevoie de o intreagă echipa pentru a oferi spectacol! Zomboni pregateste scena, Zombi Bobslei aduce imaginile stralucitoare, iar Michael Zombie? Ei bine, a trebuit sa coboare din masina, deoarece, tehnic vorbind, nu avea permis de conducere. Voia sa-si salute fanii adoratori ai plantelor, dar... mazarea parea putin prea entuziasta.</color>",
+            "info": "<size=36>Aparare si imunitate extrem de ridicate la incetinire.\n\n<color=black>Duritate: </color><color=#4B0082>12000</color>\n<color=black>Trasaturi: </color><color=#4B0082>La moarte, invoca automat un Michael Zombi, Zomboni, si Zomboni Bobslei.</color>\n<color=black>Modificatori de Odisee:\n</color><color=#4B0082>1. Michael Zomboni acum apare în fiecare val si genereaza un Zombi Superstar suplimentar la moarte.\n2.  Michael Zombonii si vehiculele Jackson la Nivel Mondial au viteza lor de miscare ×5.</color>"
+        },
+        {
+            "theZombieType": 202,
+            "name": "Zombi Giga cu Nuca-Trident",
+            "introduce": "<align=justified><size=36><color=black>Zombiul Giga cu Nuca-Trident este un pescar iscusit, cunoscut pentru precizia sa exceptionala cu cele patru tridente pe care le arunca, ceea ce i-a adus titlul de rege al pescarilor. \"De fapt, obisnuiam sa fiu aruncator de sulita cu jumatate de norma...\" a admis Zombiul Giga cu Nuca-Trident.</color>",
+            "info": "<size=36>Arunca un numar mare de tridente asupra plantelor tale simultan.\n\n<color=black>Duritate: </color><color=#4B0082>720 + 7500 (Tip 1)</color>\n<color=black>Trasaturi: </color><color=#4B0082>La 6-9 secunde dupa intrare sau cand e blocat, arunca 4 tridente, fiecare provocand daune plantelor egale cu 20% (minim 60) din Duritatea lor actuala.</color>\n<color=black>Modificatori de Odisee:\n</color><color=#4B0082>1. Daunele Tridentului ×5.\n2. Acum tinteste plante aleatorii in afara razei minime.</color>"
+        },
+        {
+            "theZombieType": 203,
+            "name": "<size=30>Zombi Ziar cu Cireasa Mitraliera",
+            "introduce": "<align=justified><size=36><color=black>\"Devin batran...\" se plângea Zombiul Ziar cu Cireasa Mitraliera in timp ce mergea pe strada. Desi si-a tinut presiunea sub control, a fost suficient pentru a tine la distanta atat plantele, cat si zombii. \"Doar tipul ala ma mai poate inspira sa lupt...\" a mormait el in timp ce punea ziarul deoparte si mergea mai departe.</color>",
+            "info": "<size=36>Provoaca daune imense.\n\n<color=black>Daune:</color><color=#4B0082>400 (mestecare) 1000 (cirese)</color>\n<color=black>Duritate: </color><color=#4B0082>1500 + 1500 (Tip 2)</color>\n<color=black>Trasaturi: </color><color=#4B0082>Invulnerabil pana cand ziarul sau e distrus. Devine temporar invincibil dupa ce ziarul sau e spart si incepe sa traga cu 4 cirese explozive la fiecare 0.5 secunde.</color>\n<color=black>Modificatori de Odisee:\n</color><color=#4B0082>1. Acum ignora plantele cand e infuriat.\n2. E imun acum la efectele de stare.</color>"
+        },
+        {
+            "theZombieType": 204,
+            "name": "Zombi Giga cu Nuca-Fotbal",
+            "introduce": "<align=justified><size=36><color=black>Iesind din umbra, Zombiul Giga cu Nuca-Fotbal radiaza putere, raceala si o atmosfera sinistra. El isi pastreaza cu tarie secretul puterii, afirmand ca doar cel mai intunecat intuneric poate crea o fiinta la fel de formidabila ca el. \"Unde e vopseaua mea?\" a intrebat Dr-ul Edgar, parand perplex in laboratorul sau.</color>",
+            "info": "<size=36>Un prieten vechi? Poate, poate l-am intalnit inainte.\n\n<color=black>Daune: </color><color=#4B0082>100</color>\n<color=black>Duritate: </color><color=#4B0082>3000 + 12000 (Tip 1)</color>\n<color=black>Modificatori de Odisee:\n</color><color=#4B0082>1. Plantele mestecate de Zombii Giga cu Nuca-Fotbal si Atacantii Giga Fotbalist nu pot regenera HP timp de 1 secunda.\n2. Plantele mestecate de Zombii Giga cu Nuca-Fotbal si Atacantii Giga Fotbalist primesc daune triple timp de 1 secunda.</color>"
+        },
+        {
+            "theZombieType": 205,
+            "name": "Zompelin Kirov",
+            "introduce": "<align=justified><size=36><color=black>A fost un obiect urias zburator? Nu, era de fapt o nava dirijabila gigantica, cu o carapace robusta si capacitatea de a elibera o escadrila de avioane de lupta. Chiar si atunci cand era distrusa, nava dirijabila putea totusi sa faca ravagii asupra creaturilor din jur, facandu-i pe alti zombi sa pastreze distanta, temandu-se ca un accident i-ar putea trimite spre moarte.</color>",
+            "info": "<size=36>Un portavion dezvoltat de Gfishtus Corps.\n\n<color=black>Duritate: </color><color=#4B0082>3000</color>\n<color=black>Trasaturi: </color><color=#4B0082>Invoca o drona Kirov la fiecare 3 secunde.</color>\n<color=black>Modificatori de Odisee:\n</color><color=#4B0082>1. Zompelinii si Zompelinii Kirov au acum viteza lor de miscare ×5 si sunt imuni la Sufloi.\n2. Duritatea fiecarei drone Kirov a fost marită la 25k.</color>"
+        },
+        {
+            "theZombieType": 206,
+            "name": "Drona Kirov",
+            "introduce": "<align=justified><size=36><color=black>Acesta nu e un avion obisnuit; e un avion special care a fost comprimat prin presiunea apei. Desi metoda exacta de comprimare ramane un mister, rezistenta sa pe campul de lupta rivalizeaza cu cea a bombardierelor conventionale.</color>",
+            "info": "<size=36>Dronele Kirov zboara mai repede, lansand bombe peste plantele peste care trec.\n\n<color=black>Daunele Bombelor: </color><color=#4B0082>500</color>\n<color=black>Duritate: </color><color=#4B0082>500</color>\n<color=black>Trasaturi: </color><color=#4B0082>Imun la raceala si Sufloi. Arunca bombe Jack-in-Cutie pe plantele direct sub fiecare 3 secunde.</color>"
+        },
+        {
+            "theZombieType": 207,
+            "name": "Zombi Superstar",
+            "introduce": "<align=justified><size=36><color=black>Zombiul Superstar, un idol legendar in lumea zombilor, are standarde extrem de inalte. Dupa ce si-a terminat studiile la Academia de Dans Edgar, a stapanit Super Moonwalk-ul, care a fost numit \"A Sasea Minune a Lumii Zombilor,\" castigandu-i o baza numeroasa de fani.</color>",
+            "info": "<size=36>Un zombi rapid care se strecoara-n apararea ta, un adversar dificil de infruntat.\n\n<color=black>Duritate: </color><color=#4B0082>3000</color>\n<color=black>Trasaturi: </color><color=#4B0082>Se strecoara pe campul de lupta, reduce daunele cu 90% in timpul alunecarii, apoi invoca 4 Dansatori cu Prajina.</color>\n<color=black>Modificatori de Odisee:\n</color><color=#4B0082>1. Zombii Michael si Zombii Superstar acum ignora plantele cand intra in gazon.\n2. Acum invoca in schimb 4 Super Dansatori cu Prajina.</color>"
+        },
+        {
+            "theZombieType": 208,
+            "name": "Aratare Perpetua",
+            "introduce": "<align=justified><size=36><color=black>Acest monstru a supravietuit celor mai dure conditii si poseda o forta enorma. Evita creierele si cutreieră lumea în căutarea unui loc retras.</color>",
+            "info": "<size=36>O fantoma de acum o mie de ani, cu o putere imensa.\n\n<color=black>Duritate: </color><color=#4B0082>3000</color>\n<color=black>Daune: </color><color=#4B0082>500</color>\n<color=black>Trasaturi: </color><color=#4B0082>La fiecare 8~14 secunde, se deplaseaza inainte cu 2 piese, provocand 500 de daune plantelor din calea sa (prima miscare e de 2 ori mai rapida). La moarte, provoaca 500 daune de tip explozie Jack-in-Cutie plantelor dintr-o zona 3×3, excluzand plantele protejate de Dovleac.</color>\n<color=black>Modificatori de Odisee:\n</color><color=#4B0082>1. Explozia la moarte provoaca acum daune fizice (nu poate fi imunizat impotriva acesteia)..\n2. CD-ul grabei redus la 1/3, daunele de baza ale atacului x3.</color>"
+        },
+        {
+            "theZombieType": 209,
+            "name": "Zombi Clovn-pe-Pogo",
+            "introduce": "<align=justified><size=36><color=black>\"Ce, asta? Doar moda, prietenul meu,\" Zombiul Clovn-pe-Pogo zambeste ori de cate ori apare aspectul lui. Dar cei care il cunosc destul de mult nu il cumpara. Aspectul lui nu este doar despre stil, ci este un tribut linistit si nespus unei iubiri care a insemnat odata totul. Unele tendinte se estompeaza, dar unele amintiri nu se estompeaza niciodată.</color></size>",
+            "info": "<size=36>Bomba e ascunsa in batul lui pogo.\n\n<color=black>Duritate: </color><color=#4B0082>720 + 4400 (Type 1)</color>\n<color=black>Trasaturi: </color><color=#4B0082>Mosteneste trasaturile Zombiului cu Pogo-de-Pepene. Daca moare in timp ce tine batul de pogo, el va exploda si se va transforma intr-un Rege Zombi Jack-in-Cutie.</color>\n<color=black>Modificatori de Odisee:\n</color><color=#4B0082>1. Explozia la moarte e acum garantata | Zombii cu Pogo-de-Pepene si Zombii Clovn-pe-Pogo au timpul de incarcare redus la 0.5s.\n2. Zombii Jack-in-Cutie afectati de explozie se vor tansforma in Zombii Clovn-pe-Pogo.\n<color=black>Slabiciuni: </color>Fuziuni de Umbrela</color>"
+        },
+      {
+        "theZombieType": 210,
+        "name": "Nuca-Mecanica Giga",
+        "introduce": "<align=justified><size=36><color=black>\"Bilute de peste? Armura mecanica? Asta este tot ceea ce conteaza,\" spune Nuca-Mecanica Giga. Purtand un costum mecanic impresionant, simte ca e tot ce are nevoie cu adevarat.</color></size>",
+        "info": "<size=36>Noul robot electric cu role cu abur proiectat de Gfishtus Corps.\n\n<color=black>Duritate: </color><color=#4B0082>1350</color>\n<color=black>Trasaturi: </color><color=#4B0082>Mosteneste trasaturile Zombiului cu Nuca-Mecanica. Super rapid. Arunca un fragment de Nuca-Mecanica Giga la moarte.\n<color=black>Slabiciuni: </color>Fuziuni de Umbrela.</color></size>"
+      },
+        {
+            "theZombieType": 211,
+            "name": "Rechinmarin Impamantat",
+            "introduce": "<align=justified><size=36><color=black>De ce e aici? A iesit din pamant? Sau a cazut din cer? Nimenu nu stie. Cert este ca acele lucruri deplasate care arata ca murdarie sunt cu siguranta camuflaj.</color></size>",
+            "info": "<size=36>Un eemplu esuat al unui test de Rechinmarin.\n\n<color=black>Daune: </color><color=#4B0082>20/0.02s</color>\n<color=black>Duritate: </color><color=#4B0082>Nuca-Mecanica Giga HP/3</color>\n<color=black>Trasaturi: </color><color=#4B0082>Sharkmarine, dar pe uscat și imobil. Folosind un pachet de semințe de tip Nuca-Perete pe Nuca-Mecanica Giga invoca un Rechinmarin hipnotizat. Rechinmarinul Impamantat moare instantaneu daca Nuca-Mecanica Giga invoca din nou sau e distrus.</color></size>"
+        },
+        {
+            "theZombieType": 212,
+            "name": "<u>Gargantuar Abisal</u>",
+            "introduce": "<align=justified><size=36><color=black>Conform unor scrieri stravechi, armura de obsidian abisal poate fi purtata doar de un corp calit prin incercarile gerului amar si ale flacarilor arzatoare. Atunci cand neamul zombilor este aruncat in pericol maxim, chipul sau poate apareain inima celui mai infricosator camp de lupta. 'Nu starniti mare agitatie, ca nu cumva sa treziti gigantul care doarme sub pamant.' Un avertisment pentru plante.</color>",
+            "info": "<size=36>O amenintare straveche, misterioasa si insidioasa.\n\n<color=black>Duritate: </color><color=#4B0082>32000 + 32000 (Tip 1)</color>\n<color=black>Trasaturi: </color><color=#4B0082>Mini-sef. Ofera o reducere a daunelor de 90% (80% in Odisee: Evoluat) tuturor zombilor de pe ecran, invoca Copii Abisali cand zdrobeste pamantul, si mosteneste alte trasaturi ale Gargantuarilor Armati.</color>\n<color=#8B0000><u>Mini-sefi: </color></u><color=#4B0082>Mini-sefii primesc doar 5000 de daune din uciderile instantanee. Sunt imuni la hipnoza, devorare, inec, crematori, transmutare, micsorare, cronoschimbare si teleportare. Ofera tuturor zombilor o reducere a daunelor de 20% (cumulabila pâna la 90%). Apar doar in valuri la anumite niveluri cu mai mult de 3 steaguri. In Odisee: Evoluat, au x2 HP si ofera o reducere a daunelor de 70%.</color>\n<color=black>Modificatori de Odisee:\n</color><color=#4B0082>1. Il invoca pe Dr. Zomboss la moarte.\n2. Apare cu un mini-sef selectat.</color>"
+        },
+        {
+            "theZombieType": 213,
+            "name": "Copil Abisal",
+            "introduce": "<align=justified><size=36><color=black>Cu lamele invartindu-se, aripile fluturand, Copilul Abisal a realizat o cascadorie care sfideaza moartea, direct din urmatorul mare succes al trupei Hollytomb, Jurassic Zombies. Criticii au numit-o \"o capodopera a coregrafiei aeriene.\" Adevarul? Fusese aruncat din greseala si pur si simplu se lasa purtat de val. La propriu.</color>",
+            "info": "<size=36>Copilul Abisal se poate infiltra cu usurinta in apararea ta.\n\n<color=black>Daune: </color><color=#4B0082>200</color>\n<color=black>Duritate: </color><color=#4B0082>1500</color>\n<color=black>Trasaturi: </color><color=#4B0082>Inainteaza 2,7 piese la aparitie, nu poate fi tintit in timpulincarcarii, dar poate fi aruncat departe de miscari Supreme ale Umbrelelor.</color>"
+        },
+        {
+            "theZombieType": 214,
+            "name": "Zombi cu Revolver Exploziv pe o Balena",
+            "introduce": "<align=justified><size=36><color=black>Zombiul cu Revolver Exploziv pe o Balena se trezeste mereu intr-o dispozitie groaznica - mai ales cand un coleg care calareste balene il taraste la serviciu. Alimentat de furie, este gata sa spulbere orice plantă ii sta in cale inainte de a se intoarce la un pui de somn.</color>",
+            "info": "<size=36>Sare-n apararea ta si o demoleaza din spatele ei, aruncand cirese explozive!\n\n<color=black>Daune: </color><color=#4B0082>1000</color>\n<color=black>Duritate: </color><color=#4B0082>1500</color>\n<color=black>Trasaturi: </color><color=#4B0082>Incepe sa traga 4 cirese explozive la fiecare 1,5 secunde, la 3 secunde dupa ce intra in gazon.</color>"
+        },
+        {
+            "theZombieType": 215,
+            "name": "Zombi de Diamant de tip Mystery-Box",
+            "introduce": "<align=justified><size=36><color=black>Un maestru al cosplay-ului, Zombiul de Diamant de tip Mystery-Box stie cum sa se comporte la fel de dur ca sefii ligii zombilor. Singurul lucru careii împiedica sa se prefaca a fi Dr. Edgar Zomboss este frica paralizanta de a-l intalni pe <i>adevaratul</i> Dr. Edgar.\n\n-Scris de Hazy</color>",
+            "info": "<size=36>Creeazaaleatoriu unul dintre cele mai groaznice cosmaruri ale tale sau poate o binecuvantare?\n\n<color=black>Duritate: </color><color=#4B0082>20000 + 1100 (Tip 1)\n<color=black>Trasaturi: </color><color=#4B0082>După ce cutia cade, generează un zombi de Odisee aleatoriu cu 80/100/120% Duritate. De asemenea, are sansa de a debloca un Modificator de Odisee cand e invins, pana la 1 pe minut.</color>"
+        },
+        {
+            "theZombieType": 216,
+            "name": "Trident Hwacha",
+            "introduce": "<align=justified><size=36><color=black>Zombiul Trident Hwacha e un \"perfectionist\" al nemuritorilor. Crede ca vehiculul sau e putin cam ponosit, aaa ca incepe sa-l incarce cu tridente. Dar, fidel naturii sale perfectioniste, nu se va opri pana cand nu va fi ocupat fiecare loc.</color>",
+            "info": "<size=36>Lanseaza o salva de tridente in apararea ta la fiecare salva!\n\n<color=black>Duritate: </color><color=#4B0082>1350 + 4400 (Tip 1)</color>\n<color=black>Trasaturi: </color><color=#4B0082>Fiecare atac lanseaza 4 tridente in succesiune rapida, apoi, dupa o scurta pauza, trage alte 4 tridente, pentru un total de doua salve. Tridentele nu vizeaza direct plantele; in schimb, sunt lansate la un unghi si o viteza fixe, provocand daune oricaror plante pe care le lovesc.</color>\n<color=black>Modificatori de Odisee:\n</color><color=#4B0082>1. Imun la efecte de stare, acum arunca de 5 ori mai multe tridente.\n2. Poate lansa Tridente din afara ecranului.</color>"
+        },
+        {
+            "theZombieType": 217,
+            "name": "Super Dansator cu Prajina",
+            "introduce": "<align=justified><size=36><color=black>Zombii aclama in timp ce Super Dansatorul cu Prajina sfideaza din nou gravitatia. \"Oh, stiti voi, doar talent,\" face el cu ochiul. Dar in spatele acestei prestatii spectaculoase si naturale? Lucreaza in 2  ture pe zi, antrenandu-se pana cand il dor chiar si picioarele de nemuritor. Secretul maretiei? \"De doua ori mai multa macinare, de doua ori mai mult timp de aer!\"</color>",
+            "info": "<size=36>Poate sari peste 2 piese. Poate fi blocat de plantele inalte.\n\n<color=black>Duritate: </color><color=#4B0082>3000</color>\n<color=black>Trasaturi: </color><color=#4B0082>Mosteneste toate celelalte trasaturi de la Michael Zombie.</color>"
+        },
+        {
+            "theZombieType": 218,
+            "name": "<u>Pozeidon</u>",
+            "introduce": "<align=justified><size=36><color=black>Marea se desparte in 2 pe masura ce Pozeidon se inalta, apa curgand din trupul sau puternic. Tridentul sau, trosnind de furia adancurilor, este deja gata sa loveasca. \"Eu comand Mareele,\" urla el, vocea sa rasunand peste vanturile urlatoare. Cu o miscare rapida, arma se napusteste inainte, izbindu-se de liniile inamice ca un val de maree. \"Fugiti daca doriti - dar nimeni nu fuge mai repede decat marea.\"</color>",
+            "info": "<size=36>Regele celor inecati.\n\n<color=black>Duritate: </color><color=#4B0082>24000 + 24000 (Tip 1)</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Mini-sef. Imun la imobilizari.\n<color=black>•</color> Invoca Zombii Giga cu Nuca-Trident pe toate benzile la aparitia sa.\n<color=black>•</color> Cat timp sunt prezenti, toti Zombii Trident de Odisee vor ataca continuu. Amplifica toate tridentele pentru a provoca de 5 ori mai multe daune decat in ​​mod normal.\n<color=black>•</color> Tridentele lui sunt aruncate la un unghi fix, ucigand instantaneu majoritatea plantelor. Pot fi redirectionate catre plante care atenueaza daunele.\n<color=black>•</color> Tridentul va exploda si va ucide toate plantele din apropiere la 30 de secunde dupa ce aterizeaza.</color>"
+        },
+        {
+            "theZombieType": 219,
+            "name": "<u>Nuca-Mecanica Ultra</u>",
+            "introduce": "<align=justified><size=36><color=black>Nuca-Mecanica Ultra trebuia sa fie o Nuca-Mecanica Giga mai mic si mai precis, dar o greseala in plan l-a facut mult mai mare. Inginerii au observat prea tarziu - asa ca pur si simplu au continuat cu el.</color>",
+            "info": "<size=36>Artefact secret al Gfishtus Corps.\n\n<color=black>Duritate: </color><color=#4B0082>300000</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Mini-sef.\n<color=black>•</color> Mosteneste trasaturile Nucii-Mecanice Giga.\n<color=black>•</color> Primeste maxim  de 300 daune pe lovitura dupa calculele de reducere a daunelor.\n<color=black>•</color> Zombiul cu Nuca-Mecanica Ultra reduce daunele primite de toti ceilalti zombi (cu exceptia Zombilor de tip Mystery-box) la 1, dar redirectioneaza daunele initiale catre el insusi.</color>"
+        },
+        {
+            "theZombieType": 220,
+            "name": "<u>Atacant Fotbalist Giga</u>",
+            "introduce": "<align=justified><size=36><color=black>Nu exista nicio scapare de el. Atacantul Fotbalist Giga se misca cu o precizie nefireasca, ochii sai neclintiti scanand urmatoarea victima. Nu era doar un distrugator - era un cules, un cosmar care lua mai mult decat viata. Fiecare planta pe care o atingea devenea o parte din el, distorsionata si corupta. Si pe masura ce inainta, prezenta lui soptea acelasi adevar terifiant: \"Indiferent unde alergi, te voi gasi.\"</color>",
+            "info": "<size=36>Atacantul Fotbalist Giga iti poate distruge apararea cu usurinta!\n\n<color=black>Daune: </color><color=#4B0082>200</color>\n<color=black>Duritate: </color><color=#4B0082>24000 + 24000 (Tip 1)</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Mini-boss. Imun la respingeri si imobilizari.\n<color=black>•</color> Dezactiveaza vindecarea  plantelor, transformand-o in 0,1 x daune impotriva lui, limitate la 1% din HP-ul sau maxim.\n<color=black>•</color> Omoara instantaneu plantele nedefensive atunci cand le musca transformandu-le in Zombii Giga cu Nucas-Fotbal.\n<color=black>•</color> La fiecare 3 secunde, daune ×2 (cumulabile, max 1M), restaureaza 6000 HP armura si creste viteza cu 30% (maxim 3 ori viteza initiala).</color>"
+        },
+        {
+            "theZombieType": 221,
+            "name": "<u>Aviator Mecanic</u>",
+            "introduce": "<align=justified><size=36><color=black>Campul de lupta a tremurat cand Aviatorul Mecanic a sosit, cadrul sau mecanic stralucind sub lumina slaba. \"Incepeti atacul terestru,\" a anuntat, maruntind plantele ca pe crengi. Dar adevarata groaza a inceput cand s-a ridicat in aer. \"Dominatie Aeriana Indeplinita,\" a declarat, invocand Zompelini Kirov si lansand bombe cu precizie chirurgicala. \"Apararea voastra e invechita.\"</color>",
+            "info": "<size=36>Decolare! Avem o decolare!\n\n<color=black>Duritate: </color><color=#4B0082>15000</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Mini-sef. Imun la respingeri si la a fi doborat de trasaturile speciale ale Magnespinului.\n<color=black>•</color> Foarte rapid pe teren, zdrobeste plante.\n<color=black>•</color> La 2/3 Duritate, devine pentru scurt timp invincibil, apoi decoleaza, invocand o flota de Zompelini Kirov la fiecare 3 secunde si lansand bombe Jack-in-Cutie.</color>"
+        },
+        {
+            "theZombieType": 222,
+            "name": "<u>Jackson la Nivel Mondial</u>",
+            "introduce": "<align=justified><size=36><color=black>Reflectorul a palpait cand Jackson la Nivel Mondial a pasit inainte, cu zambetul sau ascutit si vocea joasa. \"Crezi ca e un joc?\" a spus, pocnind din degete. Zombii Superstar s-au maerializat, instrumentele lor scartaind. \"Aceasta gradina e scena mea acum. Sa vedem cat timp rezisti.\"",
+            "info": "<size=36>Jackson la Nivel Mondial si-a dedicat intreaga viata pasiunii pentru spectacolul scenic si turneele.\n\n<color=black>Duritate: </color><color=#4B0082>48000</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Mini-sef. Imun la toate efectele de stare.\n<color=black>•</color> Zdrobeste plante.\n<color=black>•</color> Primeste daune maxime de 480 cand e afectat de atacuri asemanatoare buruienilor tepoase.\n<color=black>•</color> Ofera crio-imunitate zombilor din apropiere si invoca 4 Zombii Superstar si 4 Super Dansatori cu Prajina la fiecare 10 miscari de dans.\n<color=black>•</color> Invoca 2 Michael Zombonii si un Zombi Superstar la moarte.</color>"
+        },
+        {
+            "theZombieType": 223,
+            "name": "<u>Profesor Cireasa Z</u>",
+            "introduce": "<align=justified><size=36><color=black>Ca mentor al Dr. Edgar, stimatul Profesor Cireasa Z emana un aer de calm rafinat si gratie in discursul sau. Dar este obsedat de studierea artefactelor științifice, în special a explozilor; se zvoneste ca Cirezilla a fost initial creatia sa...</color>",
+            "info": "<size=36>Un savant obsedat de cercetare care acum are ochii pe tine.\n\n<color=black>Daune: </color><color=#4B0082>1000</color>\n<color=black>Duritate: </color><color=#4B0082>6000 + 15000 (Tip 1) + 3000 (Tip 2)</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Mini-sef. Imun la respingeri.\n<color=black>•</color> Invulnerabil pana cand ziarul sau e distrus. Dupa ce-l pierde, devine pentru scurt timp invincibil si transforma pana la 30 de zombii in Zombii Ziar cu  Cireasa Mitraliera infuriati. Apoi trage un baraj de cirese, catapultand ciresele catre ultima coloana in timp ce accelereaza inainte.\n<color=black>•</color> Se opreste doar cand intalneste Buruiana Tepoasa, care-i distruge instantaneu ziarul.</color>"
+        },
+        {
+            "theZombieType": 224,
+            "name": "<u>Regina Jill-in-Cutie</u>",
+            "introduce": "<align=justified><size=36><color=black>Numai privirea Reginei e suficienta pentru a-i face pe servitorii ei sa tremure. Nimeni nu indrazneste sa o sfideze. Dar puterea nu e singura ei incantare - îi place sa daruiasca. In cutia ei de cadouri ornamentata, jucarii si bibelouri asteapta maini tinere... impreună cu bombe pregatite sa surprinda. Si oh, cat de mult iubeste surprizele.</color>",
+            "info": "<size=36>Regina Jill-in-Cutie e foarte dornica sa creeze \"scene explozive.\"\n\n<color=black>Duritate: </color><color=#4B0082>48000</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Mini-boss. Imuna la a fi hipnotizata si devorata.\n<color=black>•</color> Zdrobeste plante.\n<color=black>•</color> Explodeaza la moarte, provocand daune fizice.\n<color=black>•</color> Iese din cutia ei la intervale regulate, provocand unul dintre urmatoarele efecte la întamplare:\n1. Invoca Zombii Clovn-in-Cutie pe fiecare piesa a celei de-a cincea coloana si pe fiecare coloana din dreapta sa.\n2. La fel, dar invoca in schimb Zombii Clovn-pe-Pogo.\n3. Lanseaza o explozie in coloana ei, provocand daune fizice.</color>"
+        },
+        {
+            "theZombieType": 225,
+            "name": "Zombi Comando Giga de Fier",
+            "introduce": "<align=justified><size=36><color=black>Zombiul Comando Giga de Fier e un razboinic facut din fier — corp de fier, vointa de fier, gloante de fier si o atitudine ironica fata de plangerile colegilor sai. El crede cu tarie ca zombii doborati de gloantele sale pur si simplu nu au genul de antrenament de rafinare a fierului la care a participat.</color>",
+            "info": "<size=36>Un razboinic de neoprit. Neinfricat si inegalabil.\n\n<color=black>Daune: </color><color=#4B0082>80/0.1s; 100 (mestecare)</color>\n<color=black>Duritate: </color><color=#4B0082>3000 + 3000 (Tip 1)</color>\n<color=black>Trasaturi: </color><color=#4B0082>Imun la Respingeri. Lanseaza mazare de fier in apararea ta la o rata ridicola, care poate dobora zombii hipnotizati. </color>"
+        },
+        {
+            "theZombieType": 226,
+            "name": "Echipa de Asasini Alpha",
+            "introduce": "<align=justified><size=36><color=black>Echipa de Asasini Alpha se misca precum umbrele, lovind mai repede decat o respiratie si fara sa lase urme în urma - cu exceptia ocazionalului cadavru de zombi, desigur. Nu rateaza niciodata o tinta si nu lasa pe nimeni in viata sa le spuna povestea.</color>",
+            "info": "<size=36>De obicei, opereaza-n perechi, membrii de elita desfasurandu-se ca o echipa completa atunci cand ee necesar.\n\n<color=black>Daune: </color><color=#4B0082>500 × 2</color>\n<color=black>Duritate: </color><color=#4B0082>6000 + 6000 (Tip 2)</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Imuna la a fi hipnotizata. Apare in perechi. Cand apare ca mini-sef, 5 apar pe o banda simultan, cu sanatatea lor marita de 5×.\n<color=black>•</color> Daca sufera daune fatale in timp ce oricare membru al grupului este inca viu, devin incapacitati. In caz contrar, intreaga echipa moare simultan.\n<color=black>•</color> Cat timp sunt incapacitati, sunt imuni la daune si respingere (doar pentru prima data), blocheaza proiectilele, dar nu vor fi tintite de plante.\n<color=black>•</color> Dupa 10 secunde de incapacitare, echipa revine cu viata completa, ataca inainte 2,5 piese, provocand 500 de daune tuturor plantelor cu care se ciocnesc si declansand o explozie de tip Jack-in-Cutie.\n<color=black>•</color> Daca echipa e omorata de Mestecatori sau de alte metode insta-omor, atat ei, cat si echipa vor muri imediat.</color>\n<color=black>Modificatori de Odisee:\n</color><color=#4B0082>1. Acum va fi mereu invincibila atunci când este incapacitata.\n2. Poate aparea acum drept un Mini-sef.</color>"
+        },
+        {
+            "theZombieType": 227,
+            "name": "Zombi Iceclaw cu Nuca-Inalta Inghetata",
+            "introduce": "<align=justified><size=36><color=black>Imbrăcat in armura faurita din gheata solida, manuind o lama calita de foc si inghet, Zombiul Iceclaw cu Nuca-Inalta Inghetata(Iceclaw in acest context inseamna 'gheare de gheata') se intoarce pe gazon mai puternic si mai ascutit ca niciodata - doar pentru a zdrobi... zombii din fata lui?</color>",
+            "info": "<size=36>Zombii cu Nuca-Inalta Inghetata cu gheare inghetate. Au un impact puternic.\n\n<color=black>Duritate: </color><color=#4B0082>270 + 1100 (Tip 1)</color>\n<color=black>Trasaturi: </color><color=#4B0082>Mosteneste trasaturile Zombiului cu Nuca-Inalta Inghetata. Transformat din zombi obisnuiti de  Ucinator si Spinminator.</color>"
+        },
+        {
+            "theZombieType": 228,
+            "name": "<u>Ice-borg Executrix Mk. Alpha</u>",
+            "introduce": "<align=justified><size=36><color=black>Cu lame de gheata si o mantie de viscol, ea sculpteaza statui din carne sfaramata si modeleaza puterea divina cu o vointa neclintita. O zeitate artificiala, o fantoma a tundrei. Cand iadul ne va reuni, isi va aminti ea de acest taram al durerii?</color>",
+            "info": "<size=36>Suverana Tundrei Inghetate.\n\n<color=black>Daune: </color><color=#4B0082>1000</color>\n<color=black>Duritate: </color><color=#4B0082>64000</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Mini-sefa. Imuna la raceala, respingeri si imobilizari.\n<color=black>•</color> Zdrobeste plantele. Atacurile ingheata plantele timp de 5 secunde. \n<color=black>•</color> La intrare, executa o lovitura care dauneaza tuturor plantelor din fata (pot fi protejata de Dovleac), apoi lansează 5 bulgari de zapada in jurul culoarului ei, fiecare provocand daune unei zone 3×3.\n<color=black>•</color> Ulterior, executa lovituri taioase sau un atac normal la fiecare 3 secunde — HP-ul mai mic crestesansa de lovire taioasa.\n<color=black>•</color> Atacurile normale lanseaza 4 sabii de gheata inainte.\n<color=black>•</color> Pe harta Zapada, are sansa de a invoca instantaneu un viscol.</color>"
+        },
+        {
+            "theZombieType": 229,
+            "name": "<u>Arhiduce Fotbalist Giga</u>",
+            "introduce": "<align=justified><size=36><color=black>Trezit din tacerea eternitatii, Arhiducele Fotbalist Giga ataca zi de zi, lupta, cucereste din nou si obtine victorii terifiante. Sub el calareste un cal de razboi cazac, iar armura daruita personal de Doctorul Edgar ii serveste drept dovada de onoare. Oricine i se opune este impotriva intregii lumi: in spatele steagului comandantului care biciuieste vantul urmeaza intregul regat. El aduce un salut sumbru; oriunde loveste sabia sa, se lasa noaptea, coboara cortinele si se ridica o noua ordine, ca si cum ar declara tuturor plantelor: acesta este pretul sfidarii lui.</color>",
+            "info": "<size=36>\"Hey! Indraznesti sa ma provoci calare??\"\n\n<color=black>Daune: </color><color=#4B0082>80/0.1s</color>\n<color=black>Duritate: </color><color=#4B0082>36000</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Mini-sef. Imun la raceala, respingeri si imobilizari. Zdrobeste plante. \n<color=black>•</color> Se vindeca cu 200 HP la fiecare 0,1 secunde.\n<color=black>•</color> Fara a bloca plantele, el poate aparea pana la a cincea coloana din dreapta si apoi ataca, calare pe un cal de razboi care zdrobeste plantele.\n<color=black>•</color> Dupa fiecare incarcare, se intrerupe timp de ~1,5 secunde, apoi se poate incarca o data la fiecare 10 secunde.\n<color=black>•</color> Încarcarile aplica un blestem de 5 secunde plantelor dintr-o zona 3×3 la coliziune, transferand toate daunele finale primite catre plantele blestemate (pana la 5k partajate).\n<color=black>•</color> Când HP-ul scade sub 2/3 pentru prima data, genereaza un Zombi Comando Giga de Fier pe fiecare banda. La atingerea 0 HP, descaleaza si devine Arhiduce Descalecat.</color>"
+        },
+        {
+            "theZombieType": 230,
+            "name": "Arhiduce Descalecat",
+            "introduce": "<align=justified><size=36><color=black>Arhiducele Fotbalist Giga l-a cunoscut pe Atacantul Fotbalist Giga de mult timp. Ataca gradini împreuna, antreneaza soldati si concureaza pentru adjuncti. In timpul liber, joaca Sah Chinezesc intens in viata reala, cu subordonatii ca piese si cei doi comandanti dirijand din centru - desi adesea nu pot rezista tentatiei de a iesi în afara tablei de joc cu 9 patrate.</color>",
+            "info": "<size=36>Un comandant decazut, care nu mai deține putere.\n\n<color=black>Daune: </color><color=#4B0082>80/0.1s; 100 (mesctecatura)</color>\n<color=black>Duritate: </color><color=#4B0082>18000</color>\n<color=black>Trasaturi: </color><color=#4B0082>Imun la respingeri.</color>"
+        },
+        {
+            "theZombieType": 231,
+            "name": "<u><i>Arhiduce Razbunator</i></u>",
+            "introduce": "<align=justified><size=36><color=black>Razboiul e cea mai buna piatra de ascutit pentru un comandant. Odata retrogradat si învins, Arhiducele Footbalist Gifa s-a intors de la antrenamentul infernal cu calul sau, gata sa-si reconstruiasca platforma de comanda din cadavrele inamicilor sai.</color>",
+            "info": "<size=36>\"Veniti, razboinicii mei cazuti - luati-le sufletele!\"\n\n<color=black>Daune: </color><color=#4B0082>500 (sabie taioasa)</color>\n<color=black>Duritate: </color><color=#4B0082>90000</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Sef. Zdrobeste plantele si-nvinge instantaneu zombii hipnotizati. In mod normal, se misca-n sus si in jos in coloana din dreapta. Foloseste periodic una dintre urmatoarele abilitati:\n<color=black>1.</color> Isi flutura steagul pentru a invoca cate un zombi pe fiecare banda.\n<color=black>2.</color> Se avanta inainte, lovind cu o lovitura de sabie taioasa, apoi se intoarce si loveste inca una.\n<color=black>3.</color> Trage 3 lovituri largi de sabie taioasa-n fata.\n<color=black>4.</color> Invoca un Arhiduce Stafie in extrema dreapta a fiecarei benzi care ataca spre stanga, provocand 1000 de daune plantelor de-a lungul drumului.\n<color=black>5.</color> Sare intr-un loc aleatoriu in zona din stanga sau din mijloc, zdrobind plantele, apoi se intoarce in partea dreapta.</color>"
+        },
+        {
+            "theZombieType": 232,
+            "name": "Arhiduce Stafie",
+            "introduce": "<align=justified><size=36><color=black>\"S-a intors!\" plang zombii de uimire. \"El s-a intors!\" se panicheaza plantele. Intre timp, Dr-ul Zomboss se joaca mandru cu proiectorul sau de holograme, increzător ca va straluci in razboiul razbunarii impotriva zombilor.</color>",
+            "info": "<size=36>O armata de holograme care strapung apararea, in ciuda faptului ca sunt simple proiectii.\n\n<color=black>Duritate: </color><color=#4B0082>15000</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Imun la racire, inghet, ametire si respingere. Ignora plantele in timp ce ataca spre stanga, provocand 1000 de daune tuturor plantelor prin care trece si invingand instantaneu toti zombii hipnotizati.\n<color=black>•</color> Nu declanseaza Masinile de Tuns Iarba sau Oprirea Jocului.</color>"
+        },
+        {
+            "theZombieType": 233,
+            "name": "Gargantuar Infuzat cu Elemente",
+            "introduce": "<align=justified><size=36><color=black>Cu mult timp in urma, Maestrul Zomboss a cautat sa antreneze soldati mai versatili, infuzandu-si Gargantuarii cu puterile celor 4 elemente - foc, apa, aer si pamant. Experimentul a fost un succes... in mare parte. In timp ce Gargii Forjati de Foc, Incarcati de Vant si Legati de Sol s-au unit rapid datorita noii lor puteri, Gargul Temperat de Maree s-a trezit exclus. \"Deja facem un set perfect de culori de semnalizare si fara tine,\" au mormait ceilalti 3. \"Rosu, galben, verde - sunteti doar... extra albastru.\"</color>",
+            "info": "<size=36>Un zombi Gargantuar complet inarmat, a carui culoare a ochilor indica afinitatea sa elementara.\n\n<color=black>Duritate: </color><color=#4B0082>16000 + 16000 (Tip 1)</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Nu arunca Copii. Zdrobirea provoaca 3600 de daune zombilor hipnotizati. Obtine una dintre cele patru înfatisari (culori ale ochilor) la aparitie, fiecare cu o afinitate elementara unica:\n<color=red>• Gargantuar Forjat in flacara:</color> Imun la Inflamat; are o reducere inerenta de 66% a daunelor primite.\n<color=blue>• Gargantuar Temperat de Maree:</color> Imun la racire, inghet, si respingeri; are viteza x2; fiecare lovitura puternica conteaza ca 5 atacuri.\n<color=yellow>• Gargantuar Incarcat de Vant:</color> Imun la imobilizari; sare putin inainte dupa fiecare lovitura puternica si executa o lovitura puternica suplimentara.\n<color=green>• Gargantuar Legat de Sol:</color> Imun la otrava; recupereaza 10% din HP-ul maxim dupa zdrobire.\n<color=black>Modificatori de Odisee:\n</color><color=#4B0082>1. Aparenta nu mai conteaza, are toate cele 4 afinitati simultan\n2. Raza de atac a loviturii puternice a crescut cu 1 piesa</color>"
+        },
+        {
+            "theZombieType": 234,
+            "name": "<u>Arca Ratei Imperatorului</u>",
+            "introduce": "<align=justified><size=36><color=black>Ca sef al tuturor Copiilor, el domneste suprem in lumea lor. Nu este nevoie sa fii la fel de priceput ca Savantul Zombi, nici la fel de elegant ca Michael Zombie - el face pur si simplu ceea ce ii încanta: sa se plimbe cu iubita sa barca cu motor aurie, poreclita Arca Ratei, si sa provoace probleme mari acelor plante enervante. Nu este nevoie de explicatii: hai sa pornim la drum si sa imbratisam aventura!</color>",
+            "info": "<size=36>Copilul final la sfarsitul Odiseei tale. Piloteaza luxoasa Arca a Ratei, conducand flota de nemuritori.\n\n<color=black>Duritate: </color><color=#4B0082>48000</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Mini-sef. Imun la imobilizari si incalcire.\n<color=black>•</color> Zdrobeste rapid plantele.\n<color=black>•</color> Are o reducere inerenta de 80% a daunelor primite pentru el insuși.\n<color=black>•</color> Cand sunt prezenti, toti zombii primesc o crestere de 20% a vitezei de miscare si o sansa de 20% de a reduce daunele primite la 1.\n<color=black>•</color> La moarte, ejecteaza Imperatorul pe terenul din apropiere.</color>"
+        },
+        {
+            "theZombieType": 235,
+            "name": "Imperator",
+            "introduce": "<align=justified><size=36><color=black>Chiar si in mijlocul unor lupte aprige, Imperatorul isi doreste totusi puțin timp liber: fara creiere de urmarit, fara plante cu care sa lupte, doar o plimbare linistita, gandindu-se la ce truc sa le faca supusilor sai de Halloween. Dar chemarea datoriei ca membru al familiei regale il aduce întotdeauna inapoi pe tron, gata sa conduca urmatoarea ofensiva.</color>",
+            "info": "<size=36>Imperatorul se retrage, dar odata ce va evada, cu siguranta se va intoarce.\n\n<color=black>Daun: </color><color=#4B0082>80/0.1s; 100 (mestecare)</color>\n<color=black>Duritate: </color><color=#4B0082>18000</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Mini-sef. Imun la imobilizari si respingere, dar pierde puterea reducerii daunelor.\n<color=black>•</color> Pentru fiecare alt mini-sef prezent, primeste o reducere de 20% a daunelor primite.\n<color=black>•</color> Upon landing, se intoarce si se retrage, ignorand plantele.\n<color=black>•</color> La iesirea de pe gazon, el reintra pe o noua Arca a Ratei.</color>"
+        },
+        {
+            "theZombieType": 236,
+            "name": "Discul Zdrentuit al Legiunii de Inghet",
+            "introduce": "<align=justified><size=36><color=black>Acest nou model de Disc Congelator e echipat cu un emitator antigravitational avansat si un senzor vegetal care permite zborul si lupta complet autonome. Pilotul sau nici macar nu trebuie sa-l opereze sau sa stea treaz. Asadar, de ce sa mai pastrezi un pilot? \"Unii zombi sunt prea prosti ca sa faca altceva,\" a spus Dr-ul Edgar Zomboss, in timp ce suda cabina de pilotaj.</color>",
+            "info": "<size=36>Echipat cu 2 arme de tip sci-fi.\n\n<color=black>Duritate: </color><color=#4B0082>3000</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> La fiecare 2 secunde, se fixeaza pe cea mai apropiata planta aflata pe o raza de 2,5 piese si lansează o raza de Dizolvare, provocand 300 daune, prioritizand plantele care nu sunt Dovleac, nu sunt Ghivece si nu sunt zburatoare.\n<color=black>•</color> Cand este aproape de o planta, pluteste direct deasupra ei si declanseaza un Sifon Drenant care provoaca 10 daune la fiecare 0,02 secunde tuturor plantelor de pe acea suprafata. Daca este hipnotizat, daunele devin vindecatoare cu o valoare egala.\n<color=black>Modificatori de Odisee:\n</color><color=#4B0082>1. Razele de Dizolvare acum tintesc cea mai indepartata planta din raza de actiune\n2. Distanta Sifonului Drenant: 1 Piesa → Zona 3x3</color>"
+        },
+        {
+            "theZombieType": 237,
+            "name": "Explozubmarin",
+            "introduce": "<align=justified><size=36><color=black>Vopsita in roz, aceasta nava masiva trebuia sa fie ascunsa printre Rechinmarinele, dar toata vopseaua roz a fost confundata cu suc de creier si mancata de zombii. Nici macar o picatura nu a ramas.</color>",
+            "info": "<size=36>Foloseste exploziile de cirese aliate pentru a-si spori propria putere.\n\n<color=black>Duritate: </color><color=#4B0082>9000</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Scufunda plante.\n<color=black>•</color> Cand o explozie de cirese din partea zombilor loveste plantele si provoaca daune prin stropire, orice Explozubmarin afectat restabileste 150 HP si castiga 0,3 x viteza de miscare, cumulandu-se pana la 8×.\n<color=black>•</color> Valoarea incalcita pentru acest zombi nu va depasi 10.</color>"
+        },
+        {
+            "theZombieType": 238,
+            "name": "Stapanul Fiarelor Legiunii Inghetului",
+            "introduce": "<align=justified><size=36><color=black>Blanosii de Zapada adulti protejeaza instinctiv puii din haita. Profitand de aceasta trasatura, Stapanul Fiarelor s-a deghizat in Furlingsi a imblanzit cu succes unul. Pretul? Probabil va trebui sa traiasca ca un Furling pentru tot restul vietii sale nemuritoare.</color>",
+            "info": "<size=36>Calareste o Blana de Nea care iti impinge apararea inapoi.\n\n<color=black>Duritate: </color><color=#4B0082>9000</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Imun la raceala si inghet. Vulnerabil la Frigul Profund.\n<color=black>•</color> La contactul cu o planta Ghiveci, imuna la strivire sau Titan, încearca sa o zdrobeasca. In caz contrar, impinge toate plantele conectate de pe culoar cu o piesa la stanga.\n<color=black>•</color> Daca nu poate impinge (blocat de Titani sau fara spatiu), distruge instantaneu planta din stanga pentru a face loc.\n<color=black>•</color> Plantele zburatoare nu is afectate de impingere.\n<color=black>•</color> Cand are sub 1/2 din HP-ul maxim, sare cu 2.2 piese înainte, ignorand plantele.</color>"
+        },
+        {
+            "theZombieType": 239,
+            "name": "Zombi Clovn-pe-Jetski",
+            "introduce": "<align=justified><size=36><color=black>Primul zombi care a folosit bete pogo si jucarii Jack-in-Cutii pe apa. Cum a faxut-o? \"Stiinta! A treia lege a lui Newton, nitroglicerina si arcuri! A, da!\" Este un geniu sau un maniac? Cine stie!</color>",
+            "info": "<size=36>Foloseste un bat pogo modificat pentru a face jetski-uri pe canalele de apa, navalind asupra plantelor si imprastiind gunoaie intr-un grup de jucarii Jack-in-Cutii.\n\n<color=black>Duritate: </color><color=#4B0082>6000</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Foarte rapid. Cand  oprit de o planta, moare instantaneu si arunca bombe care detoneaza ca niste jucarii Jack-in-Cutii pe o raza de 3.5 piese pentru un total de (plante lovite x benzi de harta) bombe.\n<color=black>•</color> Declanseaza mereu o explozie de tip Jack-in-Cutie la moarte.</color>"
+        },
+        {
+            "theZombieType": 240,
+            "name": "Gargantuar Trident cu Nuca-Fort",
+            "introduce": "<align=justified><size=36><color=black>Cand Gargantuarii din linii diferite se îintalnesc pe campul de lupta, schimba saluturi politicoase cu ragete adanci, iar Gargantuarul Trident cu Nuca-Fort isi indreapta mereu spatele in astfel de momente. Nuca-Fort(sau Nuca-Fortareata) este ca o insigna plina de glorie - o dovada de onoare castigata doar dupa ce a zdrobit trei sute de Nuci-Perete.</color>",
+            "info": "<size=36>Aparare sporita, deoarece diferite tipuri de Gargantuari sunt prezenti pe teren.\n\n<color=black>Duritate: </color><color=#4B0082>18000</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Imun la imobilizari. Pentru fiecare tip de Gargantuar prezent pe teren, daunele suferite sunt reduse suplimentar cu 10%.\n<color=black>•</color> Cosul sau poate contine pana la 7 tridente. Cand HP-ul scade sub 50% si cosul e plin, toate tridentele sale sunt aruncate la unghiuri fixe atunci cand primeste daune. Cosul este reumplut cu 1 trident pe secunda.</color>\n<color=black>Modificatori de Odisee:\n</color><color=#4B0082>1. Viteza de Reincarcare a Tridentelor ×3</color>"
+        },
+        {
+            "theZombieType": 241,
+            "name": "Gargantuar Ceresc",
+            "introduce": "<align=justified><size=36><color=black>Cand batranul Maestru Zomboss a rafinat Gargantuarii Elementali, el a crezut ca antrenamentul lor era incomplet - simtea ceva invizibil in spatele puterilor lor pe care nu-l putea intelege pe deplin. Acel mediu nevazut era Eterul, al cincilea element soptit in note uitate, substanta care poarta forta, leaga materia si umple spatiul dintre ele. Prin ancorarea elementului in corpul unui Gargantuar, Dr-ul Zomboss a creat un titan care nu doar manuieste elementele, ci se misca prin ele ca si cum lumea insasi ar fi obligata sa facă loc.</color>",
+            "info": "<size=36>Cand e grav ranit, devine impermeabil la toate efectele, invoca clone si castiga putere daramatoare sub acoperirea lor.\n\n<color=black>Daune: </color><color=#4B0082>4800 (zdrobire)</color>\n<color=black>Duritate: </color><color=#4B0082>18000 +18000 (Tip 1)</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Cand HP-ul corpului principal scade pentru prima data sub 50% maxim, debuff-urile de Inflamat, Jaratic, Otravire, Rece si Inghet sunt anulate; Pentru fiecare debuff eliminat, recupereaza HP egal cu 10% din Duritate, apoi castiga permanent imunitate la toate cele 5. In acelasi timp, invoca o clona Gargantuar infuzata cu Element in fiecare rand al acestei coloane, fiecare cu 1/3 din duritate corpului de baza. Cat timp exista o clona, corpul principal e imun la daune. Daca raman clone dupa 15 secunde, Gargantuarul Ceresc le absoarbe pe toate, intra in starea gigantificata cu Duritatea si Putere de Atac x2, iar ulterior fiecare atac provoaca daune suplimentare egale cu (20% din Puterea de Atac x [nr. de clone absorbite]) tuturor plantelor de pe teren.\n<color=black>•</color> Cand HP-ul corpului de baza scade pentru prima data sub 1% maxim, recupereaza HP egal cu 10% din Duritate.</color>"
+        },
+        {
+            "theZombieType": 242,
+            "name": "Zombi Ziar cu Mitraliera Mortii",
+            "introduce": "<align=justified><size=36><color=black>Zombiul Ziar cu Mitraliera Mortii e foarte talentat atat in ​​stiinta explozibililor, cat si in fizica nucleara. Dupa ce si-a dedicat jumatate din viata stiintei, acum alege sa-si ascunda realizarile si pur si simplu sa se bucure de puzzle-urile de cuvinte incrucisate. Dar daca cineva indrazneste sa-i perturbe timpul de citit, nu-l deranjează sa-si etaleze vechiul proiect de absolvire.</color>",
+            "info": "<size=36>Lanseaza cochilii Jaratice greu de stins si se poate vindeca fortat reducandu-si propria durata de viata.\n\n<color=black>Daune: </color><color=#4B0082>400 (mestecare) 1000 (carapacea mortii)</color>\n<color=black>Duritate: </color><color=#4B0082>1500 +1500 (Tip 2)</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Mosteneste trasaturile Savantului Zombi.\n<color=black>•</color> După ce își pierde ziarul, trage 4 Cochilii de Jăratic la fiecare 0,5 secunde. Fiecare dintre acestea provoaca un total de 5 daune plantelor, cu 5 secunde intre fiecare dauna. Dupa ce provoaca daune plantelor, recupereaza o cantitate egala de HP atunci cand primeste daune, dar reduce propriul HP maxim cu 1%.</color>"
+        },
+        {
+            "theZombieType": 300,
+            "name": "Savant Zombi cu Cireasa Mitraliera",
+            "introduce": "<align=justified><size=36><color=black>\"Intotdeauna exista mai mult în viata decat simple puzzle-uri matematice… precum trestia de afara... sau lumina lunii din seara asta,\" mormaie Savantul Zombi cu Cireasa Mitraliera. \"Dar mai întai, trebuie neaparat sa rezolv acest Sudoku. Este... surprinzator de greu.\"</color>",
+            "info": "<size=36>Trage un baraj rapid de gloante de cirese explozive cand e infuriat.\n\n<color=black>Daune: </color><color=#4B0082>400 (mestecare) 1000 (cireasa exploziva)</color>\n<color=black>Duritate: </color><color=#4B0082>1500 + 1500 (Tip 2)</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Zombi Evoluat de Nivel 1.\n<color=black>•</color> Mosteneste trasaturile Savantului Zombi.\n<color=black>•</color> După ce-si pierde hartia, trage 4 gloante de cirese explozive  la fiecare 0,5 secunde.</color>"
+        },
+        {
+            "theZombieType": 301,
+            "name": "Zombi Licentiat cu Cireasa Mitraliera",
+            "introduce": "<align=justified><size=36><color=black>Un renumit lector in domeniul demolarilor la Universitatea Internationala Zombie, Zombiul Licentiat cu Cireasa Mitraliera a fost de acord sa vina doar dupa ce Profesorul Cireasa Z a promis 3 lucruri: placinta cu cirese, explozii mari si Zuma. \"Bunul si vechiul Cireasa Z nu a gresit,\" spune el.</color>",
+            "info": "<size=36>Lanseaza cirese explozive chiar inainte de a se enerva.\n\n<color=black>Daune: </color><color=#4B0082>400 (mestecare) 1000 (cirese explozive)</color>\n<color=black>Duritate: </color><color=#4B0082>3000 + 3000 (Tip 2)</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Zombi Evoluat de Nivel 2.\n<color=black>•</color> Mosteneste trasaturi de la nivel(urile) anterioare.\n<color=black>•</color> Lanseaza 4 cirese explozive la fiecare 1,5 secunde chiar inainte de a-si pierde ziarul.</color>"
+        },
+        {
+            "theZombieType": 302,
+            "name": "Doctor Zombie cu Cireasa Mitraliera",
+            "introduce": "<align=justified><size=36><color=black>Pentru a avansa in stiintele explozive, Doctorul Zombie cu Cireasa Mitraliera se indreapta spre strainatate. Rezerva lui de placinta cu cirese legata la spate? Doar o parte din pregatire.</color>",
+            "info": "<size=36>Absolvent magna cum bombis — gata sa o arate.\n\n<color=black>Daune: </color><color=#4B0082>400 (mestecare) 1000 (cirese explozive)</color>\n<color=black>Duritate: </color><color=#4B0082>6000 + 6000 (Tip 2)</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Zombi Evoluat de Nivel 3.\n<color=black>•</color> Mosteneste trasaturi de la nivel(urile) anterioare.\n<color=black>•</color> Cand e infuriat, isi ia pachetul de munitie si trage cu o cireasa suplimentara la fiecare 0,5 secunde.</color>"
+        },
+        {
+            "theZombieType": 303,
+            "name": "Zombi Fotbalist Giga",
+            "introduce": "<align=justified><size=36><color=black>Satul de lumina reflectoarelor, Zombiul Fotbalist Giga si-a schimbat tricoul rosu aprins cu unul negru intens, care se contopeste cu noaptea. Din pacate, noul look il face sa semene mai mult cu un talhar de banci decat cu un fotbalist.</color>",
+            "info": "<size=36>Un linebacker pregatit pentru a fi discret.\n\n<color=black>Duritate: </color><color=#4B0082>6000 + 6000 (Tip 1)</color>\n<color=black>Trasaturi: </color><color=#4B0082>Zombi Evoluat de Nivel 1.</color>"
+        },
+        {
+            "theZombieType": 304,
+            "name": "Zombi de Elita Giga cu Nuca-Fotbal",
+            "introduce": "<align=justified><size=36><color=black>Iesind din adancurile unui taram sinistru, Zombiul de Elita Giga cu Nuca-Fotbal e un mister viu. El intruchipeaza intuneric, pericol si dezorientare. Nici macar el nu-si aminteste originile, ci doar ca trecutul pare un vis lucid care se estompeaza odata cu zorii.</color>",
+            "info": "<size=36>Un razboinic calit, neinfricat in intuneric.\n\n<color=black>Duritate: </color><color=#4B0082>12000 + 12000 (Tip 1)</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Zombi Evoluat de Nivel 2. \n<color=black>•</color> Regenereaza 5% din HP-ul maxim la fiecare 3 secunde.</color>"
+        },
+        {
+            "theZombieType": 305,
+            "name": "Zombi Lider Giga cu Nuca-Fotbal",
+            "introduce": "<align=justified><size=36><color=black>Zombiul de mana dreapta al Atacantului, Lider Giga cu Nuca-Fotbal pasionat de fotbal e admirat de subordonati si are incredere in comandament. Este loial, priceput si nedumerit de ce laudele nu vin niciodata sub forma unor minti proaspete.</color>",
+            "info": "<size=36>Rasfoieste frontul cu o putere nemiloasa.\n\n<color=black>Daune: </color><color=#4B0082>200 (mestecare)</color>\n<color=black>Duritate: </color><color=#4B0082>24000 + 24000 (Tip 1)</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Zombi Evoluat de Nivel 3.\n<color=black>•</color> Mosteneste trasaturi de la nivel(urile) anterioare.\n<color=black>•</color> Imun la respingere, racire si unt.\n<color=black>•</color> Muscaturile dezactiveaza vindecarea plantelor si fac ca victimele sa primeasca daune triple timp de 1 secunda.</color>"
+        },
+        {
+            "theZombieType": 306,
+            "name": "Zombi Lider Giga de Fier",
+            "introduce": "<align=justified><size=36><color=black>Temut pe campul de lupta, iubit siin afara lui. Liderul Giga de Fier uimeste trupele cu trucul sau caracteristic: ascunderea gloantelor in steagul sau.</color>",
+            "info": "<size=36>Foc suprimant care nu inceteaza.\n\n<color=black>Daune: </color><color=#4B0082>200 (mestecare) 80/0.1s (mazare de fier)</color>\n<color=black>Duritate: </color><color=#4B0082>24000 + 24000 (Tip 1)</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Zombi Evoluat de Nivel 3.\n<color=black>•</color> Imun la respingere, racire si unt.</color>"
+        },
+        {
+            "theZombieType": 307,
+            "name": "Sergentul Michael Zombie",
+            "introduce": "<align=justified><size=36><color=black>Idolul pop al fanilor si favoritul fanilor, Sergentul Michael Zombie, nu poate pleca nicaieri fara o multime de fani galagiosi. Invata miscari noi nu doar pentru turneul sau global, ci si pentru a evita fanele.</color>",
+            "info": "<size=36>Intra in moonwalk cu dansatori de rezerva.\n\n<color=black>Duritate: </color><color=#4B0082>3000</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Zombi Evoluat de Nivel 1.\n<color=black>•</color> Intra cu 3s moonwalk, apoi invoca 4 Super Dansatori cu Prajina.</color>"
+        },
+        {
+            "theZombieType": 308,
+            "name": "Comandantul Michael Zombie",
+            "introduce": "<align=justified><size=36><color=black>Ajuns in culmea faimei, puterii si performantei, Comandantul Michael Zombie are nevoie doar de o scena pentru a-si împartasi bucuria cu lumea.</color>",
+            "info": "<size=36>Face moonwalk-uri cu stil, apoi aduna multimea.\n\n<color=black>Duritate: </color><color=#4B0082>6000</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Zombi Evoluat de Nivel 2.\n<color=black>•</color> Intra cu un moonwalk glisant de 3 secunde. La atingerea celei de-a 4-a coloana sau la blocarea sa, termina moonwalk-ul si apoi invoca 4 Super Dansatori cu Prajina.</color>"
+        },
+        {
+            "theZombieType": 309,
+            "name": "General Michael Zombie",
+            "introduce": "<align=justified><size=36><color=black>Pasi fulgeratori, piruete tulburatoare. Minunea dansului a depasit varsta Academiei Edgar. Acum, proaspat absolvent al Academiei de Dans Jackson, filmeaza un videoclip cu ajutorul bodyguardului sau. Nu uitati sa-i filmati plecaciunea caracteristica de 45° - daca supravietuiti.</color>",
+            "info": "<size=36>Sosire eleganta, bis orbitor.\n\n<color=black>Duritate: </color><color=#4B0082>12000</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Zombi Evoluat de Nivel 3.\n<color=black>•</color> Ignora plantele timp de 3 secunde in timp ce aluneca cu un moonwalk catre a 4-a coloana. Apoi invoca 8 Super Dansatori cu Prajina.</color>"
+        },
+        {
+            "theZombieType": 310,
+            "name": "Rechinmarin-X",
+            "introduce": "<align=justified><size=36><color=black>O imitatie developata de un rival al Gfishtus Corps. Se spune ca functioneaza identic cu originalul, dar Gfishtus insista ca acest model prezinta scurgeri de informatii.</color>",
+            "info": "<size=36>Cea mai recenta unitate de submarin produsa in serie de Edgar.\n\n<color=black>Duritate: </color><color=#4B0082>3000</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Zombi Evoluat de Nivel 1.\n<color=black>•</color> Se misca rapid pe culoarele de apa, zdrobind orice planta din calea sa si provocand 500 de daune plantelor anti-zdrobire.</color>"
+        },
+        {
+            "theZombieType": 311,
+            "name": "Rechimmarin Distrugator",
+            "introduce": "<align=justified><size=36><color=black>Armele \"Impecabile\" sunt supraevaluate. O adevarata victorie consta in focul coplesitor de rachete care cad din cer. Acest submarin modificat, care poarta mine, functioneaza ca un siloz mobil de rachete subacvatice, declansatorul acelui foc.</color>",
+            "info": "<size=36>Bombardeaza non-stop pe linia frontului.\n\n<color=black>Duritate: </color><color=#4B0082>6000</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Zombi Evoluat de Nivel 2.\n<color=black>•</color> Lanseaza o bomba la fiecare 1,5 secunde, tintita spre 2 piese in fata. Bomba explodeaza ca o explozie de tip Jack-in-Cutie, dar poate fi doborata daca sufera 1000 de daune in aer.</color>"
+        },
+        {
+            "theZombieType": 312,
+            "name": "Rechinmarin Turbo",
+            "introduce": "<align=justified><size=36><color=black>Unicul scop al acestui submarin turbo: sa atace si sa perturbe liniile inamice, creand puncte slabe pentru ca aliatii sa poata ataca. Criticii spun ca sacrifica prea mult pentru viteza, dar Edgar ridica din umeri—\"Tot ce am nevoie e sa merg inainte, cu orice pret.\"</color>",
+            "info": "<size=36>Bataleste pe culoare cu viteza nesabuita.\n\n<color=black>Duritate: </color><color=#4B0082>6000</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Zombi Evoluat de Nivel 2.\n<color=black>•</color> Se grabeste pe plantele aleii de apa cu viteza extrema.</color>"
+        },
+        {
+            "theZombieType": 313,
+            "name": "Rechinmarin Dominator",
+            "introduce": "<align=justified><size=36><color=black>Dominatorul suprem al campului de lupta, acest submarin este creatia lui Edgar si a Corpului Gfishtus. Dupa rezolvarea problemei cu inundarea rachetelor, este acum impecabil, cu exceptia unor alge marine care blocheaza ocazional elicea.</color>",
+            "info": "<size=36>Se ridica pentru a bombarda linia din spate cu rachete de croaziera.\n\n<color=black>Duritate: </color><color=#4B0082>12000</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Zombi Evoluat de Nivel 3.\n<color=black>•</color> Intra pe camp scufundat. Iese la suprafata cand exista lante pe banda sa s se oprește din miscare.\n<color=black>•</color> In timp ce a suprafața, lanseaza 2 proiectile la fiecare 1,5 secunde indreptate spre ultima coloana. Proiectilul explodeaza ca o explozie de tip Jack-in-Cutie, dar poate fi doborat daca sufera 1000 daune in aer sau suflat de Sufloi.</color>"
+        },
+        {
+            "theZombieType": 314,
+            "name": "Narvalmarin",
+            "introduce": "<align=justified><size=36><color=black>Inovatia de care Edgar este cel mai mandru, conceputa pentru acceleratie maxima. Tot echipajul trebuie sa treaca teste brutale de centrifugare cu forta G. \"E ca si cum zece Gargantuari s-ar fi asezat pe tine,\" spune un supravietuitor.</color>",
+            "info": "<size=36>Sulita de otel de pe benzile apei.\n\n<color=black>Duritate: </color><color=#4B0082>12000</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Zombi Evoluat de Nivel 3.\n<color=black>•</color> Se incarca la viteza extrema, taind plantele de pe culoarele de apa.\n<color=black>•</color> O data pe unitate, la 0,3 secunde de la aparitie, dubleaza viteza de miscare a tuturor zombilor dintr-o zona 3×3 (cumulabila de pana la 2 ori).</color>"
+        },
+        {
+            "theZombieType": 315,
+            "name": "Zombi Giga cu Trident",
+            "introduce": "<align=justified><size=36><color=black>Purtand o salopeta impermeabila si manuind un trident stralucitor, este gata de pescuit. Nu uitati de casca - este mai putin pentru protectie impotriva plantelor, cat mai mult pentru aparare impotriva pescarilor invidiosi.</color>",
+            "info": "<size=36>Arunca tridente in linia ta din spate.\n\n<color=black>Duritate: </color><color=#4B0082>3000 + 3000 (Tip 1)</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Zombi Evoluat de Nivel 1.\n<color=black>•</color> La 6-9 secunde dupa intrare sau cand e blocat, arunca 4 tridente asupra ultimei coloane.\n<color=black>•</color> Fiecare trident provoaca daune plantelor egale cu 20% (minim 60) din Duritatea lor actuala.</color>"
+        },
+        {
+            "theZombieType": 316,
+            "name": "Zombi Secund Giga cu Nuca-Trident",
+            "introduce": "<align=justified><size=36><color=black>Inarmat cu picaturi pentru ochi si o casca de Nuca-Inalta intarita, e gata sa prinda captura zilei sau rivalii sai.</color>",
+            "info": "<size=36>Nu poti evita ce tinteste.\n\n<color=black>Duritate: </color><color=#4B0082>6000 + 6000 (Tip 1)</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Zombi Evoluat de Nivel 2.\n<color=black>•</color> La 6-9 secunde dupa intrare sau cand e blocat, arunca 8 tridente la întamplare catre plante cu 4 piese inainte (neafectat de Umbrele).\n<color=black>•</color> Daunele de baza a tridentului +100.</color>"
+        },
+        {
+            "theZombieType": 317,
+            "name": "Capitanul Zombi Giga cu Nuca-Trident",
+            "introduce": "<align=justified><size=36><color=black>Un razboinic puternic, candva destinat serviciului de motostivuitor - pana cand nu a trecut testul de marime a castii. Asa ca acum pur si simplu arunca mai multe tridente, mai tare.</color>",
+            "info": "<size=36>Tridentele ploua imprastiate.\n\n<color=black>Duritate: </color><color=#4B0082>12000 + 12000 (Tip 1)</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Zombi Evoluat de Nivel 3.\n<color=black>•</color> 6-9 secunde dupa intrare sau cand e blocat, arunca 12 tridente in grup.\n<color=black>•</color> Se imparte intr-un trident suplimentar pentru fiecare planta cu 4 piese inainte. \n<color=black>•</color> Daunele de baza a tridentului +300.</color>"
+        },
+        {
+            "theZombieType": 318,
+            "name": "Zombi Miner de Netherit",
+            "introduce": "<align=justified><size=36><color=black>Cu un tarnacop de netherit si o licenta de minerit falsificata, acest zombi a pornit sa incheie o intelegere pentru carbune cu Regina Endoflacara - desi reteaua de trafic Wither Skeleton(Scheletului Ofilit) a Piglin Corp s-ar putea dovedi a fi o concurenta acerba.</color>",
+            "info": "<size=36>Cel mai rapid sapator in minele de netherit.\n\n<color=black>Duritate: </color><color=#4B0082>3000 + 3000 (Tip 1)</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Zombi Evoluat de Nivel 1.\n<color=black>•</color> Fiecare atac adauga 2000 de puncte de progres miner la planta. Daca progresul mineritului depășește HP-ul plantei, aceasta este distrusa instantaneu.</color>"
+        },
+        {
+            "theZombieType": 319,
+            "name": "Zombi Perforator de Netherit",
+            "introduce": "<align=justified><size=36><color=black>Laudat la concursurile de excavare pentru burghiul sau de netherit alimentat cu lava. Desi uita mereu sa mentioneze ca sapa lui e tot din netherit, dedicarea!</color>",
+            "info": "<size=36>Sapa tuneluri, dar se pierde usor.\n\n<color=black>Duritate: </color><color=#4B0082>6000 + 6000 (Tip 1)</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Zombi Evoluat de Nivel 2.\n<color=black>•</color> Fiecare atac adauga 4000 de puncte de progres miner la planta.\n<color=black>•</color> Sapa in subteran, iar burghiul sau nu poate fi tras de Ciupercile-Magnet cat timp se afla in subteran.\n<color=black>•</color> Apare aleatoriu intre coloane 2-8.</color>"
+        },
+        {
+            "theZombieType": 320,
+            "name": "Zombi Excavator de Netherit",
+            "introduce": "<align=justified><size=36><color=black>Seful Biroului Minier Nether al Zombilor, urmat de sute de zombi nerabdatori si demni de munca, viseaza la un imperiu minier. Edgar batjocorește: \"El continua sa sape tuneluri in mormintele altor zombi, deoarece este orbit de casca sa. De aceea il urmaresc mereu.\"</color>",
+            "info": "<size=36>Conduce alti zombi in subteran intr-o mare sapatura.\n\n<color=black>Duritate: </color><color=#4B0082>12000 + 12000 (Tip 1)</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Zombi Evoluat de Nivel 3.\n<color=black>•</color> Fiecare atac adauga 8000 de puncte de progres miner la planta.\n<color=black>•</color> Mosteneste trasaturile nivelului sau nivelurilor anterioare.\n<color=black>•</color> Intra-n subteran impreuna cu zombii non-vehicule din apropiere. Ies impreuna mai tarziu.</color>"
+        },
+        {
+            "theZombieType": 321,
+            "name": "Michael Zomboni Armat",
+            "introduce": "<align=justified><size=36><color=black>Atacati, atacati din nou, zdrobiti totul! Zomboni a brazdat campul cu un avant de neoprit, pana a intalnit iazul din mijlocul peluzei.</color>",
+            "info": "<size=36>Zombi de discoteca care conduce un vehicul armat.\n\n<color=black>Duritate: </color><color=#4B0082>6000</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Zombi Evoluat de Nivel 1.\n<color=black>•</color> Zdrobeste plante. Are o reducere a daunelor de 50%.\n<color=black>•</color> Invoca  Michael Zombie standard la moarte.</color>"
+        },
+        {
+            "theZombieType": 322,
+            "name": "Michael Zomboni Blindat",
+            "introduce": "<align=justified><size=36><color=black>\"Am adaugat mai multe straturi la armura frontala!\" Vehiculul recent renovat este acum mandria lui Michael Zombie, desi regreta ca golurile dintre straturile de blindaj inca nu sunt suficient de largi pentru a inghesui mai multi dansatori de rezerva.</color>",
+            "info": "<size=36>Vehiculul lui Michael Zombie include acum un strat suplimentar de armura usoara.\n\n<color=black>Duritate: </color><color=#4B0082>12000</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Zombi Evoluat de Nivel 2.\n<color=black>•</color> Zdrobeste plante. Are o reducere a daunelor de 66%.\n<color=black>•</color> Invoca un Michael Zomboni Armat la moarte.</color>"
+        },
+        {
+            "theZombieType": 323,
+            "name": "Michael Zomboni Colosal",
+            "introduce": "<align=justified><size=36><color=black>Armura extrem de groasa a acestui vehicul i-a adus porecla \"Nava de Lupta pe Teren\". In ultima vreme, Michael Zombie a venit cu inca un design nou si indraznet: inlocuieste baza cu trepte, instaleaza o turela multistrat si monteaza un tun cu teava lunga. El crede ca aceasta va fi o inventie cu adevarat originala.</color>",
+            "info": "<size=36>Vehiculul lui Michael Zombie include acum doua straturi de armura grea din otel.\n\n<color=black>Duritate: </color><color=#4B0082>24000</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Zombi Evoluat de Nivel 3.\n<color=black>•</color> Zdrobeste plante. Are o reducere a daunelor de 75%.\n<color=black>•</color> Produce un Michael Zomboni Blindat la moarte.</color>"
+        },
+        {
+            "theZombieType": 324,
+            "name": "Cavaler Zombi Clovn-pe-Pogo",
+            "introduce": "<align=justified><size=36><color=black>Nu-l deranja - e indragostit. Nu are chef sa auda parerea ta pesimista despre romantismul lui si, daca incerci, vei fi întampinat de o reactie emoționala exploziva.</color>",
+            "info": "<size=36>Zombi Pogo cu un bat pogo modern incarcat cu explozibil. Doar putin magnetic și dificil de dezarmat.\n\n<color=black>Duritate: </color><color=#4B0082>3000 + 3000 (Tip 1)</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Zombi Evoluat de Nivel 1.\n<color=black>•</color> Mosteneste trasaturile Zombiului Clovn-pe-Pogo.\n<color=black>•</color> Nu pierde batul pogo daca e lovit inapoi de Umbrele.\n<color=black>•</color> Daca e ucis in timp ce tine inca batul, declanseaza o explozie de tip Jack-in-Cutie.</color>"
+        },
+        {
+            "theZombieType": 325,
+            "name": "Rege Zombi Clovn-pe-Pogo",
+            "introduce": "<align=justified><size=36><color=black>Odata s-a confruntat cu vanzari slabe de bete pogo, pepeni verzi si jucarii de tip „jack-in-cutie”. Asa ca a consultat Zombiul Catapulta. \"Trebuie sa-ti imaginezi pepenele verde si jack-in-cutie ca fiind unul si acelasi lucru,\" a mers sfatul. Judecand dupa succesul exploziv, a functionat.</color>",
+            "info": "<size=36>Echipat cu un incarcator de unica folosinta pentru batul său pogo exploziv.\n\n<color=black>Duritate: </color><color=#4B0082>6000 + 6000 (Tip 1)</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Zombi Evoluat de Nivel 2.\n<color=black>•</color> Mosteneste toate trasaturile Cavalerului Zombi Clovn-pe-Pogo.\n<color=black>•</color> Daca apare in jumatatea dreapta a terenului, se incarca timp de 5 secunde si apoi face un salt lung de aproximativ 4 piese.</color>"
+        },
+        {
+            "theZombieType": 326,
+            "name": "Imparatul Zombi Clovn-pe-Pogo",
+            "introduce": "<align=justified><size=36><color=black>Dupa mult timp, a depasit in sfarsit durerea despartirii. Acum este imbracat in culori stridente si gata sa curteze o noua zeita. Acum o urmărește pe Regina Jill-in-Cutie. Sa speram ca rezistenta lui emotionala s-a imbunatatit.</color>",
+            "info": "<size=36>Cu un sistem de incarcare îmbunatatit, fumul de la batul sau pogo exploziv mascheaza momeala inlocuitoare.\n\n<color=black>Duritate: </color><color=#4B0082>12000 + 12000 (Tip 1)</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Zombi Evoluat de Nivel 3.\n<color=black>•</color> Mosteneste trasaturile Regelui Zombi Clovn-pe-Pogo dar durata incarcarii e redusa la 0.5 secunde.\n<color=black>•</color> Poate insela moartea daca isi tine batul pogo.</color>"
+        },
+        {
+            "theZombieType": 327,
+            "name": "Bombardier Kirov",
+            "introduce": "<align=justified><size=36><color=black>Întrucat piesele de top nu sunt produse neasteptate, Corpul Gfishtus a considerat ca ar fi eficient din punct de vedere al costurilor sa realizeze un model simplificat pentru atacuri la scara mai mica. Desi, in cele din urma, au realizat doar o nava aeriana care este straniu de similara cu modelul original al Dr-ului Zomboss...\n\n- Scris de Domnul Etc.</color>",
+            "info": "<size=36>O nava aeriana Kirov care lanseaza periodic bombe de tip Jack-in-Cutie.\n\n<color=black>Daune: </color><color=#4B0082>500/1.5s</color>\n<color=black>Duritate: </color><color=#4B0082>3000</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Zombi Evoluat de Nivel 1.\n<color=black>•</color> Se prabuseste dupa ce primeste 20 de lovituri de la stelele Astrofructului.</color>"
+        },
+        {
+            "theZombieType": 328,
+            "name": "Nava-mama Kirov",
+            "introduce": "<align=justified><size=36><color=black>Nava-mama Kirov este un produs de baza al Corpului Gfishtus, iar compania sustine ca foloseste tehnologie de drone de ultima generatie. Dar daca examinati cu atentie resturile minionilor sai, veti gasi adesea \"Reciclat\" pictat in rosu.</color>",
+            "info": "<size=36>O nava-mama aerianăa care desfasoara drone Kirov.\n\n<color=black>Duritate: </color><color=#4B0082>6000</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Zombi Evoluat de Nivel 2.\n<color=black>•</color> La fiecare 3 secunde, invoca o drona Kirov cu 0,1× propria sa viata.\n<color=black>•</color> Se prabuseste dupa ce primeste 30 de lovituri de la stelele Astrofructului.</color>"
+        },
+        {
+            "theZombieType": 329,
+            "name": "Nava Amiral Kirov",
+            "introduce": "<align=justified><size=36><color=black>Infiltrare la mare altitudine! Recunoastere si asalt integrate! Acoperire totala cu putere de foc! Lupta fara pilot complet digitalizata! Gfishtus Corps prezinta cu mandrie Kirov 2.0! Este bestia suprema, cu excepția razei de zbor ridicol de scurte, care o relega la statutul de simpla fregata sub o nava-mama mai mare. Nava-mama, desigur, se vinde separat.</color>",
+            "info": "<size=36>O suprematie aeriana care desfasoara bombardiere rapide cu covor.\n\n<color=black>Daune: </color><color=#4B0082>300/1.5s</color>\n<color=black>Duritate: </color><color=#4B0082>12000</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Zombi Evoluat de Nivel 3.\n<color=black>•</color> La fiecare 3 secunde, invoca 2 Bombardiere Supersonice pentru a decima rapid culoarul.\n<color=black>•</color> Se prabuseste dupa ce primeste 40 de lovituri de la stelele Astrofructului.</color>"
+        },
+        {
+            "theZombieType": 330,
+            "name": "Aratare fara Odihna",
+            "introduce": "<align=justified><size=36><color=black>Nascut in saracie, am avut norocul sa fiu sponsorizat de un patron bogat si am dobandit o educatie. Mai tarziu, am servit ca un functionar onest, vorbind deschis la curte. Oamenii spuneau ca imparatul era un tiran, dar, desi mi-a ignorat sfatul, nu m-a pedepsit niciodata. Abia mai tarziu am aflat: imparatul era surd.</color>",
+            "info": "<size=36>Un spirit reanimat care explodeaza la moarte, ranind toata viata verde din urma sa.\n\n<color=black>Daune: </color><color=#4B0082>250 (non-bite)</color>\n<color=black>Duritate: </color><color=#4B0082>3000</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Zombi Evoluat de Nivel 1.\n<color=black>•</color> Cand este ucisa de daune, provoaca 125 de daune tuturor plantelor dintr-o zona 3×3.</color>"
+        },
+        {
+            "theZombieType": 331,
+            "name": "Aratare Nemuritoare",
+            "introduce": "<align=justified><size=36><color=black>Aratarea noptii s-a inaltat, imprastiindu-i pe toti aliatii. Doua plante i-au stat in cale. Infuriata, a lovit - una a cazut, iar cealalta a incercat sa reziste. Aratarea a tasnit inainte, strapungandu-i pe amandoi si terminandu-i cu lovituri brutale. Curajosi au fost, dar amandoi au pierit intr-o clipa. Ce mai puteau face? De ras.</color>",
+            "info": "<size=36>O fantoma care strapunge barierele cu o forta fantomatica.\n\n<color=black>Daune: </color><color=#4B0082>500 (non-mectecatura)</color>\n<color=black>Duritare: </color><color=#4B0082>6000</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Zombi Evoluat de Nivel 2.\n<color=black>•</color> La fiecare 4-8 secunde, se deplaseaza rapidinainte pana la 2 piese, ignorand plantele si provocand daune.\n<color=black>•</color> Când este ucisă de daune, provoacă 250 daune tuturor plantelor dintr-o zonă 3×3.</color>"
+        },
+        {
+            "theZombieType": 332,
+            "name": "Aratare Eterna",
+            "introduce": "<align=justified><size=36><color=black>Li Chi-hsing, originar din Fengdu, a spus odata ca un baiat, \"Pot vedea acolo o pecete de jad — apartine familiei mele.\" Toata lumea a ras. La 24 de ani, in mijlocul foametei, s-a revoltat si s-a proclamat rege al Fengdu-ului. Cand a primit sigiliul de jad, acesta i-a parjolit fata. Anul urmator a adus o alta foamete. A fost inlaturat, scapand cu viata. Cu limba ranita de sigiliu, cand a fost intrebat cum il cheama, a putut doar sa mormaie: \"Sunt Cada..vru..\"</color>",
+            "info": "<size=36>O fantoma care trece prin plante si loveste cu manie imperiala.\n\n<color=black>Daune: </color><color=#4B0082>300/1.5s</color>\n<color=black>Duritate: </color><color=#4B0082>12000</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Zombi Evoluat de Nivel 3.\n<color=black>•</color> In partea dreapta a peluzei, la fiecare 4-8 secunde, trece prin pana la 4 piese ignorand plantele, ajungand cat mai departe in rand si provocand daune pe parcurs. Daca nu sunt prezente plante care pot fi ocolite, se deplaseaza rapid inainte cu o piesa.\n<color=black>•</color> In partea stanga, incercarea de  faza dezactiveaza aceasta abilitate.\n<color=black>•</color> Cand este ucisa de daune, provoaca 500 de daune tuturor plantelor dintr-o zona 3×3.</color>"
+        },
+        {
+            "theZombieType": 333,
+            "name": "Trident Usor Hwacha",
+            "introduce": "<align=justified><size=36><color=black>\"Cand florile de per infloresc pe pamant, raul curge sub o panza moale.\" a citit Tridentul Usor Hwacha aceasta balada intr-o carte îngalbenita, impresionata de legenda din spatele ei. Din pacate, nu a inteles ca rachetele au nevoie de motoare pentru a zbura departe.</color>",
+            "info": "<size=36>Dezlantuie un val mic de tridente.\n\n<color=black>Duritate: </color><color=#4B0082>3000</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Zombi Evoluat de Nivel 1.\n<color=black>•</color> Ataca prin tragerea a 4 tridente simultan, se poate reincarca si trage din nou o data, apoi se reia avansarea si zdrobirea plantelor. Tridentele aterizeaza cu 5-7 piese inainte.</color>"
+        },
+        {
+            "theZombieType": 334,
+            "name": "Trident Mediu Hwacha",
+            "introduce": "<align=justified><size=36><color=black>Antrenamentul cu Tridentul Mediu Hwacha implica exercitii unice de precizie. Deoarece tridentele nu isi pot schimba traiectoria in aer, soferul trebuie sa repozitioneze intreaga caruta pentru a tinti. \"Ajustati putin… mai putin… doar putin—\" Splash! Caruta se rostogoleste intr-un iaz din apropiere.</color>",
+            "info": "<size=36>Dezlantuie un val mai mare de tridente.\n\n<color=black>Duritate: </color><color=#4B0082>3000 + 3000 (Tip 1)</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Zombi Evoluat de Nivel 2.\n<color=black>•</color> Mosteneste trasaturile Tridentului Usor Hwacha, dar trage cu 14 tridente pe salva.</color>"
+        },
+        {
+            "theZombieType": 335,
+            "name": "Trident Greu Hwacha",
+            "introduce": "<align=justified><size=36><color=black>Un razboinic trident veteran, decorat si experimentat, s-a alaturat Diviziei Hwacha ca cea mai noua unitate a sa. A vanat blanosi de zapada in tundra si s-a luptat cu crocodili in mlastini. Acum sta in fata ta, gata de lupta. Sa vedem - poti evita asta?</color>",
+            "info": "<size=36>Dezlantuie tridente care se imprastie la moarte.\n\n<color=black>Duritate: </color><color=#4B0082>6000 + 6000 (Tip 1)</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> Tier 3 Evolved Zombie.\n<color=black>•</color> Mosteneste trasaturile Tridentului Mediu Hwacha.\n<color=black>•</color> La moarte, tridentele neutilizate se imprastie aleatoriu in raza de 3.5 piese din banda sa, provocand daune tuturor plantelor lovite.</color>"
+        },
+        {
+            "theZombieType": 195,
+            "name": "Zombi Lunetist Comando",
+            "introduce": "<align=justified><size=36><color=black>Un vanator de recompense devenit comando, Zombiul Lunetist Comando este invaluit in mister. Nimeni nu stie de unde vine, de ce este atat de serios sau cum intentioneaza sa mănânce creiere printr-un butoi atat de ridicol.</color>",
+            "info": "<size=36>Iti pedepseste cele mai valoroase plante cu precizie.\n\n<color=black>Duritate: </color><color=#4B0082>1000</color>\n<color=black>Trasaturi: </color><color=#4B0082>\n<color=black>•</color> La intrare, vizeaza cea mai valoroasa planta de pe gazon (dupa costul Soarelui).\n<color=black>•</color> Daca nu este eliminata in 8 secunde, ucide planta si trece la urmatoarea tinta.</color>"
+        }
+    ]
+}

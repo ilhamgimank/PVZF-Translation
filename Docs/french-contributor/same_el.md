@@ -21,14 +21,167 @@ Ce document retrace l’ensemble des contributions effectuées par **Same-ael** 
 
 > Statistiques cumulées sur l’ensemble de la période.
 
-* Nouvelles traductions : **10**
-* Traductions ajustées : **76**
+* Nouvelles traductions : **24**
+* Traductions ajustées : **108**
 
 ---
 
 ## 🗓️ Historique des contributions
 
 > Les contributions sont regroupées par semaine civile (ISO).
+
+---
+
+### 📅 Semaine — `23/02/26 → 01/03/26`
+> [PR#101](https://github.com/Teyliu/PVZF-Translation/pull/101)
+
+**Résumé de la semaine**
+
+* Nouvelles traductions : **1**
+* Traductions ajustées : **4**
+
+---
+
+#### Détail
+
+## 🧟‍♂️ **Newly Added Zombie Translations**
+* **Gargantua Lanceur-de-nain** (`theZombieType: 124`)
+
+## 🛠️ **Modified Zombies**
+* **Zombie QB Giga-noix** (`theZombieType: 204`)
+* **Zomppelin Kirov** (`theZombieType: 205`)
+* **Drone Kirov** (`theZombieType: 206`)
+* **<u>Giga Rugby Attaquant</u>** (`theZombieType: 220`)
+
+---
+
+### 📅 Semaine — `16/02/26 → 22/02/26`
+> [PR#99](https://github.com/Teyliu/PVZF-Translation/pull/99) 
+
+**Résumé de la semaine**
+
+* Traductions ajustées : **3**
+
+---
+
+#### Détail
+
+## 🛠️ **Modified Zombies**
+* **Zomboni Michael** (`theZombieType: 201`)
+* **Giga-noix à Trident** (`theZombieType: 202`)
+* **Zombie-cerise-sulfateuse à Journal** (`theZombieType: 203`)
+
+---
+
+### 📅 Semaine — `09/02/26 → 15/02/26`
+> [PR#98](https://github.com/Teyliu/PVZF-Translation/pull/98) 
+
+**Résumé de la semaine**
+
+* Nouvelles traductions : **1**
+
+---
+
+#### Détail
+
+## 🧟‍♂️ **Newly Added Zombie Translations**
+* **Gargantua Mystère** (`theZombieType: 121`)
+
+---
+
+### 📅 Semaine — `02/02/26 → 08/02/26`
+> [PR#96](https://github.com/Teyliu/PVZF-Translation/pull/96) 
+
+**Résumé de la semaine**
+
+* Nouvelles traductions : **4**
+* Traductions ajustées : **9**
+
+---
+
+#### Détail
+
+## 🧟‍♂️ **Newly Added Zombie Translations**
+* **Pois Renforcé-coptère** (`theZombieType: 119`)
+* **Zombie Champi-mort** (`theZombieType: 120`)
+* **Gargantua Hyperactift** (`theZombieType: 122`)
+* **Gargantua Invocateur** (`theZombieType: 123`)
+
+## 🛠️ **Modified Zombies**
+* **Pisto-pois Seau Moustiquaire** (`theZombieType: 114`)
+* **Zombie Écraseur Épicé** (`theZombieType: 116`)
+* **Zombie Jalapeño** (`theZombieType: 117`)
+* **Commando Pois QB** (`theZombieType: 118`)
+* **Diablotin Abyssal** (`theZombieType: 213`)
+* **Zombie Mystère Diamant** (`theZombieType: 215`)
+* **Yéti Pisto-pois Béluga** (`theZombieType: 113`)
+* **Zombie Cétologue** (`theZombieType: 19`)
+* **Yéti Béluga** (`theZombieType: 27`)
+
+---
+
+### 📅 Semaine — `26/01/26 → 01/02/26`
+> [PR#94](https://github.com/Teyliu/PVZF-Translation/pull/94) 
+
+**Résumé de la semaine**
+
+* Nouvelles traductions : **2**
+* Traductions ajustées : **5**
+
+---
+
+#### Détail
+
+## 🧟‍♂️ **Newly Added Zombie Translations**
+* **Zombie Piment Hypnotique** (`theZombieType: 74`)
+* **Mineur Jala-hypno** (`theZombieType: 75`)
+
+## 🛠️ **Modified Zombies**
+* **Grande-noix Quarterback** (`theZombieType: 109`)
+* **Zombie Mystère Doré** (`theZombieType: 110`)
+* **Zombie Écraseur** (`theZombieType: 115`)
+* **Zombie Noix Glacée** (`theZombieType: 111`)
+* **Zombie Lance-grenade** (`theZombieType: 112`)
+
+---
+
+### 📅 Semaine — `19/01/26 → 24/01/26`
+> [PR#70](https://github.com/Teyliu/PVZF-Translation/pull/70) 
+
+**Résumé de la semaine**
+
+* Nouvelles traductions : **7**
+* Traductions ajustées : **11**
+
+---
+
+#### Détail
+
+## 🌱 **Newly Added Translations**
+* **Planterne Ultraviolet** (`seedType: 1341`)
+* **Ail de mort** (`seedType: 1355`)
+* **Algue Séchée** (`seedType: 1238`)
+* **Capitaine Algue-d'or** (`seedType: 941`)
+
+## 🧩 **Modified Plants**
+* **Écraseur Pimenté** (`seedType: 1054`)
+* **Écras-torche** (`seedType: 1059`)
+* **Lance-chou puant** (`seedType: 1118`)
+* **Ombrelle Chou** (`seedType: 1128`)
+* **Lance-chou Argenté** (`seedType: 1134`)
+* **Lance-pastèque Dumara** (`seedType: 1124`)
+
+## 🧟‍♂️ **Newly Added Zombie Translations**
+* **Zombie Cambrioleur** (`theZombieType: 63`)
+* **Michael des Tropiques** (`theZombieType: 64`)
+* **Zombie Capitaine-quarterback** (`theZombieType: 66`)
+
+## 🛠️ **Modified Zombies**
+* **Noix-mecha Zombie** (`theZombieType: 40`)
+* **Yéti Zombie** (`theZombieType: 47`)
+* **Yéti Huo-Long** (`theZombieType: 48`)
+* **Zombie Kidnappeur** (`theZombieType: 45`)
+* **Gargantua Gladiateur** (`theZombieType: 43`)
 
 ---
 
