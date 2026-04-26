@@ -2356,7 +2356,7 @@
             "seedType": 1170,
             "name": "Nugget-shroom",
             "introduce": "<align=left><size=36><color=black>Some plants asked: \"Why is the top of Nugget-shroom red?\", to which he replied, \"Well, let me ask you first...\"</color>",
-            "info": "<size=36>Can reproduce itself!\n\n<color=black>Damage: </color><color=#8B0000>20/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Short plant. Spawns a new Nugget-shroom in the same tile after 20 Seconds. Each Nugget-shroom can only reproduce once. Upon death, it deals 300 damage to nearby zombies</color>",
+            "info": "<size=36>Can reproduce itself!\n\n<color=black>Damage: </color><color=#8B0000>20/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Short plant. Spawns a new Nugget-shroom in the same tile after 20 Seconds. Each Nugget-shroom can only reproduce once. Upon death, it deals 300 damage to nearby zombies.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Potato Mine > Puff-shroom</color>"
         },
         {
