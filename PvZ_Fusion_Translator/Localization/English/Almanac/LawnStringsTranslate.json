@@ -649,7 +649,7 @@
             "name": "Laser Pumpkin",
             "introduce": "<align=left><size=36><color=black>\"Magnet-shroom's power remains unmatched,\" said Laser Pumpkin. \"After all, composite armor, electromagnetic catapults, and plasma guns came nearly a century after aircraft carriers.\" Other plants envied Laser Pumpkin's high-tech gear, but only Magnet-shroom knew his power came from a Magnetar meteorite.</color></size>",
             "info": "<size=36>Spawns laser drones that home in on enemies.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Damage: </color><color=#8B0000>200/1.5s (Drone)\n200/1s (Wingman)\n<color=black>Toughness: </color><color=#8B0000>16000</color>\n<color=#666699>Magnetic System:</color> <color=#8B0000>When part of a Magnetic System with a Omni Pumpkin or any Metal-infused Pumpkin (including the Joker Pumpkin part of Pumpkin Bunker), gains their special traits. Additionally, assimilates all but one Omni Pumpkin in the same system into a Laser Pumpkins every 30s (first time 10s).</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Always has a Laser Drone wingman with him when he appears. Generates a Laser Drone on top of a tile around a 3×3 area every 30s (first time 10s).\n<color=black>•</color> Reflects 100 damage back to zombies biting it.\n<color=black>Odyssey Modifiers:\n</color><color=#8B0000>1. Wingmen Amount → 3\n2. Wingmen & drones damage ×3</color></size>",
-            "cost": "<size=35>\nFusion Recipe: <color=#8B0000>Magnet Blover > Carrier Pumpkin</color>"
+            "cost": "<size=35>\nFusion Recipe: <color=#8B0000>Magnet Blover > Pumpkarrier</color>"
         },
         {
             "seedType": 912,
@@ -1934,8 +1934,8 @@
         },
         {
             "seedType": 1110,
-            "name": "Carrier Pumpkin",
-            "introduce": "<align=left><size=36><color=black>Carrier Pumpkin always kept three books on its shelf, their titles concealed from the curious eyes of the other plants. One day, a Cactus Drone's curiosity led it into the study, where it uncovered the titles: \"Guide to Succulent Plant Cultivation,\" \"Postpartum Care for Pumpkins,\" and \"30-Second Cactus Quick Flight Tutorial.\" The Cactus Drone chuckled at the unexpected collection.</color></size>",
+            "name": "Pumpkarrier",
+            "introduce": "<align=left><size=36><color=black>Pumpkarrier always kept three books on its shelf, their titles concealed from the curious eyes of the other plants. One day, a Cactus Drone's curiosity led it into the study, where it uncovered the titles: \"Guide to Succulent Plant Cultivation,\" \"Postpartum Care for Pumpkins,\" and \"30-Second Cactus Quick Flight Tutorial.\" The Cactus Drone chuckled at the unexpected collection.</color></size>",
             "info": "<size=36>Spawns a Cactus Drone that moves around the field to attack flying zombies.\n\n<color=black>Damage: </color><color=#8B0000>30×2/1.5s (Drone), 30×2/1s (Wingman)\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>Inherits Thorny Pumpkin traits. Always has a Cactus Drone wingman with him when he appears. Generates a Cactus Drone on top of a 3×3 area every 30s (first time 10s).</color></size>",
             "cost": "<size=36>Fusion Recipe: <color=#8B0000>Cactus > (Blover > Pumpkin) OR Blover > (Cactus > Pumpkin)</color>"
         },
