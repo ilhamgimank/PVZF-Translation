@@ -166,8 +166,8 @@
         "45": "Scylla Leviathan: Fires 3 base attack projectiles at once",
         "46": "Cryolina Reaper & Reaprika: Soul charge cap increased to 10, now gains 1 soul charge whenever a Mini-boss dies",
         "47": "Cryolina Reaper & Reaprika: When using a soul charge, also grants 1s of invincibility to all plants",
-        "48": "Photon Splitter: Lv1: Lumos energy cap increase from 1000 to 2000; Lv2: Lumos energy cap further increased to 10k | Axion Splitter: Projectile damage radius +50%",
-        "49": "Photon Splitter: Boosts Transfer efficiency by 50%, and by 250% if target's energy < 1000 | Axion Splitter: Now fires 2 extra projectiles each attack",
+        "48": "Photon Splitter: Lv1: Lumos energy cap increase from 1000 to 2000; Lv2: Lumos energy cap further increased to 10k | Entropea: Projectile damage radius +50%",
+        "49": "Photon Splitter: Boosts Transfer efficiency by 50%, and by 250% if target's energy < 1000 | Entropea: Now fires 2 extra projectiles each attack",
         "50": "Buckshot Commando: All Commandos Ultimate Trigger chances ×3 | Synchronizer Snipea: All Snipeas now fire an extra shot after a Headshot",
         "51": "Buckshot Commando: All Commandos Ultimate Damage ×2 and no longer spread | Synchronizer Snipea: All Snipeas required shots before triggering Headshot -3"
     },
@@ -187,7 +187,7 @@
         "12": "Unlock Laser Pumpkin: Pumpkarrier + Magnet Blover\nand its Subspecies Blast Pumpkin",
         "13": "Unlock Napalm-shroom: Summer Melon + Football-shroom",
         "14": "Unlock Kelptain Goldbeard: Twin Marigold > Hydra Kelp",
-        "15": "Unlock Quantum McCornics: Popcorn-pult ×3 + Portal-pult\nand its Subspecies Astro-nut",
+        "15": "Unlock Quantum McCornics: Baby Corn ×3 + Portal-pult\nand its Subspecies Astro-nut",
         "16": "Unlock Lifereaver Spruce: Spruce Supershooter + Snowbloom Spruce\nand its Subspecies Soulrender Bamboo",
         "17": "Unlock Tyrannoflora Lux: Lumos Angler > Chomper Maw",
         "18": "Unlock Vulcannon: Pyro Cannon + Pepper Popper\nand its Subspecies Kaledera Eruptor",
@@ -196,7 +196,7 @@
         "21": "Unlock Prometheus Liontail: Flame Cattail + Pepper Popper",
         "22": "Unlock Scylla Leviathan: Minnow-shroom + Kraken-shroom",
         "23": "Unlock Cryolina Reaper: Spicicle + Spicicle\nand its Subspecies Reaprika",
-        "24": "Unlock Photon Splitter: Split Beam + Chrono Pea\nand its Subspecies Axion Splitter",
+        "24": "Unlock Photon Splitter: Split Beam + Chrono Pea\nand its Subspecies Entropea",
         "25": "Unlock Buckshot Commando: Football Gatling + Buckshooter\nand its Subspecies Synchronizer Snipea"
     },
     "debuffs": {
