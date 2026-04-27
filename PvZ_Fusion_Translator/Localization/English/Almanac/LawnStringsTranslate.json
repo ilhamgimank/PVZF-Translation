@@ -270,7 +270,7 @@
             "seedType": 38,
             "name": "Aloe Aqua",
             "introduce": "<align=left><size=36><color=black>Aloe Aqua thought opening a spa in the snowy plains would be relaxing—until she realized no one wants a cold soak in subzero weather. At least the snow keeps the towels crisp.</color>",
-            "info": "<size=36>Cold-loving lobber that throws dew drops, or ice chunks when it's sufficiently chill.\n\n<color=black>Damage: </color><color=#8B0000>20/3s</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>\n<color=black>•</color> Gains 1/1/15 ice charges when affected by snowball/snow trident/Ice-shroom respectively.\n<color=black>•</color> Consumes 1 charge to throw an ice chunk (×2 damage, applies Deep Chill, 40 Cryo points).\n<color=black>•</color> Deep Chill: same as regular Chill but affects Frost Legionnaires too. Zombonis are still immune.\n<color=black>•</color> Deals ×4 damage to frozen zombies.</color>\n<color=black>Special: </color><color=#8B0000>Immune to freeze from Snowballs.</color>",
+            "info": "<size=36>Cold-loving lobber that throws dew drops, or ice cubes when it's sufficiently chill.\n\n<color=black>Damage: </color><color=#8B0000>20/3s</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>\n<color=black>•</color> Gains 1/1/15 ice charges when affected by snowball/snow trident/Ice-shroom respectively.\n<color=black>•</color> Consumes 1 charge to throw an ice cube (×2 damage, applies Deep Chill, 40 Cryo points).\n<color=black>•</color> Deep Chill: same as regular Chill but affects Frost Legionnaires too. Zombonis are still immune.\n<color=black>•</color> Deals ×4 damage to frozen zombies.</color>\n<color=black>Special: </color><color=#8B0000>Immune to freeze from Snowballs.</color>",
             "cost": "<size=36>Cost: <color=#8B0000>75</color>\nRecharge: <color=#8B0000>7.5s</color>"
         },
         {
@@ -2440,7 +2440,7 @@
             "seedType": 1182,
             "name": "Frostburn-wood",
             "introduce": "<align=left><size=36><color=black>\"One input, one output. That's the rule.\" Frostburn-wood prided himself on his structured logic. \"That's why I counteract Torchwood's flames with pure, unyielding frost.\" But put them together? Things got... messy. Fire and ice, heat and cold—sometimes they balanced, sometimes they clashed, and sometimes, well... physics just gave up.</color>",
-            "info": "<size=36>Can turn normal peas into snow peas or polar ice peas, and water orbs into ice blocks.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Turns the normal peas that pass through into snow peas, and the snow peas that pass through into polar ice peas for ×2 damage and ×2 Cryo points.\n<color=black>•</color> Turns the water orbs from Spruce Sprayshooters into ice blocks.</color>",
+            "info": "<size=36>Can turn normal peas into snow peas or polar ice peas, and water orbs into ice blocks.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Turns the normal peas that pass through into snow peas, and the snow peas that pass through into polar ice peas for ×2 damage and ×2 Cryo points.\n<color=black>•</color> Turns the water orbs from Spruce Sprayshooters into ice chunks.</color>",
             "cost": "<size=36>\nFusion Recipe: <color=#8B0000>Torchwood + Ice-shroom</color>"
         },
         {
@@ -2699,7 +2699,7 @@
             "seedType": 1219,
             "name": "Spruce Sprayshooter",
             "introduce": "<align=left><size=36><color=black>Can an archer compete without a bow? Spruce Sprayshooter shrugs: \"It's just waterbending.\"</color>",
-            "info": "<size=36>Bends and shoots water orbs; consumes ice charges to launch ice blocks instead.\n\n<color=black>Damage: </color><color=#8B0000>50/1.5s</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>\n<color=black>•</color> Gains 1/1/15 ice charges when affected by snowball/snow trident/Ice-shroom respectively.\n<color=black>•</color> Uses 1 ice charge to shoot an ice block with double the damage that inflicts Deep Chill and adds 40 Cryo points, dealing ×4 damage to Frozen zombies.</color>\n<color=black>Special: </color><color=#8B0000>Immune to freeze from Snowballs and Blizzards.</color>",
+            "info": "<size=36>Bends and shoots water orbs; consumes ice charges to launch ice blocks instead.\n\n<color=black>Damage: </color><color=#8B0000>50/1.5s</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>\n<color=black>•</color> Gains 1/1/15 ice charges when affected by snowball/snow trident/Ice-shroom respectively.\n<color=black>•</color> Uses 1 ice charge to shoot an ice chunk with double the damage that inflicts Deep Chill and adds 40 Cryo points, dealing ×4 damage to Frozen zombies.</color>\n<color=black>Special: </color><color=#8B0000>Immune to freeze from Snowballs and Blizzards.</color>",
             "cost": "<size=36>\nFusion Recipe: <color=#8B0000>Spruce Sharpshooter + Aloe Aqua</color>"
         },
         {
