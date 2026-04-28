@@ -156,11 +156,15 @@
         "startTip": "You should accept the whims of fate\nOnce you've set foot on this path\n-------------\nRecommended difficulties: 0-4\nMini-bosses are recommended to be disabled\nChallenge: Clear the level with the 3 settings pertaining to Gacha modes all enabled"
     },
     "level_1777357799808_1so2l94x3": {
-        "name": "3.6 Mini-game Sharkmarine's Adventure",
+        "name": "3.6 Mini-game\nSharkmarine's Adventure",
         "startTip": "Use Giga Mecha-nuts well and crush 'em by summoning Sharkmarines!\nYou can set camera size in the settings, btw."
     },
     "level_1777367484082_sgllfzxbc": {
-        "name": "3.6 Puzzle: Treacherous Squashing",
+        "name": "3.6 Puzzle\nTreacherous Squashing",
         "startTip": "Recommended Difficulty: 3\n\nBorrow Chronoporter Zombies to make Nyan Squashes drop more stuff!\nDefeat the zombies with Squash fusions!\nMake the right Squash fusion depending on the invading zombies!"
+    },
+    "level_1777384365398_9p625ceet": {
+        "name": "3.6 Mini-game\nAnimal Kingdom",
+        "startTip": "It's recommended to have Spruce Supershooter\nunlocked before trying this level."
     }
 }

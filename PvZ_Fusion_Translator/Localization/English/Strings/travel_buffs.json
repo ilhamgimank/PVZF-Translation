@@ -164,10 +164,10 @@
         "43": "Prometheus Liontail: Regular shots' damage ×3",
         "44": "Scylla Leviathan: Tangler minions can drown up to 3 zombies (or deal ×3 damage), and each zombie drowned rewards 10 energy stacks",
         "45": "Scylla Leviathan: Fires 3 base attack projectiles at once",
-        "46": "Cryolina Reaper & Reaprika: Soul charge cap increased to 10, now gains 1 soul charge whenever a Mini-boss dies",
-        "47": "Cryolina Reaper & Reaprika: When using a soul charge, also grants 1s of invincibility to all plants",
-        "48": "Photon Splitter: Lv1: Lumos energy cap increase from 1000 to 2000; Lv2: Lumos energy cap further increased to 10k | Entropea: Projectile damage radius +50%",
-        "49": "Photon Splitter: Boosts Transfer efficiency by 50%, and by 250% if target's energy < 1000 | Entropea: Now fires 2 extra projectiles each attack",
+        "46": "Cryolina Reaper & Habanero Weeper: Soul charge cap increased to 10, now gains 1 soul charge whenever a Mini-boss dies",
+        "47": "Cryolina Reaper & Habanero Weeper: When using a soul charge, also grants 1s of invincibility to all plants",
+        "48": "Photon Splitter: Lv1: Lumos energy cap increase from 1000 to 2000; Lv2: Lumos energy cap further increased to 10k | Axion Splitter: Projectile damage radius +50%",
+        "49": "Photon Splitter: Boosts Transfer efficiency by 50%, and by 250% if target's energy < 1000 | Axion Splitter: Now fires 2 extra projectiles each attack",
         "50": "Buckshot Commando: All Commandos Ultimate Trigger chances ×3 | Synchronizer Snipea: All Snipeas now fire an extra shot after a Headshot",
         "51": "Buckshot Commando: All Commandos Ultimate Damage ×2 and no longer spread | Synchronizer Snipea: All Snipeas required shots before triggering Headshot -3"
     },
@@ -195,8 +195,8 @@
         "20": "Unlock Maelonstrom: Winter Melon + Chrono Melon\nand its Subspecies Fungularity",
         "21": "Unlock Prometheus Liontail: Flame Cattail + Pepper Popper",
         "22": "Unlock Scylla Leviathan: Minnow-shroom + Kraken-shroom",
-        "23": "Unlock Cryolina Reaper: Spicicle + Spicicle\nand its Subspecies Reaprika",
-        "24": "Unlock Photon Splitter: Split Beam + Chrono Pea\nand its Subspecies Entropea",
+        "23": "Unlock Cryolina Reaper: Spicicle + Spicicle\nand its Subspecies Habanero Weeper",
+        "24": "Unlock Photon Splitter: Split Beam + Chrono Pea\nand its Subspecies Axion Splitter",
         "25": "Unlock Buckshot Commando: Football Gatling + Buckshooter\nand its Subspecies Synchronizer Snipea"
     },
     "debuffs": {
