@@ -35,10 +35,6 @@
         "name": "Odyssey Gacha: Vasebreaker",
         "startTip": ""
     },
-    "level_1774021232832_2o5a8h8md": {
-        "name": "Odyssey Gacha: Purgatory of Diamond",
-        "startTip": "You should accept the whims of fate\nOnce you've set foot on this path\n-------------\nRecommended difficulties: 0-4\nMini-bosses are recommended to be disabled\nChallenge: Clear the level with the 3 settings pertaining to Gacha modes all enabled"
-    },
     "level_1774109191871_tfirdlefk": {
         "name": "The Gods: Through Time and Space",
         "startTip": ""
@@ -142,5 +138,37 @@
     "level_1775048626512_f9xv3240i": {
         "name": "Error: File Corruption",
         "startTip": "File corruption detected. Attempting restoration.\n<color=#FF0000>Restoration failed!</color>\nExit code: Level file  <color=#6C6C6C>fused</color> with other levels!\n"
+    },
+    "level_1777168544138_4oxygnhv8": {
+        "name": "3.6 I, Zombie\nMinesquash",
+        "startTip": "Why are there so many Squashes!\nNote: On higher game speeds Gargantuars will bug out and not smash the brains.\nSubmitter: 鬼爹来咯, Best Solution: 525 Sun left\nRecommended Difficulty: 5"
+    },
+    "level_1777168545338_1ypw3f96h": {
+        "name": "3.6 I, Zombie\nSunny Smiley Squashy",
+        "startTip": "<size=18>Recommended Difficulty: 0\n<size=12>Submitter: decepticons, Best Solution: 750 Sun left\n<size=340>\n<size=18>Huge wave of Solar Squashes incoming! But fret not, all plants drop 50 Sun on death in this level.\nDo not let your Sun drop below 100 if you're not finished with eating all the brains!\n<size=370>\n"
+    },
+    "level_1777168546497_6rbepzlyl": {
+        "name": "3.6 I, Zombie\nElemental Fury",
+        "startTip": "<size=18><color=#FFFFFF>Different fusions will help you get through the level!\nPlease consult the Almanac if you're not familiar with their mechanics.\nNote: Because M.A.D. Pepper would be too op, <u><color=#FFFF00>it is banned</color></u>. No cheese for you.\nRecommended Difficulty: 0, Best Solution: 825 Sun left, Submitter: 爱嗑猫薄荷</color>"
+    },
+    "level_1777344096752_otvk05eg5": {
+        "name": "Odyssey Gacha: Purgatory of Diamond",
+        "startTip": "You should accept the whims of fate\nOnce you've set foot on this path\n-------------\nRecommended difficulties: 0-4\nMini-bosses are recommended to be disabled\nChallenge: Clear the level with the 3 settings pertaining to Gacha modes all enabled"
+    },
+    "level_1777357799808_1so2l94x3": {
+        "name": "3.6 Mini-game\nSharkmarine's Adventure",
+        "startTip": "Use Giga Mecha-nuts well and crush 'em by summoning Sharkmarines!\nYou can set camera size in the settings, btw."
+    },
+    "level_1777367484082_sgllfzxbc": {
+        "name": "3.6 Puzzle\nTreacherous Squashing",
+        "startTip": "Recommended Difficulty: 3\n\nBorrow Chronoporter Zombies to make Nyan Squashes drop more stuff!\nDefeat the zombies with Squash fusions!\nMake the right Squash fusion depending on the invading zombies!"
+    },
+    "level_1777384365398_9p625ceet": {
+        "name": "3.6 Mini-game\nAnimal Kingdom",
+        "startTip": "It's recommended to have Spruce Supershooter\nunlocked before trying this level."
+    },
+    "level_1777385759836_sndjbb4i0": {
+        "name": "3.6 Mini-game\nBotanical Tactician",
+        "startTip": "<size=20>Use the Glove or directly click on the Plants to move them!\nKill Zombies for Sun to buy support plants!\nThis level is very micro-heavy. Please choose difficulty carefully."
     }
 }

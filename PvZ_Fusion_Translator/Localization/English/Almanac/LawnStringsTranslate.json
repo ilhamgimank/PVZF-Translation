@@ -270,7 +270,7 @@
             "seedType": 38,
             "name": "Aloe Aqua",
             "introduce": "<align=left><size=36><color=black>Aloe Aqua thought opening a spa in the snowy plains would be relaxing—until she realized no one wants a cold soak in subzero weather. At least the snow keeps the towels crisp.</color>",
-            "info": "<size=36>Cold-loving lobber that throws dew drops, or ice chunks when it's sufficiently chill.\n\n<color=black>Damage: </color><color=#8B0000>20/3s</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>\n<color=black>•</color> Gains 1/1/15 ice charges when affected by snowball/snow trident/Ice-shroom respectively.\n<color=black>•</color> Consumes 1 charge to throw an ice chunk (×2 damage, applies Deep Chill, 40 Cryo points).\n<color=black>•</color> Deep Chill: same as regular Chill but affects Frost Legionnaires too. Zombonis are still immune.\n<color=black>•</color> Deals ×4 damage to frozen zombies.</color>\n<color=black>Special: </color><color=#8B0000>Immune to freeze from Snowballs.</color>",
+            "info": "<size=36>Cold-loving lobber that throws dew drops, or ice cubes when it's sufficiently chill.\n\n<color=black>Damage: </color><color=#8B0000>20/3s</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>\n<color=black>•</color> Gains 1/1/15 ice charges when affected by snowball/snow trident/Ice-shroom respectively.\n<color=black>•</color> Consumes 1 charge to throw an ice cube (×2 damage, applies Deep Chill, 40 Cryo points).\n<color=black>•</color> Deep Chill: same as regular Chill but affects Frost Legionnaires too. Zombonis are still immune.\n<color=black>•</color> Deals ×4 damage to frozen zombies.</color>\n<color=black>Special: </color><color=#8B0000>Immune to freeze from Snowballs.</color>",
             "cost": "<size=36>Cost: <color=#8B0000>75</color>\nRecharge: <color=#8B0000>7.5s</color>"
         },
         {
@@ -564,7 +564,7 @@
             "seedType": 305,
             "name": "Supremacy-shroom",
             "introduce": "<align=left><size=36><color=black>Supremacy-shroom hails from the deepest, most crowded abyss and commands the most elusive dreamscapes. In her, the balance of yin and yang is perfectly realized, and even powerful monsters have been tamed by her hand. In private, she is also a veteran collector of zombie figurines.</color>",
-            "info": "<size=36>Summons a hynotized Mini-boss to fight for you.\n\n<color=#4A2900>Usage Condition: Harvest Mode | Legendary Odyssey Plant</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> 1.5s after appearance, randomly summons a hypnotized Mini-boss zombie that fights for you from the following. Summoned hypnotized Mini-boss cannot be pulled back by Mind-blovers or captured by Captivator Pumpkin.\n<color=black>•</color> Abyssal Gargantuar: Also provides a 90% incoming damage reduction for all plants while present.\n<color=black>•</color> Giga Football Striker: Also heals all plants by HP equal to 0.2× their max HP every 3s while present.\n<color=black>•</color> Professor Cherryz: Immobile. Shoots one explosive cherry every 0.1s. Loses his newspaper on appearance and converts up to 30 non-miniboss, non-gargantuar zombies on the field from both sides into enraged hypnotized Gatling Cherry Newspaper Zombies.</color>",
+            "info": "<size=36>Summons a hynotized Mini-boss to fight for you.\n\n<color=#4A2900>Usage Condition: Harvest Mode | Legendary Odyssey Plant</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> 1.5s after appearance, randomly summons a hypnotized Mini-boss zombie that fights for you from the following. Summoned hypnotized Mini-boss cannot be pulled back by Mind-blovers or captured by Pumpkaptivator.\n<color=black>•</color> Abyssal Gargantuar: Also provides a 90% incoming damage reduction for all plants while present.\n<color=black>•</color> Giga Football Striker: Also heals all plants by HP equal to 0.2× their max HP every 3s while present.\n<color=black>•</color> Professor Cherryz: Immobile. Shoots one explosive cherry every 0.1s. Loses his newspaper on appearance and converts up to 30 non-miniboss, non-gargantuar zombies on the field from both sides into enraged hypnotized Gatling Cherry Newspaper Zombies.</color>",
             "cost": "\n"
         },
         {
@@ -649,7 +649,7 @@
             "name": "Laser Pumpkin",
             "introduce": "<align=left><size=36><color=black>\"Magnet-shroom's power remains unmatched,\" said Laser Pumpkin. \"After all, composite armor, electromagnetic catapults, and plasma guns came nearly a century after aircraft carriers.\" Other plants envied Laser Pumpkin's high-tech gear, but only Magnet-shroom knew his power came from a Magnetar meteorite.</color></size>",
             "info": "<size=36>Spawns laser drones that home in on enemies.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Damage: </color><color=#8B0000>200/1.5s (Drone)\n200/1s (Wingman)\n<color=black>Toughness: </color><color=#8B0000>16000</color>\n<color=#666699>Magnetic System:</color> <color=#8B0000>When part of a Magnetic System with a Omni Pumpkin or any Metal-infused Pumpkin (including the Joker Pumpkin part of Pumpkin Bunker), gains their special traits. Additionally, assimilates all but one Omni Pumpkin in the same system into a Laser Pumpkins every 30s (first time 10s).</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Always has a Laser Drone wingman with him when he appears. Generates a Laser Drone on top of a tile around a 3×3 area every 30s (first time 10s).\n<color=black>•</color> Reflects 100 damage back to zombies biting it.\n<color=black>Odyssey Modifiers:\n</color><color=#8B0000>1. Wingmen Amount → 3\n2. Wingmen & drones damage ×3</color></size>",
-            "cost": "<size=35>\nFusion Recipe: <color=#8B0000>Magnet Blover > Carrier Pumpkin</color>"
+            "cost": "<size=35>\nFusion Recipe: <color=#8B0000>Magnet Blover > Pumpkarrier</color>"
         },
         {
             "seedType": 912,
@@ -873,7 +873,7 @@
             "name": "Quantum McCornics",
             "introduce": "<align=left><size=36><color=black>He was born at the dawn of the universe, his age beyond reckoning. From the primordial void, he plucked three stars to orbit him as moons—treasures not even black holes could steal. Now, the old one finds joy in toying with this cosmic keepsake, as ancient as he is.</color>",
             "info": "<size=36>Hurls ultra-dense black holes that collapse into explosions, releasing all the absorbed energy.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Damage: </color><color=#8B0000>300/2 s (Mini Butter)</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Metal plant.\n<color=black>•</color> 75% chance to launch Mini Butter, shrinking non-miniboss zombies' size and HP to 70%. If shrinking fails, the target is stunned for 1.5s. Instantly kills imp-class zombies.\n<color=black>•</color> 25% chance to launch an Ultimate Black Hole that lasts 2s, slows nearby zombies, and absorbs Quantum McCornics' projectiles in a 3×3 area.\n<color=black>•</color> Each bullet absorbed adds 2s to its duration, up to 7.5s. When it vanishes, it triggers a large explosion (Cherry Bomb-sized) that deals 320 + 60% of stored damage. If it lasted over 5s, the explosion radius significantly increases.</color>\n<color=black>Main Odyssey Modifiers:</color>\n<color=#8B0000>1. Ultimate Black Hole can absorb all projectiles\n2. Ultimate Black Hole's absorption radius ×2</color>\n<color=black>Maelonstrom Synergy Modifier:</color><color=#8B0000>\n<color=black>•</color> You must have unlocked all Quantum McCornics and Maelonstrom's modifiers before this synergy becomes available in the shop for 15k.\n<color=black>•</color> Hail melons from Maelonstrom's Nebula Rifts now deal 6× damage and create Singularities, and Quantum McCornics always lob Ultimate Black Holes.\n<color=black>•</color> Singularity: Lasts for 3.5s and deals 1800 Cremator damage in a 1.5-tile radius when it collapses.\n<color=black>•</color> When an Ultimate Black Hole collapses, it also detonates all Singularities to further increase its own damage.</color>",
-            "cost": "<size=36>\nFusion Recipe: <color=#8B0000>Portal-pult > Popcorn-pult×3</color>"
+            "cost": "<size=36>\nFusion Recipe: <color=#8B0000>Portal-pult > Baby Corn×3</color>"
         },
         {
             "seedType": 944,
@@ -935,7 +935,7 @@
             "seedType": 952,
             "name": "Litter-pult",
             "introduce": "<align=left><size=36><color=black>\"Big brother, big sister, am I not cute?\" Litter-pult winks at every passerby. \"Buy a garlic, please.\" He works hard at his sales pitch. Why would such a small child be out selling garlic? \"Grandpa's movies are too boring, and our house is so full of garlic we can't even store it anymore,\" he explains.</color>",
-            "info": "<size=36>Lobs mini garlics, which split on impact, with a chance for rapid-fire or spread-fire.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable with Wither-pult</color>\n<color=black>Damage: </color><color=#8B0000>60/2s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant (evades straight-firing projectiles).\n<color=black>•</color> Inherits rapid-fire and spread-fire chances from Wither-pult.\n<color=black>•</color> Projectiles no longer do splash damage, and each splits into a mini-garlic-cabbage, a mini-garlic-kernel (1/4 chance for mini-garlic-butter) and a garlic-melon slice.\n<color=black>•</color> These projectiles behave like their non-garlic mini counterparts (See Popcorn-pult, Slice-pult and Sprout-pult) and each grants 1 Poison point, boosting damage by (5×Poison points).</color>\n<color=black>Odyssey Modifiers:\n<color=#8B0000>1. Spread-fire is now guaranteed\n2. Lv1: Stacking Poison points will immediately poison the zombie and Poison Value Cap → 120; Lv2: Poison Value Cap removed</color>",
+            "info": "<size=36>Lobs mini garlics, which split on impact, with a chance for rapid-fire or spread-fire.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable with Wither-pult</color>\n<color=black>Damage: </color><color=#8B0000>60/2s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant (evades straight-firing projectiles).\n<color=black>•</color> Inherits rapid-fire and spread-fire chances from Wither-pult.\n<color=black>•</color> Projectiles no longer do splash damage, and each splits into a mini-garlic-cabbage, a mini-garlic-kernel (1/4 chance for mini-garlic-butter) and a garlic-melon slice.\n<color=black>•</color> These projectiles behave like their non-garlic mini counterparts (See Baby Corn, Slice-pult and Sprout-pult) and each grants 1 Poison point, boosting damage by (5×Poison points).</color>\n<color=black>Odyssey Modifiers:\n<color=#8B0000>1. Spread-fire is now guaranteed\n2. Lv1: Stacking Poison points will immediately poison the zombie and Poison Value Cap → 120; Lv2: Poison Value Cap removed</color>",
             "cost": "<size=36>Conversion Recipe: <color=#8B0000>×3 + Melon-pult <-> Puff-shroom</color>"
         },
         {
@@ -1038,9 +1038,9 @@
         },
         {
             "seedType": 967,
-            "name": "Captivator Pumpkin",
-            "introduce": "<align=left><size=36><color=black>As zombie numbers continued to rise, how to stay popular among zombies became a hot topic. \"Relying on traditional communication alone is no longer enough,\" says Captivator Pumpkin. \"I will use a brand-new radio-wave microphone to deliver my music and feelings to a wider audience of zombies.\" With this move, she ushered in a new trend in zombie culture.</color>",
-            "info": "<size=36>Charisma aeterna.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable With Charmatron</color>\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Subspecies of Charmatron.\n<color=black>•</color> Zombies that try to bite it are hypnotized instead.\n<color=black>•</color> Captures 1 non-flying, non-miniboss hypnotized zombie that passes through, preventing it from leaving the tile and having it absorb damage for the Captivator Pumpkin.\n<color=black>•</color> Deals damage equal to 0.1× max HP per second to the captured hypnotized zombie and gains 4 energy stacks.\n<color=black>•</color> When energy stack is ≥0/50/100, Charge Level is at 1/2/3, draining 1/2/2 energy per second respectively. Charge Level is locked behind a Modifier.\n<color=black>•</color> At charge levels 1/2/3, every 15/10/6s, hypnotizes 1 non-flying, non-miniboss zombie within a 1.5-tile radius. On success, the plant inside the shell gains a damage boost of (60% × Charge Level) for 1s. Every time a Captivator Pumpkin activates this effect, Laser Pumpkins and Blast Pumpkins in the same Magnetic system resonate and trigger the same effect simultaneously.\n<color=black>•</color> While a Charmatron is inside, the Charmatron always benefits from the same damage boost of (60% × Charge Level).</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. Damage to captured hypnotized Zombies halved</color>\n<color=#8B0000>2. Charge Level 3 unlocked</color>",
+            "name": "Pumpkaptivator",
+            "introduce": "<align=left><size=36><color=black>As zombie numbers continued to rise, how to stay popular among zombies became a hot topic. \"Relying on traditional communication alone is no longer enough,\" says Pumpkaptivator. \"I will use a brand-new radio-wave microphone to deliver my music and feelings to a wider audience of zombies.\" With this move, she ushered in a new trend in zombie culture.</color>",
+            "info": "<size=36>Charisma aeterna.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable With Charmatron</color>\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Subspecies of Charmatron.\n<color=black>•</color> Zombies that try to bite it are hypnotized instead.\n<color=black>•</color> Captures 1 non-flying, non-miniboss hypnotized zombie that passes through, preventing it from leaving the tile and having it absorb damage for the Pumpkaptivator.\n<color=black>•</color> Deals damage equal to 0.1× max HP per second to the captured hypnotized zombie and gains 4 energy stacks.\n<color=black>•</color> When energy stack is ≥0/50/100, Charge Level is at 1/2/3, draining 1/2/2 energy per second respectively. Charge Level is locked behind a Modifier.\n<color=black>•</color> At charge levels 1/2/3, every 15/10/6s, hypnotizes 1 non-flying, non-miniboss zombie within a 1.5-tile radius. On success, the plant inside the shell gains a damage boost of (60% × Charge Level) for 1s. Every time a Pumpkaptivator activates this effect, Laser Pumpkins and Blast Pumpkins in the same Magnetic system resonate and trigger the same effect simultaneously.\n<color=black>•</color> While a Charmatron is inside, the Charmatron always benefits from the same damage boost of (60% × Charge Level).</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. Damage to captured hypnotized Zombies halved</color>\n<color=#8B0000>2. Charge Level 3 unlocked</color>",
             "cost": "<size=36>Conversion Recipe: <color=#8B0000>Shovel <-> Glove the Charmatron onto a Pumpkin</color>"
         },
         {
@@ -1934,10 +1934,10 @@
         },
         {
             "seedType": 1110,
-            "name": "Carrier Pumpkin",
-            "introduce": "<align=left><size=36><color=black>Carrier Pumpkin always kept three books on its shelf, their titles concealed from the curious eyes of the other plants. One day, a Cactus Drone's curiosity led it into the study, where it uncovered the titles: \"Guide to Succulent Plant Cultivation,\" \"Postpartum Care for Pumpkins,\" and \"30-Second Cactus Quick Flight Tutorial.\" The Cactus Drone chuckled at the unexpected collection.</color></size>",
+            "name": "Pumpkarrier",
+            "introduce": "<align=left><size=36><color=black>Pumpkarrier always kept three books on its shelf, their titles concealed from the curious eyes of the other plants. One day, a Cactus Drone's curiosity led it into the study, where it uncovered the titles: \"Guide to Succulent Plant Cultivation,\" \"Postpartum Care for Pumpkins,\" and \"30-Second Cactus Quick Flight Tutorial.\" The Cactus Drone chuckled at the unexpected collection.</color></size>",
             "info": "<size=36>Spawns a Cactus Drone that moves around the field to attack flying zombies.\n\n<color=black>Damage: </color><color=#8B0000>30×2/1.5s (Drone), 30×2/1s (Wingman)\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>Inherits Thorny Pumpkin traits. Always has a Cactus Drone wingman with him when he appears. Generates a Cactus Drone on top of a 3×3 area every 30s (first time 10s).</color></size>",
-            "cost": "<size=36>Fusion Recipe: <color=#8B0000>Cactus > Blover > Pumpkin OR Blover > Cactus > Pumpkin</color>"
+            "cost": "<size=36>Fusion Recipe: <color=#8B0000>Cactus > (Blover > Pumpkin) OR Blover > (Cactus > Pumpkin)</color>"
         },
         {
             "seedType": 1111,
@@ -2356,7 +2356,7 @@
             "seedType": 1170,
             "name": "Nugget-shroom",
             "introduce": "<align=left><size=36><color=black>Some plants asked: \"Why is the top of Nugget-shroom red?\", to which he replied, \"Well, let me ask you first...\"</color>",
-            "info": "<size=36>Can reproduce itself!\n\n<color=black>Damage: </color><color=#8B0000>20/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Short plant. Spawns a new Nugget-shroom in the same tile after 20 Seconds. Each Nugget-shroom can only reproduce once. Upon death, it deals 300 damage to nearby zombies</color>",
+            "info": "<size=36>Can reproduce itself!\n\n<color=black>Damage: </color><color=#8B0000>20/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Short plant. Spawns a new Nugget-shroom in the same tile after 20 Seconds. Each Nugget-shroom can only reproduce once. Upon death, it deals 300 damage to nearby zombies.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Potato Mine > Puff-shroom</color>"
         },
         {
@@ -2440,7 +2440,7 @@
             "seedType": 1182,
             "name": "Frostburn-wood",
             "introduce": "<align=left><size=36><color=black>\"One input, one output. That's the rule.\" Frostburn-wood prided himself on his structured logic. \"That's why I counteract Torchwood's flames with pure, unyielding frost.\" But put them together? Things got... messy. Fire and ice, heat and cold—sometimes they balanced, sometimes they clashed, and sometimes, well... physics just gave up.</color>",
-            "info": "<size=36>Can turn normal peas into snow peas or polar ice peas, and water orbs into ice blocks.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Turns the normal peas that pass through into snow peas, and the snow peas that pass through into polar ice peas for ×2 damage and ×2 Cryo points.\n<color=black>•</color> Turns the water orbs from Spruce Sprayshooters into ice blocks.</color>",
+            "info": "<size=36>Can turn normal peas into snow peas or polar ice peas, and water orbs into ice blocks.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Turns the normal peas that pass through into snow peas, and the snow peas that pass through into polar ice peas for ×2 damage and ×2 Cryo points.\n<color=black>•</color> Turns the water orbs from Spruce Sprayshooters into ice chunks.</color>",
             "cost": "<size=36>\nFusion Recipe: <color=#8B0000>Torchwood + Ice-shroom</color>"
         },
         {
@@ -2585,8 +2585,8 @@
         },
         {
             "seedType": 1203,
-            "name": "Popcorn-pult",
-            "introduce": "<align=left><size=36><color=black>\"The results of this experiment: dense planting is not conducive to plant growth, and the corn ears have obviously shrunk.\" Dave bent down, took out a magnifying glass, and looked at the Popcorn-pult, \"Not suitable for making corn rolls anymore.\" Popcorn-pult said angrily, \"The results of this experiment show that the concentrated ones are all the essence!\"</color>",
+            "name": "Baby Corn",
+            "introduce": "<align=left><size=36><color=black>\"The results of this experiment: dense planting is not conducive to plant growth, and the corn ears have obviously shrunk.\" Dave bent down, took out a magnifying glass, and looked at the Baby Corn, \"Not suitable for making corn rolls anymore.\" Baby Corn said angrily, \"The results of this experiment show that the concentrated ones are all the essence!\"</color>",
             "info": "<size=36>A tiny Kernel-pult, with a chance to throw a small butter that shrinks zombies.\n\n<color=black>Damage: </color><color=#8B0000>20/3s</color>\n<color=black>Special: </color><color=#8B0000>Short plant. Has a 25% chance to throw a small butter that deals 40 damage, which shrinks the size and health of non-shrunken zombies by a factor of 0.7, otherwise it will be stunned for 1.5s, while Imps are killed instantly. Prioritizes zombies that are not shrunken.</color>",
             "cost": "<size=36>\nFusion Recipe: <color=#8B0000>Kernel-pult > Puff-shroom</color>"
         },
@@ -2699,7 +2699,7 @@
             "seedType": 1219,
             "name": "Spruce Sprayshooter",
             "introduce": "<align=left><size=36><color=black>Can an archer compete without a bow? Spruce Sprayshooter shrugs: \"It's just waterbending.\"</color>",
-            "info": "<size=36>Bends and shoots water orbs; consumes ice charges to launch ice blocks instead.\n\n<color=black>Damage: </color><color=#8B0000>50/1.5s</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>\n<color=black>•</color> Gains 1/1/15 ice charges when affected by snowball/snow trident/Ice-shroom respectively.\n<color=black>•</color> Uses 1 ice charge to shoot an ice block with double the damage that inflicts Deep Chill and adds 40 Cryo points, dealing ×4 damage to Frozen zombies.</color>\n<color=black>Special: </color><color=#8B0000>Immune to freeze from Snowballs and Blizzards.</color>",
+            "info": "<size=36>Bends and shoots water orbs; consumes ice charges to launch ice blocks instead.\n\n<color=black>Damage: </color><color=#8B0000>50/1.5s</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>\n<color=black>•</color> Gains 1/1/15 ice charges when affected by snowball/snow trident/Ice-shroom respectively.\n<color=black>•</color> Uses 1 ice charge to shoot an ice chunk with double the damage that inflicts Deep Chill and adds 40 Cryo points, dealing ×4 damage to Frozen zombies.</color>\n<color=black>Special: </color><color=#8B0000>Immune to freeze from Snowballs and Blizzards.</color>",
             "cost": "<size=36>\nFusion Recipe: <color=#8B0000>Spruce Sharpshooter + Aloe Aqua</color>"
         },
         {
@@ -3082,7 +3082,7 @@
         },
         {
             "seedType": 1274,
-            "name": "Blasty-shroom",
+            "name": "Cherry-shroom",
             "introduce": "<align=left><size=36><color=black>The meekest Cherry in the family, no tantrums, no shouting, and loved by many. \"I… kinda want to swear sometimes,\" she admits. \"But… I'm afraid someone might yell back.\"</color>",
             "info": "<size=36>Frightened easily, but causes an explosion when it happens.\n\n<color=black>Damage: </color><color=#8B0000>40/1.5s</color>\n<color=black>Special: </color><color=#8B0000>When scared, hides and sets off a Cherry Bomb blast that deals 600 AoE damage.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Scaredy-shroom + Cherry Bomb</color>"
@@ -3132,7 +3132,7 @@
         {
             "seedType": 1281,
             "name": "Sprout-pult",
-            "introduce": "<align=left><size=36><color=black>People say Sprout-pult holds the magical power to shrink zombies. And the secret, they claim, is in the bounce. But only Popcorn-pult knows the real reason: there's a tiny pat of butter hidden inside. The cabbage leaves are just too thick for it to pop out… so of course it needs to bounce first to shrink a zombie.</color>",
+            "introduce": "<align=left><size=36><color=black>People say Sprout-pult holds the magical power to shrink zombies. And the secret, they claim, is in the bounce. But only Baby Corn knows the real reason: there's a tiny pat of butter hidden inside. The cabbage leaves are just too thick for it to pop out… so of course it needs to bounce first to shrink a zombie.</color>",
             "info": "<size=36>Lobs sprouts capable of passing on the shrinking effect.\n\n<color=black>Damage: </color><color=#8B0000>40/3s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant (evades straight-firing projectiles).\n<color=black>•</color> Shots bounce twice. If a shot hits a shrunken zombie, it gains the ability to shrink the next zombies hit.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Cabbage-pult > Puff-shroom</color>"
         },
@@ -3789,9 +3789,9 @@
         },
         {
             "seedType": 1375,
-            "name": "Coldslaw",
-            "introduce": "<align=left><size=36><color=black>\"You have no idea how terrifying that place was,\" Coldslaw says, still shaken. \"A land of extreme cold, where countless plants were frozen forever. If I hadn't risked my life to open the door back outside, we vegetables would've all died in there.\" Oh, he's talking about his adventure inside Dave's refrigerator again.</color>",
-            "info": "<size=36>Lobs frozen cabbages and attacks faster when hitting frozen enemies.\n\n<color=black>Damage: </color><color=#8B0000>40/3s</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Attacks inflict Chill, add 10 Cryo points and deal ×4 damage to frozen zombies.</color>\n<color=black>Special: </color><color=#8B0000>On hitting a Frozen zombie, the projectile can bounce once, and Coldslaw's attack speed is greatly increased for 3s. This effect can only trigger again 1.5s after it ends.</color>",
+            "name": "Coldslaw-pult",
+            "introduce": "<align=left><size=36><color=black>\"You have no idea how terrifying that place was,\" Coldslaw-pult says, still shaken. \"A land of extreme cold, where countless plants were frozen forever. If I hadn't risked my life to open the door back outside, we vegetables would've all died in there.\" Oh, he's talking about his adventure inside Dave's refrigerator again.</color>",
+            "info": "<size=36>Lobs frozen cabbages and attacks faster when hitting frozen enemies.\n\n<color=black>Damage: </color><color=#8B0000>40/3s</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Attacks inflict Chill, add 10 Cryo points and deal ×4 damage to frozen zombies.</color>\n<color=black>Special: </color><color=#8B0000>On hitting a Frozen zombie, the projectile can bounce once, and Coldslaw-pult's attack speed is greatly increased for 3s. This effect can only trigger again 1.5s after it ends.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Ice-shroom + Cabbage-pult</color>"
         },
         {
