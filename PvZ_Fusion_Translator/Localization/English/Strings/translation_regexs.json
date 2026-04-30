@@ -417,5 +417,8 @@
   "旅行： 黑巨线 第(\\d+)轮": "Odyssey: Abyssal Garg Route | Round {0}",
   "旅行： 鬼王线 第(\\d+)轮": "Odyssey: Imperor Route | Round {0}",
   "旅行： 白车线 第(\\d+)轮": "Odyssey: Jackson Route | Round {0}",
-  "旅行： 将军线 第(\\d+)轮": "Odyssey: Striker Route | Round {0}"
+  "旅行： 将军线 第(\\d+)轮": "Odyssey: Striker Route | Round {0}",
+  "^([^\\s:]+)\\+([^\\s:]+)$": "<size=90%>You haven't discovered this plant yet! You can find it by fusing:\n{0} + {1}",
+  "^或 ([^\\s:]+)\\+([^\\s:]+)$": "or {0} + {1}",
+  "成功保存(\\d+)张卡牌至自定义卡组中": "{0} cards successfully saved to a custom loadout!"
 }
