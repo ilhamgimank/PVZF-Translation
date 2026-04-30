@@ -1220,7 +1220,7 @@
         },
         {
             "seedType": 989,
-            "name": "Axion Splitter",
+            "name": "Axion Orbiter",
             "introduce": "<color=#3D1400>\"The power of spacetime curvature makes us strong. It lets us harness dark matter and freely bend trajectories, even to the point of orbiting a black hole.\" said the front head. The one behind added, \"And thanks to spatial folding, we can read the same paper at once, pondering the mysteries of the universe together. That's how we became some of the lawn's most learned physicists.\"</color>",
             "info": "Fires corrosive projectiles that continuously affect nearby targets, black holes included.\n\n<color=#3D1400>Usage Conditions: Odyssey Mode | Unlockable with Photon Splitter</color>\n<color=#3D1400>Damage: </color><color=#8B0000>40×3/1.5s</color>\n<color=#3D1400>Special: <color=#8B0000>\n<color=black>•</color> Subspecies of Photon Splitter. Fires homing corrosive shots across the entire lane with infinite pierce.\n<color=black>•</color> Corrosive shots travel in a straight line after hitting a target, dealing damage every 0.02s and applying 1 Poison point.\n<color=black>•</color> If captured by an Ultimate Black Hole, it is not absorbed but instead orbits it; upon detonation, applies Poisoned and 30 Poison points to targets.</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. Projectile damage radius +50%\n2. Now fires 2 extra projectiles each attack</color>",
             "cost": "\n<size=36>Conversion Recipe: <color=#8B0000>Plantern <-> Garlic</color>"
