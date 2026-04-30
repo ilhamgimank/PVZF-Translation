@@ -1209,7 +1209,7 @@
             "name": "SP Gatling Icicle-shroom",
             "introduce": "<align=left><size=36><color=black>After years of military service, the SP Gatling Icicle-shroom unit has risen to officer rank within a massive army. \"We must look pretty imposing to the troops now,\" they say. In reality, they're still just as tiny as ever.</color>",
             "info": "<size=36>Fires piercing icicles. The more chill built up on zombies, the more damage they take.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Auto-Unlocked After Obtaining Gatling Icicle-shroom's 2 Modifiers</color>\n<color=black>Damage: </color><color=#8B0000>40×4/1.5</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Promotion of Gatling Icicle-shroom, inherits its other traits.\n<color=black>•</color> Short plant. Projectiles pierce up to 2 times, apply Chill, and inflict 5 Cryo points. Deals ×4 damage to Frozen zombies or those immune to Chill/Freeze.\n<color=black>•</color> Every 4th shot becomes a Glacial Icicle with infinite pierce. Against Chilled zombies, applies Freeze for 4s and deals 12× damage; if the target is already Frozen, removes Freeze and instead deals 48× damage.\n<color=black>Main Odyssey Modifiers:\n</color><color=#8B0000>1. Increased penetration to infinite times, the first 5 hits of horizontal shots each split into 2 new bullets at ±15°, dealing (20 × split count)% more damage | Effects also apply to SP variants\n2. Increased damage to Frozen and chill-immune zombies by 12× | Effects also apply to SP variants</color>\n\n<color=black>Litter-pult Synergy Modifier:</color><color=#8B0000>\n<color=black>•</color> You must have unlocked all Gatling Icicle-shroom and Wither-pult's modifiers before this synergy becomes available in the shop for 15k.\n<color=black>•</color> When Litter-pult and SP Gatling Icicle-shroom are planted on the same tile, the former's projectiles split one extra time, apply Chill, and inflict 5 Cryo points; while the latter's projectiles apply Poisoned;  gain mini-garlic-butter properties.</color>",
-            "cost": "<size=36>Promotion Recipe: <color=#8B0000>Peashooter > Gatling Gatling-shroom</color>"
+            "cost": "\n<size=36>Promotion Recipe: <color=#8B0000>Peashooter > Gatling Gatling-shroom</color>"
         },
         {
             "seedType": 988,
@@ -1397,14 +1397,14 @@
             "seedType": 1023,
             "name": "Perfume-shroom",
             "introduce": "<align=left><size=36><color=black>The colorful Perfume-shroom makes a grand debut! With a blast of perfume, it can turn zombies around in an instant. Some claim it's a secret technique passed down by the mushroom family, while others believe it's a cutting-edge military weapon. Perfume-shroom just smiles and says, \"It's all thanks to Hypno-shroom helping me rinse my mouth everyday.\"</color></size>",
-            "info": "<size=36>Perfume-shroom sprays fumes that can hypnotize zombies.\n\n<color=black>Damage: </color><color=#8B0000>40/1.5s (Piercing) </color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Chance to hypnotize zombies with less than 50% Toughness. The lower the zombie's HP, the higher the chance, up to 25%.\n<color=black>•</color> Hypnotization threshold is removed for zombies already hit by Trippy-shroom.\n<color=black>•</color> When bitten, hypnotizes the attacker, then reverts to a Fume-shroom.</color></size>",
+            "info": "<size=36>Perfume-shroom sprays fumes that can hypnotize zombies.\n\n<color=black>Damage: </color><color=#8B0000>40/1.5s (Piercing) </color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Chance to hypnotize zombies with less than 50% Toughness. The lower the zombie's HP, the higher the chance, up to 25%.\n<color=black>•</color> Hypnotization chance increases by 5% for each spore color from Trippy-shroom that hits the zombie.\n<color=black>•</color> When bitten, hypnotizes the attacker, then reverts to a Fume-shroom.</color></size>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Fume-shroom + Hypno-shroom</color>"
         },
         {
             "seedType": 1024,
             "name": "Trippy-shroom",
             "introduce": "<align=left><size=36><color=black>Scaredy-shroom has always been afraid of zombies. In order to reduce her fear, Hypno-shroom tells her a bedtime story every day: \"Actually, there are good people among zombies.\" Over time, Scaredy-shroom was finally brainwashed. Now she can use spores to brainwash zombies. Of course, she is still very afraid.</color></size>",
-            "info": "<size=36>Trippy-shroom can fire spores in 7 colors.\n\n<color=black>Damage: </color><color=#8B0000>40/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Randomly fires 1 of 7 types of spores. When a zombie is hit by all 7 types of spores, it will be hypnotized. Each time it is hit by a type of spore, the hypnotize probability of the Perfume-shroom will increase.\n<color=black>•</color> When bitten, hypnotizes the attacker, then reverts to a Scaredy-shroom.</color></size>",
+            "info": "<size=36>Trippy-shroom can fire spores in 7 colors.\n\n<color=black>Damage: </color><color=#8B0000>40/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Randomly fires 1 of 7 types of spores. When a zombie is hit by all 7 types of spores, it will be hypnotized.\n<color=black>•</color> Each time a zombie is hit by a type of spore, its chance of being hypnotized by Perfume-shroom will increase by 5%.\n<color=black>•</color> When bitten, hypnotizes the attacker, then reverts to a Scaredy-shroom.</color></size>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Hypno-shroom + Scaredy-shroom</color>"
         },
         {
@@ -1600,7 +1600,7 @@
             "seedType": 1052,
             "name": "Infernowood",
             "introduce": "<align=left><size=36><color=black>\"It's sweltering out here!\" Infernowood fumed. Convinced that the intense weather was to blame for its skin, it noted how the flames on its head had also turned a vibrant red. Maybe it was the perfect time to kick off a summer adventure called the \"Sledding Tour.\"</color></size>",
-            "info": "<size=36>Infernowood can provide an even stronger damage boost to projectiles!\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Explodes like a Jalapeno upon death.\n<color=black>•</color> Ignites projectiles for the following effects:\n-Peas, Potatoes and Low-tier Ignited Peas: +40 damage\n-Hypno Peas: +30 damage\n-Blaze Peas: +30 damage, turn into phoenix peas\n-Snow Peas: Turn into regular peas\n-Cherries, Iron Peas, Suns: ×4 damage, Sun shots now drop 15 Suns instead of 5.\n<color=black>•</color> Deals 40 damage-over-time to nearby zombies every 1.5s.</color></size>",
+            "info": "<size=36>Infernowood can provide an even stronger damage boost to projectiles!\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Explodes like a Jalapeno upon death.\n<color=black>•</color> Ignites projectiles for the following effects:\n-Peas, Potatoes and Low-tier Ignited Peas: +40 damage\n-Hypno Peas: +30 damage\n-Blaze Peas: +30 damage, turn into phoenix peas\n-Snow Peas: Turn into regular peas\n-Cherries, Iron Peas, Football Peas, Suns: ×4 damage, Sun shots now drop 15 Suns instead of 5.\n<color=black>•</color> Deals 40 damage-over-time to nearby zombies every 1.5s.</color></size>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Torchwood + Jalapeno + Jalapeno</color>"
         },
         {
@@ -2293,7 +2293,7 @@
             "seedType": 1151,
             "name": "Giga Mecha-nut",
             "introduce": "<align=left><size=36><color=black>Giga Mecha-nut has always been passionate about environmental protection. 'I have a love-hate relationship with zombies—they pollute the environment, but they also bring me wealth. Isn't owning property and a trailer the hallmark of success? The lawn is clean all thanks to me!'</color>",
-            "info": "<size=36>Can store up Toughness and protect your plants.\n\n<color=black>Toughness: </color><color=#8B0000>8000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Metal plant. Anti-crush. Max damage received is capped at 8k.\n<color=black>•</color> Healing can exceed maximum Toughness without any cap. Spawns with 80× Toughness as initial HP.\n<color=black>•</color> Redirects damage to itself in a 3×3 area.\n<color=black>•</color> Recovers 4.8k HP when fed metal objects. When metal objects on the lawn disappear, every Giga Mecha-nut restores (4.8k / total number of Giga Mecha-nuts) HP.\n<color=black>•</color> Using a Wall-nut on it restores 8k HP instantly and summons a Sharkmarine (stationary if on land with 1/3 the HP of the Giga Mecha-nut).\n<color=black>•</color> At most 10M HP can be restored per round; this cap is affected by healing-reducing effects accordingly.</color>",
+            "info": "<size=36>Can store up Toughness and protect your plants.\n\n<color=black>Toughness: </color><color=#8B0000>8000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Metal plant. Anti-crush. Max damage received is capped at 8k.\n<color=black>•</color> Healing can exceed maximum Toughness without any cap. Spawns with 80× Toughness as initial HP.\n<color=black>•</color> Redirects damage to itself in a 3×3 area.\n<color=black>•</color> Recovers 4.8k HP when fed metal objects. When metal objects on the lawn disappear, every Giga Mecha-nut restores (4.8k / total number of Giga Mecha-nuts) HP.\n<color=black>•</color> Using a Wall-nut on it restores 8k HP instantly and summons a Sharkmarine (stationary if on land with 1% the HP of the Giga Mecha-nut).\n<color=black>•</color> At most 10M HP can be restored per round; this cap is affected by healing-reducing effects accordingly.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Giga Mecha Fragments > Wall-nut</color>"
         },
         {
@@ -3021,7 +3021,7 @@
             "seedType": 1255,
             "name": "Drone-nut",
             "introduce": "<align=left><size=36><color=black>Some claim zombies have mastered the martial arts to be able to harm plants with falling petals. Most plants dismiss it. But Drone-nut disagrees. \"It's true,\" he says, floating overhead. \"I've blocked such blows. Three times.\"</color>",
-            "info": "<size=36>A hovering nut that shields his tile from damage.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Absorbs damage for his own tile.\n<color=black>•</color> If undamaged for 10s, regenerates 50 HP per second.</color>",
+            "info": "<size=36>A hovering nut that shields his tile from damage.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Absorbs damage for his own tile.\n<color=black>•</color> If undamaged for 10s, regenerates 1 HP every 0.02s.</color>",
             "cost": "<size=36>Fusion Recipe: <color=#8B0000>Wall-nut + Blover</color>"
         },
         {
@@ -3847,7 +3847,7 @@
             "seedType": 1373,
             "name": "Beamshooter",
             "introduce": "<align=left><size=36><color=black>Lumos Pea started out as a kid who loved shining laser pointers at people. Later, Pharos Umbrella taught him how to use that trick on zombies instead.</color>",
-            "info": "<size=36>Fires high-frequency targeted lasers; absorbs Lumos energy to increase power.\n\n<color=black>Damage: </color><color=#8B0000>10/0.2s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Gains Lumos energy equal to Lumos level every 0.5s, up to 1000. Each laser beam consumes (1 + current energy × 10%) energy when attacking or transferring.\n<color=black>•</color> Can lock onto a Split Beam in front in the same lane (not directly adjacent). Transfers energy every 0.1s, restoring energy equal to 10% of its attack. Each point of energy spent doubles the amount transferred.\n<color=black>•</color> Consumes energy every 0.2s to attack, increasing damage by the amount of energy spent.</color>",
+            "info": "<size=36>Fires high-frequency targeted lasers; absorbs Lumos energy to increase power.\n\n<color=black>Damage: </color><color=#8B0000>10/0.2s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Gains Lumos energy equal to Lumos level every 0.5s, up to 1000. Each laser beam consumes (1 + current energy × 10%) energy when attacking or transferring.\n<color=black>•</color> Can lock onto a Split Beam in front in the same lane (not directly adjacent). Transfers energy every 0.1s, restoring energy equal to 10% of its attack. Each point of energy spent doubles the amount transferred.\n<color=black>•</color> Consumes energy every 0.2s to attack, increasing damage by the amount of energy spent.\n<color=black>•</color> Click on it will reset its target.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Peashooter + Plantern</color>"
         },
         {
@@ -3903,21 +3903,21 @@
             "seedType": 1381,
             "name": "Rebeamer",
             "introduce": "<align=left><size=36><color=black>The weekly Pool Light Festival is an important social event for Rebeamer. Before heading out, it carefully adjusts its lamp hat, the leaves under the brim not only make it look stylish, but also give its firefly friends a place to rest after the party.</color>",
-            "info": "<size=36>Fires two high-frequency lasers.\n\n<color=black>Damage: </color><color=#8B0000>10×2/0.2s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Gains Lumos energy equal to Lumos level every 0.5s, up to 1000. Each laser beam consumes (1 + current energy × 10%) energy when attacking or transferring.\n<color=black>•</color> Can lock onto a Split Beam in front in the same lane (not directly adjacent). Transfers energy every 0.1s, restoring energy equal to 20% of its attack. Each point of energy spent doubles the amount transferred.\n<color=black>•</color> Consumes energy every 0.2s to attack 2 zombies at once, increasing damage by the amount of energy spent.</color>",
+            "info": "<size=36>Fires two high-frequency lasers.\n\n<color=black>Damage: </color><color=#8B0000>10×2/0.2s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Gains Lumos energy equal to Lumos level every 0.5s, up to 1000. Each laser beam consumes (1 + current energy × 10%) energy when attacking or transferring.\n<color=black>•</color> Can lock onto a Split Beam in front in the same lane (not directly adjacent). Transfers energy every 0.1s, restoring energy equal to 20% of its attack. Each point of energy spent doubles the amount transferred.\n<color=black>•</color> Consumes energy every 0.2s to attack 2 zombies at once, increasing damage by the amount of energy spent.\n<color=black>•</color> Click on it will reset its target.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Peashooter + Beamshooter</color>"
         },
         {
             "seedType": 1382,
             "name": "Split Beam",
             "introduce": "<align=left><size=36><color=black>\"It's my turn to wear the hat.\" \"But the strap is under my chin.\"The two heads of the Lumen Relay Shooter argue constantly. Even the Pool Light Festival can't distract them - the only thing that stops the argument is when they start fighting over the eyebrows instead.</color>",
-            "info": "<size=36>Receives laser energy from the left and fires high-frequency lasers.\n\n<color=black>Damage: </color><color=#8B0000>10/0.2s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> The right head functions like a Beamshooter.\n<color=black>•</color> The left head can receive Lumos energy from beamshooter-family plants in the same lane (not in directly adjacent tile).</color>",
+            "info": "<size=36>Receives laser energy from the left and fires high-frequency lasers.\n\n<color=black>Damage: </color><color=#8B0000>10/0.2s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> The right head functions like a Beamshooter.\n<color=black>•</color> The left head can receive Lumos energy from beamshooter-family plants in the same lane (not in directly adjacent tile).\n<color=black>•</color> Click on it will reset its target.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Peashooter + Rebeamer</color>"
         },
         {
             "seedType": 1383,
             "name": "Gatling Beam",
             "introduce": "<align=left><size=36><color=black>Gatling Beam shines brilliantly on the battlefield, often earning four times the credit. Though its glow makes it an easy target, it never backs down. Wounds within the light are a warrior's badge of honor.</color>",
-            "info": "<size=36>Fires four high-frequency lasers.\n\n<color=black>Damage: </color><color=#8B0000>10×4/0.2s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Gains Lumos energy equal to Lumos level every 0.5s, up to 1000. Each laser beam consumes (1 + current energy × 10%) energy when attacking or transferring.\n<color=black>•</color> Can lock onto a Split Beam in front in the same lane (not directly adjacent). Transfers energy every 0.1s, restoring energy equal to 40% of its attack. Each point of energy spent doubles the amount transferred.\n<color=black>•</color> Consumes energy every 0.2s to attack 4 zombies at once, increasing damage by the amount of energy spent.</color>",
+            "info": "<size=36>Fires four high-frequency lasers.\n\n<color=black>Damage: </color><color=#8B0000>10×4/0.2s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Gains Lumos energy equal to Lumos level every 0.5s, up to 1000. Each laser beam consumes (1 + current energy × 10%) energy when attacking or transferring.\n<color=black>•</color> Can lock onto a Split Beam in front in the same lane (not directly adjacent). Transfers energy every 0.1s, restoring energy equal to 40% of its attack. Each point of energy spent doubles the amount transferred.\n<color=black>•</color> Consumes energy every 0.2s to attack 4 zombies at once, increasing damage by the amount of energy spent.\n<color=black>•</color> Click on it will reset its target.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Peashooter + Split Beam</color>"
         },
         {
@@ -3968,6 +3968,83 @@
             "introduce": "<align=left><size=36><color=black>\"So hungry, so hungry, so hungry! I'm starving!\" Jawbreaker shouts as he lunges at zombies ahead. No matter how much he eats, it's never enough. Oh look - a Gargantuar! Finally, a proper meal… Wait, that might've been too much.</color>",
             "info": "<size=36>Gluttonous Squash that keeps squashing when fed.\n\n<color=black>Damage: </color><color=#8B0000>1800 (Squash)</color>\n<color=black>Detection Range: </color><color=#8B0000>1 tile to the right</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> On landing, attempts to devour one zombie caught underneath. Still deals damage to zombies that are not eaten.\n<color=black>•</color> On a successful devour, returns to the field on the same tile, otherwise he disappears.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Chomper + Squash</color>"
+        },
+        {
+            "seedType": 1391,
+            "name": "Stenchwood",
+            "introduce": "<align=left><size=36><color=black>The fresh aroma of garlic is soothing, while the blaze of fire elevates it to another level entirely. Stenchwood takes a deep breath, lost in this intoxicating scent, and feels regret that other plants cannot appreciate such beauty.</color>",
+            "info": "<size=36>Cauterizes passing peas, greatly enhancing their toxicity.\n\n<color=black>Special: </color><color=#8B0000>Affects specific projectiles that pass through:\n<color=black>-</color> Peas: +10 Damage, becomes Poison Pea;\n<color=black>-</color> Poison Peas: Damage ×2, becomes Venom Peas that also deal Splash damage.</color>",
+            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Torchwood + Garlic</color>"
+        },
+        {
+            "seedType": 1392,
+            "name": "Splash",
+            "introduce": "<align=left><size=36><color=black>Splash works as a lifeguard at a seaside resort. Everyone is amazed that such a heavy body can still glide effortlessly across the water. When asked about it, he always replies, \"That's not something easy to do.\" In truth, he floats thanks to a buoyant balloon hat, whose manufacturer Hopcap went bankrupt ten years ago.</color>",
+            "info": "<size=36>Aquatic squash.\n\n<color=black>Damage: </color><color=#8B0000>1800 (Squash)</color>\n<color=black>Detection Range: </color><color=#8B0000>0.5 tiles to the left; 1 tile to the right</color>",
+            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Squash > Sea-shroom</color>"
+        },
+        {
+            "seedType": 1393,
+            "name": "Saguaro-shroom",
+            "introduce": "<align=left><size=36><color=black>\"The fog is too thick! I can't breathe!\" Saguaro-shroom exclaims, stretching his body to raise his breathing pores above the fog. \"That's better… though I can't go any higher, or the air will soon be out of oxygen!\"</color>",
+            "info": "<size=36>Fires heavy fume to strike low-flying enemies. Can extend to focus on aerial targets.\n\n<color=black>Damage: </color><color=#8B0000>40/1.5s (Piercing)</color>\n<color=black>Special: </color><color=#8B0000>Click to switch between different attack modes:\n<color=black>-</color> Low Altitude: hits both ground and air;\n<color=black>-</color> High Altitude: ×4 damage, anti-air only.</color>",
+            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Fume-shroom + Cactus</color>"
+        },
+        {
+            "seedType": 1394,
+            "name": "Hypnowood",
+            "introduce": "<align=left><size=36><color=black>As a rising star of the poolside variety scene, Hypnowood quickly gained a huge following of zombies and plants alike. Her fiery charm and helpful nature became her trademark. But like many public figures, she is plagued by rumors: plastic surgery and excessive use of cosmetics have always followed her.</color>",
+            "info": "<size=36>Summons Gatling Pea Zombies from its flames.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Summons a hypnotized Gatling Pea Zombie for every 60 projectiles ignited.\n<color=black>•</color> Hypno Peas count as 4 projectiles.\n<color=black>•</color> When bitten, hypnotizes the attacker, and reverts to Torchwood.\n<color=black>•</color> Affects the following projectiles:\n<color=black>-</color> Peas: Ignited for +20 damage;\n<color=black>-</color> Hypno Peas: Ignited for +30 damage;\n<color=black>-</color> Snow Peas: Reverts to Peas.</color>",
+            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Hypno-shroom + Torchwood</color>"
+        },
+        {
+            "seedType": 1395,
+            "name": "Grapple Kelp",
+            "introduce": "<align=left><size=36><color=black>Grapple Kelp has a unique sense of art, believing that absolute chaos is the highest form of beauty. His untamed curls have never been groomed, instead growing into a style of their own. Because of this, he has been absent from every underwater zombie cleanup mission.</color>",
+            "info": "<size=36>Extends tendrils to repeatedly strike enemies in front.\n\n<color=black>Damage: </color><color=#8B0000>30×3/3s (Piercing)</color>\n<color=black>Special: </color><color=#8B0000>Attacks all zombies within 4.5 tiles in front three times. Each hit applies 1 Tangle Stack and triggers these effects:\n<color=black>-</color> 1st hit: +1 extra stack;\n<color=black>-</color> 2nd hit: Deals additional damage equal to 5×(current stacks on the zombie);\n<color=black>-</color> 3rd hit: knockback.</color>",
+            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Fume-shroom > Tangle Kelp</color>"
+        },
+        {
+            "seedType": 1396,
+            "name": "Puff-shroom Spreading: Fume-shroom",
+            "introduce": "<align=left><size=36><color=black></color>",
+            "info": "<size=36>A mushroom cluster formed from Puff-shrooms dispersed by a Fume-shroom.\n\n<color=black>Special: </color><color=#8B0000>Plants down a Fume-shroom in place of the Puff-shroom and spawns Puff-shrooms in equal intervals ahead (decreasing per tile). The more Puff-shrooms consumed in fusion, the more will be spawned.</color>",
+            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Fume-shroom > Puff-shroom</color>"
+        },
+        {
+            "seedType": 1397,
+            "name": "Puff-shroom Spreading: Scaredy-shroom",
+            "introduce": "<align=left><size=36><color=black></color>",
+            "info": "<size=36>A mushroom cluster formed from Puff-shrooms dispersed by a Scaredy-shroom.\n\n<color=black>Special: </color><color=#8B0000>Plants down a Scaredy-shroom in place of the Puff-shroom and spawns Puff-shrooms evenly across front, upper, and lower adjacent tiles (prioritizing front). The more Puff-shrooms consumed in fusion, the more will be spawned.</color>",
+            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Scaredy-shroom > Puff-shroom</color>"
+        },
+        {
+            "seedType": 1398,
+            "name": "Kimchi-pult",
+            "introduce": "<align=left><size=36><color=black>Thanks to his mastery of chili sauce, his Korean restaurant is always booming. Its owner, Kimchi-pult, is just as fiery, bold, passionate, and intense. There's only one thing to remember when eating his food: once you're full, leave quickly… or he'll serve you another round.</color>",
+            "info": "<size=36>Hurls spicy-hot cabbages that explode into smaller cabbages on impact.\n\n<color=black>Damage: </color><color=#8B0000>60/3s</color>\n<color=black>Special: </color><color=#8B0000>On hit, projectile splits into smaller projectiles across a 3×3 area (1/3 damage each), all applying Enflamed debuff before dealing damage.</color>",
+            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Jalapeno + Cabbage-pult</color>"
+        },
+        {
+            "seedType": 1399,
+            "name": "Damage-pult",
+            "introduce": "<align=left><size=36><color=black>\"I am the hunter of the night,\" he declares. His dark skin blends perfectly into darkness, but his glowing red eyes often give him away. Still, Damage-pult refuses to wear sunglasses, calling it \"the gaze of death\"… though in truth, he just can't figure out how to take his contact off.</color>",
+            "info": "<size=36>Launches high-damage cabbages that trigger explosions on Irradiated targets.\n\n<color=black>Damage: </color><color=#8B0000>1800/15s</color>\n<color=black>Special: </color><color=#8B0000>When hitting Irradiated zombies, the projectile causes a small splash explosion dealing 1/3 damage without falloff.</color>",
+            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Doom-shroom + Cabbage-pult</color>"
+        },
+        {
+            "seedType": 1400,
+            "name": "Popcorn-pult",
+            "introduce": "<align=left><size=36><color=black>\"Our popcorn is made from 100% natural ingredients!\" Popcorn-pult proudly advertises. However, customers often question his claim, mostly because his butter seems permanently burning-hot and impossible to cool.</color>",
+            "info": "<size=36>Throws magma butter that ignite enemies and empower fire-type plants.\n\n<color=black>Damage: </color><color=#8B0000>30/3s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Projectiles apply Enflamed debuff before dealing damage.\n<color=black>•</color> Has 25% chance to launch Magma Butter (50 damage): applies 4s stun, triggers a full-lane Jalapeno effect with 50 damage, and grants fire plants (Jalapeno fusions) +50% attack damage for 6s (Odyssey ones +25% instead).</color>",
+            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Jalapeno + Kernel-pult</color>"
+        },
+        {
+            "seedType": 1401,
+            "name": "Ice Mine",
+            "introduce": "<align=left><size=36><color=black>\"I am the true star of the battlefield,\" Ice Mine thinks. \"And a star always makes his entrance at the very last moment.\" Before the grand review, he even buries himself in cool soil to rest, but not without making sure his perfect hairstyle stays untouched above ground.</color>",
+            "info": "<size=36>Releases condensed icy gas that triggers chain ice explosions from even the smallest contact.\n\n<color=black>Damage: </color><color=#8B0000>1800</color>\n<color=black>Special: </color><color=#8B0000>On arming and detonation, triggers an ice blast that freezes zombies in a 3×3 area for 4s, dealing 1/3 damage, and triggers secondary smaller ice blasts in adjacent tiles containing zombies.</color>",
+            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Potato Mine + Ice-shroom</color>"
         },
         {
             "seedType": 350,
