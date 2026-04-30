@@ -239,7 +239,7 @@
         "1006": "Increase the maximum limit of zombies per wave to 100",
         "1007": "The maximum number of zombies each wave is halved, but all zombies have ×2 HP and Attack",
         "1008": "All healing and shields on Plants are reduced by 50%",
-        "1009": "Plants lose max HP equal to 10% of the damage received (capped at 40% and resets between rounds) when taking damage",
+        "1009": "Plants lose max HP equal to 10% of the damage received (up to 40% and resets between rounds) when taking damage",
         "1010": "All plants now cost 3× Sun",
         "1011": "Time before the first wave of zombie is reduced to 5s, and the interval between zombie waves is reduced to 15s",
         "1012": "Odyssey Plants' Attack and max HP reduced by 90%, but all other plants now have 40× Attack & max HP, and 2× Attack Speed",
