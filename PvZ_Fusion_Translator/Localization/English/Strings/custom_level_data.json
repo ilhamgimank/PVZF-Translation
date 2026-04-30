@@ -170,5 +170,33 @@
     "level_1777385759836_sndjbb4i0": {
         "name": "3.6 Mini-game\nBotanical Tactician",
         "startTip": "<size=20>Use the Glove or directly click on the Plants to move them!\nKill Zombies for Sun to buy support plants!\nThis level is very micro-heavy. Please choose difficulty carefully."
+    },
+    "level_1777476099947_28kglstpr": {
+        "name": "3.6.1 I, Zombie\nScaredy's dream",
+        "startTip": "Rush shrooms can be used to remove projectiles, Peashooters and Scaredy-shroom will be very important this level\nCarefully use (or don't) Ice shrooms, Squashwoods, and Puff-shrooms to get rid of the Obsidian Tall-Nuts (Doom Squash) to achieve victory\nIt's recommended to fuse Scaredy shroom with Blover to clean up the projectiles at the end\nDon't forget to protect the endoflames, too.\nSubmitter: 灯磁, Best Solution: 500 Sun Left"
+    },
+    "level_1777476101905_76gkjo79n": {
+        "name": "3.6.1 I, Zombie\nWelcome to the Darkside",
+        "startTip": "A very generic I, Zombie level.\nAs you can see, you need to act fast and kill the Plantern at the start.\nRecommended Difficulties: 4-5 (otherwise not solvable)\nSubmitter: 窝是fvv, Best Solution: 375 Sun left"
+    },
+    "level_1777477084191_cd6sah12a": {
+        "name": "3.6.1 I, Zombie\nThin Ice",
+        "startTip": "<size=18>The blizzard at the start of the level will freeze some plants not protected by firnaces. Use these frozen plants to win!\nRecommended Difficulty: 0, Submitter: 小董玩的好, Best Solution: 425 Sun left"
+    },
+    "level_1777477085553_gsp8oxjjy": {
+        "name": "3.6.1 I, Zombie\nSuperhostile",
+        "startTip": "<size=18>You'll have to protect the plants on Radiant Pots from dying! If any of them do, you'll immediately lose too!\nSo, are you brave enough to click on the M.A.D. Peppers?\nRecommended Difficulty: 0, Submitter: 小董玩的好, Best Solution: 450 Sun left"
+    },
+    "level_1777477086587_5tnwc8lem": {
+        "name": "3.6.1 I, Zombie\nUntrickable",
+     "startTip": "<size=15><align=left>【Plants that have had their stats altered but are not on the starting lawn】\nChrono Pea: Damage: 1800\nBuckshooter: Damage: 0\nFootball-shroom: Health: 0\nDoomwarp-shroom: Health: 0\nDoomplate-shroom: Health: 0\nIron Squash: Damage: 0\nCherrizilla: Health: 0\nExplode-o-tato Mine: Health: 0\nGolden Umbrella: Health: 0\nGloom-shroom: Attack interval: ∞\nGolden Melon: Damage: 0\nObsidian Mine: Health: 1\n\n\n\n\n\n\n\n<size=18><align=center>A large amount of plants in this level have altered stats, keep them in mind when attempting to solve it!\nRight, Pressing H while hovering over a plant allows you to see the stats of the plant, using this feature can help make this level much easier!\nRecommended Difficulty: Submitter: 小董玩的好, Best Solution: 550 Sun left\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    "level_1777477087653_z9zgyyc2y": {
+        "name": "3.6.1 I, Zombie\nImitater",
+        "startTip": "<size=18>Warning: This level is quite hard to solve!\nOne Imitater costs 325 sun to prevent sun farming. Use them wisely to beat this level!\nThink about how how to deal with the lane 1 Explode-o-shooter, lane 2 Cherrizilla, lane 3 Football-shroom, lane 4 Snipea, and lane 5 Sunrise-shroom!\nRecommended Difficulty: 0, Submitter: 小董玩的好, Best Solution: 550"
+    },
+    "level_1777477365080_24xm784gq": {
+        "name": "3.6.1 I, Zombie\nCarpet Bombing",
+        "startTip": "<size=18><size=18>Doom-shroom erases all other plants in the same tile, and can be fused to make fusions that do the same thing.\nRecommended difficulty: 0, Submitter: 小董玩的好, Best Solution: 500 Sun left\n(Search the submitter's name on Bilibili for a walkthrough)"
     }
 }
