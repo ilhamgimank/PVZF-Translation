@@ -124,7 +124,7 @@
             "theZombieType": 20,
             "name": "Trident Zombie",
             "introduce": "<align=left><size=36><color=black>Trident Zombie was originally just a regular javelin thrower who became a fisherman after retiring. However, when he went to the river to fish, he sank because he couldn't swim. When he came ashore, he realized he had become what he is now.</color>",
-            "info": "<size=36>Throws a trident to attack your plants.\n\n<color=black>Toughness: </color><color=#4B0082>720</color>\n<color=black>Traits: </color><color=#4B0082>6-9s after entering or when blocked, throws a trident, causing damage to plants equal to 20% (minimum of 60) of their current HP.</color>\n<color=black>Minimum Search Range: </color><color=#4B0082>4 Tiles in Front</color>"
+            "info": "<size=36>Throws a trident to attack your plants.\n\n<color=black>Toughness: </color><color=#4B0082>720</color>\n<color=black>Traits: </color><color=#4B0082>6-9s after entering or when blocked, throws a trident, causing damage to plants equal to 20% (minimum of 60) of their current HP.</color>\n<color=black>Minimum Search Range: </color><color=#4B0082>3.5 Tiles in Front</color>"
         },
         {
             "theZombieType": 21,
@@ -340,13 +340,13 @@
             "theZombieType": 56,
             "name": "Snowfur",
             "introduce": "<align=left><size=36><color=black>Research into the biological classification of Snowfurs has seen little progress. After all, you can't expect zombies—who lack brains—to be academically sharp. Most can’t even tell a real Snowfur from a Yeti Zombie in a Snowfur pelt. Thankfully, Dr. Edgar offered a brilliant method: 'The smarter-looking one is the Snowfur.'</color>",
-            "info": "<size=36>A hostile creature native to the snowy plains.\n\n<color=black>Toughness: </color><color=#4B0082>1350</color>\n<color=black>Traits: </color><color=#4B0082>Immune to Chill. When zombies destroy an Iceblock with no corresponding Zombotany, a Snowfur appears. Moves very slowly, crushes plants, but does not directly attack.</color>"
+            "info": "<size=36>A hostile creature native to the snowy plains.\n\n<color=black>Toughness: </color><color=#4B0082>1350</color>\n<color=black>Traits: </color><color=#4B0082>When zombies destroy an Iceblock with no corresponding Zombotany, a Snowfur appears. Moves very slowly, crushes plants, but does not directly attack.</color>"
         },
         {
             "theZombieType": 57,
             "name": "Elder Snowfur",
             "introduce": "<align=left><size=36><color=black>Stronger, wiser, and with a heavier tail than other snow beasts, what truly made him leader was his remarkable leap — guiding his kin to the source of the frozen waterfall.</color>",
-            "info": "<size=36>Apex of the snowy plains.\n\n<color=black>Toughness: </color><color=#4B0082>3000</color>\n<color=black>Traits: </color><color=#4B0082>Immune to Chill. When zombies destroy an Iceblock with no corresponding Zombotany, a Snowfur appears, with a 1/4 chance of it being an Elder Snowfur. Moves very slowly and crushes plants. Dashes 2 tiles forward on appearance, ignoring plants.</color>"
+            "info": "<size=36>Apex of the snowy plains.\n\n<color=black>Toughness: </color><color=#4B0082>3000</color>\n<color=black>Traits: </color><color=#4B0082>When zombies destroy an Iceblock with no corresponding Zombotany, a Snowfur appears, with a 1/4 chance of it being an Elder Snowfur. Moves very slowly and crushes plants. Dashes 2 tiles forward on appearance, ignoring plants.</color>"
         },
         {
             "theZombieType": 58,
@@ -376,7 +376,7 @@
             "theZombieType": 62,
             "name": "Furling",
             "introduce": "<align=left><size=36><color=black>Though just a cub, Furling has big dreams — to dominate the tundra like the mighty Elder Snowfur, not hang around with mischievous Imp Zombies. It ran off from camp to make a name for itself… and accidentally rolled into the plants' territory. Oof!</color>",
-            "info": "<size=36>A baby Snowfur that loves to tumble, but rarely survives it.\n\n<color=black>Toughness: </color><color=#4B0082>300</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Immune to Chill. Rolls forward. Upon hitting a plant, deals damage equal to its current HP, then dies.\n<color=black>•</color> Has a 1/3 chance to evade any damage.</color>"
+            "info": "<size=36>A baby Snowfur that loves to tumble, but rarely survives it.\n\n<color=black>Toughness: </color><color=#4B0082>300</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Rolls forward. Upon hitting a plant, deals damage equal to its current HP, then dies.\n<color=black>•</color> Has a 1/3 chance to evade any damage.</color>"
         },
         {
             "theZombieType": 63,
@@ -485,42 +485,6 @@
           "name": "Chronovaulter Zombie",
           "introduce": "<align=left><size=36><color=black>Thanks to its unique ability to teleport, Chronovaulter Zombie can easily tackle pole vaults of any height and clears the bar 100% of the time. The only problem giving him a headache right now is that he often lands in the stands.</color>",
           "info": "<size=36>Uses its pole to open a temporal vortex and leap into unexpected places.\n\n<color=black>Toughness: </color><color=#4B0082>720 + 1100  (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>When vaulting over a plant, it will randomly teleport one tile upwards, downwards, left, or right randomly. Drops a Chrono Core upon death.</color>"
-        },
-        {
-          "theZombieType": 81,
-          "name": "Coach Zombie",
-          "introduce": "<align=left><size=36><color=black>\"Don't walk away,\" what a touching phrase… unfortunately it's coming from the Coach Zombie. Every pole vaulter already knows what he'll say next: \"Don't walk away, start running!\"</color>",
-          "info": "<size=36>Trains Pole Vaulting Zombies. If his manual is destroyed, he'll start barking orders and personally step in to lead.\n\n<color=black>Toughness: </color><color=#4B0082>720 + 720  (Type 2)</color>\n<color=black>Traits: </color><color=#4B0082>Increases the jump distance of all pole-vaulting zombies in his lane. After his manual is destroyed, this bonus increases and he summons a Pole Vaulting Zombie in the same lane.</color>"
-        },
-        {
-          "theZombieType": 82,
-          "name": "Buckethead Newspaper Zombie",
-          "introduce": "<align=left><size=36><color=black>What do lawn mowers, popcorn machines, and Buckethead Newspaper Zombies have in common? They're all tough as still, painted red, very old — and they all creak when they move.</color>",
-          "info": "<size=36>Firmly believes in the protective power of metal, and shares his \"expertise\" with others through his magazine.\n\n<color=black>Toughness: </color><color=#4B0082>270 + 1100 (Type 1) + 1100 (Type 2)</color>\n<color=black>Traits: </color><color=#4B0082>On spawn, grants 50 DR Value to himself and all other Newspaper Zombies in the same lane. After his magazine is destroyed, this bonus increases to 100.</color>\n<color=black>Weakness: </color><color=#4B0082>Magnet-shroom</color>"
-        },
-        {
-          "theZombieType": 83,
-          "name": "Zombie Penguin",
-          "introduce": "<align=left><size=36><color=black>They're actually real penguins who achieved great feats in the Antarctic, so Doctor Zomboss rewarded them with zombie-style contact lenses and the title of \"zombie.\" Honestly, if they understood what that meant, they'd probably refuse.</color>",
-          "info": "<size=36>Cute on the outside, but dangerous in their preferred environment.\n\n<color=black>Toughness: </color><color=#4B0082>1350</color>\n<color=black>Traits: </color><color=#4B0082>Immune to Chill. Hops forward, dealing 100 damage twice to plants upon landing. On ice trails, slides forward and crushes plants. During blizzards, can start sliding even without ice.</color>\n<color=black>Weakness: </color><color=#4B0082>Bamblock</color>"
-        },
-        {
-          "theZombieType": 84,
-          "name": "Frost Legionnaire Zombie",
-          "introduce": "<align=left><size=36><color=black>Frost Legionnaire Zombie believes he's different from those outside the frozen wastes. The frostbite scar on his chest is, to him, proof of his status as an adventurer. Still, he never dares take off his coat to show it: he's afraid of getting a second one.</color>",
-          "info": "<size=36>A basic zombie that inhabits the tundra.\n\n<color=black>Toughness: </color><color=#4B0082>270</color>\n<color=black>Traits: </color><color=#4B0082>Immune to Chill and Freeze.</color>"
-        },
-        {
-            "theZombieType": 85,
-            "name": "Frost Legion Packed Ice Zombie",
-            "introduce": "<align=left><size=36><color=black>Don't worry, even if all the inner ice melts, he's not going to get water in his brain — he has got none of that left!</color>",
-            "info": "<size=36>A tundra zombie that uses layered ice as armor.\n\n<color=black>Toughness: </color><color=#4B0082>270 + 1100 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Immune to Chill and Freeze.</color>"
-        },
-        {
-          "theZombieType": 86,
-          "name": "Zombie Emperor Penguin",
-          "introduce": "<align=left><size=36><color=black>The fastest-sliding penguin is chosen as the Emperor Penguin. It leads the waddle, scouting safe paths, most penguins only dare step where it has already walked. As the best-fed among them, it's usually so heavy that when it slides an avalanche usually ensues.</color>",
-          "info": "<size=36>The king among penguins, capable of creating favorable conditions for its kind.\n\n<color=black>Toughness: </color><color=#4B0082>1440</color>\n<color=black>Traits: </color><color=#4B0082>Immune to Chill. Hops forward, dealing 500 damage twice to plants upon landing. On ice trails, slides forward and crushes plants. If on a Snow map, triggers a blizzard immediately upon spawning; during blizzards, can start sliding even without ice.</color>\n<color=black>Weakness: </color><color=#4B0082>Bamblock</color>"
         },
         {
             "theZombieType": 100,
@@ -703,18 +667,6 @@
             "info": "<size=36>Consumes your sun to reduce incoming damage.\n\n<color=black>Toughness: </color><color=#4B0082>270 + 1100 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Drains 25 Sun from the player every 15s not stunned or frozen. When taking damage, negates that damage and instead takes a fixed 20 damage while draining 5 Sun from the player. When a Wall-nut Zombie and a Solar-nut Zombie are in the same tile, they fuse into a Twin Solar-nut Zombie.</color>"
         },
         {
-            "theZombieType": 130,
-            "name": "Gatling Pea Zombie",
-            "introduce": "<align=left><size=36><color=black>His overwhelming firepower lets him face any challenge in the coolest way possible. Whether you admit it or not, that's become his defining trait among zombies. In public, people don't even remember his name, just \"that guy with the weird headgear,\" which honestly stings a bit.</color>",
-            "info": "<size=36>Fires multiple peas at your plants.\n\n<color=black>Damage: </color><color=#4B0082>20×4/1.5s</color>\n<color=black>Toughness: </color><color=#4B0082>500</color>"
-        },
-        {
-            "theZombieType": 131,
-            "name": "Gatling Snow Zombie",
-            "introduce": "<align=left><size=36><color=black>The Gatling Snow Zombie is extremely sensitive to cold. He bundles up in thick clothing and constantly fires the chill inside him out through his peas. He even refuses to eat brains below 20°C, yet he's still shivering non-stop.</color>",
-            "info": "<size=36>Fires multiple Snow peas at your plants and freezes them.\n\n<color=black>Damage: </color><color=#4B0082>20×4/1.5s</color>\n<color=black>Toughness: </color><color=#4B0082>500</color>\n<color=black>Traits: </color><color=#4B0082>Has a chance to freeze plants; deals 4× damage to frozen plants.</color>"
-        },
-        {
             "theZombieType": 200,
             "name": "Sharkmarine",
             "introduce": "<align=left><size=36><color=black>\"An excellent diver should not only be able to dive but also drive a super submarine!\" declared Sharkmarine Zombie as he increased the submarine's horsepower by one gear.</color>",
@@ -730,7 +682,7 @@
             "theZombieType": 202,
             "name": "Giga Trident-nut Zombie",
             "introduce": "<align=left><size=36><color=black>Giga Trident-nut Zombie is a skilled fisherman known for his exceptional accuracy with the four tridents he throws, earning him the title of the king of fishermen. \"In fact, I used to be a part-time javelin thrower...\" Giga Trident-nut Zombie admitted.</color>",
-            "info": "<size=36>Throws a large number of tridents at your plants at once.\n\n<color=black>Toughness: </color><color=#4B0082>720 + 7500 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>6-9s after entering or when blocked, throws 4 tridents, each causing damage to plants equal to 20% (minimum of 60) of their current Toughness.</color>\n<color=black>Odyssey Modifiers:\n</color><color=#4B0082>1. Additionally throws tridents at the nearest plants 3 and 5 tiles ahead | Pozeidon throws 3 giant tridents\n2. Now targets random plants outside of minimum range</color>"
+            "info": "<size=36>Throws a large number of tridents at your plants at once.\n\n<color=black>Toughness: </color><color=#4B0082>720 + 7500 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>6-9s after entering or when blocked, throws 4 tridents, each causing damage to plants equal to 20% (minimum of 60) of their current Toughness.</color>\n<color=black>Odyssey Modifiers:\n</color><color=#4B0082>1. Trident Damage ×5\n2. Now targets random plants outside of minimum range</color>"
         },
         {
             "theZombieType": 203,
@@ -778,19 +730,19 @@
             "theZombieType": 210,
             "name": "Giga Mecha-nut Bowling Zombie",
             "introduce": "<align=left><size=36><color=black>\"Fish balls? Mecha armor? That's all that matters,\" says Giga Mecha-nut. Sporting an impressive mechanical suit, he feels that's all he really needs.</color></size>",
-            "info": "<size=36>The new electric steam roller robot designed by Gfishtus Corps.\n\n<color=black>Toughness: </color><color=#4B0082>1350</color>\n<color=black>Traits: </color><color=#4B0082>Inherits traits from Mecha-nut Zombies. Super fast. Drops a Giga Mecha-nut Fragment upon defeat.\n<color=black>Odyssey Modifiers:\n</color><color=#4B0082>1. For the first 50 hits, all zombies take only 1 damage\n2. All zombies gain 0.2s of damage immunity after each hit to any damage that does not exceed the previous one; this triggers up to 100 times\n<color=black>Weakness: </color>Umbrella fusions.</color></size>"
+            "info": "<size=36>The new electric steam roller robot designed by Gfishtus Corps.\n\n<color=black>Toughness: </color><color=#4B0082>1350</color>\n<color=black>Traits: </color><color=#4B0082>Inherits traits from Mecha-nut Zombies. Super fast. Drops a Giga Mecha-nut Fragment upon defeat.\n<color=black>Odyssey Modifiers:\n</color><color=#4B0082>1. For the first 50 hits, all zombies take only 1 damage\n2. For the first 100 hits, zombies gain 0.1s of damage immunity after each hit\n<color=black>Weakness: </color>Umbrella fusions.</color></size>"
         },
         {
             "theZombieType": 211,
             "name": "Grounded Sharkmarine",
             "introduce": "<align=left><size=36><color=black>Why is it here? Did it emerge from the ground? Or did it fall from the sky? No one really knows. What is certain is that those displaced dirt looking thingies are definitely camouflage.</color></size>",
-            "info": "<size=36>A failed example of a Sharkmarine test.\n\n<color=black>Damage: </color><color=#4B0082>20/0.02s</color>\n<color=black>Toughness: </color><color=#4B0082>1% of Giga Mecha-nut's HP</color>\n<color=black>Traits: </color><color=#4B0082>Sharkmarine, but on land and immobile. Has 900 innate DR value. Using a Wall-nut seedpacket on a Giga Mecha-nut summons a hypnotized Sharkmarine. The Grounded Sharkmarine dies instantly if the Giga Mecha-nut summons again or is destroyed.</color></size>"
+            "info": "<size=36>A failed example of a Sharkmarine test.\n\n<color=black>Damage: </color><color=#4B0082>20/0.02s</color>\n<color=black>Toughness: </color><color=#4B0082>Giga Mecha-nut HP/3</color>\n<color=black>Traits: </color><color=#4B0082>Sharkmarine, but on land and immobile. Using a Wall-nut seedpacket on a Giga Mecha-nut summons a hypnotized Sharkmarine. The Grounded Sharkmarine dies instantly if the Giga Mecha-nut summons again or is destroyed.</color></size>"
         },
         {
             "theZombieType": 212,
             "name": "<u>Abyssal Gargantuar</u>",
             "introduce": "<align=left><size=36><color=black>By ancient writ, it is recorded that the abyssal obsidian armor may only be borne by a body tempered through trials of bitter frost and searing flame. When the kin of zombies art plunged into utmost peril, his visage may yet appear at the heart of the dreadest battlefield. 'Stir not great commotion, lest ye rouse the giant that slumbereth beneath the earth.' A warning to the plants.</color>",
-            "info": "<size=36>An ancient, eldritch and insidious threat.\n\n<color=black>Toughness: </color><color=#4B0082>32000 + 32000 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Mini-boss. While present, provides +400 DR value to all zombies on screen, spawns Abyssal Imps when he smashes the ground, and inherits other traits of the Armored Gargantuar.</color>\n<color=#8B0000><u>Mini-bosses: </color></u><color=#4B0082>Mini-bosses receive only 5000 damage from insta-kills, are immune to hypnotization, devouring, drowning, cremators, transmutation, shrinking, chronoshift and teleporting, take only 50% the knockback from Umbrellas and grant all zombies +100 DR value unless otherwise specified. They only appear in huge waves of some levels with more than 3 flags. In Odyssey: Evolved, they have ×2 HP.</color>\n<color=#8B0000><u>Armor Mechanic: </color></u><color=#4B0082>Damage taken is reduced to (Damage Taken) × 100/(100 + DR value).</color>\n<color=black>Odyssey Modifiers:\n</color><color=#4B0082>1. Summons Dr. Zomboss on death</color>"
+            "info": "<size=36>An ancient, eldritch and insidious threat.\n\n<color=black>Toughness: </color><color=#4B0082>32000 + 32000 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Mini-boss. While present, provides +900 DR value to all zombies on screen, spawns Abyssal Imps when he smashes the ground, and inherits other traits of the Armored Gargantuar.</color>\n<color=#8B0000><u>Mini-bosses: </color></u><color=#4B0082>Mini-bosses receive only 5000 damage from insta-kills, are immune to hypnotization, devouring, drowning, cremators, transmutation, shrinking, chronoshift and teleporting, take only 50% the knockback from Umbrellas and grant all zombies +100 DR value unless otherwise specified. They only appear in huge waves of some levels with more than 3 flags. In Odyssey: Evolved, they have ×2 HP.</color>\n<color=#8B0000><u>Armor Mechanic: </color></u><color=#4B0082>Damage taken is reduced to (Damage Taken) × 100/(100 + DR value).</color>\n<color=black>Odyssey Modifiers:\n</color><color=#4B0082>1. Summons Dr. Zomboss on death.</color>"
         },
         {
             "theZombieType": 213,
@@ -826,7 +778,7 @@
             "theZombieType": 218,
             "name": "<u>Pozeidon</u>",
             "introduce": "<align=left><size=36><color=black>The sea splits apart as Pozeidon ascends, water cascading from his mighty form. His trident, crackling with the fury of the deep, is already poised to strike. \"The tides are mine to command,\" he roars, his voice carrying over the howling winds. With a swift motion, the weapon hurtles forward, crashing into enemy lines like a tidal wave. \"Run if you wish—but no one outruns the sea.\"</color>",
-            "info": "<size=36>King of the drowned.\n\n<color=black>Toughness: </color><color=#4B0082>24000 + 24000 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Mini-boss. Summons Giga Trident-nut Zombies on all lanes upon its appearance. These zombies are replenished every 1.5s.\n<color=black>•</color> While present, all Odyssey Trident Zombies will continuously attack. Buffs all tridents to deal 5 times more damage than normal.\n<color=black>•</color> His tridents are thrown at a fixed angle and deal 1m damage to any plants they pass through. Upon landing, they self-destruct after 30s, triggering a Jack-in-the-Box explosion that deals physical damage.</color>"
+            "info": "<size=36>King of the drowned.\n\n<color=black>Toughness: </color><color=#4B0082>24000 + 24000 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Mini-boss. Summons Giga Trident-nut Zombies on all lanes upon its appearance.\n<color=black>•</color> While present, all Odyssey Trident Zombies will continuously attack. Buffs all tridents to deal 5 times more damage than normal.\n<color=black>•</color> His tridents are thrown at a fixed angle, instantly killing most plants. It can still be redirected to plants that mitigate damage.\n<color=black>•</color> The trident will explode and kill all nearby plants 30 seconds after it lands.</color>"
         },
         {
             "theZombieType": 219,
@@ -838,7 +790,7 @@
             "theZombieType": 220,
             "name": "<u>Giga Football Striker</u>",
             "introduce": "<align=left><size=36><color=black>There was no escaping him. Giga Football Striker moved with unnatural precision, his unblinking eyes scanning for the next victim. He wasn't just a destroyer—he was a harvester, a nightmare that took more than just life. Every plant he touched became part of him, twisted and corrupted. And as he advanced, his presence whispered the same terrifying truth: \"No matter where you run, I will find you.\"</color>",
-            "info": "<size=36>Giga Football Striker can tear down your defense with ease!\n\n<color=black>Damage: </color><color=#4B0082>200</color>\n<color=black>Toughness: </color><color=#4B0082>24000 + 24000 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Mini-boss. Immune to knock-backs.\n<color=black>•</color> Disables plant healing, converting it to 0.1× damage against himself, capped at 1% of his max HP.\n<color=black>•</color> Instantly kills non-defensive plants when he bites them, turning them into Giga Football-nut Zombies.\n<color=black>•</color> Every 3s, damage ×2 (stackable, max 1M), restores 6000 armor HP, and increases speed by 30% (max 3 times the original speed).</color>\n<color=black>Odyssey Modifiers:\n</color><color=#4B0082>1. Now gains buffs 2× faster</color>"
+            "info": "<size=36>Giga Football Striker can tear down your defense with ease!\n\n<color=black>Damage: </color><color=#4B0082>200</color>\n<color=black>Toughness: </color><color=#4B0082>24000 + 24000 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Mini-boss. Immune to knock-backs.\n<color=black>•</color> Disables plant healing, converting it to 0.1× damage against himself, capped at 1% of his max HP.\n<color=black>•</color> Instantly kills non-defensive plants when he bites them, turning them into Giga Football-nut Zombies.\n<color=black>•</color> Every 3s, damage ×2 (stackable, max 1M), restores 6000 armor HP, and increases speed by 30% (max 3 times the original speed).</color>"
         },
         {
             "theZombieType": 221,
@@ -850,7 +802,7 @@
             "theZombieType": 222,
             "name": "<u>Jackson Worldwide</u>",
             "introduce": "<align=left><size=36><color=black>The spotlight flickered as Jackson Worldwide stepped forward, his grin sharp and his voice low. \"You think this is a game?\" he said, snapping his fingers. Superstar Zombies materialized, their instruments screeching. \"This garden's my stage now. Let's see how long you last.\"",
-            "info": "<size=36>Jackson Worldwide has dedicated his entire life to the passion of stage performance and touring.\n\n<color=black>Toughness: </color><color=#4B0082>48000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Mini-boss. Immune to all status effects.\n<color=black>•</color> Crushes plants.\n<color=black>•</color> Takes a maximum damage of 480 when affected by spikeweed-like attacks.\n<color=black>•</color> Grants cryo-immunity to zombies nearby and summons 4 Superstar Zombies and 4 Super Dancing Pole Vaulters every 10 dance movements.\n<color=black>•</color> Spawns 2 Michael Zombonis and a Superstar Zombie upon death.</color>\n<color=black>Odyssey Modifiers:\n</color><color=#4B0082>1. Now gains a 50% incoming Damage Reduction</color>"
+            "info": "<size=36>Jackson Worldwide has dedicated his entire life to the passion of stage performance and touring.\n\n<color=black>Toughness: </color><color=#4B0082>48000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Mini-boss. Immune to all status effects.\n<color=black>•</color> Crushes plants.\n<color=black>•</color> Takes a maximum damage of 480 when affected by spikeweed-like attacks.\n<color=black>•</color> Grants cryo-immunity to zombies nearby and summons 4 Superstar Zombies and 4 Super Dancing Pole Vaulters every 10 dance movements.\n<color=black>•</color> Spawns 2 Michael Zombonis and a Superstar Zombie upon death.</color>"
         },
         {
             "theZombieType": 223,
@@ -922,13 +874,13 @@
             "theZombieType": 234,
             "name": "<u>Imperor's Ark of the Duck</u>",
             "introduce": "<align=left><size=36><color=black>As the boss of all Imps, he reigns supreme in their world. No need to be as knowledgeable as Scholar Zombie, nor as elegant as Michael Zombie - he just does what delights him: riding his beloved golden speedboat nicknamed Ark of the Duck and causing major trouble for those pesky plants. There's no need for explanation: let's set sail and embrace the adventure!</color>",
-            "info": "<size=36>Final Imp at the end of your Odyssey. Pilots the luxurious Ark of the Duck, leading the undead fleet.\n\n<color=black>Toughness: </color><color=#4B0082>48000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Mini-boss. Immune to stun and tangle.\n<color=black>•</color> Crushes plants rapidly.\n<color=black>•</color> While present, grants +400 DR value to all zombies.\n<color=black>•</color> When present, all zombies gain a 20% movement speed boost and a 33% chance to reduce incoming damage to 1.\n<color=black>•</color> Upon death, ejects the Imperor onto nearby land.</color>\n<color=black>Odyssey Modifiers:\n</color><color=#4B0082>1. Now recovers 500 HP every time he dodges an attack</color>"
+            "info": "<size=36>Final Imp at the end of your Odyssey. Pilots the luxurious Ark of the Duck, leading the undead fleet.\n\n<color=black>Toughness: </color><color=#4B0082>48000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Mini-boss. Immune to stun and tangle.\n<color=black>•</color> Crushes plants rapidly.\n<color=black>•</color> While present, grants +400 DR value to all zombies.\n<color=black>•</color> When present, all zombies gain a 20% movement speed boost and a 33% chance to reduce incoming damage to 1.\n<color=black>•</color> Upon death, ejects the Imperor onto nearby land.</color>"
         },
         {
             "theZombieType": 235,
             "name": "Imperor",
             "introduce": "<align=left><size=36><color=black>Even amidst fierce battles, Imperor still wishes for some leisure time: no brains to chase, no plants to fight, just a quiet walk, pondering over what trick to perform on his subjects at Halloween. But the call of duty as a member of royalty always brings him back to the throne, ready to lead the next charge.</color>",
-            "info": "<size=36>Imperor in retreat, but once he escapes, he'll surely return.\n\n<color=black>Damage: </color><color=#4B0082>80/0.1s; 100 (bite)</color>\n<color=black>Toughness: </color><color=#4B0082>18000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Mini-boss. Immune to stun and knockback.\n<color=black>•</color> For every other mini-boss present, gains a 20% incoming damage reduction for himself.\n<color=black>•</color> Upon landing, turns around and retreats, ignoring plants.\n<color=black>•</color> Upon exiting the lawn, he re-enters on a new Ark of the Duck.</color>"
+            "info": "<size=36>Imperor in retreat, but once he escapes, he'll surely return.\n\n<color=black>Damage: </color><color=#4B0082>80/0.1s; 100 (bite)</color>\n<color=black>Toughness: </color><color=#4B0082>18000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Mini-boss. Immune to stun and knockback but no longer provides damage reduction for other zombies.\n<color=black>•</color> For every other mini-boss present, gains a 20% incoming damage reduction for himself.\n<color=black>•</color> Upon landing, turns around and retreats, ignoring plants.\n<color=black>•</color> Upon exiting the lawn, he re-enters on a new Ark of the Duck.</color>"
         },
         {
             "theZombieType": 236,
@@ -952,13 +904,13 @@
             "theZombieType": 239,
             "name": "Clown-on-the-Jetski Zombie",
             "introduce": "<align=left><size=36><color=black>The first zombie to use pogo sticks and Jack-in-the-Boxes on water. How did he do it? \"Science! Newton's third law, nitroglycerin, and springs! Oh yeah!\" Is he a genius or a maniac? Who knows!</color>",
-            "info": "<size=36>Uses a modified pogo stick to jetski across water lanes, rushing at plants and littering a cluster of Jack-in-the-Boxes.\n\n<color=black>Toughness: </color><color=#4B0082>6000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Very fast. When stopped by a plant, dies instantly and litters bombs that detonate like Jack-in-the-Boxes within a 3.5-tile radius, for a total of (plants hit × map lanes) bombs, each dealing 500 damage.\n<color=black>•</color> Always triggers a Jack-in-the-Box explosion on death.</color>\n<color=black>Odyssey Modifiers:\n</color><color=#4B0082>1. Bomb damage +500\n2. Bomb damage +500</color>"
+            "info": "<size=36>Uses a modified pogo stick to jetski across water lanes, rushing at plants and littering a cluster of Jack-in-the-Boxes.\n\n<color=black>Toughness: </color><color=#4B0082>6000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Very fast. When stopped by a plant, dies instantly and litters bombs that detonate like Jack-in-the-Boxes within a 3.5-tile radius, for a total of (plants hit × map lanes) bombs.\n<color=black>•</color> Always triggers a Jack-in-the-Box explosion on death.</color>"
         },
         {
             "theZombieType": 240,
             "name": "Trident Jugger-nut Gargantuar",
             "introduce": "<align=left><size=36><color=black>When Gargantuars of different lineages meet on the battlefield, they exchange pleasantries with deep roars, and the Trident Jugger-nut Gargantuar always straightens his back at such moments. The Jugger-nut atop his head is like a badge filled with glory - proof of honor earned only after smashing three hundred Wall-nuts.</color>",
-            "info": "<size=36>Has increased defense as different types of Gargantuars are present on the field.\n\n<color=black>Toughness: </color><color=#4B0082>18000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> For each type of Gargantuar present on the field, damage taken is additionally reduced by 10%.\n<color=black>•</color> His basket can hold up to 7 tridents. When HP falls below 50% and the basket is full, throws all his tridents are thrown at fixed angles on taking damage. The basket is refilled with 1 trident per second.</color>\n<color=black>Odyssey Modifier:\n</color><color=#4B0082>1. Trident Reload Speed ×3\n2. Now recovers 10% max HP when throwing tridents</color>"
+            "info": "<size=36>Has increased defense as different types of Gargantuars are present on the field.\n\n<color=black>Toughness: </color><color=#4B0082>18000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> For each type of Gargantuar present on the field, damage taken is additionally reduced by 10%.\n<color=black>•</color> His basket can hold up to 7 tridents. When HP falls below 50% and the basket is full, throws all his tridents are thrown at fixed angles on taking damage. The basket is refilled with 1 trident per second.</color>\n<color=black>Odyssey Modifier:\n</color><color=#4B0082>1. Trident Reload Speed ×3</color>"
         },
         {
             "theZombieType": 241,

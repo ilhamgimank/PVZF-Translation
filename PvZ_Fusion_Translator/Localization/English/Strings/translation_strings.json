@@ -464,6 +464,8 @@
   "小丑南瓜": "Joker Pumpkin",
   "磁力菇": "Magnet-shroom",
   "樱桃南瓜": "Cherry Pumpkin",
+  "在中间的大嘴花上放置融合洋芋": "Place the Jicamagic on top of the middle Chomper.",
+  "请按左中右的顺序放置以下植物\n大嘴花，大嘴花，大嘴花": "Please place the following plants in order\nChomper, Chomper, Chomper",
   "探索模式": "Fusion Showcase",
   "机枪炮塔": "Titan Pea Turret",
   "机枪炮台": "Titan Pea Turret",
@@ -2031,7 +2033,7 @@
   "无僵尸之地": "No Man's Arctic",
   "雪原传送带": "Conveyor (Snow)",
   "雪皇之怒": "Wrath of the Iceborg",
-  "危机预警：极冰之地": "WARNING: The Frozen Expanse Unleashed!",
+  "危机预警：极冰之地": "WARNING: Arctic Chaos incoming!",
   "-------Strings - 3.4 New Odyssey": "Strings - 3.4 New Odyssey-------",
   "刷新次数已用完": "No more rerolls left.",
   "旅行：炼狱诅咒": "Odyssey:\nCursed Purgatory",
@@ -2106,7 +2108,7 @@
   "开启领袖专属血条": "Enable Mini-boss\nunique HP bars",
   "无尽模式跳过选卡": "Skip Plant Selection\nin Endless Modes",
   "更新公告": "Changelog",
-  "究极黑曜石辣椒数量已达上限": "Max number of Cryolina Reapers/Habanero Weepers reached.",
+  "究极黑曜石辣椒数量已达上限": "Max number of Cryolina Reapers reached.",
   "已售罄": "Sold Out",
   "星辉无尽：泳池": "Endless Starbound:\nPool",
   "-------Strings - Gacha Battle 3.4.2": "Strings - Gacha Battle 3.4.2-------",
@@ -2796,7 +2798,5 @@
   "忧郁菇": "Gloom-shroom",
   "卷心菜投手": "Cabbage-pult",
   "玩偶南瓜": "Joker Pumpkin",
-  "缠绕水草": "Tangle Kelp",
-  "大嘴花": "Chomper",
-  "究极黑曜石小辣椒菇": "Habanero Weeper"
+  "缠绕水草": "Tangle Kelp"
 }
