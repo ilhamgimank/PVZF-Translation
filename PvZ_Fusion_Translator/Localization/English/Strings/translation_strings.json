@@ -2752,7 +2752,7 @@
   "Tips：左键植物可以查看经典融合": "<size=70%>Tip: Left click on a plant to view its basic Fusions.",
   "Tips：右键植物可以查看全部融合": "<size=70%>Tip: Right click on a plant to view all of its Fusions.",
   "Tips：主菜单设置中可以一键解锁，新玩家不推荐": "<size=80%>Tip: You can unlock all plants in the Settings menu<size=60%>\n\t(WARNING: Not recommended for beginners)",
-  "命运难度的卡牌不消耗耐久，但僵尸方获得随机强化": "<size=16>Entering Chaos Difficulty. Cards will not lose durability when you use them, but zombies will receive random enhancements.",
+  "命运难度的卡牌不消耗耐久，但僵尸方获得随机强化": "<size=16>Entering Chaos Difficulty. Seed packets will not lose durability when you use them, but zombies will receive random buffs.",
   "返回\n(ESC)": "<size=90%>Return\n(ESC)",
   "-------Strings - No Idea": "Strings - No Idea-------",
   "保存格子完毕！": "Tiles saved!",
