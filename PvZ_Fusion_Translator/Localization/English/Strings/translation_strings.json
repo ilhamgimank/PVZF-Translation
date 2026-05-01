@@ -2360,6 +2360,7 @@
   "点击箭头让它指向其他箭头，僵尸将按这个方向移动\n<color=red>僵尸遇到没有设置目标的箭头时不会按照其方向移动</color>": "Click an Arrow to point it toward another Arrow. Zombies will move in that direction.\n<color=red>Zombies will not follow Arrows that have no target set.</color>",
   "每当僵尸走进错误的回收站则会扣一滴血（阳光数）": "Each time a zombie enters the wrong recycling station, you lose 1 HP (Sun count).",
   "你只有3次错误的机会": "You only have 3 strikes allowed.",
+  "回收错误太多，回收站已关闭\n打不过试试调低难度，减少僵尸数量": "You caused too many recycling failures! Dave is shutting down the station...\nTip: If you're struggling to beat the level, try lowering the difficulty to decrease the amount of zombies that spawn overall.",
   "连击": "Combo",
   "完美": "Perfect",
   "确定_RG": "Good",
