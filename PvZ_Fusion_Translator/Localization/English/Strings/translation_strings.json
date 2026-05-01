@@ -2163,6 +2163,8 @@
   "挑战开始，击败这些领袖僵尸，以获得【腐化】词条": "Challenge begin! Defeat these mini-bosses to unlock Corrupt Sac Modifier!",
   "已完成挑战，获得词条【腐化】": "Challenge complete. Corrupt Sac Modifier unlocked.",
   "-------Strings - Mamoru 3.5": "Strings - Mamoru 3.5-------",
+  "有僵尸进家了，但是邪恶猫瓜将你回溯到上一个记录点\n但可能没收了一些东西": "A zombie entered your house!\nBut Nyan Squash has rewinded you to the last check point.\nA few items might have been lost.",
+  "你在回溯时被超时空豌豆射手击中了": "There has been a malfunction in Nyan Squash's Time Machine!",
   "撤离超时": "Evacuation took too long!",
   "简单旅行（旅行模式中可直接选择究极植物）\n通关后不会获得奖杯": "Easy Odyssey (You can select Odyssey fusions as seeds)\nBut you won't get trophies!",
   "真正的无尽模式": "True Endless Mode (Skips round transitions but you can choose plants at round start)",
