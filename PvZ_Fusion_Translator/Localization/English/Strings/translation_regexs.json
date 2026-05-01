@@ -373,7 +373,7 @@
   "在<color=red>([^\\s]+)</color>秒内击杀进家僵尸！": "Kill the leaking zombie in {0} seconds!!!",
   "挑战开始，坚持到第((\\d+))波以获取奖励": "Challenge begin! Survive until Wave {0} for the reward.",
   "已加载 ((\\d+)) 个在线关卡列表": "{0} online levels loaded successfully!",
-  "正在下载关卡: ([\\s\\S]+)": "Downloading level file for {0}...",
+  "正在下载关卡: ([\\s\\S]+)": "Downloading level file...",
   "游戏时长：([^\\s]+)": "Game Time Took: {0}",
   "现实游戏时长：([^\\s]+)": "Real Time Took: {0}",
   "波次：(\\d+)/(\\d+)": "Wave: {0}/{1}",
