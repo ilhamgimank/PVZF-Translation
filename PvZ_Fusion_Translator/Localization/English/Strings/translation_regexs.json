@@ -373,7 +373,7 @@
   "在<color=red>([^\\s]+)</color>秒内击杀进家僵尸！": "Kill the leaking zombie in {0} seconds!!!",
   "挑战开始，坚持到第((\\d+))波以获取奖励": "Challenge begin! Survive until Wave {0} for the reward.",
   "已加载 ((\\d+)) 个在线关卡列表": "{0} online levels loaded successfully!",
-  "正在下载关卡: ([\\s\\S]+)": "Downloading level file for {0}...",
+  "正在下载关卡: ([\\s\\S]+)": "Downloading level file...",
   "游戏时长：([^\\s]+)": "Game Time Took: {0}",
   "现实游戏时长：([^\\s]+)": "Real Time Took: {0}",
   "波次：(\\d+)/(\\d+)": "Wave: {0}/{1}",
@@ -399,11 +399,12 @@
   "旅行： 鬼王线 第(\\d+)轮": "Odyssey: Imperor Route | Round {0}",
   "旅行： 白车线 第(\\d+)轮": "Odyssey: Jackson Route | Round {0}",
   "旅行： 将军线 第(\\d+)轮": "Odyssey: Striker Route | Round {0}",
-  "^([^\\s:]+)\\+([^\\s:]+)$": "<size=90%>You haven't discovered this plant yet! You can find it by fusing:\n{0} + {1}",
-  "^或 ([^\\s:]+)\\+([^\\s:]+)$": "or {0} + {1}",
+  "^([^\\s:]+)\\+([^\\s:]+)": "<size=90%>You haven't discovered this plant yet! You can find it by fusing:\n{0} + {1}",
+  "^或 ([^\\s:]+)\\+([^\\s:]+)": "or {0} + {1}",
   "成功保存(\\d+)张卡牌至自定义卡组中": "{0} seed packets successfully saved to a custom loadout!",
   "^时间: ([^\\s:]+)$": "Time: {0}",
   "^第([^\\s:]+)拍$": "Beat: {0}",
   "^歌曲: ([^\\s:]+)$": "Song Name: {0}",
-  "已记录: (\\d+) 个音符": "Recorded: {0} Notes"
+  "已记录: (\\d+) 个音符": "Recorded: {0} Notes",
+  "选中: 音符#(\\d+) \\| 轨道: (\\d+) \\| 类型: ([^\\s]+) \\| 时间: ([^\\s]+)s \\(([^\\s]+)拍\\)": "Note Selected: {0} | Track: {1} | Type: {2} | Time: {3}s (Beat {4})"
 }

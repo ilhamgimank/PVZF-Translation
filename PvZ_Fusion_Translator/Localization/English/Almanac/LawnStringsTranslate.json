@@ -291,7 +291,7 @@
             "seedType": 219,
             "name": "Signpost Arrow",
             "introduce": "<align=left><size=36><color=black>Signpost Arrows are essential components of conveyor systems. Thanks to them, seed packets keep flowing steadily from the back lines to the front. Even when removed from conveyors, they still retain their ability to direct movement.</color>",
-            "info": "<size=36>Zombies, please follow the directions. No pushing; move in an orderly fashion.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Cannot be moved by the Glove.\n<color=black>•</color> Click to select another Signpost Arrow in the same lane or column and set it as the destination.\n<color=black>•</color> Zombies that touch it will be redirected toward the set destination.</color>",
+            "info": "<size=36>Zombies, please follow the directions. No pushing; move in an orderly fashion.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Cannot be moved by the Glove.\n<color=black>•</color> Click to select another Signpost Arrow in the same lane or column and set it as the destination.\n<color=black>•</color> Zombies that touch it will be redirected toward the set destination.\n<color=black>•</color> Used in Zombie Sorter & Super Level Editor for making TD levels</color>",
             "cost": ""
         },
         {
