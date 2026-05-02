@@ -65,6 +65,7 @@ Please visit our community for future updates and support.
   - I, Zomboss?: Placing zombie packets will spawn a corresponding Endoflame that keeps summoning hypnotized zombies to fight for you.
   - Explode-O-su!: Control the tempo to deal with zombie waves.
 - Starbound Adventure: Snow updated
+- I, Zombie Adventure: Chapter 5: All Roads Lead to Roof updated
 - New Odyssey level: Stats vs Mechanics: Odyssey plants disabled. Base stats of plants are greatly increased. Some seed packets are available directly in slots for quick deployment. Each time zombies reach the house, you will not immediately game over, but will be rewinded back to the last checkpoint and lose all zombie and plant modifiers. Rewinding can be only be used a limited number of times.
 - Reworked Odyssey Adventure
 - Garden Defense entrance moved to Zen Garden
