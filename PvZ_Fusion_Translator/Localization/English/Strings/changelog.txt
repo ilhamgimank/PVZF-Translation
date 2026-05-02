@@ -65,25 +65,28 @@ Please visit our community for future updates and support.
   - I, Zomboss?: Placing zombie packets will spawn a corresponding Endoflame that keeps summoning hypnotized zombies to fight for you.
   - Explode-O-su!: Control the tempo to deal with zombie waves.
 - Starbound Adventure: Snow updated
-- 
+- New Odyssey level: Stats vs Mechanics: Odyssey plants disabled. Base stats of plants are greatly increased. Some seed packets are available directly in slots for quick deployment. Each time zombies reach the house, you will not immediately game over, but will be rewinded back to the last checkpoint and lose all zombie and plant modifiers. Rewinding can be only be used a limited number of times.
+- Reworked Odyssey Adventure
+- Garden Defense entrance moved to Zen Garden
+- Harvest Mode: New Chaos difficulty. Seeds do not use durability in the difficulty but zombies gain random buffs.
+- New Map: Snowy Night: Within the quiet camp, a hidden past seems to lie buried… Fertilizer does not spawn automatically on this map.
 
 6. New Synergy
-- Photon Splitter can lock onto any Atomheart Plantern ahead (click to select) to charge it. When energy exceeds 10k, its brightness increases, dealing heavy damage and slowing zombies in its radius. At 100k, collapses into a black hole and explodes, devastating all zombies on screen. (WARNING: Contains flashing lights)
+- When Litter-pult and SP Gatling Icicle-shroom are planted on the same tile, the latter's projectiles split one additional time. Both plants' normal and special projectiles inherit some properties from each other's shots. (WARNING: Will cause lag)
 
-7. Gacha Modifiers
-- Gacha levels now have various exclusive modifiers that can be earned from random events.
+7. New Super Level Editor Settings
+- Super Level Editor now allows creation, modification, and linking of nodes to define Level Events through a pseudo-code system.
+- You can now create Rhythm Game-style levels and Tower Defense levels using Signpost Arrows.
 
 8. Odyssey Balance Adjustments
-- Apeacalypse Railgun: No longer automatically targets Atomheart Planterns in its range; instead, you must now manually click on it to target either an Atomheart or Magnate Plantern for their effects. When Railgun's laser passes through an Atomheart Plantern, it now slows zombies down and splashes small Doom-shroom explosions on the zombies it hits.
-- Grim Arbiter: Now generates a Phantom Clone of the zombie with the highest health in the tile in front of it, which shares the damage it takes with all zombies of the same type on the lawn.
-  - Grim Arbiter's second modifier, related to repeating on-death effects, has been replaced with unlocking its subspecies (Wicked Undertaker) and doubling the damage effect of the Phantom Clone it spawns.
-- Thunder Bunnyon: Thunder Bunnyon's lightning now deals damage to any zombie that comes in contact with it and can decrease their Damage Reduction value.
+- Apeacalypse Minigun: Reworked abilities completely
+- Laser Pumpkin: Now gains the ability to reduce Zombie DR value.
+- Clown-on-the-Jetski: Explosion damage reduced to 500
 
-9. Save File Menu
-- The Achievements menu has been replaced with a menu that allows you to create new save file slots.
+9. Almanac Reworks
+- New Game Mechanics Almanac
+- Removed Old Almanac
+- Unseen plants & fusions are now locked in the almanac. Clicking on undiscovered plants now gives clues to how to make them. You can also quickly unlock all in the settings.
 
-10. New "True Endless" Setting
-- Enabling this mode will skip the cutscenes between rounds while playing Endless modes and grant a short period of time to adjust the plants you have currently selected in between rounds.
-
-11. Miscellaneous bug fixes and optimizations.
+10. Miscellaneous bug fixes and optimizations.
 
