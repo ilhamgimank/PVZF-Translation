@@ -337,13 +337,6 @@
             "cost": "<size=14>Biaya: <color=red>Gratis (Kartu Spesial)</color></size>"
         },
         {
-            "seedType": 40,
-            "name": "Kado",
-            "introduce": "<size=14><color=black>Kado selalu terlihat ceria dengan pita merahnya. Dia suka sekali membuat orang penasaran. \"Apa isinya?\" tanya Kacang. Kado hanya tersenyum misterius. Baginya, kejutan adalah bumbu terbaik dalam hidup.</color></size>",
-            "info": "<size=14><color=#0d266b>Memberikan tanaman atau bantuan acak saat dibuka.\n\n<color=black>Karakteristik: </color><color=red>Dapat ditanam di atas tanaman lain atau di lahan kosong. Saat dihancurkan atau dipicu, akan memunculkan tanaman fusi atau item bantuan secara acak untuk membantumu bertahan.</color></size>",
-            "cost": "<size=14>Biaya: <color=red>Sesuai Level</color>\nCooldown: <color=red>30 Detik</color></size>"
-        },
-        {
             "seedType": 233,
             "name": "Kado Es",
             "introduce": "<size=14><color=black>Kado Es sebenarnya adalah Kado biasa yang terlalu lama ditinggalkan di luar saat badai salju. Sekarang, pitanya membeku dan isinya jadi jauh lebih dingin dari biasanya. Zombi yang mencoba membukanya bakal dapet kejutan yang bikin beku!</color></size>",
@@ -2533,7 +2526,7 @@
             "seedType": 1165,
             "name": "Gatling Super Es",
             "introduce": "<color=#3D1400>Gatling Super Es selalu tampil dingin. Bahkan saat marah pada zombie, dia hanya akan memuntahkan banyak kacang es sebagai peringatan agar mereka lebih berhati-hati di kehidupan selanjutnya.</color>",
-            "info": "<size=14><color=#0d266b>Super Gatling yang menembakkan Kacang Es.\n\n<color=black>Syarat: </color><color=red>Mode Perjalanan</color>\n<color=black>Damage: </color><color=red>20×6 / 1.5 detik</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>Setiap serangan punya peluang 2% memicu Ultimate: Selama 5 detik, menembakkan 3 kacang es setiap 0.02 detik ke arah acak.</color></indent>\n<color=#3D1400>Resep Fusi: </color><color=red>Kipli Gatling Super + Jamur Es</color></color></size>",
+            "info": "<size=14><color=#0d266b>Super Gatling yang menembakkan Kacang Es.\n\n<color=black>Syarat: </color><color=red>Mode Odisei</color>\n<color=black>Damage: </color><color=red>20×6 / 1.5 detik</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>Setiap serangan punya peluang 2% memicu Ultimate: Selama 5 detik, menembakkan 3 kacang es setiap 0.02 detik ke arah acak.</color></indent>\n<color=#3D1400>Resep Fusi: </color><color=red>Kipli Gatling Super + Jamur Es</color></color></size>",
             "cost": null
         },
         {
@@ -2547,14 +2540,14 @@
             "seedType": 1167,
             "name": "Kipli Sniper Api",
             "introduce": "<color=#3D1400>“Aku membawa surat undangan buatanku sendiri, meski agak panas di tangan.” Kata-katanya membuat zombie bergidik. Meski terlihat sulit didekati, dia sebenarnya merasa dirinya sangat tampan.</color>",
-            "info": "<size=14><color=#0d266b>Membidik zombie secara berkala, memberikan damage besar dan efek panas.\n\n<color=black>Syarat: </color><color=red>Mode Perjalanan</color>\n<color=black>Damage: </color><color=red>300 / 3 detik</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Memiliki kemampuan Kipli Sniper.\n(2) Serangan memberikan 100 damage area kecil. Hit langsung dan percikan memberikan efek panas (Red Warm).</color></indent>\n<color=#3D1400>Resep Fusi: </color><color=red>Kipli Sniper + Cabai</color></color></size>",
+            "info": "<size=14><color=#0d266b>Membidik zombie secara berkala, memberikan damage besar dan efek panas.\n\n<color=black>Syarat: </color><color=red>Mode Odisei</color>\n<color=black>Damage: </color><color=red>300 / 3 detik</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Memiliki kemampuan Kipli Sniper.\n(2) Serangan memberikan 100 damage area kecil. Hit langsung dan percikan memberikan efek panas (Red Warm).</color></indent>\n<color=#3D1400>Resep Fusi: </color><color=red>Kipli Sniper + Cabai</color></color></size>",
             "cost": null
         },
         {
             "seedType": 1168,
             "name": "Kipli Gatling Super",
             "introduce": "<color=#3D1400>Pekerjaan tanpa henti membuatnya kesal, dan serangan zombie yang tak habis-habis menambah tekanannya. Dia melampiaskannya dengan menembak zombie secara gila-gilaan, yang malah memicu serangan lebih besar... siklus yang mengerikan.</color>",
-            "info": "<size=14><color=#0d266b>Menembakkan enam kacang sekaligus, dengan peluang menembakkan banyak peluru acak.\n\n<color=black>Syarat: </color><color=red>Mode Perjalanan</color>\n<color=black>Damage: </color><color=red>20×6 / 1.5 detik</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Peluang 2% memicu Ultimate: Selama 5 detik, tiap 0.02 detik menembakkan 3 peluru acak (Kacang biasa, Es, Api, atau Hipnotis).\n(2) Dapat bertransformasi dengan Kipli Sniper.</color></indent>\n<color=#3D1400>Resep Transformasi: </color><color=red>Kipli ←→ Kipli</color></color></size>",
+            "info": "<size=14><color=#0d266b>Menembakkan enam kacang sekaligus, dengan peluang menembakkan banyak peluru acak.\n\n<color=black>Syarat: </color><color=red>Mode Odisei</color>\n<color=black>Damage: </color><color=red>20×6 / 1.5 detik</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Peluang 2% memicu Ultimate: Selama 5 detik, tiap 0.02 detik menembakkan 3 peluru acak (Kacang biasa, Es, Api, atau Hipnotis).\n(2) Dapat bertransformasi dengan Kipli Sniper.</color></indent>\n<color=#3D1400>Resep Transformasi: </color><color=red>Kipli ←→ Kipli</color></color></size>",
             "cost": null
         },
         {
@@ -3408,7 +3401,7 @@
             "seedType": 1290,
             "name": "Pasukan Penembak Jitu",
             "introduce": "<color=#3D1400>Pasukan ini sering berkata: “Dunia ini luas, yang bersatu akan berpisah, yang berpisah akan bersatu... termasuk kau.” Saat tidak bertempur, dia selalu membaca Kisah Tiga Kerajaan. “Aku adalah penembak jitu terpintar!”</color>",
-            "info": "<size=14><color=#0d266b>Kompi Jamur Bocil penembak jitu. Bisa memencar untuk serangan titik tunggal atau bersatu untuk ledakan area.\n<color=red>Hanya untuk Mode Perjalanan.</color>\n\n<color=black>Kerusakan: </color><color=red>500x3 / 3 detik (Memencar) | 1500 / 0.5 detik (Bersatu)</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Tipe rendah. Saat memencar, setiap serangan ke-6 adalah Headshot dengan kerusakan 1 juta.\n(2) Setelah menyerang 15 kali, mereka akan bersatu selama 15 detik.\n(3) Saat bersatu, serangan menyebabkan kerusakan ledakan di radius 1 kotak.</color></indent>\n<color=#3D1400>Resep Fusi: </color><color=red>Jamur Bocil x3 + Sniper</color></color></size>",
+            "info": "<size=14><color=#0d266b>Kompi Jamur Bocil penembak jitu. Bisa memencar untuk serangan titik tunggal atau bersatu untuk ledakan area.\n<color=red>Hanya untuk Mode Odisei.</color>\n\n<color=black>Kerusakan: </color><color=red>500x3 / 3 detik (Memencar) | 1500 / 0.5 detik (Bersatu)</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Tipe rendah. Saat memencar, setiap serangan ke-6 adalah Headshot dengan kerusakan 1 juta.\n(2) Setelah menyerang 15 kali, mereka akan bersatu selama 15 detik.\n(3) Saat bersatu, serangan menyebabkan kerusakan ledakan di radius 1 kotak.</color></indent>\n<color=#3D1400>Resep Fusi: </color><color=red>Jamur Bocil x3 + Sniper</color></color></size>",
             "cost": ""
         },
         {
@@ -3422,7 +3415,7 @@
             "seedType": 1292,
             "name": "Hipno Gatling Super",
             "introduce": "<color=#3D1400>Dia adalah penggemar zombie yang tak tertolong. Dia tidak bosan-bosan mengecat setiap peluru kacangnya dengan warna merah muda dan mengamati kilau api saat peluru itu dinyalakan. “Ini hadiah untuk para zombie,” katanya.</color>",
-            "info": "<size=14><color=#0d266b>Kipli Gatling Super yang menembakkan kacang hipno.\n<color=red>Hanya untuk Mode Perjalanan.</color>\n\n<color=black>Kerusakan: </color><color=red>30x6 / 1.5 detik</color>\n<color=black>Fitur: </color><color=red>Peluang 2% memicu kemampuan utama: Selama 5 detik, menembakkan 3 peluru kacang hipno setiap 0.02 detik secara menyebar.</color>\n<color=#3D1400>Resep Fusi: </color><color=red>Kipli Gatling Super + Jamur Hipno</color></color></size>",
+            "info": "<size=14><color=#0d266b>Kipli Gatling Super yang menembakkan kacang hipno.\n<color=red>Hanya untuk Mode Odisei.</color>\n\n<color=black>Kerusakan: </color><color=red>30x6 / 1.5 detik</color>\n<color=black>Fitur: </color><color=red>Peluang 2% memicu kemampuan utama: Selama 5 detik, menembakkan 3 peluru kacang hipno setiap 0.02 detik secara menyebar.</color>\n<color=#3D1400>Resep Fusi: </color><color=red>Kipli Gatling Super + Jamur Hipno</color></color></size>",
             "cost": ""
         },
         {
@@ -3681,7 +3674,7 @@
             "seedType": 1329,
             "name": "Sniper Bawang",
             "introduce": "<color=#3D1400>Sniper Bawang sebenarnya tidak membawa Bawang, tapi tetap dijauhi karena bau bawang yang menyengat. Dia beralasan, “Bawang ini hanya untuk pencegahan penyakit.” Tentu saja, zombie tidak setuju dengan alasan itu.</color>",
-            "info": "<size=14><color=#0d266b>Menciptakan kabut racun menular yang menyebar seperti Bawang melalui korbannya.\n\n<color=black>Kondisi: </color><color=red>Mode Perjalanan</color>\n<color=black>Kerusakan: </color><color=red>500 / 3 detik</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Serangan menciptakan kabut racun menular. Headshot menciptakan kabut yang lebih ganas.\n(2) Kabut bergerak acak selama 15 detik, memberikan efek mentega bawang dan poin status Bawang tiap detik.\n(3) Poin Bawang memberikan kerusakan (20x poin). Zombie yang HP-nya rendah akan mati seketika dan meledak menjadi kabut baru.</color></indent>\n<color=#3D1400>Resep Fusi: </color><color=red>Kipli Sniper + Bawang</color></color></size>",
+            "info": "<size=14><color=#0d266b>Menciptakan kabut racun menular yang menyebar seperti Bawang melalui korbannya.\n\n<color=black>Kondisi: </color><color=red>Mode Odisei</color>\n<color=black>Kerusakan: </color><color=red>500 / 3 detik</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Serangan menciptakan kabut racun menular. Headshot menciptakan kabut yang lebih ganas.\n(2) Kabut bergerak acak selama 15 detik, memberikan efek mentega bawang dan poin status Bawang tiap detik.\n(3) Poin Bawang memberikan kerusakan (20x poin). Zombie yang HP-nya rendah akan mati seketika dan meledak menjadi kabut baru.</color></indent>\n<color=#3D1400>Resep Fusi: </color><color=red>Kipli Sniper + Bawang</color></color></size>",
             "cost": ""
         },
         {
@@ -3695,7 +3688,7 @@
             "seedType": 1331,
             "name": "Super Gatling Ceri",
             "introduce": "<color=#3D1400>Dalam upacara penghargaan kompetisi menembak cepat, dia membocorkan rahasianya: “Aku pakai peluru ceri khusus yang kecil agar bisa disimpan banyak, dan karena lengket, mereka bisa ditembakkan dalam jumlah besar sekaligus.”</color>",
-            "info": "<size=14><color=#0d266b>Kipli Gatling Super yang menembakkan ceri setengah matang.\n\n<color=black>Kondisi: </color><color=red>Mode Perjalanan</color>\n<color=black>Kerusakan: </color><color=red>20x6 / 1.5 detik</color>\n<color=black>Fitur: </color><color=red>Peluang 2% memicu skill ulti: Selama 5 detik, menembakkan hujan ceri setengah matang setiap 0.02 detik yang meledak seketika saat kena hit.</color>\n<color=#3D1400>Resep Fusi: </color><color=red>Kipli Gatling Super + Bom Ceri</color></color></size>",
+            "info": "<size=14><color=#0d266b>Kipli Gatling Super yang menembakkan ceri setengah matang.\n\n<color=black>Kondisi: </color><color=red>Mode Odisei</color>\n<color=black>Kerusakan: </color><color=red>20x6 / 1.5 detik</color>\n<color=black>Fitur: </color><color=red>Peluang 2% memicu skill ulti: Selama 5 detik, menembakkan hujan ceri setengah matang setiap 0.02 detik yang meledak seketika saat kena hit.</color>\n<color=#3D1400>Resep Fusi: </color><color=red>Kipli Gatling Super + Bom Ceri</color></color></size>",
             "cost": ""
         },
         {
