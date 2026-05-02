@@ -901,7 +901,7 @@
             "name": "Quantum McCornics",
             "introduce": "<align=left><size=36><color=black>He was born at the dawn of the universe, his age beyond reckoning. From the primordial void, he plucked three stars to orbit him as moons—treasures not even black holes could steal. Now, the old one finds joy in toying with this cosmic keepsake, as ancient as he is.</color>",
             "info": "<size=36>Hurls ultra-dense black holes that collapse into explosions, releasing all the absorbed energy.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Damage: </color><color=#8B0000>300/2 s (Mini Butter)</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Metal plant.\n<color=black>•</color> 75% chance to launch Mini Butter, shrinking non-miniboss zombies' size and HP to 70%. If shrinking fails, the target is stunned for 1.5s. Instantly kills imp-class zombies.\n<color=black>•</color> 25% chance to launch an Ultimate Black Hole that lasts 2s, slows nearby zombies, and absorbs Quantum McCornics' projectiles in a 3×3 area.\n<color=black>•</color> Each bullet absorbed adds 2s to its duration, up to 7.5s. When it vanishes, it triggers a large explosion (Cherry Bomb-sized) that deals 320 + 60% of stored damage. If it lasted over 5s, the explosion radius significantly increases.</color>\n<color=black>Main Odyssey Modifiers:</color>\n<color=#8B0000>1. Ultimate Black Hole can absorb all projectiles\n2. Ultimate Black Hole's absorption radius ×2</color>\n<color=black>Maelonstrom Synergy Modifier:</color><color=#8B0000>\n<color=black>•</color> You must have unlocked all Quantum McCornics and Maelonstrom's modifiers before this synergy becomes available in the shop for 15k.\n<color=black>•</color> Hail melons from Maelonstrom's Nebula Rifts now deal 6× damage and create Singularities, and Quantum McCornics always lob Ultimate Black Holes.\n<color=black>•</color> Singularity: Lasts for 3.5s and deals 1800 Cremator damage in a 1.5-tile radius when it collapses.\n<color=black>•</color> When an Ultimate Black Hole collapses, it also detonates all Singularities to further increase its own damage.</color>",
-            "cost": "<size=36>\nFusion Recipe: <color=#8B0000>Portal-pult > Popcorn-pult×3</color>"
+            "cost": "<size=36>\nFusion Recipe: <color=#8B0000>Portal-pult > Baby Corn×3</color>"
         },
         {
             "seedType": 944,
@@ -2655,8 +2655,8 @@
         },
         {
             "seedType": 1203,
-            "name": "Popcorn-pult",
-            "introduce": "<align=left><size=36><color=black>\"The results of this experiment: dense planting is not conducive to plant growth, and the corn ears have obviously shrunk.\" Dave bent down, took out a magnifying glass, and looked at the Popcorn-pult, \"Not suitable for making corn rolls anymore.\" Popcorn-pult said angrily, \"The results of this experiment show that the concentrated ones are all the essence!\"</color>",
+            "name": "Baby Corn",
+            "introduce": "<align=left><size=36><color=black>\"The results of this experiment: dense planting is not conducive to plant growth, and the corn ears have obviously shrunk.\" Dave bent down, took out a magnifying glass, and looked at the Baby Corn, \"Not suitable for making corn rolls anymore.\" Baby Corn said angrily, \"The results of this experiment show that the concentrated ones are all the essence!\"</color>",
             "info": "<size=36>A tiny Kernel-pult, with a chance to throw a small butter that shrinks zombies.\n\n<color=black>Damage: </color><color=#8B0000>20/3s</color>\n<color=black>Special: </color><color=#8B0000>Short plant. Has a 25% chance to throw a small butter that deals 40 damage, which shrinks the size and health of non-shrunken zombies by a factor of 0.7, otherwise it will be stunned for 1.5s, while Imps are killed instantly. Prioritizes zombies that are not shrunken.</color>",
             "cost": "<size=36>\nFusion Recipe: <color=#8B0000>Kernel-pult > Puff-shroom</color>"
         },
@@ -3202,7 +3202,7 @@
         {
             "seedType": 1281,
             "name": "Sprout-pult",
-            "introduce": "<align=left><size=36><color=black>People say Sprout-pult holds the magical power to shrink zombies. And the secret, they claim, is in the bounce. But only Popcorn-pult knows the real reason: there's a tiny pat of butter hidden inside. The cabbage leaves are just too thick for it to pop out… so of course it needs to bounce first to shrink a zombie.</color>",
+            "introduce": "<align=left><size=36><color=black>People say Sprout-pult holds the magical power to shrink zombies. And the secret, they claim, is in the bounce. But only Baby Corn knows the real reason: there's a tiny pat of butter hidden inside. The cabbage leaves are just too thick for it to pop out… so of course it needs to bounce first to shrink a zombie.</color>",
             "info": "<size=36>Lobs sprouts capable of passing on the shrinking effect.\n\n<color=black>Damage: </color><color=#8B0000>40/3s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant (evades straight-firing projectiles).\n<color=black>•</color> Shots bounce twice. If a shot hits a shrunken zombie, it gains the ability to shrink the next zombies hit.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Cabbage-pult > Puff-shroom</color>"
         },
