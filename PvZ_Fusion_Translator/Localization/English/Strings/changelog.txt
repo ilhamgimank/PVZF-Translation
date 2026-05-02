@@ -5,61 +5,67 @@ Stay away from other sources like <color=#8B0000>pvzfusion.net</color> or <color
 If you'd like to change the language of the translation, make sure to check out the "Languages" menu in the bottom right of this menu.
 Please visit our community for future updates and support.
 
-<align=center><size=130%>Plants VS. Zombies: Fusion - Update 3.5 Changelog</size></align>
+<align=center><size=130%>Plants VS. Zombies: Fusion - Update 3.6 Changelog</size></align>
 
-1. New Custom Levels & Upgraded Level Editor
-- The all-new Upgraded Level Editor allows for a wide range of level customization; players can create levels to share locally as well as explore high-quality online levels curated by the Fusion development team.
- - Basic Settings: Customize level scenes, names, wave counts, preset plants, and more in advance.
- - Gamemode Settings: Enable certain gamemode types like Conveyor Belt, "I, Zombie", and Vasebreaker; and customize wave intervals, glove cooldowns, and starting tips.
- - Seed Settings: Set the amount of card slots, pre-selected plants, and card prices/cooldowns.
- - Victory Conditions: Set different objectives for winning a level such as defeating certain zombies or eating enough brains.
- - The Gods Settings: Design your own upgrade paths for custom The Gods levels and adjust their various attributes.
- - Advanced Spawn Settings: Precisely adjust the factors that affect zombie spawns per wave.
- - Gacha Settings: Customize the fluctuation ranges for random factors like Zombie speed and size.
+1. Odyssey Mode Revamp
+ - You are now able to freely choose combinations of Mini-boss routes, difficulty, and stage progression, offering much greater flexibility.
+ - You will no longer see repeat Modifiers on reroll, unless you have already seen all of them.
+ - Timing for the first Modifier Shop and Mini-boss selection changed. You now see the first Modifier Shop after round 5. On Purgatory difficulty and above, you will now have to select 6 Mini-bosses instead of the previous 4.
+ - Added new Mini-boss routes for Giga Football Striker and Jackson Worldwide, with different selection of zombie wave compositions and exclusive zombie modifiers.
+ - Abyssal Gargantuar and Imperor's Ark of the Duck are now selectable Mini-bosses outside of their routes.
+ - You can still access Odyssey levels pre-3.5 with the "Preset" button in the bottom right.
 
 2. New Plants
+- Base Plant:
+  - Hoarfrost Lichen
 - Basic Fusions:
-  - Triplantern (Threepeater + Plantern)
-  - Hypno Pot (Hypno-shroom + Flower Pot)
-  - Rebeamer (Repeater + Plantern)
-  - Split Beam (Split Pea + Plantern)
-  - Gatling Beam (Gatling Pea + Plantern)
-  - Bell Pepper (Jalapeno > Puff-shroom)
-  - Poison Pea (Peashooter + Garlic)
-  - Poison Repeater (Repeater + Garlic)
-  - Split Poison (Split Pea + Garlic)
-  - Gatling Poison (Gatling Pea + Garlic)
-  - Blowtorch-shroom (Fume-shroom + Torchwood)
-  - Jawbreaker (Chomper + Squash)
+  - Stenchwood (Torchwood + Garlic)
+  - Splash (Squash > Sea-shroom)
+  - Saguaro-shroom (Fume-shroom + Cactus)
+  - Hypnowood (Hypno-shroom + Torchwood)
+  - Grapple Kelp (Fume-shroom + Tangle Kelp)
+  - Kimchi-pult (Jalapeno + Cabbage-pult)
+  - Damage-pult (Doom-shroom + Cabbage-pult)
+  - Popcorn-pult (Jalapeno + Kernel-pult)
+  * (Note: the original popcorn-pult, Kernel-pult > Puff-shroom has been renamed to Baby Corn)
+  - Ice Mine (Potato Mine + Ice-shroom)
 - Odyssey Fusions:
   - Common:
-    - Magnate Plantern (Tycoonwood + Plantern)
-    - Wicked Undertaker (Grim Arbiter + Potato Mine)
+    - SP Gatling Icicle-shroom (Peashooter + Gatling Icicle-shroom)
+    - SP Gatling Sunburst-shroom (Peashooter + Gatling Sunburst-shroom)
   - Epic:
-    - Soulrender Bamboo (Lifereaver Spruce + Bamblock)
-    - Fungularity (Maelonstrom + Doom-shroom)
-    - Photon Splitter (Split Beam + Chrono Pea)
+    - Buckshot Commando (Buckshooter + Football Gatling)
+    - Synchronizer Snipea (Buckshot Commando + Chrono Core)
+    - Axion Orbiter (Garlic + Photon Splitter)
+    - Habanero Weeper (Cryolina Reaper > Puff-shroom)
+- Legendary Fusions:
+  - Eclipse Fumigator
+  - Primal Twin Solar-nut
 - Special/Misc:
-  - Golden Recycling Vase
+  - Signpost Arrow
+  - Puff-shroom spreads via Fume-shroom & Scaredy-shroom now have their separate IDs
 
 3. New Zombies
 - Common:
-  - Chronovaulter Zombie
-- Odyssey:
-  - Strong:
-    - D.A.M.P. Disc
-    - Alpha Assassin Hitman
+  - Coach Zombie
+  - Buckethead Newspaper Zombie
+  - Zombie Penguin
+  - Zombie Emperor Penguin
+  - Frost Legionnaire Zombie
+  - Frost Legion Packed Ice Zombie
+  - Gatling Pea Zombie
+  - Gatling Snow Zombie
 
 4. New Skins
-- Thunder Bunnyon > Halloween Thunder Bunnyon
+- Laser Pumpkin > Starry Crusader Pumpkin
 
 5. New Levels
-- 3 new Vasebreaker levels, including new Obsidian and Charm vases; completing all 3 will unlock the Golden Recycling Vase
-- New Minigame: Nutsweeper (number of mines increases with in-game difficulty)
-- 3 new Gacha levels: The Chaos Series
-- New "I, Zombie" Adventure levels
-- New Fusion Showcase levels
-- New Pool: Endless Mode: Serenity (Enemy spawns are similar to the original Survival: Endless from PvZ 1)
+- Mini-games:
+  - Zombie Sorter: Adjust arrows to guide zombies to the correct stations. These Signpost Arrows can also be used to create tower defense levels in Super Level Editor.
+  - I, Zomboss?: Placing zombie packets will spawn a corresponding Endoflame that keeps summoning hypnotized zombies to fight for you.
+  - Explode-O-su!: Control the tempo to deal with zombie waves.
+- Starbound Adventure: Snow updated
+- 
 
 6. New Synergy
 - Photon Splitter can lock onto any Atomheart Plantern ahead (click to select) to charge it. When energy exceeds 10k, its brightness increases, dealing heavy damage and slowing zombies in its radius. At 100k, collapses into a black hole and explodes, devastating all zombies on screen. (WARNING: Contains flashing lights)
