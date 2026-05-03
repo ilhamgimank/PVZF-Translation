@@ -3166,7 +3166,7 @@
         },
         {
             "seedType": 1267,
-            "name": "Hipnoguisante",
+            "name": "Hipnoguisantes",
             "introduce": "<size=39><color=#3D1400>\"Convertir a los zombis en nuestros aliados no es suficiente. Necesitamos equiparlos con un poco más de potencia de fuego y, de paso, ¡que se parezcan más a nosotros!\", dice Hipnoguisantes con un tono hipnoticante.</color></size>",
             "info": "<size=39>Lanza guisantes hipnóticos.</color>\n\n<color=#3D1400>Daño:</color> <color=red>30 cada 1,5s\n<color=#3D1400>Especial:</color> <color=red>Convierte a los zombis que derrota en Vegezombis Hipnoguisantes.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Lanzaguisantes + Hipnoseta</color></size>",
             "cost": "<size=39>Costo: <color=red>175, 250</color>   Recarga: <color=red>37,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
@@ -3593,7 +3593,7 @@
         },
         {
             "seedType": 1328,
-            "name": "Tripitipeste",
+            "name": "Tripitoxina",
             "introduce": "<size=39><color=#3D1400>\"¡Ugh, tu gusto apesta! ¡Los odio a los dos!\" llora la tercera cabeza. Los zombis creen que está llorando por el olor de sus compañeros, pero en realidad, es solo por su horrible gusto musical. \"Ni siquiera tenemos narices\", explica la primera cabeza.</color></size>",
             "info": "<size=39>Parte del <color=#133816>Sistema Venenoso</color>\nDeja una nube asquerosa a zombis envenenados.\n<color=#133816>Sistema Venenoso:</color></color>\n- Aplica 1 punto al impacto.\n- Si el zombi impactado ya esta en el Estado Venenoso, crea una nube en la posición del zombi que permanece durante 6s, aplicando 1 punto por segundo a todos los zombis en su área.</color></color>\n\n<color=#3D1400>Daño:</color> <color=red>30*3 cada 1,5s\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Tripitidora + Ajo</color></size>",
             "cost": "<size=39>Costo: <color=red>325</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
@@ -3865,172 +3865,172 @@
    "cost": "<size=39>Costo: <color=red>150</color>   Recarga: <color=red>37,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
         },
         {
-            "seedType": 1367,
-            "name": "Seta Congelada Plateada",
-            "introduce": "<align=justified><size=36><color=black>Despiadado. De sangre fría. Así es como se describe a Seta Congelada Plateada; incluso otras Setas Congeladas lo consideran demasiado frío. A Seta Congelada Plateada no le importa. Su éxito radica en su frialdad; cualquiera que no sea lo suficientemente despiadado simplemente no puede sobrevivir en el negocio de la logística de la cadena de frío.</color>",
-            "info": "<size=36>Una Seta Congelada cubierta de escarcha plateada.\n\n<color=black>Especial: </color><color=#8B0000>Congela por 1 segundo mas que una Seta Congelada normal.</color>",
-            "cost": "<size=36>Fórmula de Fusión: <color=#8B0000>Seta Congelada + Margarita</color>"
+    "seedType": 1367,
+    "name": "Seta Congelada Plateada",
+   "introduce": "<size=39><color=#3D1400>Despiadado. De sangre fría. Así es como se describe a Seta Congelada Plateada; incluso otras Setas Congeladas lo consideran demasiado frío. A Seta Congelada Plateada no le importa. Su éxito radica en su frialdad; cualquiera que no sea lo suficientemente despiadado simplemente no puede sobrevivir en el negocio de la logística de la cadena de frío.</color></size>",
+   "info": "<size=39>Soporte del <color=#0077b6>Sistema Criogénico</color> y parte del <color=#FFCA30>Monetario</color>\nUna Seta Congelada cubierta de escarcha plateada.</color>\n\n<color=#3D1400>Especial:</color> <color=red>Congela por 1 segundo mas que una Seta Congelada normal.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Seta Congelada + Margarita</color></size>",
+   "cost": "<size=39>Costo: <color=red>100, 175</color>   Recarga: <color=red>57,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
         },
         {
-            "seedType": 1368,
-            "name": "Seta Congelada Dorada",
-            "introduce": "<align=justified><size=36><color=black>Monopolio de la industria de la logística de cadena de frío, Seta Congelada Dorada puede influir en el mercado con tan solo unas monedas. Tras años en el negocio, su riqueza y fama son incalculables, y su vida es plena… salvo por el hecho de que aún no ha podido curar su parálisis facial.</color>",
-            "info": "<size=36>Una Seta Congelada estable y chapada en oro que trae frío extremo a través del dinero.\n\n<color=black>Especial: </color><color=#8B0000>Activa el efecto de una Seta Congelada una vez al aparecer (no desaparece).</color>\n<color=black>Uso de Monedas: </color><color=#8B0000>Consume 3000 monedas, Recarga: 2s; Repite los siguientes efectos 4 veces en objetivos dentro de un radio de 2.2 casillas: - Inflige 200 de daño, congela y aplica 25 puntos criogenicos, y reduce el límite para congelar del objetivo en 100 puntos. - Dispara un carámbano a cada objetivo infligiendo 20 de daño. Los carámbanos infligen 2× daño a los zombis Helados y 4× daño a los zombis Congelados.</color>",
-            "cost": "\n<size=36>Costo de Mejora: </color><color=#8B0000>3000 Monedas</color>"
+    "seedType": 1368,
+    "name": "Seta Congelada Dorada",
+   "introduce": "<size=39><color=#3D1400>Monopolio de la industria de la logística de cadena de frío, Seta Congelada Dorada puede influir en el mercado con tan solo unas monedas. Tras años en el negocio, su riqueza y fama son incalculables, y su vida es plena… salvo por el hecho de que aún no ha podido curar su parálisis facial.</color></size>",
+   "info": "<size=39>Parte del <color=#0077b6>Sistema Criogénico</color> y <color=#FFCA30>Monetario</color>\nUna Seta Congelada estable y chapada en oro que trae frío extremo a través del dinero.</color>\n<color=#0077b6>Sistema Criogénico:</color>\n</color>- Aplica 25 puntos al impacto con su habilidad; reduce límite para congelar a un zombi en 100 puntos.\n- Daño x4 a zombis congelados.</color>\n\n<color=#3D1400>Especial:</color> <color=red>Activa el efecto de una Seta Congelada al aparecer (no desaparece).</color>\n<color=#3D1400>Uso de Monedas:</color> <color=red>Consume 3000 monedas para repetir los siguientes efectos 4 veces en un radio de 2,2 casillas:\n  • Inflige 200 de daño, congela y aplica 25 puntos criogénicos\n  • Reduce el límite para congelar a un zombi en 100 puntos\n  • Dispara un carámbano a cada zombi infligiendo 20 de daño</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Seta Congelada Plateada + Grano de Café</color></size>",
+   "cost": "<size=39>Costo: <color=red>100, 175 (+$3000)</color>   Recarga: <color=red>57,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
         },
         {
-            "seedType": 1369,
-            "name": "Rebotaseta",
-            "introduce": "<align=justified><size=36><color=black>El tenis de mesa es una pasión compartida tanto por plantas como por zombis, y Rebotaseta es un nombre conocido en el mundo zombi, tras haber derrotado a innumerables campeones del cementerio. Al denunciar a sus oponentes por la falta de devolver la pelota con la cabeza, ha ganado medallas de oro en más de una docena de Campeonatos de Tenis de Mesa entre Plantas y Zombis, mientras que sus oponentes, no muy listos, jamás se han percatado de que él mismo comete la misma falta.</color>",
-            "info": "<size=36>Trata los proyectiles como si fueran pelotas de ping-pong, golpeándolos continuamente de un lado a otro hacia las cabezas de los zombis.\n\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Cuando un proyectil lanzado en el mismo carril golpea a un zombi que está delante, rebotará hacia PingPongseta y luego continuará rebotando de un lado a otro entre los dos.\n<color=black>•</color> Solo puede rebotar un proyectil a la vez; la altura del rebote disminuye gradualmente hasta que toca el suelo.\n<color=black>•</color> No rebota proyectiles que ya pueden rebotar por sí solos.</color>",
-            "cost": "\n<size=36>Fórmula de Fusión: <color=#8B0000>Humoseta + Coltapulta</color>"
+    "seedType": 1369,
+    "name": "Rebotaseta",
+   "introduce": "<size=39><color=#3D1400>El tenis de mesa es una pasión compartida tanto por plantas como por zombis, y Rebotaseta es un nombre conocido en el mundo zombi, tras haber derrotado a innumerables campeones del cementerio. Al denunciar a sus oponentes por la falta de devolver la pelota con la cabeza, ha ganado medallas de oro en más de una docena de Campeonatos de Tenis de Mesa entre Plantas y Zombis, mientras que sus oponentes, no muy listos, jamás se han percatado de que él mismo comete la misma falta.</color></size>",
+   "info": "<size=39>Trata los proyectiles como si fueran pelotas de ping-pong, golpeándolos continuamente de un lado a otro hacia las cabezas de los zombis.</color>\n\n<color=#3D1400>Especial:</color> <color=red>\n- Cuando un proyectil lanzado en la misma fila golpea a un zombi que está delante, rebotará hacia Rebotaseta y luego continuará rebotando de un lado a otro entre los dos.\n- Solo puede rebotar un proyectil a la vez; la altura del rebote disminuye gradualmente hasta que toca el suelo.\n- No rebota proyectiles que ya pueden rebotar por sí solos.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Humoseta + Coltapulta</color></size>",
+   "cost": "<size=39>Costo: <color=red>175, 250</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
         },
         {
-            "seedType": 1370,
-            "name": "Apisonabrotes",
-            "introduce": "<align=justified><size=36><color=black>Son solo tres niños que te están pidiendo caramelos. Lo único raro es que, si te niegas, podrías sentir un poco de \"presión\".</color>",
-            "info": "<size=36>Pequeñas y enérgicas Apisonaflores que saltan y aplastan a los enemigos.\n\n<color=black>Daño: </color><color=#8B0000>300 (Apisonaflor)</color>\n<color=black>Rango de Deteccion: </color><color=#8B0000>1 casilla a la izquierda y derecha</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Planta baja. Se puede plantar 3 veces en una casilla.\n<color=black>•</color> Aplastan 1 una vez cada 1 s y no desaparece después de aplastar ; cuando no tiene objetivo, salta de vuelta a su casilla original.\n<color=black>•</color> Vulnerable a los ataques de zombis por 0.6s despues de atacar.\n<color=black>•</color> Inmune al aplastamiento. Al ser aplastado, recibe 500 daño cada 0,02 s. Al ser aplastado, recibe daño equivalente al daño que recibiria un zombi hipnotizado al ser aplastado.</color>",
-            "cost": "\n<size=36>Fórmula de Fusión: <color=#8B0000>Apisonaflor + Seta desesporada (en orden)</color>"
+    "seedType": 1370,
+    "name": "Apisonabrote",
+   "introduce": "<size=39><color=#3D1400>Es solo un niño que te está pidiendo caramelos, aveces varios niños. Lo único raro es que, si te niegas, podrías sentir un poco de \"presión\" en tu cabeza. Literalmente.</color></size>",
+   "info": "<size=39>Pequeñas y enérgicas Apisonaflores que saltan y aplastan a los enemigos.</color>\n\n<color=#3D1400>Daño:</color> <color=red>300 cada 1s\n<color=#3D1400>Rango: </color><color=red>1 casilla al frente y detrás</color>\n<color=#3D1400>Especial:</color> <color=red>\n- Aplasta 1 una vez cada 1 segundo y no desaparece después de aplasta. Cuando no tiene objetivo, salta de vuelta a su casilla original.\n- Vulnerable a los ataques de zombis por 0,6 segundos después de atacar.\n- Inmune al aplastamiento. Al ser aplastado, recibe 500 daño cada 0,02 segundos. Al ser aplastado, recibe daño equivalente al daño que recibiria un zombi hipnotizado al ser aplastado.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Seta Desesporada + Apisonaflor (En Orden)</color></size>",
+   "cost": "<size=39>Costo: <color=red>50, 125</color>   Recarga: <color=red>37,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
         },
         {
-            "seedType": 1371,
-            "name": "Calabaza Maldita",
-            "introduce": "<align=justified><size=36><color=black>Calabaza de la perdicion siempre anuncia sus servicios como excelentes para una piel mas sana, pero los inspectores de plantas a menudo se quejan de que sus tratamientos son peligrosamente radiactivos.</color>",
-            "info": "<size=36>Canaliza el poder de Petaseta hacia las plantas del interior.\n\n<color=black>Dureza: </color><color=#8B0000>4000</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Gana un 1% de carga cada 0,5 s; entra al campo con una carga inicial aleatoria entre 80%-95%.\n<color=black>•</color> Cuando el medidor de carga está lleno (100%), puede consumir toda la carga para transformar una planta a la fusión de esa planta y Petaseta (la planta resultante no puede ser una fusión de Odisea).</color>",
-            "cost": "\n<size=36>Fórmula de Fusión: <color=#8B0000>Petaseta + Calabaza</color>"
+    "seedType": 1371,
+    "name": "Calabaza Maldita",
+   "introduce": "<size=39><color=#3D1400>Calabaza Maldita siempre anuncia sus servicios como excelentes para una piel mas sana, pero los inspectores de plantas a menudo se quejan de que sus tratamientos son peligrosamente radiactivos.</color></size>",
+   "info": "<size=39>Canaliza el poder de Petaseta hacia las plantas en su interior.</color>\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Especial:</color> <color=red>\n- Gana un 1% de carga cada 0,5 segundos; entra al campo con una carga inicial aleatoria entre 80%-95%\n- Cuando el medidor de carga está lleno (100%), puede consumir toda la carga para transformar una planta a la fusión de esa planta y Petaseta (la planta resultante no puede ser una fusión de Odisea)</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Calabaza + Petaseta (En Orden)</color></size>",
+   "cost": "<size=39>Costo: <color=red>250, 325</color>   Recarga: <color=red>80 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
         },
         {
-            "seedType": 1372,
-            "name": "Maceta Maleza",
-            "introduce": "<align=justified><size=36><color=black>Todas las plantas que han pasado tiempo con Maceta Espinosa se quejan de que es demasiado entusiasta y no tiene ningún sentido de límites personales. Sólo a Nuez Obsidiana no le importa, y la razón es simple: Maceta Espinosa es el único dispuesto a ayudar a desoxidar la afilada cáscara de Pinchonuez Obsidiana.</color>",
-            "info": "<size=36>Tiene rasgos de Pinchohierba y mejora las defensas de las Pinchonueces.\n\n<color=black>Daño: </color><color=#8B0000>20/1s</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Planta baja. Hereda rasgos de Pinchohierba (ignorado por los zombis que muerden y revienta neumáticos).\n<color=black>•</color> Le otorga una reducción del 50% de daño a Pinchonuez y Nuez Obsidiana.\n<color=black>•</color> Se vuelve inmune al aplastamiento si la planta de arriba es una Pinchonuez Obsidiana.</color>",
-            "cost": "\n<size=36>Fórmula de Fusión: <color=#8B0000>Maceta + Pinchohierba (en orden)</color>"
+    "seedType": 1372,
+    "name": "Maceta Maleza",
+   "introduce": "<size=39><color=#3D1400>Todas las plantas que han pasado tiempo con Maceta Maleza se quejan de que es demasiado entusiasta y no tiene ningún sentido de límites personales. Sólo a las nueces no les importa, y la razón es simple: Maceta Maleza es la única dispuesta a ayudar a recortar los afiludos pinchos de Pinchonuez, que sobrecrecen aveces.</color></size>",
+   "info": "<size=39>Tiene rasgos de Pinchohierba y mejora las defensas de las Pinchonueces.</color>\n\n<color=#3D1400>Daño:</color> <color=red>20 cada 1s\n<color=#3D1400>Especial:</color> <color=red>\n- Hereda rasgos de Pinchohierba\n- Otorga una reducción del 50% de daño a Pinchonuez y Pinchonuez Obsidiana\n- Se vuelve inmune al aplastamiento si la planta encima es una Pinchonuez Obsidiana</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Maceta + Pinchohierba (En Orden)</color></size>",
+   "cost": "<size=39>Costo: <color=red>125</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
         },
         {
-            "seedType": 1373,
-            "name": "Lanzarayos",
-            "introduce": "<align=justified><size=36><color=black>Lanzarayos comenzó cuando era una niña a la que le encantaba apuntar con punteros láser a la gente. Más tarde, Parapharos le enseñó cómo usar ese truco con los zombis.</color>",
-            "info": "<size=36>Dispara láseres dirigidos de alta frecuencia; Absorbe la energía de Lúmina para aumentar la potencia.\n\n<color=black>Daño: </color><color=#8B0000>10/0.2s</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color>Gana energía Lúmina igual al nivel de Lúmina cada 0,5 s, hasta 1000. Cada rayo láser consume (1 + energía actual × 10%) de energía al atacar o transferir.\n<color=black>•</color> Puede fijarse en un Bipetirayo delante en el mismo carril (no directamente adyacente). Transfiere energía cada 0,1 s, restaurando energía equivalente al 10% de su ataque. Cada punto de energía gastado duplica la cantidad transferida.\n<color=black>•</color> Consume energía cada 0,2 segundos para atacar, lo que aumenta el daño en la cantidad de energía gastada.</color>",
-            "cost": "\n<size=36>Fórmula de Fusión: <color=#8B0000>Lanzaguisantes + Planterna</color>"
+    "seedType": 1373,
+    "name": "Lanzarayos",
+   "introduce": "<size=39><color=#3D1400>Lanzarayos comenzó cuando era una niña a la que le encantaba apuntar con punteros láser a la gente. Más tarde, Faroseta le enseñó cómo usar ese truco con los zombis.</color></size>",
+   "info": "<size=39>Parte del <color=#104f30>Sistema Lúmina</color>\nDispara láseres dirigidos de alta frecuencia; Absorbe la Energía Lúmina para aumentar su potencia.</color>\n<color=#104f30>Sistema Lúmina:</color></color>\n- Gana Energía Lúmina igual al de su Nivel Lúmina cada 0,5 segundos, hasta 1000.</color>\n\n<color=#3D1400>Daño:</color> <color=red>10 cada 0,2s\n<color=#3D1400>Especial:</color> <color=red>\n- Cada rayo láser consume (1 + energía actual × 10%) de energía al atacar o transferir\n- Puede fijarse en un Bipetirayo delante en la misma fila (no directamente adyacente). Transfiere energía cada 0,1 segundo, restaurando energía equivalente al 10% de su ataque. Cada punto de energía gastado duplica la cantidad transferida\n- Consume energía cada 0,2 segundos para atacar, lo que aumenta el daño en la cantidad de energía gastada</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>F1 + F2</color></size>",
+   "cost": "<size=39>Costo: <color=red>125</color>   Recarga: <color=red>22,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
         },
         {
-            "seedType": 1374,
-            "name": "Dron Apisonaflor",
-            "introduce": "<align=justified><size=36><color=black>Al aprovechar la energía potencial de la gravedad, los Apisonaflores flotantes pueden desatar ataques devastadores con facilidad: haciendo que la exageración antes de atacar parezca innecesaria. \"No es innecesario en absoluto,\" explica Dron Apisonaflor. \"Estoy ahuyentando a las mariquitas que descansan sobre mis hojas, para no golpearlas por accidente.\"</color>",
-            "info": "<size=36>Golpea repetidamente a los zombis debajo de él.\n\n<color=black>Daño: </color><color=#8B0000>100/2s (Apisonaflor)</color>\n<color=black>Rango de Deteccion: </color><color=#8B0000>Su propia casilla</color>\n<color=black>Especial: </color><color=#8B0000> Planta aérea. Cuando un zombi está dentro del alcance, aplasta al zombi que está debajo repetidamente.</color>",
-            "cost": "\n<size=36>Fórmula de Fusión: <color=#8B0000>Apisonaflor + Trebolador</color>"
+    "seedType": 1374,
+    "name": "Dron Apisonaflor",
+   "introduce": "<size=39><color=#3D1400>Al aprovechar la energía potencial de la gravedad, los Apisonaflores flotantes pueden desatar ataques devastadores con facilidad: haciendo que la exageración antes de atacar parezca innecesaria. \"No es innecesario en absoluto,\" explica Dron Apisonaflor. \"Estoy ahuyentando a las mariquitas que descansan sobre mis hojas, para no golpearlas por accidente.\"</color></size>",
+   "info": "<size=39>Golpea repetidamente a los zombis debajo de él.</color>\n\n<color=#3D1400>Daño:</color> <color=red>100 cada 2s\n<color=#3D1400>Especial:</color> <color=red>Planta aérea. Cuando un zombi está dentro del alcance, aplasta al zombi que está debajo repetidamente.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Apisonaflor + Trebolador</color></size>",
+   "cost": "<size=39>Costo: <color=red>150</color>   Recarga: <color=red>45 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
         },
         {
-            "seedType": 1375,
-            "name": "Coltapulta Congelada",
-            "introduce": "<align=justified><size=36><color=black>\"No tienes idea de lo aterrador que era ese lugar,\" Coltapulta congelada dice, todavía conmocionado. \"Una tierra de frío extremo, donde innumerables plantas quedaron congeladas para siempre. Si no hubiera arriesgado mi vida para abrir la puerta afuera, todos los vegetales habríamos muerto allí.\" Oh, está hablando de su aventura dentro del refrigerador de Dave otra vez.</color>",
-            "info": "<size=36>Lanza coles congeladas y ataca más rápido al golpear a enemigos congelados.\n\n<color=black>Daño: </color><color=#8B0000>40/3s</color>\n<color=#0077b6>Sistema criogénico: </color><color=#8B0000>Los ataques infligen efecto helado, agrega 10 puntos de crio y causan ×4 daño a los zombis congelados.</color>\n<color=black>Especial: </color><color=#8B0000>Al golpear a un zombi congelado, el proyectil puede rebotar una vez y la velocidad de ataque de Coltapulta congelada aumenta considerablemente durante 3 segundos. Este efecto solo puede activarse nuevamente 1,5 s después de que finalice.</color>",
-            "cost": "\n<size=36>Fórmula de Fusión: <color=#8B0000>Seta Congelada + Coltapulta</color>"
+    "seedType": 1375,
+    "name": "Coltapulta Congelada",
+   "introduce": "<size=39><color=#3D1400>\"No tienes idea de lo aterrador que era ese lugar,\" Coltapulta congelada dice, todavía conmocionado. \"Una tierra de frío extremo, donde innumerables plantas quedaron congeladas para siempre. Si no hubiera arriesgado mi vida para abrir la puerta afuera, todos los vegetales habríamos muerto allí.\" Oh, está hablando de su aventura dentro del refrigerador de Dave otra vez.</color></size>",
+   "info": "<size=39>Parte del <color=#0077b6>Sistema Criogénico</color>\nLanza coles congeladas y ataca más rápido al golpear a enemigos congelados.</color>\n<color=#0077b6>Sistema Criogénico:</color>\n</color>- Aplica 10 puntos al impacto.\n- Daño x4 a zombis congelados.</color>\n\n<color=#3D1400>Daño:</color> <color=red>40 cada 3s\n<color=#3D1400>Especial:</color> <color=red>\n- Al golpear a un zombi congelado, sus coles pueden rebotar una vez y su velocidad de ataque aumenta considerablemente durante 3 segundos\n- Este efecto solo puede activarse nuevamente 1,5s después de que finalice</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Seta Congelada + Coltapulta</color></size>",
+   "cost": "<size=39>Costo: <color=red>175, 250</color>   Recarga: <color=red>57,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
         },
         {
-            "seedType": 1376,
-            "name": "Lanzamaíz Congelado",
-            "introduce": "<color=#3D1400>Para congelar la mantequilla perfecta, Lanzamaíz Congelado hizo un viaje especial a Siberia. Ahora su mantequilla es tan lisa como el mármol; Pesado, duro, hermoso y produce un ruido sordo satisfactorio cuando se lo estrella en la cabeza de un zombi.</color>",
-            "info": "<size=36>Lanza granos y mantequilla congelados.\n\n<color=black>Daño: </color><color=#8B0000>20/3s</color>\n<color=#0077b6>Sistema criogénico: </color><color=#8B0000>Los ataques infligen efecto helado, agrega 10 puntos de crio y causan ×4 daño a los zombis congelados.</color>\n<color=black>Especial: </color><color=#8B0000>Tiene un 25% de probabilidad de lanzar una mantequilla congelada que congela a los zombis durante 4 segundos.</color>",
-            "cost": "\n<size=36>Fórmula de Fusión: <color=#8B0000>Seta Congelada + Lanzamaíz</color>"
+    "seedType": 1376,
+    "name": "Lanzamaíz Congelado",
+   "introduce": "<size=39><color=#3D1400>Para congelar la mantequilla perfecta, Lanzamaíz Congelado hizo un viaje especial a Siberia. Ahora su mantequilla es tan lisa como el mármol; Pesado, duro, hermoso y produce un ruido sordo satisfactorio cuando se lo estrella en la cabeza de un zombi.</color></size>",
+   "info": "<size=39>Lanza granos y mantequilla congelados.</color>\n<color=#0077b6>Sistema Criogénico:</color>\n</color>- Aplica 10 puntos al impacto.\n- Daño x4 a zombis congelados.</color>\n\n<color=#3D1400>Daño:</color> <color=red>20 cada 3s\n<color=#3D1400>Especial:</color> <color=red>Probabilidad de 25% de lanzar mantequilla, la cual inmoviliza por 4 segundos</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Seta Congelada + Lanzamaíz</color></size>",
+   "cost": "<size=39>Costo: <color=red>175, 250</color>   Recarga: <color=red>57,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
         },
         {
-            "seedType": 1377,
-            "name": "Zampalguita",
-            "introduce": "<color=#3D1400>Zampalguita está extremadamente atento. Vive solo y se alimenta únicamente en aguas poco profundas. Cuando es necesario, incluso se esconde debajo de los zombis para evadir a los depredadores. Duerme con un ojo abierto, lo que no es tarea fácil para una planta con un solo ojo.</color>",
-            "info": "<size=36>Al entrar en contacto con un zombi, Zampalguita explota y se adhiere a otros zombis para multiplicarse.\n\n<color=black>Daño: </color><color=#8B0000>20 × 30</color>\n<color=black>Especial: </color><color=#8B0000>Cuando un zombi entra en contacto con Zampalguita, estallará en 30 proyectiles de algas que infligirán 1 valor de Enredadera antes de desaparecer. Si el proyectil de algas mata a un zombi, aparecerá una Zampalguita adicional en esa casilla (si es posible).</color>",
-            "cost": "\n<size=36>Fórmula de Fusión: <color=#8B0000>Seta Desesporada + Zampalga</color>"
+    "seedType": 1377,
+    "name": "Zampalguita",
+   "introduce": "<size=39><color=#3D1400>Zampalguita está extremadamente atento. Vive solo y se alimenta únicamente en aguas poco profundas. Cuando es necesario, incluso se esconde debajo de los zombis para evadir a los depredadores. Duerme con un ojo abierto, lo que no es tarea fácil para una planta con un solo ojo.</color></size>",
+   "info": "<size=39>Parte del <color=#03311C>Sistema Enredadera</color>\nAl entrar en contacto con un zombi, Zampalguita explota y se adhiere a otros zombis para multiplicarse.</color>\n<color=#03311C>Sistema Enredadera:</color></color>\n- Aplica 1 punto por impacto.</color>\n\n<color=#3D1400>Daño:</color> <color=red>20*30\n<color=#3D1400>Especial:</color> <color=red>Cuando un zombi entra en contacto con Zampalguita, estallará en 30 algas antes de desaparecer. Si alguna de algas mata a un zombi, aparecerá una Zampalguita adicional en esa casilla si está vacía</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Seta Desesporada + Zampalga</color></size>",
+   "cost": "<size=39>Costo: <color=red>25, 100</color>   Recarga: <color=red>37,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
         },
         {
-            "seedType": 1378,
-            "name": "Coltapulta Pesada",
-            "introduce": "<color=#3D1400>\"¡Los robots inteligentes son muy útiles! Personalicé uno según mis especificaciones exactas y ¡aumentó enormemente mi eficiencia de lanzamiento!\"—exclamó Coltapulta Pesada con entusiasmo.\"Oh, la batalla está por comenzar.\" Con eso, saltó a una versión más grande de sí mismo. Momentos después, escuchó al oponente decir:\"¡Los robots inteligentes son muy útiles! Personalicé uno seguns mis...\"</color>",
-            "info": "Coltapulta Pesada puede lanzar versiones más pequeñas de sí mismo, quitandose sus capas para atacar a más zombis.\n\n<color=black>Daño: </color><color=#8B0000>60/3s (Apisonaflor)</color>\n<color=black>Especial: </color><color=#8B0000>Lanza una mini Coltapulta Pesada que inflige daño en área aplastando al aterrizar, luego lanza 2 Coltapulta Pesadas más pequeñas que infligen el 50% del daño original antes de desaparecer. La Coltapulta Pesadas más pequeña lanza 2 Coltapulta Pesadas aún más pequeñas que infliguen el 25% del daño original y desaparecen inmediatamente antes de desaparecer.</color>",
-            "cost": "\n<size=36>Fórmula de Fusión: <color=#8B0000>Apisonaflor + Coltapulta</color>"
+    "seedType": 1378,
+    "name": "Coltapulta Pesada",
+   "introduce": "<size=39><color=#3D1400>\"¡Los robots inteligentes son muy útiles! Personalicé uno según mis especificaciones exactas y ¡aumentó enormemente mi eficiencia de lanzamiento!\"—exclamó Coltapulta Pesada con entusiasmo.\"Oh, la batalla está por comenzar.\" Con eso, saltó a una versión más grande de sí mismo. Momentos después, escuchó al oponente decir:\"¡Los robots inteligentes son muy útiles! Personalicé uno seguns mis...\"</color></size>",
+   "info": "<size=39>Coltapulta Pesada puede lanzar versiones más pequeñas de sí mismo, quitandose sus capas para atacar a más zombis.</color>\n\n<color=#3D1400>Daño:</color> <color=red>20 cada 1,5s\n<color=#3D1400>Especial:</color> <color=red>\n- Lanza una mini Coltapulta Pesada que inflige daño en área aplastando al aterrizar, luego lanza otra Coltapulta Pesada más pequeña que inflige el 50% del daño original antes de desaparecer\n- La mini Coltapulta Pesada lanza <i>otra</i> Coltapulta Pesada aun más pequeña que inflige el 25% del daño original para finalmente desaparecer</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Apisonaflor + Coltapulta</color></size>",
+   "cost": "<size=39>Costo: <color=red>150</color>   Recarga: <color=red>37,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
         },
         {
-            "seedType": 1379,
-            "name": "Triplanterna",
-            "introduce": "<color=#3D1400>el número  favorito de Triplanterna es el tres. Triplica la luz, triplica la visión, incluso triplica el salario. Con ahorros tan generosos, puede permitirse el triple de refrigerios, cuidadosamente guardados en sus estuches de lámparas triples. Las cosas triples que odia son el triple de zombis, el triple de olas y el triple de niveles de gacha.</color>",
-            "info": "Proporciona el triple de Lúmina que un Planter normal y divide los láseres en tres.\n\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Proporciona 3 niveles de Lúmina en un área de 3×3.\n<color=black>•</color> Los láseres anti-tierra de Lumicactus y Linterseta que pasen crearán dos láseres adicionales en el mismo carril, cada uno de los cuales causará 30 de daño</color>",
-            "cost": "\n<size=36>Fórmula de Fusión: <color=#8B0000>Tripitidora + Planterna</color>"
+    "seedType": 1379,
+    "name": "Triplanterna",
+   "introduce": "<size=39><color=#3D1400>El número favorito de Triplanterna es (para nada sorprendente) el tres. Triplica la luz, triplica la visión, incluso triplica el salario. Con ahorros tan generosos, puede permitirse el triple de refrigerios, cuidadosamente guardados en sus estuches de lámparas triples. Las cosas triples que odia son el triple de zombis, el triple de olas y el triple de niveles con suerte involucrados.</color></size>",
+   "info": "<size=39>Proporciona el triple de Niveles Lúmina que una Planterna y divide láseres en 3</color>\n<color=#104f30>Sistema Lúmina:</color></color>\n- Genera 3 Niveles Lúmina en un área de 3x3</color>\n\n<color=#3D1400>Especial:</color> <color=red>Los láseres de Lumicactus y Faroseta que pasen crearán dos láseres adicionales en la misma fila, cada uno de los cuales causará 30 de daño</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Tripitidora + Planterna</color></size>",
+   "cost": "<size=39>Costo: <color=red>300</color>   Recarga: <color=red>22,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
         },
         {
-            "seedType": 1380,
-            "name": "Maceta Hipnótica",
-            "introduce": "<color=#3D1400>Maceta Hipnotica es del agrado de todos. Plantas, zombis e incluso pequeños escarabajos traviesos son todos sus amigos. Trabaja en una enfermeria para hongos y en su tiempo libre es una orgullosa miembro del Club Zombijas, y a menudo comparte su arcilla arcoíris hecha a mano durante las vacaciones.</color>",
-            "info": "El encanto dentro de la Maceta nutre a los zombis hipnotizados.\n\n<color=black>Especial: </color><color=#8B0000>Otorga a los zombis hipnotizados en su casilla una reducción de daño del 33 % y cura 1 HP cada 0,04 s. Cuando es mordido, hipnotiza al atacante y vuelve a convertirse en una maceta.</color>",
-            "cost": "\n<size=36>Fórmula de Fusión: <color=#8B0000>Hipnoseta + Maceta</color>"
+    "seedType": 1380,
+    "name": "Maceta Hipnótica",
+   "introduce": "<size=39><color=#3D1400>Maceta Hipnotica es del agrado de todos. Plantas, zombis e incluso pequeños escarabajos traviesos son todos sus amigos. Trabaja en una enfermeria para hongos y en su tiempo libre es una orgullosa miembro del Club Zombi, y a menudo comparte su arcilla arcoíris hecha a mano durante las vacaciones.</color></size>",
+   "info": "<size=39>El encanto dentro de la Maceta Hipnótica nutre a los zombis hipnotizados.</color>\n\n<color=#3D1400>Especial:</color> <color=red>\n- Otorga a los zombis hipnotizados en su casilla una reducción de daño del 33% y cura 1 PS cada 0,04 segundos\n- Hipnotiza al zombi que lo consume, y regresa a ser una Maceta</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Hipnoseta + Maceta</color></size>",
+   "cost": "<size=39>Costo: <color=red>100, 175</color>   Recarga: <color=red>37,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
         },
         {
-            "seedType": 1381,
-            "name": "Repetirayo",
-            "introduce": "<align=justified><size=36><color=black>El festival semanal de luces en la picina es un evento social importante para Repetirayo. Antes de salir, se ajusta cuidadosamente su sombrero lámpara; las hojas debajo del ala no solo le dan un aspecto elegante, sino que también les dan a sus amigas luciérnagas un lugar para descansar después de la fiesta.</color>",
-            "info": "<size=36>Dispara dos láseres de alta frecuencia.\n\n<color=black>Daño: </color><color=#8B0000>10×2/0.2s</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Gana energía Lúmina igual al nivel de Lúmina cada 0,5 s, hasta 1000. Cada rayo láser consume (1 + energía actual × 10%) de energía al atacar o transferir.\n<color=black>•</color> Puede fijarse en un Bipetirayo delante en el mismo carril (no directamente adyacente). Transfiere energía cada 0,1 s, restaurando energía equivalente al 20% de su ataque. Cada punto de energía gastado duplica la cantidad transferida.\n<color=black>•</color> Consume energía cada 0,2 s para atacar a 2 zombis a la vez, lo que aumenta a daño en la cantidad de energía gastada.</color>",
-            "cost": "\n<size=36>Fórmula de Fusión: <color=#8B0000>Lanzaguisantes + Lanzarayos</color>"
+    "seedType": 1381,
+    "name": "Repetirayo",
+   "introduce": "<size=39><color=#3D1400>El festival semanal de luces en la piscina es un evento social importante para Repetirayo. Antes de salir, se ajusta cuidadosamente su sombrero lámpara; las hojas debajo del ala no solo le dan un aspecto elegante, sino que también les dan a sus amigas luciérnagas un lugar para descansar después de la fiesta.</color></size>",
+   "info": "<size=39>Parte del <color=#104f30>Sistema Lúmina</color>\nDispara dos láseres de alta frecuencia.</color>\n<color=#104f30>Sistema Lúmina:</color></color>\n- Gana Energía Lúmina igual al de su Nivel Lúmina cada 0,5 segundos, hasta 1000.</color>\n\n<color=#3D1400>Daño:</color> <color=red>10*2 cada 0,2s\n<color=#3D1400>Especial:</color> <color=red>\n- Cada rayo láser consume (1 + energía actual × 10%) de energía al atacar o transferir\n- Puede fijarse en un Bipetirayo delante en la misma fila (no directamente adyacente). Transfiere energía cada 0,1 segundo, restaurando energía equivalente al 20% de su ataque. Cada punto de energía gastado duplica la cantidad transferida.\n- Consume energía cada 0,2 segundos para atacar 2 zombis a la vez, lo que aumenta a daño en la cantidad de energía gastada\n- Hazle clic 15 segundos tras plantarlo para fusionarlo con otro Lanzaguisantes gratis.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Repetidora + Planterna</color></size>",
+   "cost": "<size=39>Costo: <color=red>225</color>   Recarga: <color=red>30 Segundos</color>\nPlantas Requeridas: <color=red>3</color></size>"
         },
         {
-            "seedType": 1382,
-            "name": "Bipetirayo",
-            "introduce": "<align=justified><size=36><color=black>\"Es mi turno de usar el sombrero.\" \"Pero la correa está debajo de mi barbilla.\"Las dos cabezas de Bipetirayo discuten constantemente. Ni siquiera el festival semanal de luces en la picina puede distraerlos; lo único que detiene la discusión es cuando empiezan a pelear por las cejas.</color>",
-            "info": "<size=36>Recibe energía láser desde la izquierda y dispara láseres de alta frecuencia.\n\n<color=black>Daño: </color><color=#8B0000>10/0.2s</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> La cabeza derecha funciona como un Lanzarayos.\n<color=black>•</color> La cabeza izquierda puede recibir energía Lúmina de las plantas de la familia Lanzarayos en el mismo carril (no en las casillas directamente adyacentes).</color>",
-            "cost": "\n<size=36>Fórmula de Fusión: <color=#8B0000>Lanzaguisantes + Repetirayo</color>"
+    "seedType": 1382,
+    "name": "Bipetirayo",
+   "introduce": "<size=39><color=#3D1400>\"Es mi turno de usar el sombrero.\" \"Pero la correa está debajo de mi barbilla.\"Las dos cabezas de Bipetirayo discuten constantemente. Ni siquiera el festival semanal de luces en la piscina puede distraerlos; lo único que detiene la discusión es cuando empiezan a pelear por las cejas.</color></size>",
+   "info": "<size=39>Parte del <color=#104f30>Sistema Lúmina</color>\nRecibe energía láser desde su cabeza trasera y dispara láseres de alta frecuencia.</color>\n<color=#104f30>Sistema Lúmina:</color></color>\n- Gana Energía Lúmina igual al de su Nivel Lúmina cada 0,5 segundos, hasta 1000.</color>\n\n<color=#3D1400>Daño:</color> <color=red>10 cada 0,2s\n<color=#3D1400>Especial:</color> <color=red>\n- La cabeza derecha funciona como un Lanzarayos común\n- La cabeza izquierda puede recibir Energía Lúmina de las plantas de la familia Lanzarayos en la misma fila (no en las casillas directamente adyacentes)\n- Hazle clic 15 segundos tras plantarlo para fusionarlo con otro Lanzaguisantes gratis.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Bipetidora + Planterna</color></size>",
+   "cost": "<size=39>Costo: <color=red>325</color>   Recarga: <color=red>37,5 Segundos</color>\nPlantas Requeridas: <color=red>4</color></size>"
         },
         {
-            "seedType": 1383,
-            "name": "Rayotralladora",
-            "introduce": "<align=justified><size=36><color=black>Rayotralladora brilla intensamente en el campo de batalla y, a menudo, gana cuatro veces más crédito. Aunque su brillo lo convierte en un blanco fácil, nunca retrocede. Las heridas dentro de la luz son la insignia de honor de un guerrero.</color>",
-            "info": "<size=36>Dispara cuatro láseres de alta frecuencia.\n\n<color=black>Daño: </color><color=#8B0000>10×4/0.2s</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Gana energía Lúmina igual al nivel de Lúmina cada 0,5 s, hasta 1000. Cada rayo láser consume (1 + energía actual × 10%) de energía al atacar o transferir.\n<color=black>•</color> Puede fijarse en un Bipetirayo delante en el mismo carril (no directamente adyacente). Transfiere energía cada 0,1 s, restaurando energía equivalente al 40% de su ataque. Cada punto de energía gastado duplica la cantidad transferida.\n<color=black>•</color> Consume energía cada 0,2 s para atacar a 4 zombis a la vez, lo que aumenta el daño en la cantidad de energía gastada.</color>",
-            "cost": "\n<size=36>Fórmula de Fusión: <color=#8B0000>Lanzaguisantes + Bipetirayo</color>"
+    "seedType": 1383,
+    "name": "Rayotralladora",
+   "introduce": "<size=39><color=#3D1400>Rayotralladora brilla intensamente en el campo de batalla y, a menudo, gana cuatro veces más crédito. Aunque su brillo lo convierte en un blanco fácil, nunca retrocede. Las heridas dentro de la luz son la insignia de honor de un guerrero.</color></size>",
+   "info": "<size=39>Parte del <color=#104f30>Sistema Lúmina</color>\nDispara cuatro láseres de alta frecuencia.</color>\n<color=#104f30>Sistema Lúmina:</color></color>\n- Gana Energía Lúmina igual al de su Nivel Lúmina cada 0,5 segundos, hasta 1000.</color>\n\n<color=#3D1400>Daño:</color> <color=red>10*4 cada 0,2s\n<color=#3D1400>Especial:</color> <color=red>\n- Cada rayo láser consume (1 + energía actual × 10%) de energía al atacar o transferir.\n- Puede fijarse en un Bipetirayo delante en la misma fila (no directamente adyacente). Transfiere energía cada 0,1 segundo, restaurando energía equivalente al 40% de su ataque. Cada punto de energía gastado duplica la cantidad transferida.\n- Consume energía cada 0,2 segundos para atacar a 4 zombis a la vez, lo que aumenta el daño en la cantidad de energía gastada</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Guisantralladora + Planterna</color></size>",
+   "cost": "<size=39>Costo: <color=red>425</color>   Recarga: <color=red>45 Segundos</color>\nPlantas Requeridas: <color=red>5</color></size>"
         },
         {
-            "seedType": 1384,
-            "name": "Pimiento",
-            "introduce": "<align=justified><size=36><color=black>Cada pimiento puede ser pequeño e insignificante por sí solo, pero juntos generan mucho calor. Por eso les gusta estar en grupos. Otras plantas incluso las clasifican por tamaño: suaves, medianas y extra picantes.</color>",
-            "info": "<size=36>Cuerpo pequeño, temperamento fogoso.\n\n<color=black>Daño: </color><color=#8B0000>600 (Incinerador)</color>\n<color=black>Especial: </color><color=#8B0000>Planta baja. Explota cuando los zombis se acercan, provocando un efecto jalapeño debil.</color>",
-            "cost": "\n<size=36>Fórmula de Fusión: <color=#8B0000>Jalapeno + Seta desesporada (en orden)</color>"
+    "seedType": 1384,
+    "name": "Pimiento",
+   "introduce": "<size=39><color=#3D1400>Cada pimiento puede ser pequeño e insignificante por sí solo, pero juntos generan mucho calor. Por eso les gusta estar en grupos. Otras plantas incluso las clasifican por tamaño: suaves, medianas y extra picantes.</color></size>",
+   "info": "<size=39>Cuerpo pequeño, temperamento fogoso.</color>\n\n<color=#3D1400>Daño:</color> <color=red>600 (área lineal)\n<color=#3D1400>Uso:</color> <color=red>Instantáneo, al contacto\n<color=#3D1400>Especial:</color> <color=red>Explota con una explosión de Jalapeño debilitada cuando un zombi se acerca</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Seta Desesporada + Jalapeño (En Orden)</color></size>",
+   "cost": "<size=39>Costo: <color=red>125, 200</color>   Recarga: <color=red>57,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
         },
         {
-            "seedType": 1385,
-            "name": "Lanzatoxinas",
-            "introduce": "<align=justified><size=36><color=black>A pesar del nombre, Lanzatoxinas es un chef con un estilo fuerte y característico. Insiste en que cada cliente pruebe su especialidad: guisantes fritos con ajo en polvo. El solo olor hace que los zombis se inunden de recuerdos: la infancia, la familia, el hogar... y muchas lágrimas.</color>",
-            "info": "<size=36>Dispara guisantes ajo que hacen que los zombis envenenados liberen toxinas, formando una nube tóxica.\n\n<color=black>Daño: </color><color=#8B0000>30/1.5s</color>\n<color=#5E1675>Sistema Venenoso: </color><color=#8B0000>\n<color=black>•</color> Los proyectiles añaden 1 punto de Veneno a los zombis al impactar.\n<color=black>•</color> Si el zombi golpeado ya está en estado de envenenamiento, crea una nube tóxica a los pies del zombi que dura 6 segundos, aplica 1 valor de veneno e inflige un daño igual a 20 veces el total de proyectiles disparados en una rafaga por todas las plantas de tiro directo del sistema venenoso en este carril por segundo a todos los zombis atrapados en su interior. Puede haber solo 1 nube tóxica activa por carril.</color>",
-            "cost": "\n<size=36>Fórmula de Fusión: <color=#8B0000>Lanzaguisantes + Ajo</color>"
+    "seedType": 1385,
+    "name": "Lanzatoxinas",
+   "introduce": "<size=39><color=#3D1400>A pesar del nombre, Lanzatoxinas es un chef con un estilo fuerte y característico. Insiste en que cada cliente pruebe su especialidad: guisantes fritos con ajo en polvo. El solo olor hace que los zombis se inunden de recuerdos: la infancia, la familia, el hogar... y muchas lágrimas.</color></size>",
+   "info": "<size=39>Parte del <color=#133816>Sistema Venenoso</color>\nDispara guisantes ajo que hacen que los zombis envenenados liberen toxinas, formando una nube tóxica.\n<color=#133816>Sistema Venenoso:</color></color>\n- Aplica 1 punto al impacto.\n- Si el zombi impactado ya esta en el Estado Venenoso, crea una nube en la posición del zombi que permanece durante 6s, aplicando 1 punto por segundo a todos los zombis en su área e infligiendo un daño igual a x20 el total de proyectiles disparados en una ráfaga por todas las plantas de disparo directo del Sistema Venenoso en esta fila por segundo a todos los zombis atrapados dentro. Puede haber hasta 1 Nube Tóxica activa por línea.</color>\n\n<color=#3D1400>Daño:</color> <color=red>30 cada 1,5s</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Lanzaguisantes + Ajo</color></size>",
+   "cost": "<size=39>Costo: <color=red>150</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
         },
         {
-            "seedType": 1386,
-            "name": "Repitoxina",
-            "introduce": "<align=justified><size=36><color=black>\"¡Luchar! ¡Luchar! ¡Ataca! ¡Ataca!t\" Repitoxina vive con pasión y veneno. Nada lo distrae, ni los zombis, ni los vampiros, ni siquiera los vendedores insistentes.</color>",
-            "info": "<size=36>Dispara dos guisantes ajo a la vez.\n\n<color=black>Daño: </color><color=#8B0000>30×2/1.5s</color>\n<color=#5E1675>Sistema Venenoso: </color><color=#8B0000>\n<color=black>•</color> Los proyectiles añaden 1 punto de Veneno a los zombis al impactar.\n<color=black>•</color> Si el zombi golpeado ya está en estado de envenenamiento, crea una nube tóxica a los pies del zombi que dura 6 segundos, aplica 1 valor de veneno e inflige un daño igual a 20 veces el total de proyectiles disparados en una rafaga por todas las plantas de tiro directo del sistema venenoso en este carril por segundo a todos los zombis atrapados en su interior. Puede haber solo 1 nube tóxica activa por carril.</color>",
-            "cost": "\n<size=36>Fórmula de Fusión: <color=#8B0000>Lanzaguisantes + Lanzatoxinas</color>"
+    "seedType": 1386,
+    "name": "Repitoxina",
+   "introduce": "<size=39><color=#3D1400>\"¡Luchar! ¡Luchar! ¡Ataca! ¡Ataca!\" Repitoxina vive con pasión y veneno. Nada lo distrae, ni los zombis, ni los vampiros, ni siquiera los vendedores insistentes.</color></size>",
+   "info": "<size=39>Parte del <color=#133816>Sistema Venenoso</color>\nDispara dos guisantes ajo a la vez.\n<color=#133816>Sistema Venenoso:</color></color>\n- Aplica 1 punto al impacto.\n- Si el zombi impactado ya esta en el Estado Venenoso, crea una nube en la posición del zombi que permanece durante 6s, aplicando 1 punto por segundo a todos los zombis en su área e infligiendo un daño igual a x20 el total de proyectiles disparados en una ráfaga por todas las plantas de disparo directo del Sistema Venenoso en esta fila por segundo a todos los zombis atrapados dentro. Puede haber hasta 1 Nube Tóxica activa por línea.</color>\n\n<color=#3D1400>Daño:</color> <color=red>30 cada 1,5s\n<color=#3D1400>Especial:</color> <color=red>Hazle clic 15 segundos tras plantarlo para fusionarlo con otro Lanzaguisantes gratis.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Repetidora + Ajo</color></size>",
+   "cost": "<size=39>Costo: <color=red>250</color>   Recarga: <color=red>22,5 Segundos</color>\nPlantas Requeridas: <color=red>3</color></size>"
         },
         {
-            "seedType": 1387,
-            "name": "Bipitoxina",
-            "introduce": "<align=justified><size=36><color=black>Los tiros con rebote son una habilidad imprescindible para las Bipetidoras modernas, pero Bipitoxina no se molestó en aprenderla. Tampoco tenía por qué hacerlo. Simplemente puede disparar guisantes Ajo a la casa que hay detrás y, tarde o temprano, alguien los devolverá.</color>",
-            "info": "<size=36>Dispara guisantes ajo tanto hacia adelante como hacia atrás.\n\n<color=black>Daño: </color><color=#8B0000>30×3/1.5s</color>\n<color=#5E1675>Sistema Venenoso: </color><color=#8B0000>\n<color=black>•</color> Los proyectiles añaden 1 punto de Veneno a los zombis al impactar.\n<color=black>•</color> Si el zombi golpeado ya está en estado de envenenamiento, crea una nube tóxica a los pies del zombi que dura 6 segundos, aplica 1 valor de veneno e inflige un daño igual a 20 veces el total de proyectiles disparados en una rafaga por todas las plantas de tiro directo del sistema venenoso en este carril por segundo a todos los zombis atrapados en su interior. Puede haber solo 1 nube tóxica activa por carril.</color>",
-            "cost": "\n<size=36>Fórmula de Fusión: <color=#8B0000>Lanzaguisantes + Repitoxtina</color>"
+    "seedType": 1387,
+    "name": "Bipitoxina",
+   "introduce": "<size=39><color=#3D1400>Los tiros con rebote son una habilidad imprescindible para las Bipetidoras modernas, pero Bipitoxina no se molestó en aprenderla. Tampoco tenía por qué hacerlo. Simplemente puede disparar guisantes Ajo a la casa que hay detrás y, tarde o temprano, alguien los devolverá.</color></size>",
+   "info": "<size=39>Parte del <color=#133816>Sistema Venenoso</color>\nDispara guisantes ajo tanto hacia adelante como hacia atrás.\n<color=#133816>Sistema Venenoso:</color></color>\n- Aplica 1 punto al impacto.\n- Si el zombi impactado ya esta en el Estado Venenoso, crea una nube en la posición del zombi que permanece durante 6s, aplicando 1 punto por segundo a todos los zombis en su área e infligiendo un daño igual a x20 el total de proyectiles disparados en una ráfaga por todas las plantas de disparo directo del Sistema Venenoso en esta fila por segundo a todos los zombis atrapados dentro. Puede haber hasta 1 Nube Tóxica activa por línea.</color>\n\n<color=#3D1400>Daño:</color> <color=red>30*3 cada 1,5s\n<color=#3D1400>Especial:</color> <color=red>Hazle clic 15 segundos tras plantarlo para fusionarlo con otro Lanzaguisantes gratis.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Bipetidora + Ajo</color></size>",
+   "cost": "<size=39>Costo: <color=red>350</color>   Recarga: <color=red>30 Segundos</color>\nPlantas Requeridas: <color=red>4</color></size>"
         },
         {
-            "seedType": 1388,
-            "name": "Toxitralladora",
-            "introduce": "<align=justified><size=36><color=black>En la comida compartida del barrio, la renombrada lingüista Toxitralladora sirvió con orgullo una \"receta tradicional\"de 'ven' y 'eno'. Sabía excelente, excepto que todos sufrieron una intoxicación alimentaria después. A día de hoy sigue insistiendo en que el \"veneno\" era parte del \"Regalo\"..</color>",
-            "info": "<size=36>Dispara cuatro guisantes Ajo a la vez.\n\n<color=black>Daño: </color><color=#8B0000>30×4/1.5s</color>\n<color=#5E1675>Sistema Venenoso: </color><color=#8B0000>\n<color=black>•</color> Los proyectiles añaden 1 punto de Veneno a los zombis al impactar.\n<color=black>•</color> Si el zombi golpeado ya está en estado de envenenamiento, crea una nube tóxica a los pies del zombi que dura 6 segundos, aplica 1 valor de veneno e inflige un daño igual a 20 veces el total de proyectiles disparados en una rafaga por todas las plantas de tiro directo del sistema venenoso en este carril por segundo a todos los zombis atrapados en su interior. Puede haber solo 1 nube tóxica activa por carril.</color>",
-            "cost": "\n<size=36>Fórmula de Fusión: <color=#8B0000>Lanzaguisantes + Bipitoxina</color>"
+    "seedType": 1388,
+    "name": "Toxitralladora",
+   "introduce": "<size=39><color=#3D1400>En la comida compartida del barrio, la renombrada lingüista Toxitralladora sirvió con orgullo una \"receta tradicional\"de 'ven' y 'eno'. Sabía excelente, excepto que todos sufrieron una intoxicación alimentaria después. A día de hoy sigue insistiendo en que el \"veneno\" era parte del \"Regalo\"...</color></size>",
+   "info": "<size=39>Parte del <color=#133816>Sistema Venenoso</color>\nDispara cuatro guisantes ajo a la vez.\n<color=#133816>Sistema Venenoso:</color></color>\n- Aplica 1 punto al impacto.\n- Si el zombi impactado ya esta en el Estado Venenoso, crea una nube en la posición del zombi que permanece durante 6s, aplicando 1 punto por segundo a todos los zombis en su área e infligiendo un daño igual a x20 el total de proyectiles disparados en una ráfaga por todas las plantas de disparo directo del Sistema Venenoso en esta fila por segundo a todos los zombis atrapados dentro. Puede haber hasta 1 Nube Tóxica activa por línea.</color>\n\n<color=#3D1400>Daño:</color> <color=red>30*4 cada 1,5s</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Guisantralladora + Ajo</color></size>",
+   "cost": "<size=39>Costo: <color=red>450</color>   Recarga: <color=red>45 Segundos</color>\nPlantas Requeridas: <color=red>5</color></size>"
         },
         {
-            "seedType": 1389,
-            "name": "Ahumaseta",
-            "introduce": "<align=justified><size=36><color=black>Ahumador Seta se hizo un nombre cocinando rápidamente guisantes hasta obtener una rica pasta de guisantes y convirtiéndolos en \"tartas de guisantes.\" Sus habilidades son famosas, pero también lo es su terrible sentido para los negocios. Su negocio quiebra a razón de un restaurante al año, principalmente porque quema demasiados guisantes sólo para mantener su peinado.</color>",
-            "info": "<size=36>Quema los guisantes entrantes, Alimentando una explosión de llamas.\n\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> No ataca por sí sola.\n<color=black>•</color> Absorbe los guisantes que pasan. Cada 1s, exhala una llama penetrante 4 casillas hacia adelante. Daño equivale al daño total de guisantes absorbidos, hasta 300.\n<color=black>•</color> Transforma los guisantes helados en guisantes normales.</color>",
-            "cost": "\n<size=36>Fórmula de Fusión: <color=#8B0000>Humoseta + Plantorcha</color>"
+    "seedType": 1389,
+    "name": "Ahumaseta",
+   "introduce": "<size=39><color=#3D1400>Ahumaseta se hizo un nombre cocinando rápidamente guisantes hasta obtener una rica pasta de guisantes y convirtiéndolos en \"tartas de guisantes.\" Sus habilidades son famosas, pero también lo es su terrible sentido para los negocios. Su negocio quiebra a razón de un restaurante al año, principalmente porque quema demasiados guisantes sólo para mantener su peinado.</color></size>",
+   "info": "<size=39>Quema los guisantes entrantes, alimentando una explosión de llamas.</color>\n\n<color=#3D1400>Especial:</color> <color=red>\n- No ataca por sí sola.\n- Absorbe los guisantes que pasan. Cada 1s, exhala una llama penetrante 4 casillas hacia adelante\n- Su daño equivale al daño total de guisantes absorbidos, hasta 300.\n- Transforma los guisantes helados en guisantes normales</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Humoseta + Plantorcha</color></size>",
+   "cost": "<size=39>Costo: <color=red>250, 325</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
         },
         {
-            "seedType": 1390,
-            "name": "Digestionaflor",
-            "introduce": "<align=justified><size=36><color=black>\"¡Tanta hambre, tanta hambre, tanta hambre! ¡Estoy hambriento!\" Apisornivora Grita mientras se lanza contra los zombis que se encuentran delante. No importa cuánto coma, nunca es suficiente. ¡Oh, mira, un Zombistein! Finalmente, una comida adecuada... Espera, eso podría haber sido demasiado.</color>",
-            "info": "<size=36>Apisonaflor glotona que sigue aplaztando cuando se alimenta.\n\n<color=black>Daño: </color><color=#8B0000>1800 (Apisonaflor)</color>\n<color=black>Rango de Deteccion: </color><color=#8B0000>1 Casilla a la derecha</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Al aterrizar, intenta devorar a un zombi atrapado debajo. Todavía reparte daño a los zombis que no se puede comer.\n<color=black>•</color> Si devora con éxito, no desaparece y regresa a la misma casilla; de lo contrario, desaparece.</color>",
-            "cost": "\n<size=36>Fórmula de Fusión: <color=#8B0000> Planta Carnívora + Apisonaflor</color>"
+    "seedType": 1390,
+    "name": "Digestionaflor",
+   "introduce": "<size=39><color=#3D1400>\"¡Tanta hambre, tanta hambre, tanta hambre! ¡Estoy hambriento!\" Digestionaflor grita mientras se lanza contra los zombis que se encuentran delante. No importa cuánto coma, nunca es suficiente. ¡Oh, mira, un Zombistein! Finalmente, una comida adecuada... Espera, eso podría haber sido demasiado.</color></size>",
+   "info": "<size=39>Una Apisonaflor glotona que sigue aplastando cuando se alimenta.</color>\n\n<color=#3D1400>Daño:</color> <color=red>1800\n<color=#3D1400>Especial:</color> <color=red>\n- Al aterrizar, intenta devorar a un zombi atrapado debajo. Todavía reparte daño a los zombis que no se puede comer.\n- Si devora con éxito, no desaparece y regresa a la misma casilla; de lo contrario, desaparece.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Planta Carnívora + Apisonaflor</color></size>",
+   "cost": "<size=39>Costo: <color=red>200</color>   Recarga: <color=red>37,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
         }
     ]
 }
