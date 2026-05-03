@@ -2387,6 +2387,7 @@
   "未知索引": "Unknown Modifier ID",
   "不可净化领袖词条": "This Modifier cannot be removed!",
   "不可指向自己": "The Arrow cannot point to itself!",
+  "目标必须在同一行或者同一列": "The Target must be on the same lane or same column!",
   "-------Strings - 3.6 Level Editor-Osu": "Strings - 3.6 Level Editor-Osu-------",
   "僵尸所在行\n（不填则为默认）": "Spawn Lane\n<size=80%>(Leave blank for default)",
   "节奏大师设置": "Explode-O-su! Settings",
