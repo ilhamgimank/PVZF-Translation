@@ -218,5 +218,9 @@
     "level_1777766039181_4jney3lxg": {
         "name": "3.6.1 Mini-game Royal Gardener",
         "startTip": "<size=18>Starting from wave 10, plants placed on Spike Pots must meet specific <color=yellow> AREA</color> requirements (exact conditions shown at wave 6)\n<color=yellow>[AREA]</color> is defined as: plants of the same type connect with each other to form a zone,\nand the number of tiles in that zone is its <color=yellow>AREA</color>.\n<color=#00FFFF>Tip: You can right-click any plant to view the area of the region it belongs to."
+    },
+    "level_1777864409435_65houbxs9": {
+        "name": "3.6.1 Mini-game Energy Crisis",
+        "startTip": "Look! It's an energy node — protect it!\nClick the node to generate energy (Obsidian Mine; the generation rate increases with each wave.\nThe packets in your slots are zombie bases: they cost no sun, but cannot attack and have very low HP.\nClick a base to spend the displayed sun and summon the corresponding zombie. Threepeaters can deploy in 3 lanes.\n</color></color></color></color></color></color></color><color=#FE0304><color=#FEf></color></color></color><color=#FE0304>Fusion is disabled. Slow-mode and fertilizer are not recommended. Recommended difficulty: 3 or below.</color>"
     }
 }
