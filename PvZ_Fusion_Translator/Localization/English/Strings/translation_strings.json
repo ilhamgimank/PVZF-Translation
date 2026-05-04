@@ -2693,6 +2693,7 @@
   "-------Strings - 3.6 Seed Selection Screen": "Strings - 3.6 Seed Selection Screen-------",
   "保存卡组": "Save Loadout",
   "自定义卡组": "Custom Loadout",
+  "卡槽上有被固定的卡牌，无法使用自定义卡组": "Pre-selected seed packets in use. Custom loadout disabled.",
   "-------Strings - 3.6 Mechanics Almanac": "Strings - 3.6 Mechanics Almanac-------",
   "机制图鉴": "Mechanics Almanac",
   "副卡": "Second Copy",
