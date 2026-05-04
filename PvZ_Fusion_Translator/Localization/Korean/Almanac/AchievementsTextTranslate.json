@@ -1,0 +1,387 @@
+{
+    "Welcome": {
+        "achievement": 0,
+        "Name": "게임의 핵심 메커니즘을 체험해보세요.",
+        "Text": "<size=10>식물 vs 좀비: 퓨전"
+    },
+    "PeaSunflower": {
+        "achievement": 1,
+        "Name": "태양슈터를 해금하세요.",
+        "Text": "[융합]의 시대"
+    },
+    "GatlingPea": {
+        "achievement": 2,
+        "Name": "개틀링 콩을 해금하세요.",
+        "Text": "화력덕후"
+    },
+    "TwinFlower": {
+        "achievement": 3,
+        "Name": "쌍둥이 해바라기를 해금하세요.",
+        "Text": "이게 왜 진짜됨?"
+    },
+    "SuperGatling": {
+        "achievement": 4,
+        "Name": "특전자 콩을 해금하세요.",
+        "Text": "콩 형님께\n야단맞으니까"
+    },
+    "CherryPaper": {
+        "achievement": 5,
+        "Name": "폭발성 체리탄 하나로 4개 이상의 식물을 폭파시키세요.",
+        "Text": "빵빵\n터뜨리고 있어요!"
+    },
+    "BigWallNut": {
+        "achievement": 6,
+        "Name": "호두에다 또 호두를 조합하세요",
+        "Text": "<size=10>어떻게 도망쳤을까?"
+    },
+    "CherryPaper95": {
+        "achievement": 9,
+        "Name": "신문지 체리 개틀링 좀비를 조우하세요.",
+        "Text": "체리 폭탄세일!"
+    },
+    "Puff": {
+        "achievement": 7,
+        "Name": "뻐끔 버섯에 검쟁이 버섯이나 가스 버섯을 심어 뻐끔 버섯을 흩뿌려 보세요.",
+        "Text": "저글링 같은\n버섯들"
+    },
+    "SunBomb": {
+        "achievement": 8,
+        "Name": "해바라기 폭탄을 이용해서 10마리를 한번에 폭파시키세요.",
+        "Text": "섬광탄"
+    },
+    "BigWallNut2": {
+        "achievement": 10,
+        "Name": "거대 호두로 좀비 10마리를 한번에 처리하세요. ",
+        "Text": "호두 굴러가유~"
+    },
+    "BigWallNut3": {
+        "achievement": 11,
+        "Name": "거대 호두로 같은 좀비에게 20,000의 데미지를 입히세요.",
+        "Text": "호두롤러다!"
+    },
+    "HypnoShroom": {
+        "achievement": 12,
+        "Name": "좀비를 매혹상태로 만들려면 최면 버섯을 사용하세요.",
+        "Text": "<size=10>먹지 마세요,\n정원에 양보하세요"
+    },
+    "JacksonZombie": {
+        "achievement": 13,
+        "Name": "마이클 좀비를 조우하세요.",
+        "Text": "좀빌리진"
+    },
+    "ScaredyHypno": {
+        "achievement": 14,
+        "Name": "몽릉 버섯으로 좀비를 강제로 매혹 상태로 만드세요.",
+        "Text": "자진입대\n환영한다!"
+    },
+    "HypnoNut": {
+        "achievement": 15,
+        "Name": "최면 호두로 골드 럭키박스 좀비를 소환하세요.",
+        "Text": "럭키박스"
+    },
+    "LilyPad": {
+        "achievement": 16,
+        "Name": "수련잎이 식물을 생성하게 하세요.",
+        "Text": "창조분재"
+    },
+    "ThreePeater": {
+        "achievement": 17,
+        "Name": "가장자리 열에 삼발슈터를 심어, 해당 열에서 각 줄마다 콩 2개를 발사하게 해보세요.",
+        "Text": "콩은 까야 제맛\n콩은 까야 제맛"
+    },
+    "SquashKelp": {
+        "achievement": 18,
+        "Name": "스쿼시 켈프를 해금하세요.",
+        "Text": "심연을 오랫동안 들여다보면..."
+    },
+    "ThreeSpike": {
+        "achievement": 19,
+        "Name": "스파이크 삼발슈터로 타이어를 터뜨리세요.",
+        "Text": "내 타이어!"
+    },
+    "SunSeaShroom": {
+        "achievement": 20,
+        "Name": "태양 바다 버섯을 해금하세요.",
+        "Text": "태양을 극북한"
+    },
+    "StarBlover": {
+        "achievement": 21,
+        "Name": "스타로버로 별 투사체를 모으세요.",
+        "Text": "별며든다..."
+    },
+    "MagnetShroom": {
+        "achievement": 22,
+        "Name": "자기장 시스템을 활용하세요.",
+        "Text": "너비 우선 탐색\n알고리즘"
+    },
+    "CornCabbage": {
+        "achievement": 23,
+        "Name": "타코 펄트를 해금하세요.",
+        "Text": "<size=10>타코는 거짓말이야"
+    },
+    "GarlicCorn": {
+        "achievement": 24,
+        "Name": "좀비를 독 디버프에 걸리게하세요.",
+        "Text": "<size=11>아이고\n이게 무슨 냄새야"
+    },
+    "CabbageUmbrella": {
+        "achievement": 25,
+        "Name": "양배추 우산잎으로 곡사형 투사체를 튕겨내세요.",
+        "Text": "공놀이의 달인"
+    },
+    "GoldMelon": {
+        "achievement": 26,
+        "Name": "하늘에서 황금 멜론 비가 내리게 하세요.",
+        "Text": "하늘에서 멜론이 내린다면?"
+    },
+    "SquashTorch": {
+        "achievement": 27,
+        "Name": "스쿼시 횃불 나무로 스쿼시를 생산해보세요.",
+        "Text": "<size=10>실례합니다만, 지금 불타고 계십니다."
+    },
+    "UltimateTorch": {
+        "achievement": 28,
+        "Name": "스쿼시 지옥불나무를 해금하세요.",
+        "Text": "아직 따뜻해 . . ."
+    },
+    "Superkelp": {
+        "achievement": 29,
+        "Name": "켈프베로스를 해금하세요.",
+        "Text": "그 심연 또한 나를 들여다본다."
+    },
+    "DarkThreePeater": {
+        "achievement": 30,
+        "Name": "삼발슈터를 점화시켜보세요.",
+        "Text": "불 질러,\n다 태워 버려!"
+    },
+    "AshThreePeater": {
+        "achievement": 31,
+        "Name": "잿빛 삼발슈터를 한번 더 점화시키세요.",
+        "Text": "<size=8.5>이븐하게 익지 않았어요"
+    },
+    "SuperThreePeater": {
+        "achievement": 32,
+        "Name": "삼발슈터를 재에서 부활하게 하세요.",
+        "Text": "날아오르라\n주작이여"
+    },
+    "MagnetCactus": {
+        "achievement": 33,
+        "Name": "자석 선인장으로 비행선을 격추시키세요.",
+        "Text": "포스를 쓰거라"
+    },
+    "SuperStar": {
+        "achievement": 34,
+        "Name": "메테오를 하늘에서 떨어지게 해보세요.",
+        "Text": "원시좀비들이\n멸종한 이유"
+    },
+    "UltimateStar": {
+        "achievement": 35,
+        "Name": "중성자 스타푸르츠를 해금하세요.",
+        "Text": "나 혼자만\n1557레벨"
+    },
+    "MagnetShroom2": {
+        "achievement": 36,
+        "Name": "50개의 식물을 자기장 시스템으로 연결하세요.",
+        "Text": "어떤 정원의\n초전도체"
+    },
+    "UltimateStar2": {
+        "achievement": 37,
+        "Name": "중성자 스타푸르츠의 메테오 데미지가 1800을 넘도록 만드세요.",
+        "Text": "별의 아이"
+    },
+    "HypnoMagnet": {
+        "achievement": 38,
+        "Name": "최면 자석 버섯으로 메카-가르강튀아를 소환하세요.",
+        "Text": "상상도 못한 정체"
+    },
+    "SunMagnet": {
+        "achievement": 39,
+        "Name": "태양 자석 버섯에게 금속 물체를 줘보세요.",
+        "Text": "자급자족"
+    },
+    "SuperCherryShooter": {
+        "achievement": 40,
+        "Name": "체리슈터를 해금하세요.",
+        "Text": "성실한 체리피커"
+    },
+    "UltimateGatling": {
+        "achievement": 41,
+        "Name": "체리 개틀링을 해금하세요.",
+        "Text": "<size=11>정원의 화력담당"
+    },
+    "HypnoEmperor": {
+        "achievement": 42,
+        "Name": "여왕 버섯을 해금하세요.",
+        "Text": "<size=10>수리수리 마하수리"
+    },
+    "CobCannon": {
+        "achievement": 43,
+        "Name": "옥수수 대포를 해금하세요.",
+        "Text": "<size=11>살아남았다는 것은 강하다는 것"
+    },
+    "IceCannon": {
+        "achievement": 44,
+        "Name": "얼음 옥수수 대포로 식물을 융합해보세요.",
+        "Text": "얼음!"
+    },
+    "FireCannon": {
+        "achievement": 45,
+        "Name": "화염 옥수수 대포로 식물을 융합해보세요.",
+        "Text": "불이야!"
+    },
+    "UltimateCannon": {
+        "achievement": 46,
+        "Name": "망각 옥수수 대포를 해금하세요.",
+        "Text": "CAUTION!!"
+    },
+    "SuperUmbrella": {
+        "achievement": 47,
+        "Name": "연금술사 우산잎에게 코인을 사용하세요.",
+        "Text": "돈은 항상 옳다"
+    },
+    "EmeraldUmbrella": {
+        "achievement": 48,
+        "Name": "마이더스 우산잎으로 삼지창을 막으세요.",
+        "Text": "날따름"
+    },
+    "RedEmeraldUmbrella": {
+        "achievement": 49,
+        "Name": "에이기스 우산으로 좀비의 투사체를 반사하세요.",
+        "Text": "루비빛 반사"
+    },
+    "Plantern": {
+        "achievement": 50,
+        "Name": "식물의 빛 레벨을 10레벨 이상 만드세요.",
+        "Text": "빛이여"
+    },
+    "SuperFume": {
+        "achievement": 51,
+        "Name": "혹한 버섯을 해금하세요.",
+        "Text": "밤의 파수꾼"
+    },
+    "UltimateFume": {
+        "achievement": 52,
+        "Name": "파멸자 버섯을 해금하세요.",
+        "Text": "세계관 최강 버섯"
+    },
+    "UltimteGloom": {
+        "achievement": 53,
+        "Name": "망각 버섯을 해금하세요.",
+        "Text": "전술 버섯무기"
+    },
+    "CattailPlant": {
+        "achievement": 54,
+        "Name": "수련잎에게 비료를 줘보세요.",
+        "Text": "고양이는 목숨이 아홉개"
+    },
+    "CattailGirl": {
+        "achievement": 55,
+        "Name": "캣테일 걸을 해금하세요.",
+        "Text": "<size=9>얄ㄹ미운 식물인가봐~"
+    },
+    "Cattailour": {
+        "achievement": 56,
+        "Name": "마법 고양이 둥지를 해금하세요.",
+        "Text": "완전 냥장판"
+    },
+    "WallNut": {
+        "achievement": 57,
+        "Name": "호두를 이용해 좀비를 막으세요.",
+        "Text": "넌 못 지나간다"
+    },
+    "SuperChomper": {
+        "achievement": 58,
+        "Name": "먹깨비질라를 해금하세요.",
+        "Text": "식물대전쟁"
+    },
+    "UltimateChomper": {
+        "achievement": 59,
+        "Name": "체리질라를 해금하세요.",
+        "Text": "킹 오브 몬스터"
+    },
+    "UltimateTallNut": {
+        "achievement": 60,
+        "Name": "폭발을 막으려면 흑요석 키다리 호두를 사용하세요.",
+        "Text": "<size=10>아이스 버킷 챌린지"
+    },
+    "SuperMachineNut": {
+        "achievement": 61,
+        "Name": "기가 메카 호두의 체력이 100만을 넘을 때까지 회복하세요.",
+        "Text": "<size=8>아픈 건 싫으니까\n체력에 올인하려고 합니다"
+    },
+    "SuperSunNut": {
+        "achievement": 62,
+        "Name": "태양 황제 호두로 거대 태양 호두를 소환하세요.",
+        "Text": "태양을 벌 생각이 없는 거야?"
+    },
+    "UltimatePumpkin": {
+        "achievement": 63,
+        "Name": "레이저 호박으로 공중 좀비를 막으세요.",
+        "Text": "<size=9>공습경보! 공습경보!!\n레이저 총동원!!!"
+    },
+    "MelonJump": {
+        "achievement": 64,
+        "Name": "우산잎류 식물을 사용해서 멜론콩콩 좀비를 튕겨내세요.",
+        "Text": "<size=8.3>멜론콩콩 좀비,\n당신도 나락에 갈 수 있다"
+    },
+    "IronNut": {
+        "achievement": 65,
+        "Name": "양동이 호두를 해금하세요.",
+        "Text": "깡!"
+    },
+    "Sub": {
+        "achievement": 999,
+        "Name": "다음 업데이트를 기대하세요!",
+        "Text": "계속 지켜봐\n주시기 바랍니다!"
+    },
+    "WelcomeChallenge": {
+        "achievement": 1000,
+        "Name": "몇 가지 도전 업적은 다음과 같습니다.",
+        "Text": "용감하게\n나아가자!"
+    },
+    "Travel": {
+        "achievement": 1001,
+        "Name": "오디세이: 서바이벌 클리어하기",
+        "Text": "어드벤처 타임~\n모험할 시간"
+    },
+    "Travel2": {
+        "achievement": 1002,
+        "Name": "오디세이: 최후의 방어선 클리어하기.",
+        "Text": "인기 만점"
+    },
+    "Travel3": {
+        "achievement": 1003,
+        "Name": "오디세이: 연옥 클리어하기.",
+        "Text": "구사일생"
+    },
+    "Travel_noBuff": {
+        "achievement": 1004,
+        "Name": "아무런 버프를 선택하지 않고 오디세이 모드를 깨세요.",
+        "Text": "오디세이 마스터"
+    },
+    "Travel_noNut": {
+        "achievement": 1005,
+        "Name": "체리질라, 흑요석 키다리 호두, 기가 메카 호두, 쌍둥이 해바라기 호두을 사용하지 않고 오디세이 모드를 완료하세요.",
+        "Text": "최고의 방어는\n좋은 공격이다."
+    },
+    "Travel_sun": {
+        "achievement": 1006,
+        "Name": "오디세이 모드 한 라운드에 100만 태양 이상을 소모하세요.",
+        "Text": "태양 만세"
+    },
+    "Travel_fast": {
+        "achievement": 1007,
+        "Name": "40분 안에 오디세이 모드를 클리어하세요.",
+        "Text": "스피드런"
+    },
+    "SuperMachineNut_health": {
+        "achievement": 1008,
+        "Name": "기가 메카 호두의 체력이 1억을 넘을 때까지 회복시키세요.",
+        "Text": "<size=8>다른 할 일이 있지 않아?"
+    },
+    "SuperDamage": {
+        "achievement": 1009,
+        "Name": "10초 안에 버프 없이 심연의 가르강튀아를 처치하세요.",
+        "Text": "압도적인 힘으로!"
+    }
+}
