@@ -99,7 +99,7 @@ Spanish | Xabdi, Teyliu, lucazz, Mauricio, Vict | Hairy Nugget, Moonlight, Aroom
 Portuguese | No active translator | Bioxcis (Texture Editor), NickZin006, Prats, Shel (Texture Editor), Dgamer15 (Playtester)
 Javanese | No active translator | Xelag, 由羅 (Yura), JustTer, Star Apple
 Vietnamese | Shion, Cryda, JustNull | 
-Indonesian | Probkn | 由羅 (Yura), Xelag, Seroja, Star Apple
+Indonesian | Probkn, Ilham Gimank | 由羅 (Yura), Xelag, Seroja, Star Apple
 Russian | No active translator | Nekosha, LancerX0 (Coder), Kammerer
 Japanese | AnnieTGM | devilzwawa, Ryna (Marina), Mamoru-kun
 Korea | fumufumolover, 취미로 놀고 먹는 사람 | 설이 , ATMnou
