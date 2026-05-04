@@ -1,4 +1,4 @@
-﻿{
+{
   "level_1772710664724_lig7sqzv5": {
     "name": "Petualangan Odisei: Level 17",
     "startTip": ""
@@ -141,6 +141,6 @@
   },
   "level_1775048626512_f9xv3240i": {
     "name": "Error: File Rusak",
-    "startTip": "Deteksi file rusak, Bro. Lagi nyoba benerin...\n<color=#FF0000>Gagal total!</color>\nKode Keluar: File levelnya <color=#6C6C6C>nyampur (fused)</color> ama level lain!\n"
+    "startTip": "Deteksi file rusak. Lagi nyoba benerin...\n<color=#FF0000>Gagal total!</color>\nKode Keluar: File levelnya <color=#6C6C6C>nyampur (fused)</color> ama level lain!\n"
   }
 }
