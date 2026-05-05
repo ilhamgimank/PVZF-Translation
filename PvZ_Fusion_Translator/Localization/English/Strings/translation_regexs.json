@@ -407,5 +407,8 @@
   "^第([^\\s:]+)拍$": "Beat: {0}",
   "^歌曲: ([^\\s:]+)$": "Song Name: {0}",
   "已记录: (\\d+) 个音符": "Recorded: {0} Notes",
-  "选中: 音符#(\\d+) \\| 轨道: (\\d+) \\| 类型: ([^\\s]+) \\| 时间: ([^\\s]+)s \\(([^\\s]+)拍\\)": "Note Selected: {0} | Track: {1} | Type: {2} | Time: {3}s (Beat {4})"
+  "选中: 音符#(\\d+) \\| 轨道: (\\d+) \\| 类型: ([^\\s]+) \\| 时间: ([^\\s]+)s \\(([^\\s]+)拍\\)": "Note Selected: {0} | Track: {1} | Type: {2} | Time: {3}s (Beat {4})",
+  "选中: 音符#(\\d+) \\| 轨道: (\\d+) \\| 类型: ([^\\s]+) \\| 开始: ([^\\s]+)s \\(([^\\s]+)拍\\) \\| 结束: ([^\\s]+)s \\(([^\\s]+)拍\\) \\| 持续: ([^\\s]+)s": "Note Selected: {0} | Track: {1} | Type: {2} | Start: {3}s (Beat {4}) | End: {5}s (Beat {6}) | Duration: {7}s",
+  "开始Hold音符 \\(轨道(\\d+)\\)": "Started Hold Note on Track {0}",
+  "结束Hold音符 \\(轨道(\\d+)\\)": "Ended Hold Note on Track {0}"
 }
