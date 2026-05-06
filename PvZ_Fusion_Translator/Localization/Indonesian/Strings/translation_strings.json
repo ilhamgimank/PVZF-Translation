@@ -221,7 +221,7 @@
   "旅行": "Odisei",
   "浓雾": "Kabut",
   "屋顶": "Genteng",
-  "无尽塔防": "Tower Defense\nTanpa Akhir",
+  "无尽塔防": "Jaga Menara\nTanpa Akhir",
   "-------UI - Odyssey Mode": "-------Mode Odisei-------",
   "究极模式": "Mode Odisei",
   "--- OM - Category": "--- Kategori OM ---",
@@ -1249,9 +1249,9 @@
   "玩家的暴击伤害+10%": "Damage Kritikal lu +10%",
   "玩家的暴击率+5%": "Rate Kritikal lu +5%",
   "玩家所在位置每靠右一列，伤害+1%": "Tiap lu geser satu kolom ke kanan, damage nambah +1%",
-  "-------Strings - TD Mode UI": "-------UI Mode Tower Defense-------",
+  "-------Strings - TD Mode UI": "-------UI Mode Jaga Menara-------",
   "经典塔防": "Mode TD Klasik",
-  "塔防模式": "Mode Tower Defense",
+  "塔防模式": "Mode Jaga Menara",
   "选项1": "Opsi 1",
   "选项2": "Opsi 2",
   "选项3": "Opsi 3",
@@ -2793,5 +2793,9 @@
   "持续时间": "Durasi",
   "------- Others -------": "------- Lainnya -------",
   "Languages": "Bahasa",
-  "Language Settings": "Pengaturan Bahasa"
+  "Language Settings": "Pengaturan Bahasa",
+  "Already Selected!": "Sudah Dipilih!",
+  "Language Changed!": "Bahasa Diubah!",
+  "Change Texture\nSource": "Ubah Sumber\nTexture",
+  "Next": "Lanjut"
 }
