@@ -2404,6 +2404,8 @@
   "不可净化领袖词条": "¡Este modificador no puede ser eliminado!",
   "不可指向自己": "¡La flecha no puede apuntarse a si mismo!",
   "目标必须在同一行或者同一列": "¡El objetivo debe estar en la misma fila o columna!",
+  "这里无法放置": "¡No puedes colocar una Endoflama acá!",
+  "万": " ",
   "-------Strings - 3.6 Level Editor-Osu": "Strings - 3.6 Level Editor-Osu-------",
   "僵尸所在行\n（不填则为默认）": "Generar Fila\n<size=80%>(Dejar vacío para ajustes predeterminados)",
   "节奏大师设置": "¡Explode-O-Su! Settings",
