@@ -61,32 +61,32 @@ Por favor revisa nuestra comunidad para futuras actualizaciones.
 
 5. Nuevos Niveles
 - Minijuegos:
-  - Zombie Sorter: Adjust arrows to guide zombies to the correct stations. These Signpost Arrows can also be used to create tower defense levels in Super Level Editor.
-  - I, Zomboss?: Placing zombie packets will spawn a corresponding Endoflame that keeps summoning hypnotized zombies to fight for you.
-  - Explode-O-su!: Control the tempo to deal with zombie waves.
-- Starbound Adventure: Snow updated
-- I, Zombie Adventure: Chapter 5: All Roads Lead to Roof updated
-- New Odyssey level: Stats vs Mechanics: Odyssey plants disabled. Base stats of plants are greatly increased. Some seed packets are available directly in slots for quick deployment. Each time zombies reach the house, you will not immediately game over, but will be rewinded back to the last checkpoint and lose all zombie and plant modifiers. Rewinding can be only be used a limited number of times.
-- Reworked Odyssey Adventure
-- Garden Defense entrance moved to Zen Garden
-- Harvest Mode: New Chaos difficulty. Seeds do not use durability in the difficulty but zombies gain random buffs.
-- New Map: Snowy Night: Within the quiet camp, a hidden past seems to lie buried… Fertilizer does not spawn automatically on this map.
+  - Organizombis: Ajusta las flechas para guiar a los zombis a las estaciones correctas. Estas Flechas también se pueden usar para crear niveles TD en el Super Editor de Niveles.
+  - ¿Yo, Zomboss?: Colocar paquetes de zombis hará aparecer un Endoflama correspondiente que invoca zombis hipnotizados para luchar por ti.
+  - ¡Explode-O-Su!: Controla el tempo para lidiar con oleadas de zombis.
+- Aventura Estelar: Nieve ha sido actualizado
+- Yo, Zombi Aventura: Capítulo 5: Todos los caminos llevan al Tejado ha sido actualizado
+- Nuevo Nivel Odisea: Estadísticas contra Mecánicas: Plantas Odisea deshabilitadas. Las estadísticas base de las plantas se incrementan enormemente. Algunos paquetes de semillas están disponibles directamente en tu mazo para un uso rápido. Cada vez que los zombis lleguen a la casa, no perderás inmediatamente el juego, sino que se retrocederá al último punto de control y perderás todos los modificadores de zombis y plantas. El retroceso solo se puede usar un número limitado de veces.
+- Odisea: Aventura ha sido remasterizado
+- Entrada de Defensa del Jardín ha sido movida al Jardín Zen.
+- Modo Cosecha: Nueva dificultad: Caos. Semillas no usan durabilidad aquí, pero los zombis consiguen mejoras aleatorias.
+- Nuevo Mapa: Tundra: Dentro del campamento silencioso, parece yacer enterrado un pasado oculto… El fertilizante no aparece automáticamente en este mapa.
 
-6. New Synergy
-- When Litter-pult and SP Gatling Icicle-shroom are planted on the same tile, the latter's projectiles split one additional time. Both plants' normal and special projectiles inherit some properties from each other's shots. (WARNING: Will cause lag)
+6. Nueva Sinergía
+- Cuando Colipultita y Copitralladora Augmentada se plantan en la misma casilla, los proyectiles de este último se dividen una vez más. Los proyectiles normales y especiales de ambas plantas heredan algunas propiedades de los disparos de la otra. (ADVERTENCIA: Provocará lag)
 
-7. New Super Level Editor Settings
-- Super Level Editor now allows creation, modification, and linking of nodes to define Level Events through a pseudo-code system.
-- You can now create Rhythm Game-style levels and Tower Defense levels using Signpost Arrows.
+7. Nuevos Ajustes del Super Editor de Niveles
+- Ahora permite creación, modificación y emparejamiento de nodos para activar eventos de juego por un sistema pseudo-código.
+- Puedes crear niveles de ritmo y niveles TD usando Flechas.
 
-8. Odyssey Balance Adjustments
-- Apeacalypse Minigun: Reworked abilities completely
-- Laser Pumpkin: Now gains the ability to reduce Zombie DR value.
-- Clown-on-the-Jetski: Explosion damage reduced to 500
+8. Ajustamientos de Balance de Odisea
+- Guisantidillón Obsidiana: Se han cambiado todas sus habilidades
+- Calatrón: Ahora tiene la habilidad de reducir la reducción de daño de zombis
+- Payazombi Acuático: Daño de explosión reducido a 500
 
-9. Almanac Reworks
-- New Game Mechanics Almanac
-- Removed Old Almanac
-- Unseen plants & fusions are now locked in the almanac. Clicking on undiscovered plants now gives clues to how to make them. You can also quickly unlock all in the settings.
+9. Reworks de Almanaque
+- Nuevo Almanaque para mecánicas del juego
+- El almanaque antiguo ha sido eliminado
+- Las plantas y fusiones no vistas ahora están bloqueadas en el almanaque. Hacer clic en plantas no descubiertas ahora da pistas sobre cómo hacerlas. También puedes desbloquear todas rápidamente en configuraciones.
 
-10. Miscellaneous bug fixes and optimizations.
+10. Correcciones de errores misceláneos y optimizaciones.
