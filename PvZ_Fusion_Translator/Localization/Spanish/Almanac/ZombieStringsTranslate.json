@@ -296,8 +296,8 @@
         },
         {
             "theZombieType": 49,
-            "name": "Yombi Esquimal",
-            "introduce": "<size=39><color=#3D1400>\"¡Guerra de bolas de nieve!\" El Yombi Esquimal despierta de su caverna, lanzando bolas de nieve en todas partes. \"¿Le decimos que así no es como funciona la guerra?\" Pregunta un zombi. \"Nah, veamos cuanto tiempo se tarda en darse cuenta.\"</color>",
+            "name": "Yombi Lanzanieves",
+            "introduce": "<size=39><color=#3D1400>\"¡Guerra de bolas de nieve!\" El Yombi Lanzanieves despierta de su caverna, lanzando bolas de nieve en todas partes. \"¿Le decimos que así no es como funciona la guerra?\" Pregunta un zombi. \"Nah, veamos cuanto tiempo se tarda en darse cuenta.\"</color>",
             "info": "<size=39>¡Puede congelar a plantas con bolas de nieve!\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>720</color>\n<color=#3D1400>Características:</color><color=#4B0082> Invulnerable al congelamiento básico, pero sí al congelamiento profundo. Al aparecer, lanza bolas de nieve hacia las plantas cada 2 segundos, congelándolos en una área de 3x3. Plantas debajo de una Plantérmica o fusionadas con Seta Congelada/Jalapeño no son afectados al congelamiento.</color>"
         },
         {
