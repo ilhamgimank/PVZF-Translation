@@ -1799,7 +1799,7 @@
   "冰火香蒲的子弹有概率直接触发寒冰和红温的效果": "Frost/Flame Cattails may inflict Chill/Enflamed directly\n",
   "节能模式：不携带路灯花进入关卡": "Enter the level without bringing Plantern\n",
   "路灯花的阳光消耗降低10，冷却降低30%": "Plantern costs 10 less Sun and recharges 30% faster\n",
-  "灯火通明：使全场的光照等级之和大于100\n": "Task B: Have the Sum of each tile's Lumos Level on the lawn exceed 100\n",
+  "灯火通明：使全场的光照等级之和大于100\n": "Task B: Have the Sum of all tiles' Lumos Levels on the lawn exceed 100\n",
   "关卡开始时为全场提供1点光照等级": "Start with 1 Lumos Level for the entire lawn\n",
   "别踩红线：不让僵尸越过红线": "Don't let the Zombies cross the Red Line\n",
   "高阶僵尸的血量降低20%": "Higher-tiered Zombies have 20% less HP\n",
