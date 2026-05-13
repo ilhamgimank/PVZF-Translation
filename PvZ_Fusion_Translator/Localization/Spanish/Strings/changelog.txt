@@ -5,7 +5,7 @@ Alejate de otras fuentes externas como <color=#8B0000>pvzfusion.net</color> o <c
 Si quieres cambiar el idioma de la traducción, asegúrate de revisar el menú de "Idiomas", abajo a la derecha de este menú.
 Por favor revisa nuestra comunidad para futuras actualizaciones.
 
-<align=center><size=125%>Plantas Contra Zombis: Fusion - ¿ Qué añade de nuevo la 3.6 ?</size></align>
+<align=center><size=120%>Plantas Contra Zombis: Fusion - ¿ Qué añade de nuevo la 3.6 ?</size></align>
 
 1. Modo Odisea Remasterizado
  - Ahora eres capaz de seleccionar libremente rutas de minijefes, dificultad, y progresión de escenarios, entregando grande flexibilidad.
@@ -52,7 +52,7 @@ Por favor revisa nuestra comunidad para futuras actualizaciones.
   - Zompingüino Emperador
   - Yombi Esquimal*
   * (El Yombi Esquimal original se cambia a Yombi Lanzanieves)
-  - Yombi Caraiceberg
+  - Yombi Duplihielo
   - Vegezombi Guisantralladora
   - Vegezombi Hielantralladora
 
