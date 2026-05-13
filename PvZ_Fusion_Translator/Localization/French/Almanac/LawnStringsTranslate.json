@@ -4024,6 +4024,41 @@
             "introduce": "<align=justified><size=36><color=black>\"Tellement faim, tellement faim, tellement faim ! Je meurs de faim !\" Briseur de machoir hurle en se jetant sur les zombies devant lui. Peu importe combien il mange, ce n’est jamais assez. Oh, regardez — un Gargantua ! Enfin, un vrai repas… Attends, c’était peut-être de trop.</color>",
             "info": "<size=36>Un Écraseur glouton qui continue d’écraser tant qu’on le nourrit.\n\n<color=black>Dégats: </color><color=#8B0000>1800 (Écraseur)</color>\n<color=black>Portée de détection: </color><color=#8B0000>1 case à droite</color>\n<color=black>Spécial: </color><color=#8B0000>\n<color=black>•</color> À l’atterrissage, tente de dévorer un zombie pris en dessous. Inflige tout de même des dégâts aux zombies qui ne sont pas mangés.\n<color=black>•</color> S’il dévore un zombie avec succès, il revient sur la même case ; sinon, il disparaît.</color>",
             "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Mordeur + Écraseur</color>"
+        },
+        {
+            "seedType": 1401,
+            "name": "Mine de Glace",
+            "introduce": "<align=left><size=36><color=black>\" Je suis la véritable star du champ de bataille \", pense Mine de Glace. \" Et une star fait toujours son entrée au tout dernier moment. \" Avant la grande représentation, il s’enterre même dans une terre fraîche pour se reposer, tout en veillant à ce que son impeccable coiffure reste visible à la surface.</color>",
+            "info": "<size=36>Libère un gaz glacé condensé déclenchant des explosions de glace en chaîne au moindre contact.\n\n<color=black>Dégâts : </color><color=#8B0000>1800</color>\n<color=black>Spécial : </color><color=#8B0000>Une fois armée puis déclenchée, provoque une explosion glaciale qui gèle les zombies dans une zone de 3×3 pendant 4s, infligeant 1/3 des dégâts, puis déclenche de plus petites explosions glaciales secondaires sur les cases adjacentes contenant des zombies.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Mine Patate + Champi-glace</color>"
+        },
+        {
+            "seedType": 1395,
+            "name": "Algue Grapin",
+            "introduce": "<align=left><size=36><color=black>Algue Grapin possède une vision bien particulière de l’art, persuadée que le chaos absolu est la plus haute forme de beauté. Ses mèches indomptées n’ont jamais été coiffées, prenant naturellement une apparence unique. À cause de cela, il a été exclu de toutes les missions de nettoyage des zombies sous-marins.</color>",
+            "info": "<size=36>Étend ses vrilles pour frapper à plusieurs reprises les ennemis devant lui.\n\n<color=black>Dégâts : </color><color=#8B0000>30×3/3s (Perforant)</color>\n<color=black>Spécial : </color><color=#8B0000>Attaque trois fois tous les zombies situés dans un rayon de 4,5 cases devant lui. Chaque coup applique 1 d’Entrave et déclenche les effets suivants :\n<color=black>-</color> 1er coup : +1 charge supplémentaire ;\n<color=black>-</color> 2e coup : inflige des dégâts additionnels égaux à 5×(le nombre actuel de charges sur le zombie) ;\n<color=black>-</color> 3e coup : repousse les ennemis.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Champi-fumée + Tangle Algue</color>"
+        },
+        {
+            "seedType": 1394,
+            "name": "Torche-hypno",
+            "introduce": "<align=left><size=36><color=black>Étoile montante de la scène variétée des piscines, Torche-hypno a rapidement conquis aussi bien les zombies que les plantes. Son charme flamboyant et sa nature serviable sont devenus sa marque de fabrique. Mais comme beaucoup de célébrités, elle est poursuivie par les rumeurs : chirurgie esthétique et usage excessif de cosmétiques reviennent sans cesse à son sujet.</color>",
+            "info": "<size=36>Invoque des Zombies Gatling Pois depuis ses flammes.\n\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Invoque un Zombie Gatling Pois hypnotisé tout les 60 projectiles enflammés.\n<color=black>•</color> Les Pois Hypno comptent comme 4 projectiles.\n<color=black>•</color> Lorsqu’il est mordue, hypnotise l’attaquant puis redevient une Torche.\n<color=black>•</color> Affecte les projectiles suivants :\n<color=black>-</color> Pois : enflammés pour +20 dégâts ;\n<color=black>-</color> Pois Hypno : enflammés pour +30 dégâts ;\n<color=black>-</color> Pois des Gelés : redeviennent des Pois normaux.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Champi-hypno + Torche</color>"
+        },
+        {
+            "seedType": 1391,
+            "name": "Torche-puante",
+            "introduce": "<align=left><size=36><color=black>Le parfum frais de l’ail est apaisant, mais les flammes le portent à un tout autre niveau. Torche-puante inspire profondément, ivre de cette odeur envoûtante, et regrette que les autres plantes soient incapables d’en apprécier toute la beauté.</color>",
+            "info": "<size=36>Carbonise les pois traversants, augmentant grandement leur toxicité.\n\n<color=black>Spécial : </color><color=#8B0000>Affecte certains projectiles traversant ses flammes :\n<color=black>-</color> Pois : +10 dégâts, deviennent des Pois Toxiques ;\n<color=black>-</color> Pois Toxiques : dégâts ×2, deviennent des Pois Venimeux infligeant également des dégâts de zone.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Torche + Ail</color>"
+        },
+        {
+            "seedType": 1393,
+            "name": "Champi-saguaro",
+            "introduce": "<align=left><size=36><color=black>\" Le brouillard est trop épais ! Je n’arrive plus à respirer ! \" s’exclame Champi-saguaro en étirant son corps pour faire dépasser ses pores respiratoires au-dessus du brouillard. \" Ah, beaucoup mieux… même si je ne peux pas monter plus haut, sinon l’air finira vite par manquer d’oxygène ! \"</color>",
+            "info": "<size=36>Tire de lourdes fumées pour frapper les ennemis volant à basse altitude. Peut s’étendre pour se concentrer sur les cibles aériennes.\n\n<color=black>Dégâts : </color><color=#8B0000>40/1.5s (Perforant)</color>\n<color=black>Spécial : </color><color=#8B0000>Cliquez pour alterner entre différents modes d’attaque :\n<color=black>-</color> Basse altitude : touche les ennemis terrestres et aériens ;\n<color=black>-</color> Haute altitude : dégâts ×4, anti-aérien uniquement.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Champi-fumée + Cactus</color>"
         }
     ]
 }

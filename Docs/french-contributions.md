@@ -17,15 +17,15 @@ Ce document a pour objectif de reconnaître et valoriser les personnes impliqué
 
 **Récapitulatif des contributions**
 
-* Nouvelles traductions : **259**
+* Nouvelles traductions : **992**
 * Traductions ajustées : **136**
-* Reviews effectuées : **556**
+* Reviews effectuées : **634**
 
 **Réseaux & contacts**
 
 * **Email** : [charles.lindecker@outlook.fr](mailto:charles.lindecker@outlook.fr)
 * **GitHub** : [LINDECKER Charles](https://github.com/LINDECKER-Charles) 
-* **Site web** : [Dev-mates](https://www.dev-mates.com/)
+* **Site web** : [Charles LINDECKER](https://www.charles-lindecker.com/)
 * **LinkedIn** : [Charles Lindecker](https://www.linkedin.com/in/charles-lindecker/)
 
 ---
