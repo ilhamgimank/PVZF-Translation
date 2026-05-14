@@ -1558,7 +1558,7 @@
             "seedType": 1046,
             "name": "Doomspike-shroom",
             "introduce": "<align=left><size=36><color=black>Frost has wrapped around his body, stripping away the innocence of his youth. His eyes, colder and deadlier than any gun's barrel, now only show disdain for his enemies. He's become the reaper, the end of the line. Anyone caught in his frosty sights would do well to leave one less meal prepared at home.</color></size>",
-            "info": "<size=36>Doomspike-shroom can fire chilly doomspikes.\n\n<color=black>Damage: </color><color=#8B0000>20×4/3s</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Add 10 Cryo points to zombies each hit. Deals ×4 damage to frozen zombies.</color>\n<color=black>Special: </color><color=#8B0000>Pierces 2 times. Splashes for 10 damage without falloff within a range of 1 tile.</color></size>",
+            "info": "<size=36>Doomspike-shroom can fire chilly doomspikes.\n\n<color=black>Damage: </color><color=#8B0000>20×4/3s</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Add 5 Cryo points to zombies each hit. Deals ×4 damage to frozen zombies.</color>\n<color=black>Special: </color><color=#8B0000>Pierces 2 times. Splashes for 10 damage without falloff within a range of 1 tile.</color></size>",
             "cost": "<size=36>Fusion Recipe: <color=#8B0000>Fume-shroom + Ice-shroom + Doom-shroom</color>"
         },
         {
@@ -1971,21 +1971,21 @@
             "seedType": 1105,
             "name": "Snow Repeater",
             "introduce": "<align=left><size=36><color=black>\"Whatever happened to you?\" a curious plant asked Snow Repeater. He chuckled softly and said, \"I'm still a Repeater at heart. I just forgot to snuggle under a blanket during winter nights.\"</color></size>",
-            "info": "<size=36>Shoots two snow peas in succession.\n\n<color=black>Damage: </color><color=#8B0000>20×2/1.5s</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Each attack adds 5 Cryo points.</color>\n<color=black>Special: </color><color=#8B0000>Tap to auto-fuse with a free Peashooter 15s after planting.</color></size>",
+            "info": "<size=36>Shoots two snow peas in succession.\n\n<color=black>Damage: </color><color=#8B0000>20×2/1.5s</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Each attack adds 10 Cryo points.</color>\n<color=black>Special: </color><color=#8B0000>Tap to auto-fuse with a free Peashooter 15s after planting.</color></size>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Repeater + Ice-shroom</color>"
         },
         {
             "seedType": 1106,
             "name": "Gatling Snow",
             "introduce": "<align=left><size=36><color=black>\"His hands are cold, his face is cold, his heart is cold, and even his blood is cold… Is he frozen?\" someone wondered aloud. Gatling Snow shivered, reassuring the concerned plants, \"I'm not frozen! The barrel of my machine gun is still burning hot!\"</color></size>",
-            "info": "<size=36>Gatling Snow shoots four snow peas at a time.\n\n<color=black>Damage: </color><color=#8B0000>20×4/1.5s</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Each attack adds 5 Cryo points.</color></size>",
+            "info": "<size=36>Gatling Snow shoots four snow peas at a time.\n\n<color=black>Damage: </color><color=#8B0000>20×4/1.5s</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Each attack adds 10 Cryo points.</color></size>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Gatling Pea + Ice-shroom</color>"
         },
         {
             "seedType": 1107,
             "name": "Split Snow",
             "introduce": "<align=left><size=36><color=black>\"Don't let his icy facade mislead you; there could be a hidden warmth,\" someone suggested. But Digger Zombie sneered, \"Don't make foolish assumptions. This guy has nothing but cold sides!\"</color></size>",
-            "info": "<size=36>Shoots snow peas forwards and backwards.\n\n<color=black>Damage: </color><color=#8B0000>20×3/1.5s</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Each attack adds 5 Cryo points.</color>\n<color=black>Special: </color><color=#8B0000>Tap to auto-fuse with a free Peashooter 15s after planting.</color></size>",
+            "info": "<size=36>Shoots snow peas forwards and backwards.\n\n<color=black>Damage: </color><color=#8B0000>20×3/1.5s</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Each attack adds 10 Cryo points.</color>\n<color=black>Special: </color><color=#8B0000>Tap to auto-fuse with a free Peashooter 15s after planting.</color></size>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Split Pea + Ice-shroom</color>"
         },
         {
